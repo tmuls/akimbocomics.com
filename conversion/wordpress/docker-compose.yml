@@ -1,0 +1,21 @@
+# Local copy of the old WordPress site, used only to crawl it into static
+# files. convert.sh sets WORK to the folder holding the extracted archive.
+name: akimbo-wordpress
+services:
+  db:
+    image: mariadb:10.6
+    environment:
+      MARIADB_ROOT_PASSWORD: root
+      MARIADB_DATABASE: akimbocomics
+      MARIADB_USER: akimbo
+      MARIADB_PASSWORD: akimbo-local
+    volumes:
+      - ${WORK:?set WORK}/akimbocomics.sql:/docker-entrypoint-initdb.d/akimbocomics.sql:ro
+  web:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - ${WORK:?set WORK}/akimbocomics.com:/var/www/html
+    depends_on:
+      - db

@@ -35,14 +35,42 @@ in the `homelab` repo.
 
 | Path | What |
 |---|---|
-| `site/` | The whole static site: HTML, comic images (`site/comic/`), theme CSS/JS. Any static host can serve this folder as-is. |
-| `nginx/default.conf` | nginx server config: listens on 8080, `/healthz` for Kubernetes, caching, gzip, and redirects. |
-| `nginx/redirects.conf` | Maps old WordPress links (`/?p=123`, `/?page_id=2`, `/?cat=6`) to their new paths as 301 redirects. Generated; don't edit by hand. |
+| `site/` | The whole static site. Any static host can serve this folder as-is. |
+| `site/<series>/` | One folder per comic series (the category links in the sidebar), e.g. `eatshitanddie/`, `washday/`, `curiousurgency/`, plus `news/`, `fan-art/`, and `comics/` for strips that were only in the generic Comics category. `index.html` is the series' listing page. |
+| `site/<series>/<post-slug>/` | One folder per post: `index.html` and its comic image side by side. |
+| `site/emulsifier-online/` | The pre-akimbo Emulsifier Online comics (was `/eo/`). |
+| `site/unpublished/` | Comic images no post ever showed (re-uploads, misnamed files). |
+| `url-map.csv` | **Every URL the old WordPress site answered to, mapped to its page here.** See below. |
+| `tools/build-redirects.py` | Generates the redirects from `url-map.csv`. |
+| `nginx/default.conf` | nginx config: listens on 8080, `/healthz` for Kubernetes, caching, gzip, redirects, 404 page. |
+| `nginx/redirects.conf` | 301 redirects for nginx. Generated; don't edit by hand. |
+| `conversion/` | How `site/` was made from the WordPress backup; see `conversion/README.md`. |
 | `Dockerfile` | `nginx-unprivileged` (runs as a normal user) with the config and `site/` baked in. |
 | `.github/workflows/build-image.yml` | Builds and pushes `ghcr.io/tmuls/akimbocomics.com` (`latest` and `sha-<commit>`). |
 
-Old `?p=` links also redirect via a small script in `site/index.html`, so they
-keep working on hosts without nginx (e.g. GitHub Pages).
-
 Comments, search and RSS feeds were WordPress features and don't exist here;
 existing comments are preserved on each post.
+
+## Old links (url-map.csv)
+
+`url-map.csv` has one row per old URL: `old_url,new_url,kind,wp_id,title`.
+It covers the original site's links (`/?p=123`, `/?page_id=2`, `/?cat=6`,
+`/?tag=…`, `/?author=…`, `/?m=200910`, `/?paged=2`, `/?attachment_id=…`,
+`/comic/<file>`, the `/comics-rss|archive|mini/` thumbnails,
+`/wp-content/uploads/…`, `/eo/…`) and the paths of the first static export
+(git tag `initial-export`, e.g. `/2010/10/04/eat-shit-and-die-164/`).
+
+`tools/build-redirects.py` turns it into:
+
+- `nginx/redirects.conf`: 301 redirects in the Docker image.
+- `site/redirects.js` + `site/404.html`: the same for page URLs on static hosts
+  without nginx (GitHub Pages).
+
+## Making changes
+
+Edit `site/` directly; the conversion isn't re-run. If a page or image moves:
+
+1. In `url-map.csv`, point every row whose `new_url` was the old path at the
+   new one, and add a row `old path → new path`.
+2. `python3 tools/build-redirects.py` (fails if any `new_url` is missing from `site/`).
+3. Commit; the workflow builds a new image.

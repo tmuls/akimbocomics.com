@@ -1,4 +1,7 @@
 .git
 .github
+conversion
+tools
+url-map.csv
 README.md
 docker-compose.yml
