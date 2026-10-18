@@ -18,17 +18,28 @@ Without compose:
 
 ```
 docker build -t akimbocomics .
-docker run -d -p 80:80 --restart unless-stopped akimbocomics
+docker run -d -p 80:8080 --restart unless-stopped akimbocomics
 ```
+
+Or use the prebuilt image (arm64 and amd64), rebuilt on every push to `main`
+by the "Build container image" workflow:
+
+```
+docker run -d -p 80:8080 ghcr.io/tmuls/akimbocomics.com:latest
+```
+
+In the homelab k3s cluster it's deployed by `akimbocomics/akimbocomics.yaml`
+in the `homelab` repo.
 
 ## Layout
 
 | Path | What |
 |---|---|
 | `site/` | The whole static site: HTML, comic images (`site/comic/`), theme CSS/JS. Any static host can serve this folder as-is. |
-| `nginx/default.conf` | nginx server config: caching, gzip, and redirects. |
+| `nginx/default.conf` | nginx server config: listens on 8080, `/healthz` for Kubernetes, caching, gzip, and redirects. |
 | `nginx/redirects.conf` | Maps old WordPress links (`/?p=123`, `/?page_id=2`, `/?cat=6`) to their new paths as 301 redirects. Generated; don't edit by hand. |
-| `Dockerfile` | `nginx:alpine` with the config and `site/` baked in. |
+| `Dockerfile` | `nginx-unprivileged` (runs as a normal user) with the config and `site/` baked in. |
+| `.github/workflows/build-image.yml` | Builds and pushes `ghcr.io/tmuls/akimbocomics.com` (`latest` and `sha-<commit>`). |
 
 Old `?p=` links also redirect via a small script in `site/index.html`, so they
 keep working on hosts without nginx (e.g. GitHub Pages).
