@@ -54,7 +54,11 @@ def main():
         else:
             paths[old] = new
             if old.endswith('/'):
+                # Same folder without the slash, and as .../index.html (how the
+                # initial export's own links were written).
                 paths.setdefault(old.rstrip('/'), new)
+                paths.setdefault(old + 'index.html', new)
+                js.setdefault(old + 'index.html', new)
         if not re.search(r'\.(jpe?g|png|gif|css|js)$', old, re.I):
             js[old] = new  # images can't be redirected from a page script
 
