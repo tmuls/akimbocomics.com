@@ -46,7 +46,7 @@ search engines off), which the k3s cluster runs from
 | `site/` | Everything the site is made of: |
 | `site/content/` | The content: one folder per page, mirroring its URL. `site/content/<series>/<post-slug>/` has `post.json` (title, date, text, comments...) and the post's comic image(s); `about/page.json`; `emulsifier-online/` (the pre-akimbo Emulsifier Online comics, was `/eo/`); `site.json` (categories, tags, authors). Schema in `site/content/README.md`. |
 | `site/stencil/` | Stencil app that prerenders every page from `site/content/` as plain HTML (no JavaScript) at its current URL. See `site/stencil/README.md`. |
-| `site/static/` | Files served as they are: `wp-content/` (old theme CSS/JS, uploads), `wp-includes/`, `unpublished/` (comic images no post ever showed). |
+| `site/static/` | Files served as they are: `wp-content/` (old theme CSS/JS, uploads), `wp-includes/`. (The old `/unpublished/` images were duplicates of published comics and now redirect to them.) |
 | `dist/` | What's served (gitignored): built by `python3 tools/build-site.py`, i.e. the generated pages and content images plus `site/static/` plus the redirect files. The original exported WordPress pages are at the git tag `exported-pages`. |
 | `url-map.csv` | **Every URL the old WordPress site answered to, mapped to its page here.** See below. |
 | `known-urls.txt` | Every URL the site has ever served; each must keep working. Only grows. |

@@ -7,8 +7,8 @@
 1. Stencil (site/stencil/) prerenders every page from site/content/ into
    site/stencil/www/, with the images beside each post, and its checks run
    (`npm run verify`).
-2. dist/ = every file in site/static/ (wp-content/, wp-includes/,
-   unpublished/, the old theme CSS/JS, at their current URLs), then the
+2. dist/ = every file in site/static/ (wp-content/, wp-includes/: the old
+   theme CSS/JS and uploads, at their current URLs), then the
    generated pages and files from site/stencil/www/ on top.
    Stencil's unused leftovers (build/ JS, robots.txt, sitemap.xml,
    host.config.json) are left out.

@@ -39,7 +39,7 @@ never weaken these checks to make them pass.
   - `site/stencil/`: the Stencil app that prerenders every page as plain
     HTML at its current URL (`site/stencil/www/`).
   - `site/static/`: files served as they are at their current URLs
-    (`wp-content/`, `wp-includes/`, `unpublished/`).
+    (`wp-content/`, `wp-includes/`).
   The original exported pages are in git at the tag `exported-pages`.
 - `dist/` (gitignored): what's served. `python3 tools/build-site.py` builds
   it: generated pages and content images + `site/static/` + redirect files,

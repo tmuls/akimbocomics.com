@@ -214,6 +214,18 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
 
+- 2026-10-18: **Folded `/unpublished/` into published copies (branch
+  `fold-unpublished`).** All 14 files duplicated published comics: 9
+  byte-identical, ESD 275 x2 the same pixels re-encoded, About_1.jpg the
+  About comic (about2.gif), the two "Curious_Urgency_70" files a blurry
+  upscale of ESD 247 (mislabelled), and Fan_Art_1.JPG a 1280px original of
+  the 400px fan art. The 1280px file now sits at the fan art's own URL
+  (`/fan-art/fan-art/2001-05-14_Fan_Art_2.jpg`; the post still shows it at
+  400px and links to it). `tools/move-url.py --kind duplicate` repointed
+  the 56 `/comic/`, `/comics-rss|archive|mini/` rows and added a row for
+  each `/unpublished/` path; `site/static/unpublished/` is gone. Docker
+  redirect test 3961/0.
+
 - 2026-10-18: **Moved everything into `site/` (branch `site-folder`).**
   `git mv` only (history follows): post JSON + images now share a folder,
   stencil/ → site/stencil/, wp-content/wp-includes/unpublished →
