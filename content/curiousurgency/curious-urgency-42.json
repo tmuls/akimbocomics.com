@@ -1,60 +1,18 @@
 {
- "path": "/curiousurgency/curious-urgency-42/",
- "series": "curiousurgency",
- "slug": "curious-urgency-42",
- "id": 590,
  "title": "Curious Urgency 42",
  "author": "bpatrick",
- "date": "December 31, 2010",
- "time": "12:00 am",
- "datetime": "2010-12-31T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>I just finished reading <em>Love and Rockets: New Stories 3</em> and it was incredible! If you love comics and aren&#8217;t an obsessive fan of Jaime Hernandez&#8230;then, I don&#8217;t know what but you should be. Just superb storytelling, gorgeous linework, dynamic compositions, real three-dimensional characters. Hernandez&#8217;s &#8220;actors&#8221; say so much with so little. I was blown away. I also saw <em>Black Swan</em> today and was again blown away. I (clearly) love the themes adressed and don&#8217;t think I&#8217;ve ever seen them handled this well. It made everything I&#8217;ve ever done seem small and clumsy and horrible &#8212; which is good because now I can work to be better. </p>",
- "postClass": "post-590 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2010-12-31T00:00",
  "images": [
-  {
-   "src": "2010-12-31-Curious_Urgency_42.jpg",
-   "alt": "Curious Urgency 42",
-   "title": "Curious Urgency 42"
-  }
+  "2010-12-31-Curious_Urgency_42.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-166/",
-  "next": "/eatshitanddie/eat-shit-and-die-167/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-166/",
-  "next": "/eatshitanddie/eat-shit-and-die-167/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I just finished reading <em>Love and Rockets: New Stories 3</em> and it was incredible! If you love comics and aren&#8217;t an obsessive fan of Jaime Hernandez&#8230;then, I don&#8217;t know what but you should be. Just superb storytelling, gorgeous linework, dynamic compositions, real three-dimensional characters. Hernandez&#8217;s &#8220;actors&#8221; say so much with so little. I was blown away. I also saw <em>Black Swan</em> today and was again blown away. I (clearly) love the themes adressed and don&#8217;t think I&#8217;ve ever seen them handled this well. It made everything I&#8217;ve ever done seem small and clumsy and horrible &#8212; which is good because now I can work to be better. </p>",
  "comments": [
   {
    "id": 5341,
    "author": "msr",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3cab8805b79974f967e06d6a5b7887d5?s=64&d=identicon&r=r",
-   "time": "January 15, 2011 at 5:22 am",
-   "timeTitle": "Saturday, January 15th, 2011, 5:22 am",
-   "html": "<p>I like your comics, especially this one and I WISH you could update it once a week.</p>"
+   "date": "2011-01-15T05:22",
+   "avatar": "3cab8805b79974f967e06d6a5b7887d5",
+   "text": "<p>I like your comics, especially this one and I WISH you could update it once a week.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 42",
-  "bodyClass": "post-template-default single single-post postid-590 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 42",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-12-31-Curious_Urgency_42.jpg"
- }
+ ]
 }

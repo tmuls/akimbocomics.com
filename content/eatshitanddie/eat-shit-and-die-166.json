@@ -1,124 +1,71 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-166/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-166",
- "id": 589,
  "title": "Eat Shit And Die 166",
  "author": "bpatrick",
- "date": "December 21, 2010",
- "time": "12:00 am",
- "datetime": "2010-12-21T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I forgot to draw Trent and Dave in their winter coats and then just said &#8220;screw it&#8221; and made it winter anyway.</p>",
- "postClass": "post-589 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2010-12-21T00:00",
  "images": [
-  {
-   "src": "2010-12-21-Eat_Shit_And_Die_166.jpg",
-   "alt": "Eat Shit And Die 166",
-   "title": "Eat Shit And Die 166"
-  }
+  "2010-12-21-Eat_Shit_And_Die_166.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-41/",
-  "next": "/curiousurgency/curious-urgency-42/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-41/",
-  "next": "/curiousurgency/curious-urgency-42/"
- },
- "commentCount": 8,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I forgot to draw Trent and Dave in their winter coats and then just said &#8220;screw it&#8221; and made it winter anyway.</p>",
  "comments": [
   {
    "id": 5069,
    "author": "b.patrick",
+   "date": "2010-12-22T01:59",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "December 22, 2010 at 1:59 am",
-   "timeTitle": "Wednesday, December 22nd, 2010, 1:59 am",
-   "html": "<p>Oh yeah, this was supposed to be an Onan but they take longer and I wanted to post as soon as I could. But Onan is next.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Oh yeah, this was supposed to be an Onan but they take longer and I wanted to post as soon as I could. But Onan is next.</p>"
   },
   {
    "id": 5075,
    "author": "Ben",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a3343f32a09cf05f8d6684ad6381e433?s=64&d=identicon&r=r",
-   "time": "December 23, 2010 at 2:34 am",
-   "timeTitle": "Thursday, December 23rd, 2010, 2:34 am",
-   "html": "<p>I just spend i don&#8217;t know how many hours reading your entire archive, and you are simply brilliant. This and Subnormality and are really starting to change my view on life.</p>"
+   "date": "2010-12-23T02:34",
+   "avatar": "a3343f32a09cf05f8d6684ad6381e433",
+   "text": "<p>I just spend i don&#8217;t know how many hours reading your entire archive, and you are simply brilliant. This and Subnormality and are really starting to change my view on life.</p>"
   },
   {
    "id": 5151,
    "author": "b.patrick",
+   "date": "2011-01-01T04:22",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "January 1, 2011 at 4:22 am",
-   "timeTitle": "Saturday, January 1st, 2011, 4:22 am",
-   "html": "<p>@Ben: Thank you! I&#8217;m not sure I want that responsibility! I just dump my brain out onto the internet &#8211; I&#8217;m not claiming it&#8217;s safe. Can&#8217;t go wrong with Mr. Rowntree though.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>@Ben: Thank you! I&#8217;m not sure I want that responsibility! I just dump my brain out onto the internet &#8211; I&#8217;m not claiming it&#8217;s safe. Can&#8217;t go wrong with Mr. Rowntree though.</p>"
   },
   {
    "id": 6401,
    "author": "Standard",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3ea99478f2902acb33c2dfc73c346ee5?s=64&d=identicon&r=r",
-   "time": "March 30, 2011 at 3:00 pm",
-   "timeTitle": "Wednesday, March 30th, 2011, 3:00 pm",
-   "html": "<p>So read all of your Eat Shit and Die so far and have to say 165 is my favorite. Posting under this comic b/c It has my name in it and we all could be a little meaner.</p>"
+   "date": "2011-03-30T15:00",
+   "avatar": "3ea99478f2902acb33c2dfc73c346ee5",
+   "text": "<p>So read all of your Eat Shit and Die so far and have to say 165 is my favorite. Posting under this comic b/c It has my name in it and we all could be a little meaner.</p>"
   },
   {
    "id": 6515,
    "author": "bill",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/af309bbe0be8181f48a02823262b60d4?s=64&d=identicon&r=r",
-   "time": "April 6, 2011 at 4:22 pm",
-   "timeTitle": "Wednesday, April 6th, 2011, 4:22 pm",
-   "html": "<p>i really like your little post-script-like sketches for trent and dave</p>"
+   "date": "2011-04-06T16:22",
+   "avatar": "af309bbe0be8181f48a02823262b60d4",
+   "text": "<p>i really like your little post-script-like sketches for trent and dave</p>"
   },
   {
    "id": 6737,
    "author": "confused",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0ca52abaa9fce14c44a351fccd1b9fc5?s=64&d=identicon&r=r",
-   "time": "April 21, 2011 at 1:13 pm",
-   "timeTitle": "Thursday, April 21st, 2011, 1:13 pm",
-   "html": "<p>very good point made with this comic, but I still hate assholes with a passion.</p>"
+   "date": "2011-04-21T13:13",
+   "avatar": "0ca52abaa9fce14c44a351fccd1b9fc5",
+   "text": "<p>very good point made with this comic, but I still hate assholes with a passion.</p>"
   },
   {
    "id": 7123,
    "author": "Orrange",
+   "date": "2011-05-16T07:17",
    "url": "http://www.sidequests.org",
-   "avatar": "http://0.gravatar.com/avatar/0fbc328f23e2745d6728f38fec92cadb?s=64&d=identicon&r=r",
-   "time": "May 16, 2011 at 7:17 am",
-   "timeTitle": "Monday, May 16th, 2011, 7:17 am",
-   "html": "<p>Just so you know, the dialog from panel 6 will now, retroactively, be my story for why I&#8217;ve been a dick my whole life.</p>"
+   "avatar": "0fbc328f23e2745d6728f38fec92cadb",
+   "text": "<p>Just so you know, the dialog from panel 6 will now, retroactively, be my story for why I&#8217;ve been a dick my whole life.</p>"
   }
  ],
  "pingbacks": [
   {
    "id": 5093,
-   "author": "Comic picks of the day: « Ninjabortion",
+   "title": "Comic picks of the day: « Ninjabortion",
    "url": "http://ninjabortion.wordpress.com/2010/12/26/comic-picks-of-the-day-144/",
-   "avatar": null,
-   "time": "December 26, 2010 at 8:29 am",
-   "timeTitle": "Sunday, December 26th, 2010, 8:29 am",
-   "html": ""
+   "date": "2010-12-26T08:29"
   }
- ],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 166",
-  "bodyClass": "post-template-default single single-post postid-589 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 166",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-12-21-Eat_Shit_And_Die_166.jpg"
- }
+ ]
 }

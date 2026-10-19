@@ -1,60 +1,17 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-126/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-126",
- "id": 343,
  "title": "Eat Shit And Die 126",
  "author": "bpatrick",
- "date": "February 4, 2009",
- "time": "12:00 am",
- "datetime": "2009-02-04T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-343 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-02-04T00:00",
  "images": [
-  {
-   "src": "2009-02-04-Eat_Shit_And_Die_126.jpg",
-   "alt": "Eat Shit And Die 126",
-   "title": "Eat Shit And Die 126"
-  }
+  "2009-02-04-Eat_Shit_And_Die_126.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-125/",
-  "next": "/eatshitanddie/eat-shit-and-die-127/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-125/",
-  "next": "/eatshitanddie/eat-shit-and-die-127/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 9746,
    "author": "Chipmunk",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/40b52802162f1d3f7c91fd324361799b?s=64&d=identicon&r=r",
-   "time": "September 25, 2011 at 9:14 pm",
-   "timeTitle": "Sunday, September 25th, 2011, 9:14 pm",
-   "html": "<p>roftl&#8230;&#8230;For some reason, I particularly love this.</p>"
+   "date": "2011-09-25T21:14",
+   "avatar": "40b52802162f1d3f7c91fd324361799b",
+   "text": "<p>roftl&#8230;&#8230;For some reason, I particularly love this.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 126",
-  "bodyClass": "post-template-default single single-post postid-343 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 126",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-02-04-Eat_Shit_And_Die_126.jpg"
- }
+ ]
 }

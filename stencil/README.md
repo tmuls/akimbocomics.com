@@ -15,16 +15,15 @@ Preview the whole site: `python3 ../tools/build-site.py`, then
 `python3 -m http.server 8091 -d ../dist` (in `../.claude/launch.json`), or
 `docker compose up -d --build` from the repo root for the real nginx.
 
-- `../content/`: the site's content as committed data, one JSON file per
-  post (`<series>/<slug>.json`), page, listing, plus `home.json`/`site.json`.
-- `scripts/extract-content.py`: wrote `../content/` once from the exported
-  WordPress pages (now at the git tag `exported-pages`); `../content/` is
-  edited directly since.
+- `../content/`: the site's content as data, one JSON file per post or page
+  plus `site.json` (schema in `../content/README.md`).
 - `scripts/bundle-content.mjs`: gathers `../content/` into
-  `src/data/content.json` (gitignored) for the components and configs, and
-  lists every URL to prerender.
+  `src/data/content.json` (gitignored) and derives what WordPress did:
+  URLs, comic/blog navigation, listings, home pages, comment pages, and
+  every URL to prerender.
+- `src/data/content.ts`: types for that, plus the theme's date formats.
 - `scripts/verify.mjs`: structural checks on `www/` (see its header).
-- `scripts/compare-pages.py --site DIR`: compares each page's visible text
+- `scripts/compare-pages.py --site DIR` (with `htmltree.py`): compares each page's visible text
   and every link/image URL with the same page in another copy of the site
   (the `exported-pages` tag, or an older build) to check a change alters
   nothing a reader sees.

@@ -1,236 +1,156 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-250/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-250",
- "id": 1043,
  "title": "eat shit & die 250",
  "author": "bpatrick",
- "date": "December 8, 2015",
- "time": "12:00 am",
- "datetime": "2015-12-08T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2015-12-08T00:00",
  "tags": [
-  {
-   "title": "onan",
-   "href": "/tag/onan/"
-  }
+  "onan"
  ],
- "html": "<p>Onan for the 250th. I read some comment online somewhere in which someone said Onan was their favorite. It&#8217;s one of mine too. </p>\n<p>I&#8217;m going to pretend there&#8217;s anyone out there who cares and say that the last year has been crazy for me. We adopted our daughter almost three years ago and that&#8217;s been wonderful but not without challenges and then last year I was applying for residencies in my last year of medical school and it was so stressful and disastrous; it was the absolute worst and unrelenting. We&#8217;ve recently moved and my work area isn&#8217;t set up yet and I was away from home for three months and we&#8217;ve been desolately poor and so I&#8217;ve completely neglected sending out fun-packs. But I fully intend to and beg your clemency and prize your patience. </p>\n<p>I have managed to graduate from medical school and did secure a position in a residency program and so that is good, at least. dr. b. patrick, I suppose. </p>\n<p>As always, thank you so much for continuing to read and extra special thanks if you read and comment or write. The kind words I receive mean the world to me; I&#8217;m very serious when I say they have an enormous impact on me. Thank you. </p>",
- "postClass": "post-1043 post type-post status-publish format-standard hentry category-eatshitanddie tag-onan uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2015-12-08-Eat_Shit_And_Die_250.jpg",
-   "alt": "eat shit & die 250",
-   "title": "eat shit & die 250"
-  }
+  "2015-12-08-Eat_Shit_And_Die_250.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-249/",
-  "next": "/eatshitanddie/eat-shit-and-die-251/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-249/",
-  "next": "/eatshitanddie/eat-shit-and-die-251/"
- },
- "commentCount": 20,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Onan for the 250th. I read some comment online somewhere in which someone said Onan was their favorite. It&#8217;s one of mine too. </p>\n<p>I&#8217;m going to pretend there&#8217;s anyone out there who cares and say that the last year has been crazy for me. We adopted our daughter almost three years ago and that&#8217;s been wonderful but not without challenges and then last year I was applying for residencies in my last year of medical school and it was so stressful and disastrous; it was the absolute worst and unrelenting. We&#8217;ve recently moved and my work area isn&#8217;t set up yet and I was away from home for three months and we&#8217;ve been desolately poor and so I&#8217;ve completely neglected sending out fun-packs. But I fully intend to and beg your clemency and prize your patience. </p>\n<p>I have managed to graduate from medical school and did secure a position in a residency program and so that is good, at least. dr. b. patrick, I suppose. </p>\n<p>As always, thank you so much for continuing to read and extra special thanks if you read and comment or write. The kind words I receive mean the world to me; I&#8217;m very serious when I say they have an enormous impact on me. Thank you. </p>",
  "comments": [
   {
    "id": 1084350,
    "author": "Benedikt",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c185ff6294550261e9eb911953341bdb?s=64&d=identicon&r=r",
-   "time": "December 8, 2015 at 7:28 pm",
-   "timeTitle": "Tuesday, December 8th, 2015, 7:28 pm",
-   "html": "<p>I&#8217;m thoroughly impressed reading that. You graduated from med school with a little daughter and drew these comics in your free time? (I can&#8217;t imagine how you had any free time at all.)</p>\n<p>Thanks, I guess! It&#8217;s always a pleasure to see a new one up!</p>"
+   "date": "2015-12-08T19:28",
+   "avatar": "c185ff6294550261e9eb911953341bdb",
+   "text": "<p>I&#8217;m thoroughly impressed reading that. You graduated from med school with a little daughter and drew these comics in your free time? (I can&#8217;t imagine how you had any free time at all.)</p>\n<p>Thanks, I guess! It&#8217;s always a pleasure to see a new one up!</p>"
   },
   {
    "id": 1084353,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "December 8, 2015 at 7:36 pm",
-   "timeTitle": "Tuesday, December 8th, 2015, 7:36 pm",
-   "html": "<p>We are out here, and we do care!  Congrats on finishing med school and getting into residency!</p>\n<p>And Onan is the best!  I&#8217;ve missed him, thanks for this.  Just what I needed today.</p>"
+   "date": "2015-12-08T19:36",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>We are out here, and we do care!  Congrats on finishing med school and getting into residency!</p>\n<p>And Onan is the best!  I&#8217;ve missed him, thanks for this.  Just what I needed today.</p>"
   },
   {
    "id": 1084354,
    "author": "bachterman",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/34b7dbf3064fc763164c59454d0139e1?s=64&d=identicon&r=r",
-   "time": "December 8, 2015 at 8:02 pm",
-   "timeTitle": "Tuesday, December 8th, 2015, 8:02 pm",
-   "html": "<p>thank you for pouring your soul into the comic!</p>"
+   "date": "2015-12-08T20:02",
+   "avatar": "34b7dbf3064fc763164c59454d0139e1",
+   "text": "<p>thank you for pouring your soul into the comic!</p>"
   },
   {
    "id": 1084355,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/57b8eb3441725ec94be3e4d5d0e5dfef?s=64&d=identicon&r=r",
-   "time": "December 8, 2015 at 8:14 pm",
-   "timeTitle": "Tuesday, December 8th, 2015, 8:14 pm",
-   "html": "<p>I&#8217;ve been reading your comics since my blessed days at uni, 2009 or 10? Is that at all possible. Always been coming back, sometimes daily even when there hadn&#8217;t been a new one in months. There must be something about your comics, I suppose. Thanks very much 🙂</p>"
+   "date": "2015-12-08T20:14",
+   "avatar": "57b8eb3441725ec94be3e4d5d0e5dfef",
+   "text": "<p>I&#8217;ve been reading your comics since my blessed days at uni, 2009 or 10? Is that at all possible. Always been coming back, sometimes daily even when there hadn&#8217;t been a new one in months. There must be something about your comics, I suppose. Thanks very much 🙂</p>"
   },
   {
    "id": 1084357,
    "author": "K",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d5c2b97312fa6de4d4e755ee7059989?s=64&d=identicon&r=r",
-   "time": "December 8, 2015 at 8:24 pm",
-   "timeTitle": "Tuesday, December 8th, 2015, 8:24 pm",
-   "html": "<p>thank YOU for creating these amazing comics for us to read and enjoy!</p>"
+   "date": "2015-12-08T20:24",
+   "avatar": "2d5c2b97312fa6de4d4e755ee7059989",
+   "text": "<p>thank YOU for creating these amazing comics for us to read and enjoy!</p>"
   },
   {
    "id": 1084359,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "December 8, 2015 at 8:39 pm",
-   "timeTitle": "Tuesday, December 8th, 2015, 8:39 pm",
-   "html": "<p>Good to see you&#8217;re OK.</p>\n<p>Damn it man. For money, get yourself on Patreon. You have a great number of followers, and if they chuck in $1 a month each, you&#8217;ll have an extra income stream.</p>\n<p>You could ask your friend who worked on the site to set it up. Or I&#8217;ll set it up, if you like.</p>"
+   "date": "2015-12-08T20:39",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>Good to see you&#8217;re OK.</p>\n<p>Damn it man. For money, get yourself on Patreon. You have a great number of followers, and if they chuck in $1 a month each, you&#8217;ll have an extra income stream.</p>\n<p>You could ask your friend who worked on the site to set it up. Or I&#8217;ll set it up, if you like.</p>"
   },
   {
    "id": 1084394,
    "author": "wery",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/09bf3b2dfc74c839f532beba82222c9f?s=64&d=identicon&r=r",
-   "time": "December 9, 2015 at 2:20 am",
-   "timeTitle": "Wednesday, December 9th, 2015, 2:20 am",
-   "html": "<p>Medical school, while working, while raising a child, while being a great artist? Now I feel like a loser, lol. I kid, I kid, I already felt like one since forever. You&#8217;re awesomeballs dude!!</p>"
+   "date": "2015-12-09T02:20",
+   "avatar": "09bf3b2dfc74c839f532beba82222c9f",
+   "text": "<p>Medical school, while working, while raising a child, while being a great artist? Now I feel like a loser, lol. I kid, I kid, I already felt like one since forever. You&#8217;re awesomeballs dude!!</p>"
   },
   {
    "id": 1084432,
    "author": "Laurie",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/fe80b5828ce0703948cf849be78fd4cf?s=64&d=identicon&r=r",
-   "time": "December 9, 2015 at 2:29 pm",
-   "timeTitle": "Wednesday, December 9th, 2015, 2:29 pm",
-   "html": "<p>If you make a Patreon account I&#8217;d love to contribute. Your comics are some of the ones I look forward to the most.</p>"
+   "date": "2015-12-09T14:29",
+   "avatar": "fe80b5828ce0703948cf849be78fd4cf",
+   "text": "<p>If you make a Patreon account I&#8217;d love to contribute. Your comics are some of the ones I look forward to the most.</p>"
   },
   {
    "id": 1084503,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "December 10, 2015 at 2:04 pm",
-   "timeTitle": "Thursday, December 10th, 2015, 2:04 pm",
-   "html": "<p>^what Benedikt said. To put this art here while studying medicine in this country AND choosing to raise a child is incredibly giving &#8211; thank you so much for all that. Would definitely contribute on Patreon.</p>"
+   "date": "2015-12-10T14:04",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>^what Benedikt said. To put this art here while studying medicine in this country AND choosing to raise a child is incredibly giving &#8211; thank you so much for all that. Would definitely contribute on Patreon.</p>"
   },
   {
    "id": 1084507,
    "author": "Marilyn",
+   "date": "2015-12-10T17:21",
    "url": "http://mmmarilyn.net",
-   "avatar": "http://0.gravatar.com/avatar/f87b6cc4d4850bc41b1a973bddfc42c9?s=64&d=identicon&r=r",
-   "time": "December 10, 2015 at 5:21 pm",
-   "timeTitle": "Thursday, December 10th, 2015, 5:21 pm",
-   "html": "<p>xo</p>"
+   "avatar": "f87b6cc4d4850bc41b1a973bddfc42c9",
+   "text": "<p>xo</p>"
   },
   {
    "id": 1084510,
    "author": "Don",
+   "date": "2015-12-10T19:51",
    "url": "http://doncheadle.com",
-   "avatar": "http://0.gravatar.com/avatar/c84b4c0d69c78228a695dfb3fe6d1f05?s=64&d=identicon&r=r",
-   "time": "December 10, 2015 at 7:51 pm",
-   "timeTitle": "Thursday, December 10th, 2015, 7:51 pm",
-   "html": "<p>Personally i have to say I prefer your regular stuff. Onan is absolutely fine but the conversations have something in them, a spark perhaps, that really gets my brain going. Your work is brilliant man. </p>\n<p>Regarding your last comic and the way people have treated you &#8211; I think it&#8217;s part of the process, and the fact that you&#8217;re self-critical may very well be a positive. It&#8217;s your demons that make you create. At least that&#8217;s the way I feel. </p>\n<p>To another 250 amazing comics!</p>"
+   "avatar": "c84b4c0d69c78228a695dfb3fe6d1f05",
+   "text": "<p>Personally i have to say I prefer your regular stuff. Onan is absolutely fine but the conversations have something in them, a spark perhaps, that really gets my brain going. Your work is brilliant man. </p>\n<p>Regarding your last comic and the way people have treated you &#8211; I think it&#8217;s part of the process, and the fact that you&#8217;re self-critical may very well be a positive. It&#8217;s your demons that make you create. At least that&#8217;s the way I feel. </p>\n<p>To another 250 amazing comics!</p>"
   },
   {
    "id": 1084585,
    "author": "ADifferentRandomAsshole",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9b7961e73c7dc1bad0c6e14b1dc6fb02?s=64&d=identicon&r=r",
-   "time": "December 11, 2015 at 3:29 pm",
-   "timeTitle": "Friday, December 11th, 2015, 3:29 pm",
-   "html": "<p>I hope things get better for you, but not too good.</p>\n<p>Some of your best work seems to be made when you&#8217;re miserable enough to use false stories as outlet for a hard reality, but not too miserable to be unable to work at all.</p>\n<p>Godspeed Dr Patrick</p>"
+   "date": "2015-12-11T15:29",
+   "avatar": "9b7961e73c7dc1bad0c6e14b1dc6fb02",
+   "text": "<p>I hope things get better for you, but not too good.</p>\n<p>Some of your best work seems to be made when you&#8217;re miserable enough to use false stories as outlet for a hard reality, but not too miserable to be unable to work at all.</p>\n<p>Godspeed Dr Patrick</p>"
   },
   {
    "id": 1084614,
    "author": "Lennart",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8be4251bbf7ad6cc921765bf06a9d846?s=64&d=identicon&r=r",
-   "time": "December 11, 2015 at 10:45 pm",
-   "timeTitle": "Friday, December 11th, 2015, 10:45 pm",
-   "html": "<p>Your comics are some of the best, in their own unique way. You expressed it way better than I ever could, in eat, shit &amp; die 233.<br />\nA more recent favourite of mine is eat, shit &amp; die 243. You&#8217;re awesome and your comics are awesome. Hope to read them for many more years.</p>"
+   "date": "2015-12-11T22:45",
+   "avatar": "8be4251bbf7ad6cc921765bf06a9d846",
+   "text": "<p>Your comics are some of the best, in their own unique way. You expressed it way better than I ever could, in eat, shit &amp; die 233.<br />\nA more recent favourite of mine is eat, shit &amp; die 243. You&#8217;re awesome and your comics are awesome. Hope to read them for many more years.</p>"
   },
   {
    "id": 1084656,
    "author": "Rhubarb",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/68e445e39e502ecc0c6e5286e4868382?s=64&d=identicon&r=r",
-   "time": "December 15, 2015 at 7:52 am",
-   "timeTitle": "Tuesday, December 15th, 2015, 7:52 am",
-   "html": "<p>Congratulations! You&#8217;ve hardly picked an easy path 🙂 I&#8217;m amazed you manage any room for art in your life &#8212; well done for pushing on. It&#8217;s always a pleasure to see something new from you.</p>"
+   "date": "2015-12-15T07:52",
+   "avatar": "68e445e39e502ecc0c6e5286e4868382",
+   "text": "<p>Congratulations! You&#8217;ve hardly picked an easy path 🙂 I&#8217;m amazed you manage any room for art in your life &#8212; well done for pushing on. It&#8217;s always a pleasure to see something new from you.</p>"
   },
   {
    "id": 1084678,
    "author": "practik",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d77b6090cae5e15ffeb77911408a909b?s=64&d=identicon&r=r",
-   "time": "December 16, 2015 at 7:13 pm",
-   "timeTitle": "Wednesday, December 16th, 2015, 7:13 pm",
-   "html": "<p>I&#8217;d say you&#8217;ve been quite productive.</p>\n<p>247: Yup. Side note: I think Hitler is using Google Translate? You want something more like: &#8220;Hättet ihr nicht eure Nasen da reingesteckt&#8230;&#8221; Also, is that Race Bannon kicking dogs and getting wasted with Trent?</p>\n<p>248: Love it, have felt like that guy many times.  The signature is doubly appropriate since you&#8217;re hacking your own comic.</p>\n<p>249: Been there too. Kind of looks like a grown-up Tintin?</p>\n<p>This one: Classic; I&#8217;ve missed your dream-channeling (it was nice to see that Curious Urgency page recently too). Would&#8217;ve been more reassuring if Onana had said &#8220;Never&#8221; in the next-to-last panel though&#8230;.</p>\n<p>Congratulations on graduating and here&#8217;s to 2016!</p>"
+   "date": "2015-12-16T19:13",
+   "avatar": "d77b6090cae5e15ffeb77911408a909b",
+   "text": "<p>I&#8217;d say you&#8217;ve been quite productive.</p>\n<p>247: Yup. Side note: I think Hitler is using Google Translate? You want something more like: &#8220;Hättet ihr nicht eure Nasen da reingesteckt&#8230;&#8221; Also, is that Race Bannon kicking dogs and getting wasted with Trent?</p>\n<p>248: Love it, have felt like that guy many times.  The signature is doubly appropriate since you&#8217;re hacking your own comic.</p>\n<p>249: Been there too. Kind of looks like a grown-up Tintin?</p>\n<p>This one: Classic; I&#8217;ve missed your dream-channeling (it was nice to see that Curious Urgency page recently too). Would&#8217;ve been more reassuring if Onana had said &#8220;Never&#8221; in the next-to-last panel though&#8230;.</p>\n<p>Congratulations on graduating and here&#8217;s to 2016!</p>"
   },
   {
    "id": 1084751,
    "author": "Phil C.",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c52325397493673acc10fc4ba8e48ae9?s=64&d=identicon&r=r",
-   "time": "December 23, 2015 at 3:17 pm",
-   "timeTitle": "Wednesday, December 23rd, 2015, 3:17 pm",
-   "html": "<p>Congratulations to you on graduating med school!  I wish you tons of luck in whatever steps you&#8217;re taking next.  Hope to see more comics from you but I imagine that it&#8217;s hard to manage that with NO SPARE TIME AT ALL.</p>"
+   "date": "2015-12-23T15:17",
+   "avatar": "c52325397493673acc10fc4ba8e48ae9",
+   "text": "<p>Congratulations to you on graduating med school!  I wish you tons of luck in whatever steps you&#8217;re taking next.  Hope to see more comics from you but I imagine that it&#8217;s hard to manage that with NO SPARE TIME AT ALL.</p>"
   },
   {
    "id": 1084787,
    "author": "Zerhauen",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f1e229f692dcad4ffedc19a01a115927?s=64&d=identicon&r=r",
-   "time": "December 25, 2015 at 7:41 pm",
-   "timeTitle": "Friday, December 25th, 2015, 7:41 pm",
-   "html": "<p>Congratulations man, good to hear that despite the stress and shit you&#8217;re headed in a better direction now. Love all your work, and look forward to any you can somehow produce while raising a kid and doing your residency- that&#8217;s a shit ton already, and makes it all the more powerful that you still produce work. Love you for it, keep on keepin on.</p>"
+   "date": "2015-12-25T19:41",
+   "avatar": "f1e229f692dcad4ffedc19a01a115927",
+   "text": "<p>Congratulations man, good to hear that despite the stress and shit you&#8217;re headed in a better direction now. Love all your work, and look forward to any you can somehow produce while raising a kid and doing your residency- that&#8217;s a shit ton already, and makes it all the more powerful that you still produce work. Love you for it, keep on keepin on.</p>"
   },
   {
    "id": 1084951,
    "author": "Kevin",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/31b46b9e0c70314d83c7a68ae7389818?s=64&d=identicon&r=r",
-   "time": "January 5, 2016 at 1:57 pm",
-   "timeTitle": "Tuesday, January 5th, 2016, 1:57 pm",
-   "html": "<p>No worries. I knew this comic was a hobby project, and you were busy with school and such. </p>\n<p>I always look forward to new comics, and I&#8217;m very happy when I see them. Even if they are sometimes spaced far apart.</p>"
+   "date": "2016-01-05T13:57",
+   "avatar": "31b46b9e0c70314d83c7a68ae7389818",
+   "text": "<p>No worries. I knew this comic was a hobby project, and you were busy with school and such. </p>\n<p>I always look forward to new comics, and I&#8217;m very happy when I see them. Even if they are sometimes spaced far apart.</p>"
   },
   {
    "id": 1085121,
    "author": "MaxCO2",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a3bdc00bf0c41c05c85d85d5b8f37ba0?s=64&d=identicon&r=r",
-   "time": "January 16, 2016 at 10:43 pm",
-   "timeTitle": "Saturday, January 16th, 2016, 10:43 pm",
-   "html": "<p>Well, I have to admit that I don&#8217;t get this cartoon.  I&#8217;ve also seen several in the past that also do not make any sense other than to take up a lot of space with little story and display nothing more than a juvenile attitude that I find obnoxious.  Fuck off and die to you too.  The artwork is decent, but that&#8217;s about it.</p>"
+   "date": "2016-01-16T22:43",
+   "avatar": "a3bdc00bf0c41c05c85d85d5b8f37ba0",
+   "text": "<p>Well, I have to admit that I don&#8217;t get this cartoon.  I&#8217;ve also seen several in the past that also do not make any sense other than to take up a lot of space with little story and display nothing more than a juvenile attitude that I find obnoxious.  Fuck off and die to you too.  The artwork is decent, but that&#8217;s about it.</p>"
   },
   {
    "id": 1085145,
    "author": "Steph",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e9f6f90a36fa8a26c5d1f32e6dc36aac?s=64&d=identicon&r=r",
-   "time": "January 18, 2016 at 8:29 am",
-   "timeTitle": "Monday, January 18th, 2016, 8:29 am",
-   "html": "<p>Found your comics (i think via fuckyeahcomicsbaby..?) at the end of last year during a really stressful time, and ended up bingeing on the ESAD section backwards all the way back to 2008. So none of the progression made sense but thats my fault, the comics here are brilliant and visually rich and thought provoking. I admut to just lurking my way thru and not commenting tho..</p>\n<p>I saw the last comic about not thinking about death, and the lapse in updating previously, and I came back hoping you&#8217;d posted something else and, well, not died.</p>\n<p>And yeah, I second what the others said.. Patreon.com, check it out.</p>\n<p>You&#8217;re talented, intelligent, sensitive and perceptive, and personally I&#8217;m very visual and easily bored by plotlines of comics and books. I don&#8217;t leave nasty comments I just dont come back. Buy I keep checking back here and as someone doesnt even check in much with friends and family thats my biggest compliment.</p>"
+   "date": "2016-01-18T08:29",
+   "avatar": "e9f6f90a36fa8a26c5d1f32e6dc36aac",
+   "text": "<p>Found your comics (i think via fuckyeahcomicsbaby..?) at the end of last year during a really stressful time, and ended up bingeing on the ESAD section backwards all the way back to 2008. So none of the progression made sense but thats my fault, the comics here are brilliant and visually rich and thought provoking. I admut to just lurking my way thru and not commenting tho..</p>\n<p>I saw the last comic about not thinking about death, and the lapse in updating previously, and I came back hoping you&#8217;d posted something else and, well, not died.</p>\n<p>And yeah, I second what the others said.. Patreon.com, check it out.</p>\n<p>You&#8217;re talented, intelligent, sensitive and perceptive, and personally I&#8217;m very visual and easily bored by plotlines of comics and books. I don&#8217;t leave nasty comments I just dont come back. Buy I keep checking back here and as someone doesnt even check in much with friends and family thats my biggest compliment.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 250",
-  "bodyClass": "post-template-default single single-post postid-1043 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 250",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2015-12-08-Eat_Shit_And_Die_250.jpg"
- }
+ ]
 }

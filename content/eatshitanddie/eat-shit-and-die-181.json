@@ -1,114 +1,63 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-181/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-181",
- "id": 643,
  "title": "eat shit & die 181",
  "author": "bpatrick",
- "date": "May 3, 2011",
- "time": "12:00 am",
- "datetime": "2011-05-03T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>Summer of Comics begins! I&#8217;m going to start cranking &#8211; I&#8217;ve got new <em>Vivian</em> to do as well as new <em>My Boyfriend Smells</em> and (yay!) <em>Camilla Barnes</em> and naturally more <em>Curious</em>. </p>",
- "postClass": "post-643 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-05-03T00:00",
  "images": [
-  {
-   "src": "2011-05-03-Eat_Shit_And_Die_181.jpg",
-   "alt": "it's good work if you can get it",
-   "title": "it's good work if you can get it"
-  }
+  "2011-05-03-Eat_Shit_And_Die_181.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-180/",
-  "next": "/my_boyfriend_smells/my-boyfriend-smells-2/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-180/",
-  "next": "/my_boyfriend_smells/my-boyfriend-smells-2/"
- },
- "commentCount": 7,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "it's good work if you can get it",
+ "body": "<p>Summer of Comics begins! I&#8217;m going to start cranking &#8211; I&#8217;ve got new <em>Vivian</em> to do as well as new <em>My Boyfriend Smells</em> and (yay!) <em>Camilla Barnes</em> and naturally more <em>Curious</em>. </p>",
  "comments": [
   {
    "id": 6938,
    "author": "msr",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3cab8805b79974f967e06d6a5b7887d5?s=64&d=identicon&r=r",
-   "time": "May 4, 2011 at 1:28 am",
-   "timeTitle": "Wednesday, May 4th, 2011, 1:28 am",
-   "html": "<p>This is amazing</p>"
+   "date": "2011-05-04T01:28",
+   "avatar": "3cab8805b79974f967e06d6a5b7887d5",
+   "text": "<p>This is amazing</p>"
   },
   {
    "id": 6944,
    "author": "Standard",
+   "date": "2011-05-04T07:34",
    "url": "http://www.facebook.com/srlopp",
-   "avatar": "http://0.gravatar.com/avatar/3ea99478f2902acb33c2dfc73c346ee5?s=64&d=identicon&r=r",
-   "time": "May 4, 2011 at 7:34 am",
-   "timeTitle": "Wednesday, May 4th, 2011, 7:34 am",
-   "html": "<p>I can&#8217;t wait for the summer of comics!</p>"
+   "avatar": "3ea99478f2902acb33c2dfc73c346ee5",
+   "text": "<p>I can&#8217;t wait for the summer of comics!</p>"
   },
   {
    "id": 6945,
    "author": "idahovandal",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e40e21370a1e8153743d6320b03f1b4f?s=64&d=identicon&r=r",
-   "time": "May 4, 2011 at 8:11 am",
-   "timeTitle": "Wednesday, May 4th, 2011, 8:11 am",
-   "html": "<p>3rd</p>"
+   "date": "2011-05-04T08:11",
+   "avatar": "e40e21370a1e8153743d6320b03f1b4f",
+   "text": "<p>3rd</p>"
   },
   {
    "id": 6948,
    "author": "Phil C.",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c52325397493673acc10fc4ba8e48ae9?s=64&d=identicon&r=r",
-   "time": "May 4, 2011 at 12:51 pm",
-   "timeTitle": "Wednesday, May 4th, 2011, 12:51 pm",
-   "html": "<p>Hahahahaha. The sad thing is I would probably have the same mental progression she did in this. &#8220;Should I?&#8230;.Well, if it&#8217;s going to happen to someone ANYWAY&#8230;..I guess I could&#8230;..actually, it&#8217;s my duty&#8230;&#8230;Of course it&#8217;s my duty&#8230;&#8230;ALL HAIL ME THE SUPREME COMMANDER.&#8221;  🙂</p>\n<p>Hooray for more Vivian, Boyfriend and Camilla!  I&#8217;m glad I&#8217;m not the only one who wants more of Camilla. (Then again, EVERYone wants more of Camilla, at least in the strip). </p>\n<p>cheers,<br />\nPhil</p>"
+   "date": "2011-05-04T12:51",
+   "avatar": "c52325397493673acc10fc4ba8e48ae9",
+   "text": "<p>Hahahahaha. The sad thing is I would probably have the same mental progression she did in this. &#8220;Should I?&#8230;.Well, if it&#8217;s going to happen to someone ANYWAY&#8230;..I guess I could&#8230;..actually, it&#8217;s my duty&#8230;&#8230;Of course it&#8217;s my duty&#8230;&#8230;ALL HAIL ME THE SUPREME COMMANDER.&#8221;  🙂</p>\n<p>Hooray for more Vivian, Boyfriend and Camilla!  I&#8217;m glad I&#8217;m not the only one who wants more of Camilla. (Then again, EVERYone wants more of Camilla, at least in the strip). </p>\n<p>cheers,<br />\nPhil</p>"
   },
   {
    "id": 6971,
    "author": "kitschbot",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8480f829bb5be3a8f8d9cadbc3f745a9?s=64&d=identicon&r=r",
-   "time": "May 5, 2011 at 6:09 pm",
-   "timeTitle": "Thursday, May 5th, 2011, 6:09 pm",
-   "html": "<p>It&#8217;s quite easy to imagine absolute monitoring and control over the birthing of the population, you can then do so much &#8220;good&#8221;! You can make sure idiots never make more idiot babies, it would be so awesome!</p>"
+   "date": "2011-05-05T18:09",
+   "avatar": "8480f829bb5be3a8f8d9cadbc3f745a9",
+   "text": "<p>It&#8217;s quite easy to imagine absolute monitoring and control over the birthing of the population, you can then do so much &#8220;good&#8221;! You can make sure idiots never make more idiot babies, it would be so awesome!</p>"
   },
   {
    "id": 12530,
    "author": "jomul7",
+   "date": "2011-11-14T01:08",
    "url": "http://jomul7.tumblr.com",
-   "avatar": "http://1.gravatar.com/avatar/4dd5029f18aa064eb381110795d02f64?s=64&d=identicon&r=r",
-   "time": "November 14, 2011 at 1:08 am",
-   "timeTitle": "Monday, November 14th, 2011, 1:08 am",
-   "html": "<p>power eats you up and then spits you out like the no thing you are without it. Just look at how american presidents age during presidency then recover some of it back when they leave.</p>"
+   "avatar": "4dd5029f18aa064eb381110795d02f64",
+   "text": "<p>power eats you up and then spits you out like the no thing you are without it. Just look at how american presidents age during presidency then recover some of it back when they leave.</p>"
   },
   {
    "id": 103134,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "September 24, 2012 at 11:22 pm",
-   "timeTitle": "Monday, September 24th, 2012, 11:22 pm",
-   "html": "<p>As they say, &#8220;power corrupts.&#8221; Definitely true. It&#8217;s difficult for us weak and selfish humans to handle power well and be beneficial to others with it.</p>"
+   "date": "2012-09-24T23:22",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>As they say, &#8220;power corrupts.&#8221; Definitely true. It&#8217;s difficult for us weak and selfish humans to handle power well and be beneficial to others with it.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 181",
-  "bodyClass": "post-template-default single single-post postid-643 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 181",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-05-03-Eat_Shit_And_Die_181.jpg"
- }
+ ]
 }

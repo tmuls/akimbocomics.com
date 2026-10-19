@@ -1,186 +1,117 @@
 {
- "path": "/bobandbob/bob-and-bob-18/",
- "series": "bobandbob",
- "slug": "bob-and-bob-18",
- "id": 28,
  "title": "Bob And Bob 18",
  "author": "emulsifier",
- "date": "May 5, 2008",
- "time": "12:00 am",
- "datetime": "2008-05-05T00:00:00",
- "categories": [
-  {
-   "title": "Bob and Bob",
-   "href": "/bobandbob/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-28 post type-post status-publish format-standard hentry category-bobandbob uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-05-05T00:00",
  "images": [
-  {
-   "src": "2008-05-05-Bob_And_Bob_18.jpg",
-   "alt": "Bob And Bob 18",
-   "title": "Bob And Bob 18"
-  }
+  "2008-05-05-Bob_And_Bob_18.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/bobandbob/bob-and-bob-17/",
-  "next": "/burlapsack/burlap-sack-1/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/bobandbob/bob-and-bob-17/",
-  "next": "/burlapsack/burlap-sack-1/"
- },
- "commentCount": 15,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1832,
    "author": "Ben",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bf57ba269f2fa24ce35533547371256c?s=64&d=identicon&r=r",
-   "time": "March 22, 2010 at 4:22 pm",
-   "timeTitle": "Monday, March 22nd, 2010, 4:22 pm",
-   "html": "<p>Wow&#8230; mine never got this extreme, but this was a great story arc. It was like reading a great book&#8230; with pictures.</p>"
+   "date": "2010-03-22T16:22",
+   "avatar": "bf57ba269f2fa24ce35533547371256c",
+   "text": "<p>Wow&#8230; mine never got this extreme, but this was a great story arc. It was like reading a great book&#8230; with pictures.</p>"
   },
   {
    "id": 1857,
    "author": "b.patrick",
+   "date": "2010-03-24T17:01",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "March 24, 2010 at 5:01 pm",
-   "timeTitle": "Wednesday, March 24th, 2010, 5:01 pm",
-   "html": "<p>Thanks, Ben! That sums up what I&#8217;d like the comics to be pretty well, so that makes me happy.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks, Ben! That sums up what I&#8217;d like the comics to be pretty well, so that makes me happy.</p>"
   },
   {
    "id": 4426,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "October 1, 2010 at 5:29 am",
-   "timeTitle": "Friday, October 1st, 2010, 5:29 am",
-   "html": "<p>fucking brilliant. Ive read it before, but I reread it after the news of the short film. I can&#8217;t believe I could let this slip my mind. This is freaking amazing.</p>\n<p>Thanks.</p>"
+   "date": "2010-10-01T05:29",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>fucking brilliant. Ive read it before, but I reread it after the news of the short film. I can&#8217;t believe I could let this slip my mind. This is freaking amazing.</p>\n<p>Thanks.</p>"
   },
   {
    "id": 4683,
    "author": "Bill",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebd748daa27734e971be1991d2c4825c?s=64&d=identicon&r=r",
-   "time": "November 18, 2010 at 1:47 pm",
-   "timeTitle": "Thursday, November 18th, 2010, 1:47 pm",
-   "html": "<p>Outstanding. Smooth running story line and man oh man, what a twist. Not quite what I expected but life doesn&#8217;t always have easy solutions or happy endings for its problems, does it?</p>"
+   "date": "2010-11-18T13:47",
+   "avatar": "ebd748daa27734e971be1991d2c4825c",
+   "text": "<p>Outstanding. Smooth running story line and man oh man, what a twist. Not quite what I expected but life doesn&#8217;t always have easy solutions or happy endings for its problems, does it?</p>"
   },
   {
    "id": 4686,
    "author": "b.patrick",
+   "date": "2010-11-18T22:26",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "November 18, 2010 at 10:26 pm",
-   "timeTitle": "Thursday, November 18th, 2010, 10:26 pm",
-   "html": "<p>What does it say about me that the ending seemed inevitable? I honestly never thought of it as a twist and was afraid it would be too obvious.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>What does it say about me that the ending seemed inevitable? I honestly never thought of it as a twist and was afraid it would be too obvious.</p>"
   },
   {
    "id": 6176,
    "author": "Nathan",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d7888449405ca0a30dd9ee47f8548b2c?s=64&d=identicon&r=r",
-   "time": "March 16, 2011 at 6:55 am",
-   "timeTitle": "Wednesday, March 16th, 2011, 6:55 am",
-   "html": "<p>Absolutely loved this, so glad I randomly stumbled across it, didn&#8217;t think the ending was a &#8220;twist&#8221; either though, just a great and inevitable conclusion. Awesome work.</p>"
+   "date": "2011-03-16T06:55",
+   "avatar": "d7888449405ca0a30dd9ee47f8548b2c",
+   "text": "<p>Absolutely loved this, so glad I randomly stumbled across it, didn&#8217;t think the ending was a &#8220;twist&#8221; either though, just a great and inevitable conclusion. Awesome work.</p>"
   },
   {
    "id": 6243,
    "author": "Gabe",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e25bbf6b062ecbe8a5db32de3ad94f5b?s=64&d=identicon&r=r",
-   "time": "March 21, 2011 at 8:19 am",
-   "timeTitle": "Monday, March 21st, 2011, 8:19 am",
-   "html": "<p>Yeah, the ending was expected, but definitely necessary. Regardless, this is one of the few webcomics that I can consider brilliant. The concept of a split-personality has been explored so (too) many times before, but I really like what you did with it to make it original, interesting, and compelling. Kudos, good sir, keep up the good work.</p>"
+   "date": "2011-03-21T08:19",
+   "avatar": "e25bbf6b062ecbe8a5db32de3ad94f5b",
+   "text": "<p>Yeah, the ending was expected, but definitely necessary. Regardless, this is one of the few webcomics that I can consider brilliant. The concept of a split-personality has been explored so (too) many times before, but I really like what you did with it to make it original, interesting, and compelling. Kudos, good sir, keep up the good work.</p>"
   },
   {
    "id": 7188,
    "author": "adrian",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d2668f7fe7d8143a1604f1027594fe1f?s=64&d=identicon&r=r",
-   "time": "May 18, 2011 at 6:59 pm",
-   "timeTitle": "Wednesday, May 18th, 2011, 6:59 pm",
-   "html": "<p>really cool, man!<br />\n thanx&#8230;.</p>"
+   "date": "2011-05-18T18:59",
+   "avatar": "d2668f7fe7d8143a1604f1027594fe1f",
+   "text": "<p>really cool, man!<br />\n thanx&#8230;.</p>"
   },
   {
    "id": 7250,
    "author": "W V",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3d8d1578d0688bb767b886468b31b4d4?s=64&d=identicon&r=r",
-   "time": "May 22, 2011 at 2:35 am",
-   "timeTitle": "Sunday, May 22nd, 2011, 2:35 am",
-   "html": "<p>So glad I&#8217;m on better terms with my &#8220;closest friends&#8221; than this guy is&#8230;that shit can get our of hand quickly.</p>\n<p>Excellent story though. Well done.</p>"
+   "date": "2011-05-22T02:35",
+   "avatar": "3d8d1578d0688bb767b886468b31b4d4",
+   "text": "<p>So glad I&#8217;m on better terms with my &#8220;closest friends&#8221; than this guy is&#8230;that shit can get our of hand quickly.</p>\n<p>Excellent story though. Well done.</p>"
   },
   {
    "id": 7868,
    "author": "Leo",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/57c1d311d365b2c9060f33979d87088e?s=64&d=identicon&r=r",
-   "time": "June 8, 2011 at 4:43 pm",
-   "timeTitle": "Wednesday, June 8th, 2011, 4:43 pm",
-   "html": "<p>Damn, this is so, so fucking clever. I so badly wanna watch the movie now.</p>"
+   "date": "2011-06-08T16:43",
+   "avatar": "57c1d311d365b2c9060f33979d87088e",
+   "text": "<p>Damn, this is so, so fucking clever. I so badly wanna watch the movie now.</p>"
   },
   {
    "id": 8779,
    "author": "CS",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/cae3ca728ad47360d3cd2c38e6cd1a36?s=64&d=identicon&r=r",
-   "time": "July 14, 2011 at 5:06 pm",
-   "timeTitle": "Thursday, July 14th, 2011, 5:06 pm",
-   "html": "<p>There are few things I love more than a story where one man is two, great work.</p>"
+   "date": "2011-07-14T17:06",
+   "avatar": "cae3ca728ad47360d3cd2c38e6cd1a36",
+   "text": "<p>There are few things I love more than a story where one man is two, great work.</p>"
   },
   {
    "id": 97717,
    "author": "Quasimodo",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebd748daa27734e971be1991d2c4825c?s=64&d=identicon&r=r",
-   "time": "September 12, 2012 at 2:39 am",
-   "timeTitle": "Wednesday, September 12th, 2012, 2:39 am",
-   "html": "<p>Superb. I had seen this some time ago and finally&#8230;no kidding&#8230;finally found the movie on IdMB. Frankly&#8230;.comic is better man. The expressions on the character&#8217;s face&#8217;s are right on the money and convey the feeling of the person. And tell me&#8230;.were you influenced by Mort Drucker in your style? He was the only other artist that was able to portray the facial expressions as well as you do.<br />\nThanks Mr. P. Sensational work.</p>\n<p>Kudos for &#8220;Eat Shit &amp; Die&#8221; as well. Great stuff!</p>"
+   "date": "2012-09-12T02:39",
+   "avatar": "ebd748daa27734e971be1991d2c4825c",
+   "text": "<p>Superb. I had seen this some time ago and finally&#8230;no kidding&#8230;finally found the movie on IdMB. Frankly&#8230;.comic is better man. The expressions on the character&#8217;s face&#8217;s are right on the money and convey the feeling of the person. And tell me&#8230;.were you influenced by Mort Drucker in your style? He was the only other artist that was able to portray the facial expressions as well as you do.<br />\nThanks Mr. P. Sensational work.</p>\n<p>Kudos for &#8220;Eat Shit &amp; Die&#8221; as well. Great stuff!</p>"
   },
   {
    "id": 430057,
    "author": "luna",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/09f43cbde622029f6612a01dae10c20d?s=64&d=identicon&r=r",
-   "time": "January 28, 2014 at 4:06 pm",
-   "timeTitle": "Tuesday, January 28th, 2014, 4:06 pm",
-   "html": "<p>That was amazing. Wow.</p>"
+   "date": "2014-01-28T16:06",
+   "avatar": "09f43cbde622029f6612a01dae10c20d",
+   "text": "<p>That was amazing. Wow.</p>"
   },
   {
    "id": 1059178,
    "author": "N10ae",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/4ae1c4db0e03f83c72e81723d89ed8eb?s=64&d=identicon&r=r",
-   "time": "May 31, 2015 at 4:18 pm",
-   "timeTitle": "Sunday, May 31st, 2015, 4:18 pm",
-   "html": "<p>You&#8217;re host for storytelling is rivaled only by your ability to draw it. As quasimodo points out, the expressions are spot on, but it&#8217;s also the framing, the atmosphere and &#8230; guh&#8230;just awesome all around. I bet this is a directors dream to use your story&#8217;s as storyboards (or nightmare, since it&#8217;d be hard to live up to).</p>"
+   "date": "2015-05-31T16:18",
+   "avatar": "4ae1c4db0e03f83c72e81723d89ed8eb",
+   "text": "<p>You&#8217;re host for storytelling is rivaled only by your ability to draw it. As quasimodo points out, the expressions are spot on, but it&#8217;s also the framing, the atmosphere and &#8230; guh&#8230;just awesome all around. I bet this is a directors dream to use your story&#8217;s as storyboards (or nightmare, since it&#8217;d be hard to live up to).</p>"
   },
   {
    "id": 1059179,
    "author": "N10ae",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/4ae1c4db0e03f83c72e81723d89ed8eb?s=64&d=identicon&r=r",
-   "time": "May 31, 2015 at 4:19 pm",
-   "timeTitle": "Sunday, May 31st, 2015, 4:19 pm",
-   "html": "<p>Skill*</p>"
+   "date": "2015-05-31T16:19",
+   "avatar": "4ae1c4db0e03f83c72e81723d89ed8eb",
+   "text": "<p>Skill*</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob And Bob 18",
-  "bodyClass": "post-template-default single single-post postid-28 single-format-standard user-guest comic unknown single-category-bobandbob single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Bob And Bob 18",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-05-05-Bob_And_Bob_18.jpg"
- }
+ ]
 }

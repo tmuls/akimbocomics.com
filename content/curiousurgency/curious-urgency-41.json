@@ -1,60 +1,18 @@
 {
- "path": "/curiousurgency/curious-urgency-41/",
- "series": "curiousurgency",
- "slug": "curious-urgency-41",
- "id": 588,
  "title": "Curious Urgency 41",
  "author": "bpatrick",
- "date": "December 15, 2010",
- "time": "12:00 am",
- "datetime": "2010-12-15T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Some new <em>Curious</em>. I didn&#8217;t want to write &#8217;til I hade an update but thanks so much to everyone commenting and linking! es&#038;d coming up. And I&#8217;m thinking I should update the &#8220;About&#8221; comic. Although I <em>am still </em> a loser&#8230;</p>",
- "postClass": "post-588 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2010-12-15T00:00",
  "images": [
-  {
-   "src": "2010-12-15-Curious_Urgency_41.jpg",
-   "alt": "Curious Urgency 41",
-   "title": "Curious Urgency 41"
-  }
+  "2010-12-15-Curious_Urgency_41.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-40/",
-  "next": "/eatshitanddie/eat-shit-and-die-166/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-40/",
-  "next": "/eatshitanddie/eat-shit-and-die-166/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Some new <em>Curious</em>. I didn&#8217;t want to write &#8217;til I hade an update but thanks so much to everyone commenting and linking! es&#038;d coming up. And I&#8217;m thinking I should update the &#8220;About&#8221; comic. Although I <em>am still </em> a loser&#8230;</p>",
  "comments": [
   {
    "id": 5043,
    "author": "skanerd777",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d6f2db646808f87f1568f82d8aa2184a?s=64&d=identicon&r=r",
-   "time": "December 17, 2010 at 5:48 pm",
-   "timeTitle": "Friday, December 17th, 2010, 5:48 pm",
-   "html": "<p>Sheriff Chuck is THE SHIT. Moar Curious Urgency, plz.</p>"
+   "date": "2010-12-17T17:48",
+   "avatar": "d6f2db646808f87f1568f82d8aa2184a",
+   "text": "<p>Sheriff Chuck is THE SHIT. Moar Curious Urgency, plz.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 41",
-  "bodyClass": "post-template-default single single-post postid-588 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 41",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-12-15-Curious_Urgency_41.jpg"
- }
+ ]
 }

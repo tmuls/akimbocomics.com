@@ -1,76 +1,37 @@
 {
- "path": "/news/were-back/",
- "series": "news",
- "slug": "were-back",
- "id": 559,
  "title": "We’re Back!",
  "author": "bpatrick",
- "date": "September 21, 2010",
- "time": "4:27 pm",
- "datetime": "2010-09-21T16:27:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>Sorry about the interruption. akimbo isn&#8217;t dead yet. </p>",
- "postClass": "post-559 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-bpatrick",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/new-server/",
-  "next": "/news/playing-games-to-heal-kids/"
- },
- "menuNav": {},
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "date": "2010-09-21T16:27",
+ "body": "<p>Sorry about the interruption. akimbo isn&#8217;t dead yet. </p>",
  "comments": [
   {
    "id": 4387,
    "author": "Luftmensch",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/830be58368e518242cd31ad80f1c7786?s=64&d=identicon&r=r",
-   "time": "September 22, 2010 at 5:54 am",
-   "timeTitle": "Wednesday, September 22nd, 2010, 5:54 am",
-   "html": "<p>I am OK w/ this.</p>"
+   "date": "2010-09-22T05:54",
+   "avatar": "830be58368e518242cd31ad80f1c7786",
+   "text": "<p>I am OK w/ this.</p>"
   },
   {
    "id": 4390,
    "author": "skanerd777",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d6f2db646808f87f1568f82d8aa2184a?s=64&d=identicon&r=r",
-   "time": "September 22, 2010 at 4:45 pm",
-   "timeTitle": "Wednesday, September 22nd, 2010, 4:45 pm",
-   "html": "<p>Hooray!!! I was beginning to get worried.</p>"
+   "date": "2010-09-22T16:45",
+   "avatar": "d6f2db646808f87f1568f82d8aa2184a",
+   "text": "<p>Hooray!!! I was beginning to get worried.</p>"
   },
   {
    "id": 4392,
    "author": "emulsifier",
+   "date": "2010-09-22T16:56",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
-   "time": "September 22, 2010 at 4:56 pm",
-   "timeTitle": "Wednesday, September 22nd, 2010, 4:56 pm",
-   "html": "<p>Haha, thanks for the comments/concern.  I&#8217;ll field this question.  Brian forgot to renew his domain, but the hosting is on my server (where I also have my douchebag blog) for some reason when he got everything straightened out my switch to activate Brian&#8217;s new domain (in case he couldn&#8217;t buy the old one back) apparently resulted in pointing the REAL domain to my blog.  Sorry about that, all is well for now.  As it turns out, the registrar Brian used is sort of difficult to deal with, he is in the process of transferring it to someone more reputable.  For now think happy thoughts and try to forget about the horrors you had seen.</p>",
-   "byAuthor": "emulsifier"
+   "avatar": "cd7434b888539623dcbb7ea85f17b601",
+   "text": "<p>Haha, thanks for the comments/concern.  I&#8217;ll field this question.  Brian forgot to renew his domain, but the hosting is on my server (where I also have my douchebag blog) for some reason when he got everything straightened out my switch to activate Brian&#8217;s new domain (in case he couldn&#8217;t buy the old one back) apparently resulted in pointing the REAL domain to my blog.  Sorry about that, all is well for now.  As it turns out, the registrar Brian used is sort of difficult to deal with, he is in the process of transferring it to someone more reputable.  For now think happy thoughts and try to forget about the horrors you had seen.</p>"
   },
   {
    "id": 4398,
    "author": "skanerd777",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d6f2db646808f87f1568f82d8aa2184a?s=64&d=identicon&r=r",
-   "time": "September 23, 2010 at 4:32 pm",
-   "timeTitle": "Thursday, September 23rd, 2010, 4:32 pm",
-   "html": "<p>Just glad to have you back. Haha. Now finish the dang Curious Urgency storyline. Haha. I got a curious urgency to find out what happens to this guy.</p>"
+   "date": "2010-09-23T16:32",
+   "avatar": "d6f2db646808f87f1568f82d8aa2184a",
+   "text": "<p>Just glad to have you back. Haha. Now finish the dang Curious Urgency storyline. Haha. I got a curious urgency to find out what happens to this guy.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - We’re Back!",
-  "bodyClass": "post-template-default single single-post postid-559 single-format-standard user-guest noncomic unknown single-category-news single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "We’re Back!",
-  "ogDescription": ""
- }
+ ]
 }

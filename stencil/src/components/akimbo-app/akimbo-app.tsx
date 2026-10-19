@@ -1,5 +1,5 @@
 import { Component, Prop, h } from '@stencil/core';
-import { emulsifierOnline, homePages, listings, Nav, pages, posts, SITE_TITLE } from '../../data/content';
+import { emulsifierOnline, homePages, listings, Nav, pages, PER_PAGE, posts, SITE_TITLE } from '../../data/content';
 
 /**
  * Picks the page for the current path. The prerenderer loads every URL into
@@ -15,7 +15,8 @@ export class AkimboApp {
     let m = path.match(/^\/(?:page\/(\d+)\/)?$/);
     if (m) {
       const n = Number(m[1] || 1);
-      if (n <= homePages.length) return { title: SITE_TITLE, menu: homePages[n - 1].menuNav, body: <home-page page={n} /> };
+      // The menu bar arrows follow the newest comic's previous/next.
+      if (n <= homePages.length) return { title: SITE_TITLE, menu: posts[homePages[0].comic].nav, body: <home-page page={n} /> };
     }
     m = path.match(/^(\/[^/]+\/[^/]+\/)(?:comment-page-(\d+)\/)?$/);
     const post = m && posts[m[1]];
@@ -23,17 +24,17 @@ export class AkimboApp {
       const commentPage = m[2] ? Number(m[2]) : undefined;
       return {
         title: `${SITE_TITLE} - ${post.title}`,
-        menu: post.menuNav,
-        body: post.type === 'comic' ? <comic-post post={post} commentPage={commentPage} /> : <news-post post={post} commentPage={commentPage} />,
+        menu: post.blog ? undefined : post.nav,
+        body: post.blog ? <news-post post={post} commentPage={commentPage} /> : <comic-post post={post} commentPage={commentPage} />,
       };
     }
     if (pages[path]) {
-      return { title: `${SITE_TITLE} - ${pages[path].title}`, menu: pages[path].menuNav, body: <wp-page page={pages[path]} /> };
+      return { title: `${SITE_TITLE} - ${pages[path].title}`, body: <wp-page page={pages[path]} /> };
     }
     m = path.match(/^(\/(?:[^/]+\/)?[^/]+\/)(?:page\/(\d+)\/)?$/);
     const listing = m && listings[m[1]];
     const n = m && m[2] ? Number(m[2]) : 1;
-    if (listing && n <= listing.pages) {
+    if (listing && n <= Math.max(1, Math.ceil(listing.entries.length / PER_PAGE))) {
       return {
         title: `${SITE_TITLE} - ${listing.title}`,
         body: listing.kind === 'author' ? <author-list listing={listing} page={n} /> : <post-list listing={listing} page={n} />,

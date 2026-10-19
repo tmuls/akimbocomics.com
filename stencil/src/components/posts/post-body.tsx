@@ -1,5 +1,5 @@
 import { h } from '@stencil/core';
-import { imageUrl, Nav, Post } from '../../data/content';
+import { categoryName, imageUrl, longDate, Nav, Post, tagName, time } from '../../data/content';
 
 /**
  * One post's title block, entry and tags, as the ComicPress theme laid it
@@ -8,31 +8,30 @@ import { imageUrl, Nav, Post } from '../../data/content';
  *
  * `blog` lays it out as a blog post (category as "Posted In:"), the way
  * news posts and every post in the home page's blog index look; otherwise
- * as a comic (storyline category list). `commentLink` is the home page's
- * "Comment" / "N Comments" link text.
+ * as a comic (storyline category list). `commentLink` adds the home page's
+ * "Comment" / "N Comments" link.
  */
-export const PostBody = ({ post, link, blog, commentLink }: { post: Post; link?: boolean; blog?: boolean; commentLink?: string }) => {
-  const count = commentLink && commentLink.match(/^(\d+) /);
+export const PostBody = ({ post, link, blog, commentLink }: { post: Post; link?: boolean; blog?: boolean; commentLink?: boolean }) => {
+  const count = post.comments.length + post.pingbacks.length;
+  const cat = (slug: string) => <a href={`/${slug}/`} rel="category tag">{categoryName(slug)}</a>;
   return (
-    <div class={`post-${post.id} post uentry post-${blog ? 'blog' : 'comic'}`}>
+    <div class={`post uentry post-${blog ? 'blog' : 'comic'}`}>
       <div class="post-head"></div>
       <div class="post-content">
         <div class="post-info">
           <div class="post-text">
             <h2 class="post-title">{link ? <a href={post.path}>{post.title}</a> : post.title}</h2>
             <span class="post-author">by <a href={`/author/${post.author}/`}>{post.author}</a></span>{' '}
-            <span class="posted-on">on&nbsp;</span><span class="post-date">{post.date}</span>{' '}
-            <span class="posted-at">at&nbsp;</span><span class="post-time">{post.time}</span>
+            <span class="posted-on">on&nbsp;</span><span class="post-date">{longDate(post.date)}</span>{' '}
+            <span class="posted-at">at&nbsp;</span><span class="post-time">{time(post.date)}</span>
             {blog ? (
-              <div class="post-cat">
-                Posted In: {post.categories.map(c => <a href={c.href} rel="category tag">{c.title}</a>)}
-              </div>
+              <div class="post-cat">Posted In: {post.categories.map(cat)}</div>
             ) : (
               <ul class="storyline-cats">
                 {/* Parent category first: "Comics » Eat Shit and Die". */}
                 {post.categories.map((c, i, all) => (
                   <li class={i === 0 ? 'storyline-root' : undefined}>
-                    <a href={c.href} rel="category tag">{c.title}</a>
+                    {cat(c)}
                     {i < all.length - 1 && ' » '}
                   </li>
                 ))}
@@ -41,13 +40,13 @@ export const PostBody = ({ post, link, blog, commentLink }: { post: Post; link?:
           </div>
         </div>
         <div class="clear"></div>
-        <div class="entry" innerHTML={`${post.html}<div class="clear"></div>`}></div>
+        <div class="entry" innerHTML={`${post.body ?? ''}<div class="clear"></div>`}></div>
         <div class="clear"></div>
         <div class="post-extras">
           <div class="post-tags">
             {post.tags.length > 0 && [
               '└ Tags: ',
-              post.tags.map((t, i) => [i > 0 && ', ', <a href={t.href} rel="tag">{t.title}</a>]),
+              post.tags.map((t, i) => [i > 0 && ', ', <a href={`/tag/${t}/`} rel="tag">{tagName(t)}</a>]),
               <br />,
             ]}
           </div>
@@ -55,11 +54,11 @@ export const PostBody = ({ post, link, blog, commentLink }: { post: Post; link?:
             <div class="comment-link">
               {count ? (
                 <a href={`${post.path}#comments`}>
-                  <span class="comment-balloon">{count[1]}</span> {commentLink.slice(count[0].length)}{' '}
+                  <span class="comment-balloon">{count}</span> {count === 1 ? 'Comment' : 'Comments'}{' '}
                 </a>
               ) : (
                 <a href={`${post.path}#respond`}>
-                  <span class="comment-balloon comment-balloon-empty">&nbsp;</span> {commentLink}{' '}
+                  <span class="comment-balloon comment-balloon-empty">&nbsp;</span> Comment{' '}
                 </a>
               )}
             </div>
@@ -74,13 +73,13 @@ export const PostBody = ({ post, link, blog, commentLink }: { post: Post; link?:
 
 /** The comic image(s), in the theme's comic-wrap frame. */
 export const ComicImage = ({ post }: { post: Post }) => (
-  <div id="comic-wrap" class={`comic-id-${post.id}`}>
+  <div id="comic-wrap">
     <div id="comic-head"></div>
     <div class="clear"></div>
     <div id="comic">
-      {post.images.map((img, i) => (
+      {post.images.map((src, i) => (
         <div id={`comic-${i + 1}`} class="comicpane">
-          <img src={imageUrl(post, img)} alt={img.alt} title={img.title} />
+          <img src={imageUrl(post, src)} alt={post.hoverText ?? post.title} title={post.hoverText ?? post.title} />
         </div>
       ))}
     </div>

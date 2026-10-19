@@ -1,78 +1,31 @@
 {
- "path": "/bobandbob/bob-and-bob-13/",
- "series": "bobandbob",
- "slug": "bob-and-bob-13",
- "id": 23,
  "title": "Bob And Bob 13",
  "author": "emulsifier",
- "date": "April 30, 2008",
- "time": "12:00 am",
- "datetime": "2008-04-30T00:00:00",
- "categories": [
-  {
-   "title": "Bob and Bob",
-   "href": "/bobandbob/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-23 post type-post status-publish format-standard hentry category-bobandbob uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-04-30T00:00",
  "images": [
-  {
-   "src": "2008-04-30-Bob_And_Bob_13.jpg",
-   "alt": "Bob And Bob 13",
-   "title": "Bob And Bob 13"
-  }
+  "2008-04-30-Bob_And_Bob_13.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/bobandbob/bob-and-bob-12/",
-  "next": "/bobandbob/bob-and-bob-14/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/bobandbob/bob-and-bob-12/",
-  "next": "/bobandbob/bob-and-bob-14/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1961,
    "author": "Garson",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/16172fe7554a7e1a0310790de066fa01?s=64&d=identicon&r=r",
-   "time": "April 1, 2010 at 6:14 am",
-   "timeTitle": "Thursday, April 1st, 2010, 6:14 am",
-   "html": "<p>What exactly is that last pannel supposed to be?</p>"
+   "date": "2010-04-01T06:14",
+   "avatar": "16172fe7554a7e1a0310790de066fa01",
+   "text": "<p>What exactly is that last pannel supposed to be?</p>"
   },
   {
    "id": 2596,
    "author": "exevil",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b1f32c2e135a96b6563afaf0de2fb0c9?s=64&d=identicon&r=r",
-   "time": "June 5, 2010 at 10:03 pm",
-   "timeTitle": "Saturday, June 5th, 2010, 10:03 pm",
-   "html": "<p>Looks like a closeup of his left eye crying</p>"
+   "date": "2010-06-05T22:03",
+   "avatar": "b1f32c2e135a96b6563afaf0de2fb0c9",
+   "text": "<p>Looks like a closeup of his left eye crying</p>"
   },
   {
    "id": 7811,
    "author": "Andrea",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8231177e8da90f51824ac0dd9f2dfe06?s=64&d=identicon&r=r",
-   "time": "June 6, 2011 at 2:45 pm",
-   "timeTitle": "Monday, June 6th, 2011, 2:45 pm",
-   "html": "<p>glad we got that one cleared up XD</p>"
+   "date": "2011-06-06T14:45",
+   "avatar": "8231177e8da90f51824ac0dd9f2dfe06",
+   "text": "<p>glad we got that one cleared up XD</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob And Bob 13",
-  "bodyClass": "post-template-default single single-post postid-23 single-format-standard user-guest comic unknown single-category-bobandbob single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Bob And Bob 13",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-04-30-Bob_And_Bob_13.jpg"
- }
+ ]
 }

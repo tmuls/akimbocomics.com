@@ -1,200 +1,130 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-205/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-205",
- "id": 725,
  "title": "eat shit & die 205",
  "author": "bpatrick",
- "date": "March 14, 2012",
- "time": "12:00 am",
- "datetime": "2012-03-14T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2012-03-14T00:00",
  "tags": [
-  {
-   "title": "breasts",
-   "href": "/tag/breasts/"
-  }
+  "breasts"
  ],
- "html": "<p>I have a tendency to think like Dave and insulate myself but I&#8217;m trying to be more like Chloe.</p>",
- "postClass": "post-725 post type-post status-publish format-standard hentry category-eatshitanddie tag-breasts uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2012-03-14-Eat_Shit_And_Die_205.jpg",
-   "alt": "eat shit & die 205",
-   "title": "eat shit & die 205"
-  }
+  "2012-03-14-Eat_Shit_And_Die_205.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-54/",
-  "next": "/curiousurgency/curious-urgency-55/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-54/",
-  "next": "/curiousurgency/curious-urgency-55/"
- },
- "commentCount": 16,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I have a tendency to think like Dave and insulate myself but I&#8217;m trying to be more like Chloe.</p>",
  "comments": [
   {
    "id": 67579,
    "author": "Eric",
+   "date": "2012-03-15T03:11",
    "url": "http://babybeebooks.com",
-   "avatar": "http://0.gravatar.com/avatar/c5522670f04175ec395517282603b2c5?s=64&d=identicon&r=r",
-   "time": "March 15, 2012 at 3:11 am",
-   "timeTitle": "Thursday, March 15th, 2012, 3:11 am",
-   "html": "<p>But for panel 16, the cat would not have technically been a break in continuity.</p>"
+   "avatar": "c5522670f04175ec395517282603b2c5",
+   "text": "<p>But for panel 16, the cat would not have technically been a break in continuity.</p>"
   },
   {
    "id": 67594,
    "author": "Cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "March 15, 2012 at 4:29 am",
-   "timeTitle": "Thursday, March 15th, 2012, 4:29 am",
-   "html": "<p>Awesome. I love that feeling I get halfway through one of your comics, when I know something funny and/or unexpected is coming at the end, and I don&#8217;t know what it is yet but I know it&#8217;s going to be good.  If I could get that in a pill form I would be a total junkie.</p>"
+   "date": "2012-03-15T04:29",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>Awesome. I love that feeling I get halfway through one of your comics, when I know something funny and/or unexpected is coming at the end, and I don&#8217;t know what it is yet but I know it&#8217;s going to be good.  If I could get that in a pill form I would be a total junkie.</p>"
   },
   {
    "id": 67722,
    "author": "zian",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1d8feb6df924dc1d0aac1300a42609e0?s=64&d=identicon&r=r",
-   "time": "March 15, 2012 at 5:55 pm",
-   "timeTitle": "Thursday, March 15th, 2012, 5:55 pm",
-   "html": "<p>fantastic.</p>"
+   "date": "2012-03-15T17:55",
+   "avatar": "1d8feb6df924dc1d0aac1300a42609e0",
+   "text": "<p>fantastic.</p>"
   },
   {
    "id": 67758,
    "author": "erdosain",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/fdec03f154c51b58e4950f4f79548a44?s=64&d=identicon&r=r",
-   "time": "March 15, 2012 at 8:43 pm",
-   "timeTitle": "Thursday, March 15th, 2012, 8:43 pm",
-   "html": "<p>Yep. Empty, insular, self-obsessed life. That&#8217;s me alright. </p>\n<p>Love ES&amp;D, read all the archives. This and Subnormality are my personal heaven.</p>"
+   "date": "2012-03-15T20:43",
+   "avatar": "fdec03f154c51b58e4950f4f79548a44",
+   "text": "<p>Yep. Empty, insular, self-obsessed life. That&#8217;s me alright. </p>\n<p>Love ES&amp;D, read all the archives. This and Subnormality are my personal heaven.</p>"
   },
   {
    "id": 68600,
    "author": "iaoth",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/435c856ae156028166e43065bf6285cf?s=64&d=identicon&r=r",
-   "time": "March 18, 2012 at 2:22 pm",
-   "timeTitle": "Sunday, March 18th, 2012, 2:22 pm",
-   "html": "<p>This is my current internal dialog in comic strip form.</p>"
+   "date": "2012-03-18T14:22",
+   "avatar": "435c856ae156028166e43065bf6285cf",
+   "text": "<p>This is my current internal dialog in comic strip form.</p>"
   },
   {
    "id": 68955,
    "author": "RatB",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/88b872d2e6607ef153dda332c13f18a1?s=64&d=identicon&r=r",
-   "time": "March 19, 2012 at 10:50 pm",
-   "timeTitle": "Monday, March 19th, 2012, 10:50 pm",
-   "html": "<p>@iaoth Just coming off a mean stretch of &#8220;Dave&#8221; myself.</p>"
+   "date": "2012-03-19T22:50",
+   "avatar": "88b872d2e6607ef153dda332c13f18a1",
+   "text": "<p>@iaoth Just coming off a mean stretch of &#8220;Dave&#8221; myself.</p>"
   },
   {
    "id": 69208,
    "author": "Hontz",
+   "date": "2012-03-20T19:16",
    "url": "http://falsedivision.wordpress.com",
-   "avatar": "http://1.gravatar.com/avatar/aaf54daaeed5fe4d100c8fafcd8e9259?s=64&d=identicon&r=r",
-   "time": "March 20, 2012 at 7:16 pm",
-   "timeTitle": "Tuesday, March 20th, 2012, 7:16 pm",
-   "html": "<p>Thank you for this. Sometimes it&#8217;s difficult to find an eloquent way to describe my loathing of social networking, but this does the trick.</p>"
+   "avatar": "aaf54daaeed5fe4d100c8fafcd8e9259",
+   "text": "<p>Thank you for this. Sometimes it&#8217;s difficult to find an eloquent way to describe my loathing of social networking, but this does the trick.</p>"
   },
   {
    "id": 69330,
    "author": "mendel",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/25b265c683019f02e2b53a0d5c19027b?s=64&d=identicon&r=r",
-   "time": "March 21, 2012 at 4:15 am",
-   "timeTitle": "Wednesday, March 21st, 2012, 4:15 am",
-   "html": "<p>Actually, I hope I&#8217;m never going to be someone who agrees to &#8220;your sense of self is developed and refined relative to the other&#8221;. As somebody who grew up playing by himself in the woods, I find that my sense of self wanes when in company and gets restored when in solitude. In company, my sense of what I want and need and feel is constantly attacked by the expectations of others and me unconsciously adapting to the &#8220;group mind&#8221;.</p>\n<p>To put it more tritely so that maybe Chloe can understand, I may think I have everything I need when alone (except maybe company), but when comparing myself to others, I may get envious of their possessions or talents and defensive about my own thoughts &#8211; as is Dave in this strip.  Why doesn&#8217;t he simply say, &#8220;I don&#8217;t want to tell anyone about my day any more. What&#8217;s that good for, anyway?&#8221; I suspect an honest answer is, &#8220;so that others can pat you on the back and affirm your lifestyle&#8221;. Sucks to be someone whose self is out of the group norm, because that sort of thing rarely works well for them.</p>\n<p>Now where&#8217;s the preview button on this comment thingie?</p>"
+   "date": "2012-03-21T04:15",
+   "avatar": "25b265c683019f02e2b53a0d5c19027b",
+   "text": "<p>Actually, I hope I&#8217;m never going to be someone who agrees to &#8220;your sense of self is developed and refined relative to the other&#8221;. As somebody who grew up playing by himself in the woods, I find that my sense of self wanes when in company and gets restored when in solitude. In company, my sense of what I want and need and feel is constantly attacked by the expectations of others and me unconsciously adapting to the &#8220;group mind&#8221;.</p>\n<p>To put it more tritely so that maybe Chloe can understand, I may think I have everything I need when alone (except maybe company), but when comparing myself to others, I may get envious of their possessions or talents and defensive about my own thoughts &#8211; as is Dave in this strip.  Why doesn&#8217;t he simply say, &#8220;I don&#8217;t want to tell anyone about my day any more. What&#8217;s that good for, anyway?&#8221; I suspect an honest answer is, &#8220;so that others can pat you on the back and affirm your lifestyle&#8221;. Sucks to be someone whose self is out of the group norm, because that sort of thing rarely works well for them.</p>\n<p>Now where&#8217;s the preview button on this comment thingie?</p>"
   },
   {
    "id": 69427,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "March 21, 2012 at 9:14 am",
-   "timeTitle": "Wednesday, March 21st, 2012, 9:14 am",
-   "html": "<p>People are too scared to share their ideas. Experiences are cheap and casual; ideas are precious and fragile.</p>"
+   "date": "2012-03-21T09:14",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>People are too scared to share their ideas. Experiences are cheap and casual; ideas are precious and fragile.</p>"
   },
   {
    "id": 69880,
    "author": "kitschbot",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8480f829bb5be3a8f8d9cadbc3f745a9?s=64&d=identicon&r=r",
-   "time": "March 23, 2012 at 6:07 am",
-   "timeTitle": "Friday, March 23rd, 2012, 6:07 am",
-   "html": "<p>reminded me of this:<br />\n<a href=\"http://www.smbc-comics.com/index.php?db=comics&#038;id=2543#comic\" rel=\"nofollow\">http://www.smbc-comics.com/index.php?db=comics&#038;id=2543#comic</a><br />\nnamely, from smbc, &#8220;the only confirmation that reality exists is the shared experiences of human beings in known contexts.&#8221;</p>\n<p>also, i love the cat under the tits</p>"
+   "date": "2012-03-23T06:07",
+   "avatar": "8480f829bb5be3a8f8d9cadbc3f745a9",
+   "text": "<p>reminded me of this:<br />\n<a href=\"http://www.smbc-comics.com/index.php?db=comics&#038;id=2543#comic\" rel=\"nofollow\">http://www.smbc-comics.com/index.php?db=comics&#038;id=2543#comic</a><br />\nnamely, from smbc, &#8220;the only confirmation that reality exists is the shared experiences of human beings in known contexts.&#8221;</p>\n<p>also, i love the cat under the tits</p>"
   },
   {
    "id": 70120,
    "author": "randomguy",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e21949a78bc73d80b580489f5536a4d6?s=64&d=identicon&r=r",
-   "time": "March 24, 2012 at 11:19 am",
-   "timeTitle": "Saturday, March 24th, 2012, 11:19 am",
-   "html": "<p>haha in a way i can see where both parties are coming from, but i always believe that a good balance is essential. were human beings, at the end of the day we need isolation just as much as we need interaction. especially love the last 3 panels btw. nice touch on the thought of discussing ideas through the internet, faceblab and the titties 😛</p>"
+   "date": "2012-03-24T11:19",
+   "avatar": "e21949a78bc73d80b580489f5536a4d6",
+   "text": "<p>haha in a way i can see where both parties are coming from, but i always believe that a good balance is essential. were human beings, at the end of the day we need isolation just as much as we need interaction. especially love the last 3 panels btw. nice touch on the thought of discussing ideas through the internet, faceblab and the titties 😛</p>"
   },
   {
    "id": 71827,
    "author": "Tyler",
+   "date": "2012-04-02T05:12",
    "url": "http://forbiddenferret.com",
-   "avatar": "http://2.gravatar.com/avatar/bb889fbd72363360ff6e72a27942fa8d?s=64&d=identicon&r=r",
-   "time": "April 2, 2012 at 5:12 am",
-   "timeTitle": "Monday, April 2nd, 2012, 5:12 am",
-   "html": "<p>She has a pretty good grasp of the internet.  It&#8217;s pretty much just that and watching people hurt themselves on skateboards.</p>"
+   "avatar": "bb889fbd72363360ff6e72a27942fa8d",
+   "text": "<p>She has a pretty good grasp of the internet.  It&#8217;s pretty much just that and watching people hurt themselves on skateboards.</p>"
   },
   {
    "id": 71877,
    "author": "Francois Tremblay",
+   "date": "2012-04-04T05:33",
    "url": "http://francoistremblay.wordpress.com/",
-   "avatar": "http://0.gravatar.com/avatar/9c72f933afcff0c77a1a4a7bc11f7521?s=64&d=identicon&r=r",
-   "time": "April 4, 2012 at 5:33 am",
-   "timeTitle": "Wednesday, April 4th, 2012, 5:33 am",
-   "html": "<p>Don&#8217;t be like Chloe! Your comic won&#8217;t be as interesting. 🙁</p>"
+   "avatar": "9c72f933afcff0c77a1a4a7bc11f7521",
+   "text": "<p>Don&#8217;t be like Chloe! Your comic won&#8217;t be as interesting. 🙁</p>"
   },
   {
    "id": 83407,
    "author": "John",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/42ee5fa55ff708b702e72f9262712425?s=64&d=identicon&r=r",
-   "time": "May 23, 2012 at 2:00 am",
-   "timeTitle": "Wednesday, May 23rd, 2012, 2:00 am",
-   "html": "<p>Interestingly it&#8217;s very difficult to talk about ideas engagingly without the context of the stuff we do. How would you know that I wanted to hear your theory of miss matches socks if I didn&#8217;t tell you that sock mismatch-ment was a serious and continuing problem in my life? Alternatively cold pitched ideas are much better received if they are prefaced with a story of the idea&#8217;s inspiration. And then there&#8217;s the case of spontaneous ideas when someone think of something interesting in response to the mundane situation you&#8217;ve described.</p>\n<p>Ideas reference the world around us and for the sharing of an idea to have value between two people the aspect of the world which it references must be made relevant.</p>\n<p>That said a lot of people talk about drivel and never put together a more cogent idea than, &#8220;I guess sometimes you just can&#8217;t win.&#8221; So don&#8217;t avoid talking to people, just avoid talking to dull, uninteresting people.</p>"
+   "date": "2012-05-23T02:00",
+   "avatar": "42ee5fa55ff708b702e72f9262712425",
+   "text": "<p>Interestingly it&#8217;s very difficult to talk about ideas engagingly without the context of the stuff we do. How would you know that I wanted to hear your theory of miss matches socks if I didn&#8217;t tell you that sock mismatch-ment was a serious and continuing problem in my life? Alternatively cold pitched ideas are much better received if they are prefaced with a story of the idea&#8217;s inspiration. And then there&#8217;s the case of spontaneous ideas when someone think of something interesting in response to the mundane situation you&#8217;ve described.</p>\n<p>Ideas reference the world around us and for the sharing of an idea to have value between two people the aspect of the world which it references must be made relevant.</p>\n<p>That said a lot of people talk about drivel and never put together a more cogent idea than, &#8220;I guess sometimes you just can&#8217;t win.&#8221; So don&#8217;t avoid talking to people, just avoid talking to dull, uninteresting people.</p>"
   },
   {
    "id": 115776,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "October 27, 2012 at 11:42 pm",
-   "timeTitle": "Saturday, October 27th, 2012, 11:42 pm",
-   "html": "<p>I agree with Dave in the comic as well as Mendel and Johnny Paycheck. Chloe has no basis for asserting that only shared experiences matter. What of great scientists like Tesla, then? The isolation and dedication they had to their work was worthless? I think not.</p>"
+   "date": "2012-10-27T23:42",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>I agree with Dave in the comic as well as Mendel and Johnny Paycheck. Chloe has no basis for asserting that only shared experiences matter. What of great scientists like Tesla, then? The isolation and dedication they had to their work was worthless? I think not.</p>"
   },
   {
    "id": 415536,
    "author": "not giving a name sorry",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/831e37506fa424ded4454d20e5271104?s=64&d=identicon&r=r",
-   "time": "January 22, 2014 at 12:36 am",
-   "timeTitle": "Wednesday, January 22nd, 2014, 12:36 am",
-   "html": "<p>metalife isnt so bad if its shared. some people glean satisfaction from experience, others from theory.<br />\nalso: (rambling ahoy)<br />\nultimately, yes we are all alone. true connection with another being is impossible, (especially without knowing the answer to The Hard Question).<br />\nits all moot anyway- existence itself is so contradictory its almost moot in itself.<br />\nso yes, we are nothing. (anatta)<br />\nbut why is that a bad thing? its freeing, it means that since we can assume a) we arent truly people how we would like to think we are b) we are pretty much always wrong, &#8220;meaning&#8221; is a foolish thing to &#8220;seek&#8221;. one cannot seek without a self or a firm grasp on reality. and no one has either.<br />\nwe can only think- create- experience-<br />\ninternal or external doesnt matter in the least.</p>"
+   "date": "2014-01-22T00:36",
+   "avatar": "831e37506fa424ded4454d20e5271104",
+   "text": "<p>metalife isnt so bad if its shared. some people glean satisfaction from experience, others from theory.<br />\nalso: (rambling ahoy)<br />\nultimately, yes we are all alone. true connection with another being is impossible, (especially without knowing the answer to The Hard Question).<br />\nits all moot anyway- existence itself is so contradictory its almost moot in itself.<br />\nso yes, we are nothing. (anatta)<br />\nbut why is that a bad thing? its freeing, it means that since we can assume a) we arent truly people how we would like to think we are b) we are pretty much always wrong, &#8220;meaning&#8221; is a foolish thing to &#8220;seek&#8221;. one cannot seek without a self or a firm grasp on reality. and no one has either.<br />\nwe can only think- create- experience-<br />\ninternal or external doesnt matter in the least.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 205",
-  "bodyClass": "post-template-default single single-post postid-725 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 205",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-03-14-Eat_Shit_And_Die_205.jpg"
- }
+ ]
 }

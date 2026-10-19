@@ -1,258 +1,178 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-200/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-200",
- "id": 703,
  "title": "eat shit & die 200",
  "author": "bpatrick",
- "date": "October 21, 2011",
- "time": "12:00 am",
- "datetime": "2011-10-21T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I&#8217;ve been extra worried lately about being &#8211; I don&#8217;t know &#8211; misunderstood. I am in no way advocating murder. I just think, as a moral person, the points Trent brings up need to be addressed. One should have some very convincing reasons not to commit murder but they may not be as easy as you&#8217;d think. Dostoevsky was much better at this kind of thing than I&#8217;ll ever be. Anyway, I think about this stuff and thought I&#8217;d share &#8211; in my clumsy way. </p>",
- "postClass": "post-703 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-10-21T00:00",
  "images": [
-  {
-   "src": "2011-10-21-Eat_Shit_And_Die_200.jpg",
-   "alt": "eat shit & die 200",
-   "title": "eat shit & die 200"
-  }
+  "2011-10-21-Eat_Shit_And_Die_200.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-199/",
-  "next": "/curiousurgency/curious-urgency-52/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-199/",
-  "next": "/curiousurgency/curious-urgency-52/"
- },
- "commentCount": 23,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I&#8217;ve been extra worried lately about being &#8211; I don&#8217;t know &#8211; misunderstood. I am in no way advocating murder. I just think, as a moral person, the points Trent brings up need to be addressed. One should have some very convincing reasons not to commit murder but they may not be as easy as you&#8217;d think. Dostoevsky was much better at this kind of thing than I&#8217;ll ever be. Anyway, I think about this stuff and thought I&#8217;d share &#8211; in my clumsy way. </p>",
  "comments": [
   {
    "id": 10461,
    "author": "rachmoss",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/7e4af60a7fcb71071c11804f00792241?s=64&d=identicon&r=r",
-   "time": "October 21, 2011 at 5:14 am",
-   "timeTitle": "Friday, October 21st, 2011, 5:14 am",
-   "html": "<p>i particularly liked the gray cat with a mouse/rat in his mouth. 😉</p>"
+   "date": "2011-10-21T05:14",
+   "avatar": "7e4af60a7fcb71071c11804f00792241",
+   "text": "<p>i particularly liked the gray cat with a mouse/rat in his mouth. 😉</p>"
   },
   {
    "id": 10463,
    "author": "spinakker",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c38a6f9cbcc95b81e1336bea62cf023b?s=64&d=identicon&r=r",
-   "time": "October 21, 2011 at 6:58 am",
-   "timeTitle": "Friday, October 21st, 2011, 6:58 am",
-   "html": "<p>You&#8217;re right, the time is long gone when it could&#8217;ve said that something is &#8220;right&#8221; or &#8220;wrong&#8221; without much thinking.<br />\nIf your refer to Crime and Punishment by Dostoevsky, then I don&#8217;t think he was really convincing with Raskolnikov&#8217;s case: he never felt guilty (at least not explicitly), and for a long time he did feel that he can even murder because he&#8217;s better. What I realized, however, no matter how superior Raskolnikov or we think we are morally or otherwise, we are still little pieces of shit.</p>"
+   "date": "2011-10-21T06:58",
+   "avatar": "c38a6f9cbcc95b81e1336bea62cf023b",
+   "text": "<p>You&#8217;re right, the time is long gone when it could&#8217;ve said that something is &#8220;right&#8221; or &#8220;wrong&#8221; without much thinking.<br />\nIf your refer to Crime and Punishment by Dostoevsky, then I don&#8217;t think he was really convincing with Raskolnikov&#8217;s case: he never felt guilty (at least not explicitly), and for a long time he did feel that he can even murder because he&#8217;s better. What I realized, however, no matter how superior Raskolnikov or we think we are morally or otherwise, we are still little pieces of shit.</p>"
   },
   {
    "id": 10472,
    "author": "Winston Rowntree",
+   "date": "2011-10-21T15:33",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "October 21, 2011 at 3:33 pm",
-   "timeTitle": "Friday, October 21st, 2011, 3:33 pm",
-   "html": "<p>Don&#8217;t worry, the audience will give you the benefit of the doubt as opposed to assuming you&#8217;re advocating something horrible. And congrats on 200 ESADs!! This one was scary, in a good way, and it&#8217;s clear you spent a lot of time on the art because it looks friggin&#8217; great. Background art, kids. Background art.</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>Don&#8217;t worry, the audience will give you the benefit of the doubt as opposed to assuming you&#8217;re advocating something horrible. And congrats on 200 ESADs!! This one was scary, in a good way, and it&#8217;s clear you spent a lot of time on the art because it looks friggin&#8217; great. Background art, kids. Background art.</p>"
   },
   {
    "id": 10475,
    "author": "mike",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a2a1967989caa4f9bd3552a2298f45e8?s=64&d=identicon&r=r",
-   "time": "October 21, 2011 at 4:23 pm",
-   "timeTitle": "Friday, October 21st, 2011, 4:23 pm",
-   "html": "<p>Trent = Thrasymachus?</p>\n<p>Just thought I&#8217;d remark that Plato too thought responding to points like Trent&#8217;s is important; answering them is his aim in the Republic.</p>\n<p>Keep up the great work!</p>"
+   "date": "2011-10-21T16:23",
+   "avatar": "a2a1967989caa4f9bd3552a2298f45e8",
+   "text": "<p>Trent = Thrasymachus?</p>\n<p>Just thought I&#8217;d remark that Plato too thought responding to points like Trent&#8217;s is important; answering them is his aim in the Republic.</p>\n<p>Keep up the great work!</p>"
   },
   {
    "id": 10476,
    "author": "Shawn Orrange",
+   "date": "2011-10-21T18:07",
    "url": "http://www.sidequests.org",
-   "avatar": "http://0.gravatar.com/avatar/0fbc328f23e2745d6728f38fec92cadb?s=64&d=identicon&r=r",
-   "time": "October 21, 2011 at 6:07 pm",
-   "timeTitle": "Friday, October 21st, 2011, 6:07 pm",
-   "html": "<p>When I read the fifth panel all I could think was, &#8220;Tragedy of the Commons.&#8221;</p>"
+   "avatar": "0fbc328f23e2745d6728f38fec92cadb",
+   "text": "<p>When I read the fifth panel all I could think was, &#8220;Tragedy of the Commons.&#8221;</p>"
   },
   {
    "id": 10550,
    "author": "Francois Tremblay",
+   "date": "2011-10-23T22:48",
    "url": "http://francoistremblay.wordpress.com/",
-   "avatar": "http://0.gravatar.com/avatar/9c72f933afcff0c77a1a4a7bc11f7521?s=64&d=identicon&r=r",
-   "time": "October 23, 2011 at 10:48 pm",
-   "timeTitle": "Sunday, October 23rd, 2011, 10:48 pm",
-   "html": "<p>You&#8217;re an idiot and probably a sociopath. But you make wonderful comics. Keep it up. 🙂</p>"
+   "avatar": "9c72f933afcff0c77a1a4a7bc11f7521",
+   "text": "<p>You&#8217;re an idiot and probably a sociopath. But you make wonderful comics. Keep it up. 🙂</p>"
   },
   {
    "id": 10565,
    "author": "Motmaitre",
+   "date": "2011-10-24T10:56",
    "url": "http://www.motmaitre.com",
-   "avatar": "http://0.gravatar.com/avatar/63725a25bde9ab541e1bb68c5c5a09eb?s=64&d=identicon&r=r",
-   "time": "October 24, 2011 at 10:56 am",
-   "timeTitle": "Monday, October 24th, 2011, 10:56 am",
-   "html": "<p>What you&#8217;re describing is a Game Theory problem. Basically, if everyone agrees not to kill, everyone is better off. But if one person decides to defect (i.e. cheat) then that person becomes better off than everyone else, since they&#8217;re the only one enjoying the pleasure of killing, while eevryone else is a victim.</p>\n<p>This raises the dilemma: if cheating is so beneficial, then why shouldn;t everyone cheat (i.e. become a murdered)? This is the weakness in your protagonist&#8217;s logic- he assumes he&#8217;s the only person thinking this way. So how do we ensure that everybody doesn&#8217;t cheat and become a murderer? We enforce the contract- that&#8217;s what cops and the courts are for. </p>\n<p>Of course, this is all premised on the idea that murder is beneficial to the murderer. That&#8217;s a discussion for another day.</p>"
+   "avatar": "63725a25bde9ab541e1bb68c5c5a09eb",
+   "text": "<p>What you&#8217;re describing is a Game Theory problem. Basically, if everyone agrees not to kill, everyone is better off. But if one person decides to defect (i.e. cheat) then that person becomes better off than everyone else, since they&#8217;re the only one enjoying the pleasure of killing, while eevryone else is a victim.</p>\n<p>This raises the dilemma: if cheating is so beneficial, then why shouldn;t everyone cheat (i.e. become a murdered)? This is the weakness in your protagonist&#8217;s logic- he assumes he&#8217;s the only person thinking this way. So how do we ensure that everybody doesn&#8217;t cheat and become a murderer? We enforce the contract- that&#8217;s what cops and the courts are for. </p>\n<p>Of course, this is all premised on the idea that murder is beneficial to the murderer. That&#8217;s a discussion for another day.</p>"
   },
   {
    "id": 10614,
    "author": "AJ",
+   "date": "2011-10-25T21:12",
    "url": "http://na",
-   "avatar": "http://2.gravatar.com/avatar/e531e8c39d11fc5c30bc0c298a2a2992?s=64&d=identicon&r=r",
-   "time": "October 25, 2011 at 9:12 pm",
-   "timeTitle": "Tuesday, October 25th, 2011, 9:12 pm",
-   "html": "<p>i work at a bar and literally spend my day having conversations about this stuff and usually people spin some trite but occasionally i get a really good point and a few months back a guy came in and we practically parodied Leopold and Loeb which i found very funny until i realised he was being serious, i left him alone from than on</p>\n<p>i liked the cat and mouse in the 7th panel</p>"
+   "avatar": "e531e8c39d11fc5c30bc0c298a2a2992",
+   "text": "<p>i work at a bar and literally spend my day having conversations about this stuff and usually people spin some trite but occasionally i get a really good point and a few months back a guy came in and we practically parodied Leopold and Loeb which i found very funny until i realised he was being serious, i left him alone from than on</p>\n<p>i liked the cat and mouse in the 7th panel</p>"
   },
   {
    "id": 10671,
    "author": "Pavel",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/91fe978bf915be2ae1e7f69756af96f8?s=64&d=identicon&r=r",
-   "time": "October 26, 2011 at 3:05 pm",
-   "timeTitle": "Wednesday, October 26th, 2011, 3:05 pm",
-   "html": "<p>Murdering others absolutely increases your chances of being murdered, as soon as other people find out that you&#8217;re a murderer. If I know you&#8217;re killing people on a regular basis, it&#8217;s only a matter of time until you get to me &#8211; so it&#8217;s in my self interest to preemptively remove you as a threat.</p>"
+   "date": "2011-10-26T15:05",
+   "avatar": "91fe978bf915be2ae1e7f69756af96f8",
+   "text": "<p>Murdering others absolutely increases your chances of being murdered, as soon as other people find out that you&#8217;re a murderer. If I know you&#8217;re killing people on a regular basis, it&#8217;s only a matter of time until you get to me &#8211; so it&#8217;s in my self interest to preemptively remove you as a threat.</p>"
   },
   {
    "id": 10717,
    "author": "mike",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a2a1967989caa4f9bd3552a2298f45e8?s=64&d=identicon&r=r",
-   "time": "October 26, 2011 at 9:07 pm",
-   "timeTitle": "Wednesday, October 26th, 2011, 9:07 pm",
-   "html": "<p>@Motmaitre, Pavel:</p>\n<p>The game theoretical point is an interesting one, but I don&#8217;t think it&#8217;s the central issue.</p>\n<p>The idea, I take it, is that if we assume Trent doesn&#8217;t get caught (see panel 4), that nobody else is not going to follow the same strategy (panel 5), and that murder provides some benefit to him (maybe because &#8216;murder is awesome&#8217;, maybe the victim has a wad of cash, etc.), then it&#8217;s in his best interest to murder. So we can&#8217;t merely cite the fact that society would treat him differently&#8211;that would be to deny the hypothesis. But even so, most of us (I hope) would resist the conclusion that to commit murder on a whim is what he should do. What we would need to show is that Trent would be worse off for committing murder, despite the short-term gains in pleasure or money and despite not being detected. And to do this we&#8217;d have to have some account of what it is to be better or worse off that&#8217;s to some degree independent of these sorts of gains, some account of what&#8217;s good for a person that&#8217;s not completely tied to pleasure or money or standing in society. We&#8217;d have to show that doing what&#8217;s &#8216;fair&#8217; for the sake of its being fair is what&#8217;s best for Trent. A difficult task, particularly if we accept that we &#8216;exist  for a flash in otherwise infinite nothingness&#8217;.</p>"
+   "date": "2011-10-26T21:07",
+   "avatar": "a2a1967989caa4f9bd3552a2298f45e8",
+   "text": "<p>@Motmaitre, Pavel:</p>\n<p>The game theoretical point is an interesting one, but I don&#8217;t think it&#8217;s the central issue.</p>\n<p>The idea, I take it, is that if we assume Trent doesn&#8217;t get caught (see panel 4), that nobody else is not going to follow the same strategy (panel 5), and that murder provides some benefit to him (maybe because &#8216;murder is awesome&#8217;, maybe the victim has a wad of cash, etc.), then it&#8217;s in his best interest to murder. So we can&#8217;t merely cite the fact that society would treat him differently&#8211;that would be to deny the hypothesis. But even so, most of us (I hope) would resist the conclusion that to commit murder on a whim is what he should do. What we would need to show is that Trent would be worse off for committing murder, despite the short-term gains in pleasure or money and despite not being detected. And to do this we&#8217;d have to have some account of what it is to be better or worse off that&#8217;s to some degree independent of these sorts of gains, some account of what&#8217;s good for a person that&#8217;s not completely tied to pleasure or money or standing in society. We&#8217;d have to show that doing what&#8217;s &#8216;fair&#8217; for the sake of its being fair is what&#8217;s best for Trent. A difficult task, particularly if we accept that we &#8216;exist  for a flash in otherwise infinite nothingness&#8217;.</p>"
   },
   {
    "id": 10812,
    "author": "Scrimp1e",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e55595491bf873f71bd4de4b2de20f2a?s=64&d=identicon&r=r",
-   "time": "October 28, 2011 at 8:11 am",
-   "timeTitle": "Friday, October 28th, 2011, 8:11 am",
-   "html": "<p>@mike:</p>\n<p>You&#8217;ve implicitly made the point that it&#8217;s *my* best interest to convince you that you are, in fact, a special and unique snowflake.</p>"
+   "date": "2011-10-28T08:11",
+   "avatar": "e55595491bf873f71bd4de4b2de20f2a",
+   "text": "<p>@mike:</p>\n<p>You&#8217;ve implicitly made the point that it&#8217;s *my* best interest to convince you that you are, in fact, a special and unique snowflake.</p>"
   },
   {
    "id": 10962,
    "author": "Beatriz",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/65124729e7e597988acd75612413c0de?s=64&d=identicon&r=r",
-   "time": "October 29, 2011 at 9:39 pm",
-   "timeTitle": "Saturday, October 29th, 2011, 9:39 pm",
-   "html": "<p>The guy on panel 2 remembered me of the guy of Curious Urgency. Is it he?</p>"
+   "date": "2011-10-29T21:39",
+   "avatar": "65124729e7e597988acd75612413c0de",
+   "text": "<p>The guy on panel 2 remembered me of the guy of Curious Urgency. Is it he?</p>"
   },
   {
    "id": 10997,
    "author": "mike",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a2a1967989caa4f9bd3552a2298f45e8?s=64&d=identicon&r=r",
-   "time": "October 31, 2011 at 12:35 am",
-   "timeTitle": "Monday, October 31st, 2011, 12:35 am",
-   "html": "<p>@Scrimp1e</p>\n<p>What?</p>"
+   "date": "2011-10-31T00:35",
+   "avatar": "a2a1967989caa4f9bd3552a2298f45e8",
+   "text": "<p>@Scrimp1e</p>\n<p>What?</p>"
   },
   {
    "id": 11167,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "November 1, 2011 at 10:11 pm",
-   "timeTitle": "Tuesday, November 1st, 2011, 10:11 pm",
-   "html": "<p>Huh? I understood Trent&#8217;s logic until the end&#8230; people are cowards because they think murder is wrong?</p>"
+   "date": "2011-11-01T22:11",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Huh? I understood Trent&#8217;s logic until the end&#8230; people are cowards because they think murder is wrong?</p>"
   },
   {
    "id": 12441,
    "author": "smibbo",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/65ac3e6ece40a92ab0f798ef81585c39?s=64&d=identicon&r=r",
-   "time": "November 11, 2011 at 6:56 pm",
-   "timeTitle": "Friday, November 11th, 2011, 6:56 pm",
-   "html": "<p>I hope you are still around&#8230; I saw your comic on depression and promptly forwarded and posted it everywhere. It really moved me. To answer some of Trent&#8217;s questions</p>\n<p>1) people do not want to watch someone die. Some of those reasons are existential and some are spiritual but the reasons are there.<br />\n2) the vast majority of &#8220;benefit&#8221; that murder could provide usually could be provided through some other, less disturbing means.<br />\n3) we have it in our DNA to protect and further the human race. Thus is murder a social pact that isn&#8217;t just a relative communal more.<br />\n4) we know that most people have at least one connection to some other decent human being. It is that possible human being we have no wish to hurt.<br />\n5) murdering someone for no discernible benefit other than &#8220;because I can&#8221; indicates sociopathy, which has a host of other problems, most of which will show up long before the sociopath commits murder.<br />\n6) being afraid of consequences isn&#8217;t something to dismiss lightly; it is a mature viewpoint which means we value our place in society even when it is inconvenient.<br />\n7) murder is messy and complicated regardless of how thoughtful or impassioned it is. most people can think of better things to do with their time than murder.<br />\n8) empathy isn&#8217;t something to dismiss either; it shows an ability to step outside one&#8217;s own sphere of experience and project emotions despite lack of immediate connection. When we observe another human being, we generally feel some connection to them, no matter how small. such connection will cause hesitation. Hesitation implies lack of commitment. Which is an &#8220;out&#8221; to change one&#8217;s mind.<br />\n9) murder is generally thought of as being a purely emotional response whether calculated or spontaneous. Human beings have progressed as far as we have by being able to separate our emotional responses and temper them with intellect. This leads is exercising free choice. We revel in our free choice. &#8220;animals murder for small gain, we have found ways around that&#8221;<br />\n10) There&#8217;s always the remote possibility that the person you consider worthy of murder has a connection to someone you don&#8217;t consider worthy of murder and that person&#8217;s life may be traumatically affected by the first person&#8217;s murder. Thus you could potentially change the course of a good future with one selfish thoughtless act. The child or best friend of the person you murder might someday be the doctor who saves your life.</p>\n<p>Please come back.</p>"
+   "date": "2011-11-11T18:56",
+   "avatar": "65ac3e6ece40a92ab0f798ef81585c39",
+   "text": "<p>I hope you are still around&#8230; I saw your comic on depression and promptly forwarded and posted it everywhere. It really moved me. To answer some of Trent&#8217;s questions</p>\n<p>1) people do not want to watch someone die. Some of those reasons are existential and some are spiritual but the reasons are there.<br />\n2) the vast majority of &#8220;benefit&#8221; that murder could provide usually could be provided through some other, less disturbing means.<br />\n3) we have it in our DNA to protect and further the human race. Thus is murder a social pact that isn&#8217;t just a relative communal more.<br />\n4) we know that most people have at least one connection to some other decent human being. It is that possible human being we have no wish to hurt.<br />\n5) murdering someone for no discernible benefit other than &#8220;because I can&#8221; indicates sociopathy, which has a host of other problems, most of which will show up long before the sociopath commits murder.<br />\n6) being afraid of consequences isn&#8217;t something to dismiss lightly; it is a mature viewpoint which means we value our place in society even when it is inconvenient.<br />\n7) murder is messy and complicated regardless of how thoughtful or impassioned it is. most people can think of better things to do with their time than murder.<br />\n8) empathy isn&#8217;t something to dismiss either; it shows an ability to step outside one&#8217;s own sphere of experience and project emotions despite lack of immediate connection. When we observe another human being, we generally feel some connection to them, no matter how small. such connection will cause hesitation. Hesitation implies lack of commitment. Which is an &#8220;out&#8221; to change one&#8217;s mind.<br />\n9) murder is generally thought of as being a purely emotional response whether calculated or spontaneous. Human beings have progressed as far as we have by being able to separate our emotional responses and temper them with intellect. This leads is exercising free choice. We revel in our free choice. &#8220;animals murder for small gain, we have found ways around that&#8221;<br />\n10) There&#8217;s always the remote possibility that the person you consider worthy of murder has a connection to someone you don&#8217;t consider worthy of murder and that person&#8217;s life may be traumatically affected by the first person&#8217;s murder. Thus you could potentially change the course of a good future with one selfish thoughtless act. The child or best friend of the person you murder might someday be the doctor who saves your life.</p>\n<p>Please come back.</p>"
   },
   {
    "id": 12442,
    "author": "smibbo",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/65ac3e6ece40a92ab0f798ef81585c39?s=64&d=identicon&r=r",
-   "time": "November 11, 2011 at 6:59 pm",
-   "timeTitle": "Friday, November 11th, 2011, 6:59 pm",
-   "html": "<p>p.s. that smiley was not intentional. I was trying to do 8 ), not be cool or trite</p>"
+   "date": "2011-11-11T18:59",
+   "avatar": "65ac3e6ece40a92ab0f798ef81585c39",
+   "text": "<p>p.s. that smiley was not intentional. I was trying to do 8 ), not be cool or trite</p>"
   },
   {
    "id": 12895,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "November 14, 2011 at 11:33 pm",
-   "timeTitle": "Monday, November 14th, 2011, 11:33 pm",
-   "html": "<p>I agree with smibbo on at least one point. You need to come back!</p>"
+   "date": "2011-11-14T23:33",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>I agree with smibbo on at least one point. You need to come back!</p>"
   },
   {
    "id": 13505,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "November 15, 2011 at 9:25 pm",
-   "timeTitle": "Tuesday, November 15th, 2011, 9:25 pm",
-   "html": "<p>Oh give the man a month to breathe! (I still check for updates every two days, though.)</p>"
+   "date": "2011-11-15T21:25",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>Oh give the man a month to breathe! (I still check for updates every two days, though.)</p>"
   },
   {
    "id": 15543,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "November 21, 2011 at 4:48 pm",
-   "timeTitle": "Monday, November 21st, 2011, 4:48 pm",
-   "html": "<p>If I were to agree with D, then either I have to start bugging b more because his month is up, or I should call his local police department to check his house for a rotting corpse.</p>"
+   "date": "2011-11-21T16:48",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>If I were to agree with D, then either I have to start bugging b more because his month is up, or I should call his local police department to check his house for a rotting corpse.</p>"
   },
   {
    "id": 18470,
    "author": "Voltaire",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9d73f6c85972171fab99aabdc3dfb9dd?s=64&d=identicon&r=r",
-   "time": "December 1, 2011 at 5:50 am",
-   "timeTitle": "Thursday, December 1st, 2011, 5:50 am",
-   "html": "<p>Smibbo makes some good points. I have six more, or maybe the same ones with a different perspective.<br />\n1) Getting away with murder can be addictive.<br />\n2) Not getting caught is hard, but as technology improves it approaches impossible. You will fear retribution you whole life.<br />\n3) You have mirror neurons. Empathy is part of normal brain function. Maybe you want an abnormal brain, but can you be sure you are sculpting it how you want? Maybe someone is tricking you into doing their dirty work?<br />\n4) You can&#8217;t be sure how you will feel about your actions in the future.<br />\n5) You contribute to social disintegration. Everyone touched by your murder gets a little bit more scared and lonely.<br />\n6) You waste social resources that might otherwise have benefited you.</p>\n<p>Sorry about the heavy use of &#8220;you&#8221;, I&#8217;m not thinking of anyone in particular.</p>"
+   "date": "2011-12-01T05:50",
+   "avatar": "9d73f6c85972171fab99aabdc3dfb9dd",
+   "text": "<p>Smibbo makes some good points. I have six more, or maybe the same ones with a different perspective.<br />\n1) Getting away with murder can be addictive.<br />\n2) Not getting caught is hard, but as technology improves it approaches impossible. You will fear retribution you whole life.<br />\n3) You have mirror neurons. Empathy is part of normal brain function. Maybe you want an abnormal brain, but can you be sure you are sculpting it how you want? Maybe someone is tricking you into doing their dirty work?<br />\n4) You can&#8217;t be sure how you will feel about your actions in the future.<br />\n5) You contribute to social disintegration. Everyone touched by your murder gets a little bit more scared and lonely.<br />\n6) You waste social resources that might otherwise have benefited you.</p>\n<p>Sorry about the heavy use of &#8220;you&#8221;, I&#8217;m not thinking of anyone in particular.</p>"
   },
   {
    "id": 18982,
    "author": "Motmaitre",
+   "date": "2011-12-02T13:47",
    "url": "http://www.blackflycomic.com",
-   "avatar": "http://0.gravatar.com/avatar/63725a25bde9ab541e1bb68c5c5a09eb?s=64&d=identicon&r=r",
-   "time": "December 2, 2011 at 1:47 pm",
-   "timeTitle": "Friday, December 2nd, 2011, 1:47 pm",
-   "html": "<p>Good points by Voltaire. Interestingly, it is also a Game Theory problem as in the 5th panel. It is only worth it being evil if everyone else is good. However, if everyone else thinks the same way, then everyone else would want to be evil. The result is, everyone else is evil and so society goes to hell. A better solution is if everyone recognises this and chooses not to be evil, Then we have a system to monitor and catch those who cheat on this contract. We call them cops.</p>\n<p>The real reason people don;t go around killing is because the cost (planning, risk, effort, etc as the strip mentions) usually exceeds the benefits. This is only an exception for people whose estimation of the costs and benefits is distorted so the benefits seem very high (jealous husbands, career criminals, furious antagonists, etc), or the costs seem very low (soldiers in battle, cops in a firefight).</p>\n<p>What is for sure is that if we reduce the costs and risks of killing, many pople who are currently on the margin (i.e. almost there but not quite) would come to a tipping  point. This happens when society breaks down- during war or riots, some people sieze the opportunity of law and order breakdown to indulge in the repressed pleasure of rape and murder.</p>"
+   "avatar": "63725a25bde9ab541e1bb68c5c5a09eb",
+   "text": "<p>Good points by Voltaire. Interestingly, it is also a Game Theory problem as in the 5th panel. It is only worth it being evil if everyone else is good. However, if everyone else thinks the same way, then everyone else would want to be evil. The result is, everyone else is evil and so society goes to hell. A better solution is if everyone recognises this and chooses not to be evil, Then we have a system to monitor and catch those who cheat on this contract. We call them cops.</p>\n<p>The real reason people don;t go around killing is because the cost (planning, risk, effort, etc as the strip mentions) usually exceeds the benefits. This is only an exception for people whose estimation of the costs and benefits is distorted so the benefits seem very high (jealous husbands, career criminals, furious antagonists, etc), or the costs seem very low (soldiers in battle, cops in a firefight).</p>\n<p>What is for sure is that if we reduce the costs and risks of killing, many pople who are currently on the margin (i.e. almost there but not quite) would come to a tipping  point. This happens when society breaks down- during war or riots, some people sieze the opportunity of law and order breakdown to indulge in the repressed pleasure of rape and murder.</p>"
   },
   {
    "id": 115764,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "October 27, 2012 at 11:06 pm",
-   "timeTitle": "Saturday, October 27th, 2012, 11:06 pm",
-   "html": "<p>The problem many of you have is that you&#8217;re assuming that Trent is like most people (normative), when in fact it&#8217;s quite possible and somewhat likely that he is in fact  a sociopath or psychopath, and/or has what most people would consider damaged/repressed/abnormal empathy and sympathy abilities (due to his own actions, or his personality, or the way he was born). In light of this, Trent&#8217;s arguments actually make complete sense. Not everyone feels bad while watching someone die, or regrets killing people, or feels the victim&#8217;s pain. Even if those things are normal, we can clearly see that they&#8217;re not universal. &#8216;Motherly&#8217; instincts or drives to preserve one&#8217;s own children, for instance, is definitely not universal, as we can see from the great number of abandoned, orphaned, un-cared-for, rejected, and sometimes literally thrown-away children throughout world history and the present (and the rate of abortions performed all the time, although I realize that topic is more controversial).</p>"
+   "date": "2012-10-27T23:06",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>The problem many of you have is that you&#8217;re assuming that Trent is like most people (normative), when in fact it&#8217;s quite possible and somewhat likely that he is in fact  a sociopath or psychopath, and/or has what most people would consider damaged/repressed/abnormal empathy and sympathy abilities (due to his own actions, or his personality, or the way he was born). In light of this, Trent&#8217;s arguments actually make complete sense. Not everyone feels bad while watching someone die, or regrets killing people, or feels the victim&#8217;s pain. Even if those things are normal, we can clearly see that they&#8217;re not universal. &#8216;Motherly&#8217; instincts or drives to preserve one&#8217;s own children, for instance, is definitely not universal, as we can see from the great number of abandoned, orphaned, un-cared-for, rejected, and sometimes literally thrown-away children throughout world history and the present (and the rate of abortions performed all the time, although I realize that topic is more controversial).</p>"
   },
   {
    "id": 415587,
    "author": "not giving a name sorry",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/831e37506fa424ded4454d20e5271104?s=64&d=identicon&r=r",
-   "time": "January 22, 2014 at 1:14 am",
-   "timeTitle": "Wednesday, January 22nd, 2014, 1:14 am",
-   "html": "<p>clumsy- ha!<br />\nyoure brilliant, b.<br />\nnot many people are willing to question the thought patterns theyre trained to use, but you do so nonchalantly and with elegance.</p>\n<p>trent seems to be, as a character, pragmatic, realistic to a fault in a society where were trained to be idealistic in all respects while putting on the facade of rationality.</p>\n<p>im not saying either is right or wrong- just that morality is subjective, sometimes impractical. but rarely (or never) out of place.</p>\n<p>life is a strange place</p>"
+   "date": "2014-01-22T01:14",
+   "avatar": "831e37506fa424ded4454d20e5271104",
+   "text": "<p>clumsy- ha!<br />\nyoure brilliant, b.<br />\nnot many people are willing to question the thought patterns theyre trained to use, but you do so nonchalantly and with elegance.</p>\n<p>trent seems to be, as a character, pragmatic, realistic to a fault in a society where were trained to be idealistic in all respects while putting on the facade of rationality.</p>\n<p>im not saying either is right or wrong- just that morality is subjective, sometimes impractical. but rarely (or never) out of place.</p>\n<p>life is a strange place</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 200",
-  "bodyClass": "post-template-default single single-post postid-703 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 200",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-10-21-Eat_Shit_And_Die_200.jpg"
- }
+ ]
 }

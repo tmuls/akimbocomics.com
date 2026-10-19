@@ -1,38 +1,6 @@
 {
- "path": "/news/new-server/",
- "series": "news",
- "slug": "new-server",
- "id": 497,
  "title": "New Server.",
  "author": "emulsifier",
- "date": "January 17, 2010",
- "time": "4:14 am",
- "datetime": "2010-01-17T04:14:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>YES! We are officially done migrating to the new server. Some of you may still be pointing to the old box until your dns entries get updated. If I see any new comments come in over there I’ll be sure to move them to the new database. Thanks for reading guys, and for submitting us to reddit. Without you I wouldn’t have had reason to kick that old piece of shit. Keep it coming!</p>",
- "postClass": "post-497 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/server-updates/",
-  "next": "/news/were-back/"
- },
- "menuNav": {},
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - New Server.",
-  "bodyClass": "post-template-default single single-post postid-497 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "New Server.",
-  "ogDescription": ""
- }
+ "date": "2010-01-17T04:14",
+ "body": "<p>YES! We are officially done migrating to the new server. Some of you may still be pointing to the old box until your dns entries get updated. If I see any new comments come in over there I’ll be sure to move them to the new database. Thanks for reading guys, and for submitting us to reddit. Without you I wouldn’t have had reason to kick that old piece of shit. Keep it coming!</p>"
 }

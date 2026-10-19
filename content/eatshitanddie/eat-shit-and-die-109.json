@@ -1,65 +1,21 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-109/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-109",
- "id": 210,
  "title": "Eat Shit And Die 109",
  "author": "emulsifier",
- "date": "October 10, 2008",
- "time": "12:00 am",
- "datetime": "2008-10-10T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2008-10-10T00:00",
  "tags": [
-  {
-   "title": "happy rabbit",
-   "href": "/tag/happy-rabbit/"
-  }
+  "happy-rabbit"
  ],
- "html": "",
- "postClass": "post-210 post type-post status-publish format-standard hentry category-eatshitanddie tag-happy-rabbit uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
  "images": [
-  {
-   "src": "2008-10-10-Eat_Shit_And_Die_109.jpg",
-   "alt": "Eat Shit And Die 109",
-   "title": "Eat Shit And Die 109"
-  }
+  "2008-10-10-Eat_Shit_And_Die_109.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-108/",
-  "next": "/eatshitanddie/eat-shit-and-die-110/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-108/",
-  "next": "/eatshitanddie/eat-shit-and-die-110/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 11947,
    "author": "Deaf singles",
+   "date": "2011-11-07T22:08",
    "url": "http://www.kissofdeaf.com/",
-   "avatar": "http://0.gravatar.com/avatar/9f16731d5cebe2676cc067ea16293a12?s=64&d=identicon&r=r",
-   "time": "November 7, 2011 at 10:08 pm",
-   "timeTitle": "Monday, November 7th, 2011, 10:08 pm",
-   "html": "<p>Dude&#8230;.just&#8230;.wow. I fucking love your comics. It would be a better world if this shit was in the Sunday funnies.</p>"
+   "avatar": "9f16731d5cebe2676cc067ea16293a12",
+   "text": "<p>Dude&#8230;.just&#8230;.wow. I fucking love your comics. It would be a better world if this shit was in the Sunday funnies.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 109",
-  "bodyClass": "post-template-default single single-post postid-210 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 109",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-10-10-Eat_Shit_And_Die_109.jpg"
- }
+ ]
 }

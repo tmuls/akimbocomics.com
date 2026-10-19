@@ -1,123 +1,68 @@
 {
- "path": "/strangeadmission/strange-admission-10/",
- "series": "strangeadmission",
- "slug": "strange-admission-10",
- "id": 282,
  "title": "Strange Admission 10",
  "author": "emulsifier",
- "date": "December 17, 2008",
- "time": "12:00 am",
- "datetime": "2008-12-17T00:00:00",
- "categories": [
-  {
-   "title": "Strange Admission",
-   "href": "/strangeadmission/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-282 post type-post status-publish format-standard hentry category-strangeadmission uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-12-17T00:00",
  "images": [
-  {
-   "src": "2008-12-17-Strange_Admission_10.jpg",
-   "alt": "Strange Admission 10",
-   "title": "Strange Admission 10"
-  }
+  "2008-12-17-Strange_Admission_10.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/strangeadmission/strange-admission-9/",
-  "next": "/vivianblank/vivian-blank-1/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/strangeadmission/strange-admission-9/",
-  "next": "/vivianblank/vivian-blank-1/"
- },
- "commentCount": 8,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1689,
    "author": "Boris",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e60d5d36fd265dbf3824c1e83459e0f9?s=64&d=identicon&r=r",
-   "time": "March 4, 2010 at 5:02 am",
-   "timeTitle": "Thursday, March 4th, 2010, 5:02 am",
-   "html": "<p>This is fucking brilliant, that&#8217;s what is is.</p>"
+   "date": "2010-03-04T05:02",
+   "avatar": "e60d5d36fd265dbf3824c1e83459e0f9",
+   "text": "<p>This is fucking brilliant, that&#8217;s what is is.</p>"
   },
   {
    "id": 5281,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bd871834f9fab6d8a7feb8674ad42785?s=64&d=identicon&r=r",
-   "time": "January 14, 2011 at 11:18 pm",
-   "timeTitle": "Friday, January 14th, 2011, 11:18 pm",
-   "html": "<p>Bam, wow, brilliant fucking stuff, man!</p>"
+   "date": "2011-01-14T23:18",
+   "avatar": "bd871834f9fab6d8a7feb8674ad42785",
+   "text": "<p>Bam, wow, brilliant fucking stuff, man!</p>"
   },
   {
    "id": 5868,
    "author": "steve",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b43ced333b790d6f06b19dc18f7ace5c?s=64&d=identicon&r=r",
-   "time": "February 26, 2011 at 5:05 pm",
-   "timeTitle": "Saturday, February 26th, 2011, 5:05 pm",
-   "html": "<p>I&#8217;m blown away.  That was amazing</p>"
+   "date": "2011-02-26T17:05",
+   "avatar": "b43ced333b790d6f06b19dc18f7ace5c",
+   "text": "<p>I&#8217;m blown away.  That was amazing</p>"
   },
   {
    "id": 5985,
    "author": "AJ",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/49125e9b6f73d8403e848360af33565d?s=64&d=identicon&r=r",
-   "time": "March 4, 2011 at 11:30 pm",
-   "timeTitle": "Friday, March 4th, 2011, 11:30 pm",
-   "html": "<p>profound in a way i didnt think webcomics were</p>"
+   "date": "2011-03-04T23:30",
+   "avatar": "49125e9b6f73d8403e848360af33565d",
+   "text": "<p>profound in a way i didnt think webcomics were</p>"
   },
   {
    "id": 6617,
    "author": "Mirela",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b33b3d7016427582d57a51f809320d52?s=64&d=identicon&r=r",
-   "time": "April 13, 2011 at 1:35 pm",
-   "timeTitle": "Wednesday, April 13th, 2011, 1:35 pm",
-   "html": "<p>This is by far the best thing I&#8217;ve read on the internet.</p>"
+   "date": "2011-04-13T13:35",
+   "avatar": "b33b3d7016427582d57a51f809320d52",
+   "text": "<p>This is by far the best thing I&#8217;ve read on the internet.</p>"
   },
   {
    "id": 7840,
    "author": "Tash",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c4c6ab428d105e439fbf9d606ed92083?s=64&d=identicon&r=r",
-   "time": "June 7, 2011 at 6:28 pm",
-   "timeTitle": "Tuesday, June 7th, 2011, 6:28 pm",
-   "html": "<p>I love this /so much./ I can&#8217;t believe it took me so long to find something so thought provoking, beautifully drawn, and powerful on the internet 8D In a webcomic, no less! Sir, my hat&#8217;s off to you.</p>"
+   "date": "2011-06-07T18:28",
+   "avatar": "c4c6ab428d105e439fbf9d606ed92083",
+   "text": "<p>I love this /so much./ I can&#8217;t believe it took me so long to find something so thought provoking, beautifully drawn, and powerful on the internet 8D In a webcomic, no less! Sir, my hat&#8217;s off to you.</p>"
   },
   {
    "id": 8413,
    "author": "dawn storrud",
+   "date": "2011-06-27T13:05",
    "url": "http://transsexualchildandTheGreatSpiral",
-   "avatar": "http://1.gravatar.com/avatar/762aceef2a8778dd72038177b5a82fd4?s=64&d=identicon&r=r",
-   "time": "June 27, 2011 at 1:05 pm",
-   "timeTitle": "Monday, June 27th, 2011, 1:05 pm",
-   "html": "<p>Brilliant</p>"
+   "avatar": "762aceef2a8778dd72038177b5a82fd4",
+   "text": "<p>Brilliant</p>"
   },
   {
    "id": 9508,
    "author": "bachterman",
+   "date": "2011-09-18T15:49",
    "url": "http://coruscus.hu",
-   "avatar": "http://2.gravatar.com/avatar/849febbbc71eb48210f19d38fa50ea70?s=64&d=identicon&r=r",
-   "time": "September 18, 2011 at 3:49 pm",
-   "timeTitle": "Sunday, September 18th, 2011, 3:49 pm",
-   "html": "<p>in the end, it&#8217;s all about self-justification.</p>"
+   "avatar": "849febbbc71eb48210f19d38fa50ea70",
+   "text": "<p>in the end, it&#8217;s all about self-justification.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Strange Admission 10",
-  "bodyClass": "post-template-default single single-post postid-282 single-format-standard user-guest comic unknown single-category-strangeadmission single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Strange Admission 10",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-12-17-Strange_Admission_10.jpg"
- }
+ ]
 }

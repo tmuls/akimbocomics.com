@@ -1,132 +1,73 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-217/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-217",
- "id": 781,
  "title": "eat shit & die 217",
  "author": "bpatrick",
- "date": "July 30, 2012",
- "time": "12:00 am",
- "datetime": "2012-07-30T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-781 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-07-30T00:00",
  "images": [
-  {
-   "src": "2012-07-30-Eat_Shit_And_Die_217.jpg",
-   "alt": "eat shit & die 217",
-   "title": "eat shit & die 217"
-  }
+  "2012-07-30-Eat_Shit_And_Die_217.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-62/",
-  "next": "/eatshitanddie/eat-shit-and-die-218/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-62/",
-  "next": "/eatshitanddie/eat-shit-and-die-218/"
- },
- "commentCount": 9,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 92376,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "July 30, 2012 at 9:48 pm",
-   "timeTitle": "Monday, July 30th, 2012, 9:48 pm",
-   "html": "<p>awesome!  I was thinking about getting a haircut myself.</p>"
+   "date": "2012-07-30T21:48",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>awesome!  I was thinking about getting a haircut myself.</p>"
   },
   {
    "id": 92393,
    "author": "r",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/be46c093167fed2b92672a2a87d7cb20?s=64&d=identicon&r=r",
-   "time": "July 31, 2012 at 3:59 am",
-   "timeTitle": "Tuesday, July 31st, 2012, 3:59 am",
-   "html": "<p>this comic makes me feel like killing myself</p>\n<p>so, good job, i guess</p>"
+   "date": "2012-07-31T03:59",
+   "avatar": "be46c093167fed2b92672a2a87d7cb20",
+   "text": "<p>this comic makes me feel like killing myself</p>\n<p>so, good job, i guess</p>"
   },
   {
    "id": 92405,
    "author": "randomjackass",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/31b46b9e0c70314d83c7a68ae7389818?s=64&d=identicon&r=r",
-   "time": "July 31, 2012 at 12:25 pm",
-   "timeTitle": "Tuesday, July 31st, 2012, 12:25 pm",
-   "html": "<p>Therapy is a good thing for this.</p>"
+   "date": "2012-07-31T12:25",
+   "avatar": "31b46b9e0c70314d83c7a68ae7389818",
+   "text": "<p>Therapy is a good thing for this.</p>"
   },
   {
    "id": 92420,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "July 31, 2012 at 5:06 pm",
-   "timeTitle": "Tuesday, July 31st, 2012, 5:06 pm",
-   "html": "<p>This really is turning out to be the summer of comics. Nine in June and now Ten! Many of which were huge, incredibly coloured and shaded, and a couple with Onan in the title. I should finally set up a PayPal account (been avoiding it for years to halt the incredible temptation to spend all my money online&#8230; and I&#8217;m definitely never getting another credit card&#8230; im so weak) and join the fun club. But I might just wait until you slow down before donating some incentive 😉</p>\n<p>Really glad to see another es&amp;d that seems to be stolen from my own head and put into your work. I&#8217;ve been desiring change recently, as in the last week, and so many questions of what I should do differently. I don&#8217;t think a haircut will cut it for me. The hardest thing to maintain is the passion to change.</p>"
+   "date": "2012-07-31T17:06",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>This really is turning out to be the summer of comics. Nine in June and now Ten! Many of which were huge, incredibly coloured and shaded, and a couple with Onan in the title. I should finally set up a PayPal account (been avoiding it for years to halt the incredible temptation to spend all my money online&#8230; and I&#8217;m definitely never getting another credit card&#8230; im so weak) and join the fun club. But I might just wait until you slow down before donating some incentive 😉</p>\n<p>Really glad to see another es&amp;d that seems to be stolen from my own head and put into your work. I&#8217;ve been desiring change recently, as in the last week, and so many questions of what I should do differently. I don&#8217;t think a haircut will cut it for me. The hardest thing to maintain is the passion to change.</p>"
   },
   {
    "id": 92440,
    "author": "VanillaDice",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/69f2d6e370053f10051782e3635c4a95?s=64&d=identicon&r=r",
-   "time": "July 31, 2012 at 11:20 pm",
-   "timeTitle": "Tuesday, July 31st, 2012, 11:20 pm",
-   "html": "<p>Another amazing piece, so many words in my head and the damn things won&#8217;t coalesce nicely into a comment. One day I hope to see you selling a ES&amp;D collection bound as a book, or maybe as the worlds best illustrated nihilistic self help book? Either way I would not know what to do with myself.</p>"
+   "date": "2012-07-31T23:20",
+   "avatar": "69f2d6e370053f10051782e3635c4a95",
+   "text": "<p>Another amazing piece, so many words in my head and the damn things won&#8217;t coalesce nicely into a comment. One day I hope to see you selling a ES&amp;D collection bound as a book, or maybe as the worlds best illustrated nihilistic self help book? Either way I would not know what to do with myself.</p>"
   },
   {
    "id": 92508,
    "author": "GOOMHB",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/be735e999f6d4f6b48fa9f2164407425?s=64&d=identicon&r=r",
-   "time": "August 2, 2012 at 7:42 am",
-   "timeTitle": "Thursday, August 2nd, 2012, 7:42 am",
-   "html": "<p>I&#8217;m a hairy asocial wreck who bought tee-shirts yesterday after a hairdresser told me it was too late to take any more clients. Get out of my head, Brian.</p>"
+   "date": "2012-08-02T07:42",
+   "avatar": "be735e999f6d4f6b48fa9f2164407425",
+   "text": "<p>I&#8217;m a hairy asocial wreck who bought tee-shirts yesterday after a hairdresser told me it was too late to take any more clients. Get out of my head, Brian.</p>"
   },
   {
    "id": 93674,
    "author": "ROMANO",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/ae44de9060e23503a90b125b3ac91db7?s=64&d=identicon&r=r",
-   "time": "August 15, 2012 at 3:08 pm",
-   "timeTitle": "Wednesday, August 15th, 2012, 3:08 pm",
-   "html": "<p>i found your page by your work at fffound.<br />\ndid you already gave your fffound&#8217;s invite to some one? i am looking for some one who can give me, cause i want get member.<br />\nif you could help me i would be thanks.<br />\ncongratulations by your work.</p>"
+   "date": "2012-08-15T15:08",
+   "avatar": "ae44de9060e23503a90b125b3ac91db7",
+   "text": "<p>i found your page by your work at fffound.<br />\ndid you already gave your fffound&#8217;s invite to some one? i am looking for some one who can give me, cause i want get member.<br />\nif you could help me i would be thanks.<br />\ncongratulations by your work.</p>"
   },
   {
    "id": 109436,
    "author": "k",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8220febe79a3b16e16374d7c606e0f6e?s=64&d=identicon&r=r",
-   "time": "October 12, 2012 at 6:46 pm",
-   "timeTitle": "Friday, October 12th, 2012, 6:46 pm",
-   "html": "<p>r, does that r stand for Reagan?!</p>"
+   "date": "2012-10-12T18:46",
+   "avatar": "8220febe79a3b16e16374d7c606e0f6e",
+   "text": "<p>r, does that r stand for Reagan?!</p>"
   },
   {
    "id": 115877,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "October 28, 2012 at 5:18 am",
-   "timeTitle": "Sunday, October 28th, 2012, 5:18 am",
-   "html": "<p>Ouch. This one hit me, right in the feels. So many of the things she points out are true of me as well. Great comic, though.</p>"
+   "date": "2012-10-28T05:18",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>Ouch. This one hit me, right in the feels. So many of the things she points out are true of me as well. Great comic, though.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 217",
-  "bodyClass": "post-template-default single single-post postid-781 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 217",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-07-30-Eat_Shit_And_Die_217.jpg"
- }
+ ]
 }

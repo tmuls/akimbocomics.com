@@ -1,123 +1,70 @@
 {
- "path": "/curiousurgency/curious-urgency-50/",
- "series": "curiousurgency",
- "slug": "curious-urgency-50",
- "id": 679,
  "title": "Curious Urgency 50",
  "author": "bpatrick",
- "date": "July 14, 2011",
- "time": "12:00 am",
- "datetime": "2011-07-14T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Instead of doing what I was supposed to today I made this. I don&#8217;t know, I feel pretty good about it. </p>",
- "postClass": "post-679 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-07-14T00:00",
  "images": [
-  {
-   "src": "2011-07-14-Curious_Urgency_50.jpg",
-   "alt": "Curious Urgency 50",
-   "title": "Curious Urgency 50"
-  }
+  "2011-07-14-Curious_Urgency_50.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-191/",
-  "next": "/eatshitanddie/eat-shit-and-die-192/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-191/",
-  "next": "/eatshitanddie/eat-shit-and-die-192/"
- },
- "commentCount": 8,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Instead of doing what I was supposed to today I made this. I don&#8217;t know, I feel pretty good about it. </p>",
  "comments": [
   {
    "id": 8813,
    "author": "dawn storrud",
+   "date": "2011-07-16T00:33",
    "url": "http://transsexualchildandTheGreatSpiral",
-   "avatar": "http://1.gravatar.com/avatar/762aceef2a8778dd72038177b5a82fd4?s=64&d=identicon&r=r",
-   "time": "July 16, 2011 at 12:33 am",
-   "timeTitle": "Saturday, July 16th, 2011, 12:33 am",
-   "html": "<p>Masters jitters?</p>"
+   "avatar": "762aceef2a8778dd72038177b5a82fd4",
+   "text": "<p>Masters jitters?</p>"
   },
   {
    "id": 8820,
    "author": "b.patrick",
+   "date": "2011-07-16T17:08",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "July 16, 2011 at 5:08 pm",
-   "timeTitle": "Saturday, July 16th, 2011, 5:08 pm",
-   "html": "<p>Actually, my last day was yesterday. I have a semester left but I&#8217;ll probably never finish. I start med school next month.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Actually, my last day was yesterday. I have a semester left but I&#8217;ll probably never finish. I start med school next month.</p>"
   },
   {
    "id": 8821,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "July 16, 2011 at 7:40 pm",
-   "timeTitle": "Saturday, July 16th, 2011, 7:40 pm",
-   "html": "<p>Med school? Wow, congrats to that! Anyway, I think it&#8217;s been a while since the last &#8216;Manns search for Meenie&#8217;, if I may be so frank. Huge fan here &#8230;!</p>"
+   "date": "2011-07-16T19:40",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>Med school? Wow, congrats to that! Anyway, I think it&#8217;s been a while since the last &#8216;Manns search for Meenie&#8217;, if I may be so frank. Huge fan here &#8230;!</p>"
   },
   {
    "id": 8829,
    "author": "K",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8cddf83f507f9f36cc7d29c7b2b7900b?s=64&d=identicon&r=r",
-   "time": "July 17, 2011 at 11:26 am",
-   "timeTitle": "Sunday, July 17th, 2011, 11:26 am",
-   "html": "<p>love curious urgency, the last several have been both funny and dramatic, i think there&#8217;s a really nice balance here, nice job!</p>"
+   "date": "2011-07-17T11:26",
+   "avatar": "8cddf83f507f9f36cc7d29c7b2b7900b",
+   "text": "<p>love curious urgency, the last several have been both funny and dramatic, i think there&#8217;s a really nice balance here, nice job!</p>"
   },
   {
    "id": 8831,
    "author": "AJ",
+   "date": "2011-07-17T13:00",
    "url": "http://na",
-   "avatar": "http://1.gravatar.com/avatar/49125e9b6f73d8403e848360af33565d?s=64&d=identicon&r=r",
-   "time": "July 17, 2011 at 1:00 pm",
-   "timeTitle": "Sunday, July 17th, 2011, 1:00 pm",
-   "html": "<p>I second D whilst i do love curious urgency i would enjoy more MSFM</p>"
+   "avatar": "49125e9b6f73d8403e848360af33565d",
+   "text": "<p>I second D whilst i do love curious urgency i would enjoy more MSFM</p>"
   },
   {
    "id": 8837,
    "author": "steve",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b43ced333b790d6f06b19dc18f7ace5c?s=64&d=identicon&r=r",
-   "time": "July 17, 2011 at 8:50 pm",
-   "timeTitle": "Sunday, July 17th, 2011, 8:50 pm",
-   "html": "<p>I&#8217;m happy for you starting med school but afraid of what that will mean for your comics</p>"
+   "date": "2011-07-17T20:50",
+   "avatar": "b43ced333b790d6f06b19dc18f7ace5c",
+   "text": "<p>I&#8217;m happy for you starting med school but afraid of what that will mean for your comics</p>"
   },
   {
    "id": 8840,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "July 18, 2011 at 12:11 pm",
-   "timeTitle": "Monday, July 18th, 2011, 12:11 pm",
-   "html": "<p>Grats on medschool dude. Curious just keeps getting better.</p>"
+   "date": "2011-07-18T12:11",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>Grats on medschool dude. Curious just keeps getting better.</p>"
   },
   {
    "id": 8841,
    "author": "Ed Dale",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/619b083b66eccf84c593803fa74e6c2f?s=64&d=identicon&r=r",
-   "time": "July 18, 2011 at 4:13 pm",
-   "timeTitle": "Monday, July 18th, 2011, 4:13 pm",
-   "html": "<p>congrats on med school! Not looking forward to the hiatus in comics. Loving Curious Urgency, just went back through and reread all of them. Amazed at how you have kept continuity through each comic.</p>"
+   "date": "2011-07-18T16:13",
+   "avatar": "619b083b66eccf84c593803fa74e6c2f",
+   "text": "<p>congrats on med school! Not looking forward to the hiatus in comics. Loving Curious Urgency, just went back through and reread all of them. Amazed at how you have kept continuity through each comic.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 50",
-  "bodyClass": "post-template-default single single-post postid-679 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 50",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-07-14-Curious_Urgency_50.jpg"
- }
+ ]
 }

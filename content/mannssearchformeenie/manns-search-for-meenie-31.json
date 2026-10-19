@@ -1,132 +1,75 @@
 {
- "path": "/mannssearchformeenie/manns-search-for-meenie-31/",
- "series": "mannssearchformeenie",
- "slug": "manns-search-for-meenie-31",
- "id": 757,
  "title": "Manns Search For Meenie 31",
  "author": "bpatrick",
- "date": "June 26, 2012",
- "time": "12:00 am",
- "datetime": "2012-06-26T00:00:00",
- "categories": [
-  {
-   "title": "Manns search for Meenie",
-   "href": "/mannssearchformeenie/"
-  }
- ],
- "tags": [],
- "html": "<p>johhnydollar called it. I had been planning this reference for years now. Uncanny. </p>",
- "postClass": "post-757 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-06-26T00:00",
  "images": [
-  {
-   "src": "2012-06-26-Manns_Search_For_Meenie_31.jpg",
-   "alt": "Manns Search For Meenie 31",
-   "title": "Manns Search For Meenie 31"
-  }
+  "2012-06-26-Manns_Search_For_Meenie_31.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-59/",
-  "next": "/eatshitanddie/eat-shit-and-die-211/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-59/",
-  "next": "/eatshitanddie/eat-shit-and-die-211/"
- },
- "commentCount": 9,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>johhnydollar called it. I had been planning this reference for years now. Uncanny. </p>",
  "comments": [
   {
    "id": 89037,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "June 30, 2012 at 10:11 pm",
-   "timeTitle": "Saturday, June 30th, 2012, 10:11 pm",
-   "html": "<p>johnnydollar is not Jonny Paycheck. This prompted a re-visitation of the old MSFM and comments so I actually know what&#8217;s going on.</p>\n<p>Almost five years early, that johnnydollar is some kind of psychic.</p>"
+   "date": "2012-06-30T22:11",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>johnnydollar is not Jonny Paycheck. This prompted a re-visitation of the old MSFM and comments so I actually know what&#8217;s going on.</p>\n<p>Almost five years early, that johnnydollar is some kind of psychic.</p>"
   },
   {
    "id": 89627,
    "author": "AJ",
+   "date": "2012-07-08T21:13",
    "url": "http://na",
-   "avatar": "http://2.gravatar.com/avatar/e531e8c39d11fc5c30bc0c298a2a2992?s=64&d=identicon&r=r",
-   "time": "July 8, 2012 at 9:13 pm",
-   "timeTitle": "Sunday, July 8th, 2012, 9:13 pm",
-   "html": "<p>i imagine that tattoo will be some kind of Chekovs gun</p>"
+   "avatar": "e531e8c39d11fc5c30bc0c298a2a2992",
+   "text": "<p>i imagine that tattoo will be some kind of Chekovs gun</p>"
   },
   {
    "id": 92668,
    "author": "Dylan",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/baa7c960407fe9023f5409585007a16b?s=64&d=identicon&r=r",
-   "time": "August 4, 2012 at 6:15 am",
-   "timeTitle": "Saturday, August 4th, 2012, 6:15 am",
-   "html": "<p>I love this comic</p>"
+   "date": "2012-08-04T06:15",
+   "avatar": "baa7c960407fe9023f5409585007a16b",
+   "text": "<p>I love this comic</p>"
   },
   {
    "id": 93120,
    "author": "Sir Exal",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/260fe591de52c7a2cecad79d4d58e1c7?s=64&d=identicon&r=r",
-   "time": "August 10, 2012 at 4:32 am",
-   "timeTitle": "Friday, August 10th, 2012, 4:32 am",
-   "html": "<p>Well, that escalated from a cool concept to awesomeness fairly quickly.</p>\n<p>Is the idea of the feng shui assassin borrowed from Chuck Palahniuk&#8217;s <i>Haunted</i>?  I seem to remember a line (from Mother Nature&#8217;s Story, &#8220;Foot Work&#8221;) something like &#8220;They tell you never to arrange a room with two ottomans against the east wall, but they never tell you <i>why</i>.</p>"
+   "date": "2012-08-10T04:32",
+   "avatar": "260fe591de52c7a2cecad79d4d58e1c7",
+   "text": "<p>Well, that escalated from a cool concept to awesomeness fairly quickly.</p>\n<p>Is the idea of the feng shui assassin borrowed from Chuck Palahniuk&#8217;s <i>Haunted</i>?  I seem to remember a line (from Mother Nature&#8217;s Story, &#8220;Foot Work&#8221;) something like &#8220;They tell you never to arrange a room with two ottomans against the east wall, but they never tell you <i>why</i>.</p>"
   },
   {
    "id": 116142,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "October 28, 2012 at 7:12 pm",
-   "timeTitle": "Sunday, October 28th, 2012, 7:12 pm",
-   "html": "<p>I cracked up at the Satanic Circus part. Classic. I hope to see more of this soon; it&#8217;s one of my favorites of all your stories.</p>"
+   "date": "2012-10-28T19:12",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>I cracked up at the Satanic Circus part. Classic. I hope to see more of this soon; it&#8217;s one of my favorites of all your stories.</p>"
   },
   {
    "id": 153317,
    "author": "marlon fontanez",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3f57bea0d1d6ff73d89c012e1cfc8f59?s=64&d=identicon&r=r",
-   "time": "December 17, 2012 at 8:22 am",
-   "timeTitle": "Monday, December 17th, 2012, 8:22 am",
-   "html": "<p>WHAT! THE HELL MAN YOU GET ME HOOKED  THEN YOU CUT ME OFF FINISH THIS MOTHER FUCKER FINISH IT!!!!!!!!!!!!!!!!!!!</p>"
+   "date": "2012-12-17T08:22",
+   "avatar": "3f57bea0d1d6ff73d89c012e1cfc8f59",
+   "text": "<p>WHAT! THE HELL MAN YOU GET ME HOOKED  THEN YOU CUT ME OFF FINISH THIS MOTHER FUCKER FINISH IT!!!!!!!!!!!!!!!!!!!</p>"
   },
   {
    "id": 183058,
    "author": "A.C",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9a4c6d9b18d8e053983d8f807fbd70bf?s=64&d=identicon&r=r",
-   "time": "January 30, 2013 at 6:06 am",
-   "timeTitle": "Wednesday, January 30th, 2013, 6:06 am",
-   "html": "<p>WHERE&#8217;S THE REST? NOOOOOOOOOOO!</p>"
+   "date": "2013-01-30T06:06",
+   "avatar": "9a4c6d9b18d8e053983d8f807fbd70bf",
+   "text": "<p>WHERE&#8217;S THE REST? NOOOOOOOOOOO!</p>"
   },
   {
    "id": 203483,
    "author": "FractalFreak",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/aef01a5cacb49aa98d6fe0120f19aaa5?s=64&d=identicon&r=r",
-   "time": "April 5, 2013 at 1:33 pm",
-   "timeTitle": "Friday, April 5th, 2013, 1:33 pm",
-   "html": "<p>i have read everything you have done and may i say i am damn impressed this and bob and bob are my favourites but the wealth of ideas are absolutely incredible, found you through subnormality and i cannot decide who is superior, perhaps once you come close to the amount winston has put out into the world it will be easier to make a comparison. BUT anyways genuinely incredible work man.</p>"
+   "date": "2013-04-05T13:33",
+   "avatar": "aef01a5cacb49aa98d6fe0120f19aaa5",
+   "text": "<p>i have read everything you have done and may i say i am damn impressed this and bob and bob are my favourites but the wealth of ideas are absolutely incredible, found you through subnormality and i cannot decide who is superior, perhaps once you come close to the amount winston has put out into the world it will be easier to make a comparison. BUT anyways genuinely incredible work man.</p>"
   },
   {
    "id": 1018348,
    "author": "Ian",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/373b570f86928d8c72fda3aae458a474?s=64&d=identicon&r=r",
-   "time": "January 31, 2015 at 1:52 am",
-   "timeTitle": "Saturday, January 31st, 2015, 1:52 am",
-   "html": "<p>I&#8217;m with FractalFreak, except in trying to compare your work and Winston Rowntree&#8217;s. You&#8217;re both fantastic artists and storytellers and I now need both of you to keep writing so I never run out of comix for too long. Thank you very much.</p>"
+   "date": "2015-01-31T01:52",
+   "avatar": "373b570f86928d8c72fda3aae458a474",
+   "text": "<p>I&#8217;m with FractalFreak, except in trying to compare your work and Winston Rowntree&#8217;s. You&#8217;re both fantastic artists and storytellers and I now need both of you to keep writing so I never run out of comix for too long. Thank you very much.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 31",
-  "bodyClass": "post-template-default single single-post postid-757 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Manns Search For Meenie 31",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-06-26-Manns_Search_For_Meenie_31.jpg"
- }
+ ]
 }

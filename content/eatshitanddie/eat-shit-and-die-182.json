@@ -1,412 +1,294 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-182/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-182",
- "id": 647,
  "title": "eat shit & die 182",
  "author": "bpatrick",
- "date": "May 15, 2011",
- "time": "12:00 am",
- "datetime": "2011-05-15T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-647 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-05-15T00:00",
  "images": [
-  {
-   "src": "2011-05-15-Eat_Shit_And_Die_182.jpg",
-   "alt": "eat shit & die 182",
-   "title": "eat shit & die 182"
-  }
+  "2011-05-15-Eat_Shit_And_Die_182.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/my_boyfriend_smells/my-boyfriend-smells-2/",
-  "next": "/eatshitanddie/eat-shit-and-die-183/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/my_boyfriend_smells/my-boyfriend-smells-2/",
-  "next": "/eatshitanddie/eat-shit-and-die-183/"
- },
- "commentCount": 40,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 7108,
    "author": "Nofolloweroffashion",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/54bd482dbce87df6ca8911288efbf773?s=64&d=identicon&r=r",
-   "time": "May 15, 2011 at 8:43 pm",
-   "timeTitle": "Sunday, May 15th, 2011, 8:43 pm",
-   "html": "<p>That&#8217;s your most political cartoon yet.</p>"
+   "date": "2011-05-15T20:43",
+   "avatar": "54bd482dbce87df6ca8911288efbf773",
+   "text": "<p>That&#8217;s your most political cartoon yet.</p>"
   },
   {
    "id": 7111,
    "author": "Chrysophrase",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2921679148a51f0a318ef7a257a30753?s=64&d=identicon&r=r",
-   "time": "May 15, 2011 at 10:13 pm",
-   "timeTitle": "Sunday, May 15th, 2011, 10:13 pm",
-   "html": "<p>HASA DIGA EEBOWAI!!!</p>"
+   "date": "2011-05-15T22:13",
+   "avatar": "2921679148a51f0a318ef7a257a30753",
+   "text": "<p>HASA DIGA EEBOWAI!!!</p>"
   },
   {
    "id": 7113,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "May 15, 2011 at 10:46 pm",
-   "timeTitle": "Sunday, May 15th, 2011, 10:46 pm",
-   "html": "<p>deep.</p>"
+   "date": "2011-05-15T22:46",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>deep.</p>"
   },
   {
    "id": 7118,
    "author": "Dude",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0202449d09b40e426f4ebc2b4f23dae7?s=64&d=identicon&r=r",
-   "time": "May 16, 2011 at 5:01 am",
-   "timeTitle": "Monday, May 16th, 2011, 5:01 am",
-   "html": "<p>I hate that fucking expression&#8230; so, I obviously loved this comic</p>"
+   "date": "2011-05-16T05:01",
+   "avatar": "0202449d09b40e426f4ebc2b4f23dae7",
+   "text": "<p>I hate that fucking expression&#8230; so, I obviously loved this comic</p>"
   },
   {
    "id": 7128,
    "author": "Cartoondave",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/62a8e81a12c99e40de2a6a2134882b2d?s=64&d=identicon&r=r",
-   "time": "May 16, 2011 at 8:45 am",
-   "timeTitle": "Monday, May 16th, 2011, 8:45 am",
-   "html": "<p>I love your work mate. The last panel in this strip is perfect.</p>"
+   "date": "2011-05-16T08:45",
+   "avatar": "62a8e81a12c99e40de2a6a2134882b2d",
+   "text": "<p>I love your work mate. The last panel in this strip is perfect.</p>"
   },
   {
    "id": 7131,
    "author": "Laniius",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9230da7f1a38e5a04ae5758b2c3308c0?s=64&d=identicon&r=r",
-   "time": "May 16, 2011 at 12:25 pm",
-   "timeTitle": "Monday, May 16th, 2011, 12:25 pm",
-   "html": "<p>I shorten my version to just &#8220;Everything happens.&#8221;</p>"
+   "date": "2011-05-16T12:25",
+   "avatar": "9230da7f1a38e5a04ae5758b2c3308c0",
+   "text": "<p>I shorten my version to just &#8220;Everything happens.&#8221;</p>"
   },
   {
    "id": 7133,
    "author": "Phil C.",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c52325397493673acc10fc4ba8e48ae9?s=64&d=identicon&r=r",
-   "time": "May 16, 2011 at 1:16 pm",
-   "timeTitle": "Monday, May 16th, 2011, 1:16 pm",
-   "html": "<p>Most excellent. Like &#8220;Dude&#8221;, I hate that expression. WHAT fucking reason? Don&#8217;t give me that crap about fate or destiny. </p>\n<p>Loved this one.</p>\n<p>cheers,<br />\nPhil</p>"
+   "date": "2011-05-16T13:16",
+   "avatar": "c52325397493673acc10fc4ba8e48ae9",
+   "text": "<p>Most excellent. Like &#8220;Dude&#8221;, I hate that expression. WHAT fucking reason? Don&#8217;t give me that crap about fate or destiny. </p>\n<p>Loved this one.</p>\n<p>cheers,<br />\nPhil</p>"
   },
   {
    "id": 7134,
    "author": "GSpot",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccdd63a09f68a1ac59c962ba802ea940?s=64&d=identicon&r=r",
-   "time": "May 16, 2011 at 1:23 pm",
-   "timeTitle": "Monday, May 16th, 2011, 1:23 pm",
-   "html": "<p>Tough to read, but as it should be. The message was on point</p>"
+   "date": "2011-05-16T13:23",
+   "avatar": "ccdd63a09f68a1ac59c962ba802ea940",
+   "text": "<p>Tough to read, but as it should be. The message was on point</p>"
   },
   {
    "id": 7137,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "May 16, 2011 at 3:28 pm",
-   "timeTitle": "Monday, May 16th, 2011, 3:28 pm",
-   "html": "<p>I like where this is going&#8230;</p>"
+   "date": "2011-05-16T15:28",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>I like where this is going&#8230;</p>"
   },
   {
    "id": 7138,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "May 16, 2011 at 5:09 pm",
-   "timeTitle": "Monday, May 16th, 2011, 5:09 pm",
-   "html": "<p>I agree, this is one of my most hated expressions.  As someone who has had some pretty bad sh!t happen in my life, with no reason except for the randomness of genetics, I really cringe when I hear this.  Thanks for making this comic.</p>"
+   "date": "2011-05-16T17:09",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>I agree, this is one of my most hated expressions.  As someone who has had some pretty bad sh!t happen in my life, with no reason except for the randomness of genetics, I really cringe when I hear this.  Thanks for making this comic.</p>"
   },
   {
    "id": 7140,
    "author": "Winston Rowntree",
+   "date": "2011-05-16T18:27",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "May 16, 2011 at 6:27 pm",
-   "timeTitle": "Monday, May 16th, 2011, 6:27 pm",
-   "html": "<p>Oh my, this is fine work.</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>Oh my, this is fine work.</p>"
   },
   {
    "id": 7143,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "May 17, 2011 at 2:43 am",
-   "timeTitle": "Tuesday, May 17th, 2011, 2:43 am",
-   "html": "<p>I like this classic es&amp;d approach. Repetition on the same theme really drives the point home.</p>"
+   "date": "2011-05-17T02:43",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>I like this classic es&amp;d approach. Repetition on the same theme really drives the point home.</p>"
   },
   {
    "id": 7146,
    "author": "Peeshes",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bea2ba71515aa9c91840d4399463aa2b?s=64&d=identicon&r=r",
-   "time": "May 17, 2011 at 7:29 am",
-   "timeTitle": "Tuesday, May 17th, 2011, 7:29 am",
-   "html": "<p>Nofolloweroffashion says: &#8220;that’s your most political cartoon yet.&#8221;</p>\n<p>Nah, it&#8217;s not really political at all. Rather it&#8217;s an observation that life is simply a series of events. There is no grand plan. No fate. No destiny. And sometimes shit happens. </p>\n<p>P.s. Great work b.patrick.</p>"
+   "date": "2011-05-17T07:29",
+   "avatar": "bea2ba71515aa9c91840d4399463aa2b",
+   "text": "<p>Nofolloweroffashion says: &#8220;that’s your most political cartoon yet.&#8221;</p>\n<p>Nah, it&#8217;s not really political at all. Rather it&#8217;s an observation that life is simply a series of events. There is no grand plan. No fate. No destiny. And sometimes shit happens. </p>\n<p>P.s. Great work b.patrick.</p>"
   },
   {
    "id": 7150,
    "author": "b.patrick",
+   "date": "2011-05-17T14:02",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "May 17, 2011 at 2:02 pm",
-   "timeTitle": "Tuesday, May 17th, 2011, 2:02 pm",
-   "html": "<p>Thanks for all the comments! I was this close to not posting this one. I wanted to get a little Voltaire but half way through making the comic it literally made me sick. Normally I&#8217;m pretty ends-justify-the-means as far as art goes but I really questioned whether or not a comic with 7 dead children in it should even exist. Then I saw a popular talk show host deliver this bit of &#8220;wisdom&#8221; to a grieving mother and said fuck it.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks for all the comments! I was this close to not posting this one. I wanted to get a little Voltaire but half way through making the comic it literally made me sick. Normally I&#8217;m pretty ends-justify-the-means as far as art goes but I really questioned whether or not a comic with 7 dead children in it should even exist. Then I saw a popular talk show host deliver this bit of &#8220;wisdom&#8221; to a grieving mother and said fuck it.</p>"
   },
   {
    "id": 7167,
    "author": "Al",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f058499cabc6e56e7622015b4db79304?s=64&d=identicon&r=r",
-   "time": "May 18, 2011 at 4:41 am",
-   "timeTitle": "Wednesday, May 18th, 2011, 4:41 am",
-   "html": "<p>This has become fairly popular on reddit: <a href=\"http://www.reddit.com/r/atheism/comments/hdojn/when_you_hear_someone_say_everything_happens_for/\" rel=\"nofollow\">http://www.reddit.com/r/atheism/comments/hdojn/when_you_hear_someone_say_everything_happens_for/</a></p>"
+   "date": "2011-05-18T04:41",
+   "avatar": "f058499cabc6e56e7622015b4db79304",
+   "text": "<p>This has become fairly popular on reddit: <a href=\"http://www.reddit.com/r/atheism/comments/hdojn/when_you_hear_someone_say_everything_happens_for/\" rel=\"nofollow\">http://www.reddit.com/r/atheism/comments/hdojn/when_you_hear_someone_say_everything_happens_for/</a></p>"
   },
   {
    "id": 7171,
    "author": "JR",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f76e995ce0f748f7aa5110a637817ec1?s=64&d=identicon&r=r",
-   "time": "May 18, 2011 at 6:04 am",
-   "timeTitle": "Wednesday, May 18th, 2011, 6:04 am",
-   "html": "<p>This IS the bet of all possible worlds.</p>\n<p>And what is a life without personal narrative?</p>"
+   "date": "2011-05-18T06:04",
+   "avatar": "f76e995ce0f748f7aa5110a637817ec1",
+   "text": "<p>This IS the bet of all possible worlds.</p>\n<p>And what is a life without personal narrative?</p>"
   },
   {
    "id": 7176,
    "author": "hericz",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d5ffa61fa5cd00a8ec8c66e1508c7e17?s=64&d=identicon&r=r",
-   "time": "May 18, 2011 at 9:06 am",
-   "timeTitle": "Wednesday, May 18th, 2011, 9:06 am",
-   "html": "<p>This is awesome!</p>"
+   "date": "2011-05-18T09:06",
+   "avatar": "d5ffa61fa5cd00a8ec8c66e1508c7e17",
+   "text": "<p>This is awesome!</p>"
   },
   {
    "id": 7194,
    "author": "Krischan",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/426e3ce23646b59a65d8060b136f7a42?s=64&d=identicon&r=r",
-   "time": "May 18, 2011 at 10:43 pm",
-   "timeTitle": "Wednesday, May 18th, 2011, 10:43 pm",
-   "html": "<p>Good. Better. Best.</p>\n<p>Never had someone say this awful apology for being a caring, human being to me. I&#8217;ll hope I&#8217;ll never have to hear it &#8211; then I&#8217;ll have chosen my friends right.</p>"
+   "date": "2011-05-18T22:43",
+   "avatar": "426e3ce23646b59a65d8060b136f7a42",
+   "text": "<p>Good. Better. Best.</p>\n<p>Never had someone say this awful apology for being a caring, human being to me. I&#8217;ll hope I&#8217;ll never have to hear it &#8211; then I&#8217;ll have chosen my friends right.</p>"
   },
   {
    "id": 7197,
    "author": "AtheistsOnTheMove",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/60e7a4969cf719b0b689a021c94f2270?s=64&d=identicon&r=r",
-   "time": "May 19, 2011 at 12:01 am",
-   "timeTitle": "Thursday, May 19th, 2011, 12:01 am",
-   "html": "<p>Thank you for this&#8230; I like many others despise this saying because it attempts to make one look for good in bad events, but its the bad that needs the attention.</p>"
+   "date": "2011-05-19T00:01",
+   "avatar": "60e7a4969cf719b0b689a021c94f2270",
+   "text": "<p>Thank you for this&#8230; I like many others despise this saying because it attempts to make one look for good in bad events, but its the bad that needs the attention.</p>"
   },
   {
    "id": 7198,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "May 19, 2011 at 12:22 am",
-   "timeTitle": "Thursday, May 19th, 2011, 12:22 am",
-   "html": "<p>Really glad your comic is receiving so much attention b. You definitely deserve it.  I hope that your summer will be relaxing and filled with plenty of free time for all my favorites (always hungry for some more Onan, Curious, or es&amp;d) or maybe Mann/Meenie will be the comic to expand on (it&#8217;s just starting to get good) or perhaps you will grace us with brand new art/stories/comics.</p>\n<p>Let&#8217;s just say, I&#8217;m always excited when I type &#8220;a&#8221; in my browser. I really enjoy your work and am ever grateful that you have it online. Thanks a bunch,<br />\nJonny Paycheck</p>"
+   "date": "2011-05-19T00:22",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Really glad your comic is receiving so much attention b. You definitely deserve it.  I hope that your summer will be relaxing and filled with plenty of free time for all my favorites (always hungry for some more Onan, Curious, or es&amp;d) or maybe Mann/Meenie will be the comic to expand on (it&#8217;s just starting to get good) or perhaps you will grace us with brand new art/stories/comics.</p>\n<p>Let&#8217;s just say, I&#8217;m always excited when I type &#8220;a&#8221; in my browser. I really enjoy your work and am ever grateful that you have it online. Thanks a bunch,<br />\nJonny Paycheck</p>"
   },
   {
    "id": 7207,
    "author": "ava",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/af0022af89fc860b573feedbf7db6d77?s=64&d=identicon&r=r",
-   "time": "May 19, 2011 at 2:01 pm",
-   "timeTitle": "Thursday, May 19th, 2011, 2:01 pm",
-   "html": "<p>Everything does happen for a reason. The reason doesn&#8217;t have to be restrictively good. We live in an amoral world.</p>"
+   "date": "2011-05-19T14:01",
+   "avatar": "af0022af89fc860b573feedbf7db6d77",
+   "text": "<p>Everything does happen for a reason. The reason doesn&#8217;t have to be restrictively good. We live in an amoral world.</p>"
   },
   {
    "id": 7227,
    "author": "matt",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a4269350f3b04b0ebf0512718274e61d?s=64&d=identicon&r=r",
-   "time": "May 20, 2011 at 7:35 pm",
-   "timeTitle": "Friday, May 20th, 2011, 7:35 pm",
-   "html": "<p>yeah, everything happens for a reason.  There are violent, well armed and funded gangs in Africa because we fund them with foreign aid, which includes military training and equipment.  There are rich corporatists who profit in a field where the government has established barriers to entry, giving an unearned advantage to the corporatists.  As long as the government says they have the right to use violence but the public does not, especially not in self defense against the government, we will have this kind of predation.  As long as people think that it&#8217;s ethical to vote to take money from the able (by force) and give it to the unable, we will have this kind of predation.  People can hate the phrase, but that just shows their inability to deal with reality.</p>"
+   "date": "2011-05-20T19:35",
+   "avatar": "a4269350f3b04b0ebf0512718274e61d",
+   "text": "<p>yeah, everything happens for a reason.  There are violent, well armed and funded gangs in Africa because we fund them with foreign aid, which includes military training and equipment.  There are rich corporatists who profit in a field where the government has established barriers to entry, giving an unearned advantage to the corporatists.  As long as the government says they have the right to use violence but the public does not, especially not in self defense against the government, we will have this kind of predation.  As long as people think that it&#8217;s ethical to vote to take money from the able (by force) and give it to the unable, we will have this kind of predation.  People can hate the phrase, but that just shows their inability to deal with reality.</p>"
   },
   {
    "id": 7234,
    "author": "Ryan",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/fc5fb9230edb6f66124ce5a0021659cd?s=64&d=identicon&r=r",
-   "time": "May 21, 2011 at 3:56 am",
-   "timeTitle": "Saturday, May 21st, 2011, 3:56 am",
-   "html": "<p>Matt, I think you got it exactly backwards. </p>\n<p>&#8220;People can hate the phrase, but that just shows their inability to deal with reality.&#8221;</p>\n<p>It is in fact, people who use this phrase that conveniently sweeps the complicated reality around it away. It&#8217;s more or less an irony the way most people use this phrase.</p>"
+   "date": "2011-05-21T03:56",
+   "avatar": "fc5fb9230edb6f66124ce5a0021659cd",
+   "text": "<p>Matt, I think you got it exactly backwards. </p>\n<p>&#8220;People can hate the phrase, but that just shows their inability to deal with reality.&#8221;</p>\n<p>It is in fact, people who use this phrase that conveniently sweeps the complicated reality around it away. It&#8217;s more or less an irony the way most people use this phrase.</p>"
   },
   {
    "id": 7235,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "May 21, 2011 at 5:49 am",
-   "timeTitle": "Saturday, May 21st, 2011, 5:49 am",
-   "html": "<p>obviously everything happens for a reason &#8211; there is always cause and effect.  But when people say this phrase, they generally mean everything happens for a GOOD reason &#8211; that somehow even totally bad things have some underlying &#8220;good&#8221; cause that we just can&#8217;t see.  That&#8217;s what I hate &#8211; the idea that my son has to be tortured with numerous surgeries still to be left with life long disabilities because it fits in to some grand scheme of goodness.</p>"
+   "date": "2011-05-21T05:49",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>obviously everything happens for a reason &#8211; there is always cause and effect.  But when people say this phrase, they generally mean everything happens for a GOOD reason &#8211; that somehow even totally bad things have some underlying &#8220;good&#8221; cause that we just can&#8217;t see.  That&#8217;s what I hate &#8211; the idea that my son has to be tortured with numerous surgeries still to be left with life long disabilities because it fits in to some grand scheme of goodness.</p>"
   },
   {
    "id": 7336,
    "author": "dizzorderly",
+   "date": "2011-05-25T05:04",
    "url": "http://www.dizzorderlymind.com",
-   "avatar": "http://1.gravatar.com/avatar/18f6dd61a31db153066cc1aa09439f10?s=64&d=identicon&r=r",
-   "time": "May 25, 2011 at 5:04 am",
-   "timeTitle": "Wednesday, May 25th, 2011, 5:04 am",
-   "html": "<p>This is one of my families favorite pat answers to everything. I want to print up a bunch these and staple it to their fucking foreheads every time they say it from now on!</p>"
+   "avatar": "18f6dd61a31db153066cc1aa09439f10",
+   "text": "<p>This is one of my families favorite pat answers to everything. I want to print up a bunch these and staple it to their fucking foreheads every time they say it from now on!</p>"
   },
   {
    "id": 7476,
    "author": "Emily",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1b9af521140cb8c0ce6aa33b826c307b?s=64&d=identicon&r=r",
-   "time": "May 28, 2011 at 6:06 pm",
-   "timeTitle": "Saturday, May 28th, 2011, 6:06 pm",
-   "html": "<p>I love this so much. This is really just great, and I&#8217;m so glad I google that I hated this expression, haha.</p>\n<p>I&#8217;m using a lot of restraint to not send it to everyone I know that regularly uses this phrase. Oddly enough, the people I know who do use this phrase have never experienced any tragedy past the top three pictures. No cancer, no death of a child, no starvation, etc. The people who I know who have experienced things like that would never be caught dead saying that expression (no pun intended given the comic).</p>\n<p>&#8220;Matt, I think you got it exactly backwards.<br />\nIt is in fact, people who use this phrase that conveniently sweeps the complicated reality around it away. It’s more or less an irony the way most people use this phrase.&#8221;</p>\n<p>Exactly. People who use this phrase either like to think that bad things happen as a part of some &#8220;greater good&#8221; or they like to use it as a way to wash their hands of any responsibility they may have had in the bad event occuring. So yes, like Ryan said, you&#8217;ve got it backwards. The people who use this phrase are not dealing with reality, they are merely relaying their problems to some higher being or fate/destiny. </p>\n<p>Matt, you&#8217;ve given two examples that clearly have an identifiable cause and effect. However, you&#8217;ve conveniently left out examples that are less defined. What about a child who gets cancer? Where&#8217;s the cause behind that? What about a woman who does everything &#8220;right&#8221; in her pregnancy but still loses the child? Where&#8217;s the cause behind that? To hide behind an expression such as &#8220;everything happens for a reason&#8221; just doesn&#8217;t seem justified to me nor does it seem like the people who use it are in tune with reality.</p>"
+   "date": "2011-05-28T18:06",
+   "avatar": "1b9af521140cb8c0ce6aa33b826c307b",
+   "text": "<p>I love this so much. This is really just great, and I&#8217;m so glad I google that I hated this expression, haha.</p>\n<p>I&#8217;m using a lot of restraint to not send it to everyone I know that regularly uses this phrase. Oddly enough, the people I know who do use this phrase have never experienced any tragedy past the top three pictures. No cancer, no death of a child, no starvation, etc. The people who I know who have experienced things like that would never be caught dead saying that expression (no pun intended given the comic).</p>\n<p>&#8220;Matt, I think you got it exactly backwards.<br />\nIt is in fact, people who use this phrase that conveniently sweeps the complicated reality around it away. It’s more or less an irony the way most people use this phrase.&#8221;</p>\n<p>Exactly. People who use this phrase either like to think that bad things happen as a part of some &#8220;greater good&#8221; or they like to use it as a way to wash their hands of any responsibility they may have had in the bad event occuring. So yes, like Ryan said, you&#8217;ve got it backwards. The people who use this phrase are not dealing with reality, they are merely relaying their problems to some higher being or fate/destiny. </p>\n<p>Matt, you&#8217;ve given two examples that clearly have an identifiable cause and effect. However, you&#8217;ve conveniently left out examples that are less defined. What about a child who gets cancer? Where&#8217;s the cause behind that? What about a woman who does everything &#8220;right&#8221; in her pregnancy but still loses the child? Where&#8217;s the cause behind that? To hide behind an expression such as &#8220;everything happens for a reason&#8221; just doesn&#8217;t seem justified to me nor does it seem like the people who use it are in tune with reality.</p>"
   },
   {
    "id": 7486,
    "author": "Kiara",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a7ac61f9aedf1e64e46282b8d762d514?s=64&d=identicon&r=r",
-   "time": "May 28, 2011 at 9:14 pm",
-   "timeTitle": "Saturday, May 28th, 2011, 9:14 pm",
-   "html": "<p>Threw up in my mouth a little&#8230;<br />\nI didn&#8217;t dislike this comic. I also didnt particularly enjoy it&#8230; It&#8217;s just one of those truths you have to accept.</p>"
+   "date": "2011-05-28T21:14",
+   "avatar": "a7ac61f9aedf1e64e46282b8d762d514",
+   "text": "<p>Threw up in my mouth a little&#8230;<br />\nI didn&#8217;t dislike this comic. I also didnt particularly enjoy it&#8230; It&#8217;s just one of those truths you have to accept.</p>"
   },
   {
    "id": 7608,
    "author": "The Dark Force",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b590084f530beaf124221a1dd434f75b?s=64&d=identicon&r=r",
-   "time": "May 31, 2011 at 9:32 pm",
-   "timeTitle": "Tuesday, May 31st, 2011, 9:32 pm",
-   "html": "<p>The reason these things happens is Satan.</p>"
+   "date": "2011-05-31T21:32",
+   "avatar": "b590084f530beaf124221a1dd434f75b",
+   "text": "<p>The reason these things happens is Satan.</p>"
   },
   {
    "id": 7756,
    "author": "cedouh",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/17a366a376b02b34af0080ac34eae8aa?s=64&d=identicon&r=r",
-   "time": "June 4, 2011 at 6:37 pm",
-   "timeTitle": "Saturday, June 4th, 2011, 6:37 pm",
-   "html": "<p>the reason these things happen is not Satan, or any other figment of your imagination, it is so the few can control the many.</p>"
+   "date": "2011-06-04T18:37",
+   "avatar": "17a366a376b02b34af0080ac34eae8aa",
+   "text": "<p>the reason these things happen is not Satan, or any other figment of your imagination, it is so the few can control the many.</p>"
   },
   {
    "id": 7822,
    "author": "Soe",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d104a95dc9ff7c066340dd24552822b4?s=64&d=identicon&r=r",
-   "time": "June 7, 2011 at 12:44 am",
-   "timeTitle": "Tuesday, June 7th, 2011, 12:44 am",
-   "html": "<p>wow</p>"
+   "date": "2011-06-07T00:44",
+   "avatar": "d104a95dc9ff7c066340dd24552822b4",
+   "text": "<p>wow</p>"
   },
   {
    "id": 8009,
    "author": "Pat",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9eb7192a10745725bea61d00a046aea0?s=64&d=identicon&r=r",
-   "time": "June 14, 2011 at 10:29 am",
-   "timeTitle": "Tuesday, June 14th, 2011, 10:29 am",
-   "html": "<p>That&#8217;s called reality if you don&#8217;t like do something&#8230;like actually get off your ass and help change society cause all those cartoon boxes go on around the world every second of everyday! The artist is doing nothing but allowing us to see the controversy world wide.</p>"
+   "date": "2011-06-14T10:29",
+   "avatar": "9eb7192a10745725bea61d00a046aea0",
+   "text": "<p>That&#8217;s called reality if you don&#8217;t like do something&#8230;like actually get off your ass and help change society cause all those cartoon boxes go on around the world every second of everyday! The artist is doing nothing but allowing us to see the controversy world wide.</p>"
   },
   {
    "id": 8215,
    "author": "happytaria",
+   "date": "2011-06-20T09:16",
    "url": "http://happytaria.blogspot.com/",
-   "avatar": "http://1.gravatar.com/avatar/13d908fbff09b5d0de98009c174bbd20?s=64&d=identicon&r=r",
-   "time": "June 20, 2011 at 9:16 am",
-   "timeTitle": "Monday, June 20th, 2011, 9:16 am",
-   "html": "<p>I agree, everything happens for a reason. What a sad reality you put in there 🙁</p>"
+   "avatar": "13d908fbff09b5d0de98009c174bbd20",
+   "text": "<p>I agree, everything happens for a reason. What a sad reality you put in there 🙁</p>"
   },
   {
    "id": 10114,
    "author": "Shane",
+   "date": "2011-10-09T16:44",
    "url": "http://thesilentarmy.tumblr.com",
-   "avatar": "http://2.gravatar.com/avatar/edfc031b91b0565cb2f4998575df3ec1?s=64&d=identicon&r=r",
-   "time": "October 9, 2011 at 4:44 pm",
-   "timeTitle": "Sunday, October 9th, 2011, 4:44 pm",
-   "html": "<p>As a nihilist, I actually believe that things are pretty random. Obviously, there is undeniable causality of things, but at first I thought you were going to make a point about how people attribute everything that happens to God or some divine plan or fate, where there is in fact NO reason for any of it. But at the end, I saw you were going a completely different direction than that, but i rather liked that point too.</p>"
+   "avatar": "edfc031b91b0565cb2f4998575df3ec1",
+   "text": "<p>As a nihilist, I actually believe that things are pretty random. Obviously, there is undeniable causality of things, but at first I thought you were going to make a point about how people attribute everything that happens to God or some divine plan or fate, where there is in fact NO reason for any of it. But at the end, I saw you were going a completely different direction than that, but i rather liked that point too.</p>"
   },
   {
    "id": 63701,
    "author": "Edohiguma",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/513ff3f75038e21faef3a62912f8cbce?s=64&d=identicon&r=r",
-   "time": "February 27, 2012 at 10:08 am",
-   "timeTitle": "Monday, February 27th, 2012, 10:08 am",
-   "html": "<p>The other annoying phrase is &#8220;God has a plan&#8221;. </p>\n<p>But ultimately we&#8217;re all dead anyway.</p>"
+   "date": "2012-02-27T10:08",
+   "avatar": "513ff3f75038e21faef3a62912f8cbce",
+   "text": "<p>The other annoying phrase is &#8220;God has a plan&#8221;. </p>\n<p>But ultimately we&#8217;re all dead anyway.</p>"
   },
   {
    "id": 92511,
    "author": "James re",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/7118c125c615f45ffcda2b529c7effb2?s=64&d=identicon&r=r",
-   "time": "August 2, 2012 at 9:23 am",
-   "timeTitle": "Thursday, August 2nd, 2012, 9:23 am",
-   "html": "<p>Kudos from Australia mate, I love your comics. Never stop making them, this is one of the greatest images I have ever seen. Your comic about your actual website, discussing solipsism and the isolation we feel in life spoke to me on an deep level. best wishes bro</p>"
+   "date": "2012-08-02T09:23",
+   "avatar": "7118c125c615f45ffcda2b529c7effb2",
+   "text": "<p>Kudos from Australia mate, I love your comics. Never stop making them, this is one of the greatest images I have ever seen. Your comic about your actual website, discussing solipsism and the isolation we feel in life spoke to me on an deep level. best wishes bro</p>"
   },
   {
    "id": 107131,
    "author": "Mindless",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/86ee32afb44965921b6bb7b57dea295e?s=64&d=identicon&r=r",
-   "time": "October 7, 2012 at 4:50 am",
-   "timeTitle": "Sunday, October 7th, 2012, 4:50 am",
-   "html": "<p>My religion is: everything happens for a reason. I don&#8217;t use it as a sympathy gesture, or a halfhearted apology. I don&#8217;t use it to ignore reality, or convince people to see the silver lining in a tragic event. What it means to me, is that each and every event in my life, minor and major, has brought me to the exact place I am in this exact moment. Wherever I may be at 10pm tomorrow will be exactly where I am meant to be, and the events between now and then are going to get me there. Nothing to do with fate or destiny. Just who and how and when I am meant to be. I&#8217;ve experienced my fair share of tragedies. Lost my virginity while passed out from my first alcohol experience at age 15. That event, while seemingly nonsensical at the time, set into motion thousands of large and small events that, without them occuring, I wouldn&#8217;t be ME today. Had it not happened, I would not have my beautiful son, or my loving fiance&#8217;e. I can list a million more &#8216;terrible&#8217; events in my life that were necessary in order to lead me down this path I am meant to follow. They didn&#8217;t make sense at the time, but now I see that they gave me my greatest joy, my baby boy, my light, my everything. I wouldn&#8217;t change a single thing, because I can clearly see the impact every single event had on the path I am on. Perhaps you all hate the phrase because you simply don&#8217;t understand the incredible meaning and truth behind it. It&#8217;s a way to ACCEPT reality as it is, without overthinking it and becoming unnecessarily depressed about small things. (However, in extreme events, depression IS necessary depending on the person, but even the depression is shaping your future.) It makes life more beautiful, and less frightening. No regrets, but learning of cause and effect. No doubts, for every move you make is the move you&#8217;re meant to. Try it sometime. Who knows, maybe the reason I jumped on StumbleUpon and it took me to this page was to cause me to write this post, because perhaps somebody who needs this light in their life will happen upon it.</p>"
+   "date": "2012-10-07T04:50",
+   "avatar": "86ee32afb44965921b6bb7b57dea295e",
+   "text": "<p>My religion is: everything happens for a reason. I don&#8217;t use it as a sympathy gesture, or a halfhearted apology. I don&#8217;t use it to ignore reality, or convince people to see the silver lining in a tragic event. What it means to me, is that each and every event in my life, minor and major, has brought me to the exact place I am in this exact moment. Wherever I may be at 10pm tomorrow will be exactly where I am meant to be, and the events between now and then are going to get me there. Nothing to do with fate or destiny. Just who and how and when I am meant to be. I&#8217;ve experienced my fair share of tragedies. Lost my virginity while passed out from my first alcohol experience at age 15. That event, while seemingly nonsensical at the time, set into motion thousands of large and small events that, without them occuring, I wouldn&#8217;t be ME today. Had it not happened, I would not have my beautiful son, or my loving fiance&#8217;e. I can list a million more &#8216;terrible&#8217; events in my life that were necessary in order to lead me down this path I am meant to follow. They didn&#8217;t make sense at the time, but now I see that they gave me my greatest joy, my baby boy, my light, my everything. I wouldn&#8217;t change a single thing, because I can clearly see the impact every single event had on the path I am on. Perhaps you all hate the phrase because you simply don&#8217;t understand the incredible meaning and truth behind it. It&#8217;s a way to ACCEPT reality as it is, without overthinking it and becoming unnecessarily depressed about small things. (However, in extreme events, depression IS necessary depending on the person, but even the depression is shaping your future.) It makes life more beautiful, and less frightening. No regrets, but learning of cause and effect. No doubts, for every move you make is the move you&#8217;re meant to. Try it sometime. Who knows, maybe the reason I jumped on StumbleUpon and it took me to this page was to cause me to write this post, because perhaps somebody who needs this light in their life will happen upon it.</p>"
   },
   {
    "id": 355132,
    "author": "Gary",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/4e5bebb37fa0bb3297a1fcbbd00044f2?s=64&d=identicon&r=r",
-   "time": "January 2, 2014 at 8:53 am",
-   "timeTitle": "Thursday, January 2nd, 2014, 8:53 am",
-   "html": "<p>Back in the 1970s there was another great phrase.<br />\nConsume, be silent, die.</p>"
+   "date": "2014-01-02T08:53",
+   "avatar": "4e5bebb37fa0bb3297a1fcbbd00044f2",
+   "text": "<p>Back in the 1970s there was another great phrase.<br />\nConsume, be silent, die.</p>"
   }
  ],
  "pingbacks": [
   {
    "id": 7165,
-   "author": "Everything happens for a reason « The Philosophies of Chris",
+   "title": "Everything happens for a reason « The Philosophies of Chris",
    "url": "http://philosophyofchris.wordpress.com/2011/05/18/everything-happens-for-a-reason/",
-   "avatar": null,
-   "time": "May 18, 2011 at 12:12 am",
-   "timeTitle": "Wednesday, May 18th, 2011, 12:12 am",
-   "html": ""
+   "date": "2011-05-18T00:12"
   },
   {
    "id": 7244,
-   "author": "Everything happens for a reason « I have qualities",
+   "title": "Everything happens for a reason « I have qualities",
    "url": "http://ihavequalities.wordpress.com/2011/05/15/everything-happens-for-a-reason/",
-   "avatar": null,
-   "time": "May 21, 2011 at 10:18 pm",
-   "timeTitle": "Saturday, May 21st, 2011, 10:18 pm",
-   "html": ""
+   "date": "2011-05-21T22:18"
   },
   {
    "id": 9755,
-   "author": "Akimbo Comics: “Everything happens for a reason” | The Prime Directive",
+   "title": "Akimbo Comics: “Everything happens for a reason” | The Prime Directive",
    "url": "http://francoistremblay.wordpress.com/2011/09/25/akimbo-comics-everything-happens-for-a-reason/",
-   "avatar": null,
-   "time": "September 26, 2011 at 3:37 am",
-   "timeTitle": "Monday, September 26th, 2011, 3:37 am",
-   "html": ""
+   "date": "2011-09-26T03:37"
   }
- ],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 182",
-  "bodyClass": "post-template-default single single-post postid-647 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 182",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-05-15-Eat_Shit_And_Die_182.jpg"
- }
+ ]
 }

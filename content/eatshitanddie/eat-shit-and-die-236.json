@@ -1,128 +1,71 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-236/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-236",
- "id": 944,
  "title": "eat shit & die 236",
  "author": "bpatrick",
- "date": "June 1, 2014",
- "time": "12:00 am",
- "datetime": "2014-06-01T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2014-06-01T00:00",
  "tags": [
-  {
-   "title": "onan",
-   "href": "/tag/onan/"
-  }
+  "onan"
  ],
- "html": "<p>It seems fitting that I feel like the primary audience for whom <em>Onan</em> is made. There is even a panel here that looks like it comes from a comic I would enjoy reading. </p>",
- "postClass": "post-944 post type-post status-publish format-standard hentry category-eatshitanddie tag-onan uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2014-06-01-Eat_Shit_And_Die_236.jpg",
-   "alt": "eat shit & die 236",
-   "title": "eat shit & die 236"
-  }
+  "2014-06-01-Eat_Shit_And_Die_236.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-65/",
-  "next": "/eatshitanddie/eat-shit-and-die-237/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-65/",
-  "next": "/eatshitanddie/eat-shit-and-die-237/"
- },
- "commentCount": 8,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>It seems fitting that I feel like the primary audience for whom <em>Onan</em> is made. There is even a panel here that looks like it comes from a comic I would enjoy reading. </p>",
  "comments": [
   {
    "id": 572872,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "June 2, 2014 at 6:03 am",
-   "timeTitle": "Monday, June 2nd, 2014, 6:03 am",
-   "html": "<p>so good to get more Onan, thanks</p>"
+   "date": "2014-06-02T06:03",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>so good to get more Onan, thanks</p>"
   },
   {
    "id": 573119,
    "author": "Kevin",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/31b46b9e0c70314d83c7a68ae7389818?s=64&d=identicon&r=r",
-   "time": "June 2, 2014 at 2:35 pm",
-   "timeTitle": "Monday, June 2nd, 2014, 2:35 pm",
-   "html": "<p>The panel with the splattered brains? Thinking of becoming a neurosurgeon?</p>\n<p>Great comic. </p>\n<p>Do robots have feelings?</p>"
+   "date": "2014-06-02T14:35",
+   "avatar": "31b46b9e0c70314d83c7a68ae7389818",
+   "text": "<p>The panel with the splattered brains? Thinking of becoming a neurosurgeon?</p>\n<p>Great comic. </p>\n<p>Do robots have feelings?</p>"
   },
   {
    "id": 573314,
    "author": "Thomas",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6d6b98ec3dda76b6344546d65df494b4?s=64&d=identicon&r=r",
-   "time": "June 2, 2014 at 9:37 pm",
-   "timeTitle": "Monday, June 2nd, 2014, 9:37 pm",
-   "html": "<p>I just wanted to say that I love your work.</p>"
+   "date": "2014-06-02T21:37",
+   "avatar": "6d6b98ec3dda76b6344546d65df494b4",
+   "text": "<p>I just wanted to say that I love your work.</p>"
   },
   {
    "id": 573656,
    "author": "kw",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/cce937893f6fcd6f89932e644ef27b84?s=64&d=identicon&r=r",
-   "time": "June 3, 2014 at 11:11 am",
-   "timeTitle": "Tuesday, June 3rd, 2014, 11:11 am",
-   "html": "<p>ooooooooooooooh snap!! had always assumed that all the Onan strips were fragmented bits with no direct timeline.. but the question here remains; which onan will be featured in the next??</p>"
+   "date": "2014-06-03T11:11",
+   "avatar": "cce937893f6fcd6f89932e644ef27b84",
+   "text": "<p>ooooooooooooooh snap!! had always assumed that all the Onan strips were fragmented bits with no direct timeline.. but the question here remains; which onan will be featured in the next??</p>"
   },
   {
    "id": 573765,
    "author": "practik",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d77b6090cae5e15ffeb77911408a909b?s=64&d=identicon&r=r",
-   "time": "June 3, 2014 at 1:39 pm",
-   "timeTitle": "Tuesday, June 3rd, 2014, 1:39 pm",
-   "html": "<p>Panel 3&#8217;s a nice one too – the overlapping helmets and hair seemed so right when I was still thinking they were two versions of the same person.  Which just adds to the paranoia now that I know they&#8217;re not.</p>"
+   "date": "2014-06-03T13:39",
+   "avatar": "d77b6090cae5e15ffeb77911408a909b",
+   "text": "<p>Panel 3&#8217;s a nice one too – the overlapping helmets and hair seemed so right when I was still thinking they were two versions of the same person.  Which just adds to the paranoia now that I know they&#8217;re not.</p>"
   },
   {
    "id": 578090,
    "author": "bpatrick",
+   "date": "2014-06-09T00:58",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "June 9, 2014 at 12:58 am",
-   "timeTitle": "Monday, June 9th, 2014, 12:58 am",
-   "html": "<p>Thanks everyone! It&#8217;s actually panel 14. It looks like it could be from a &#8220;real&#8221; comic to me.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks everyone! It&#8217;s actually panel 14. It looks like it could be from a &#8220;real&#8221; comic to me.</p>"
   },
   {
    "id": 581841,
    "author": "ego",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/537b7315c0960d9c16a420fa82b93bba?s=64&d=identicon&r=r",
-   "time": "June 14, 2014 at 5:06 am",
-   "timeTitle": "Saturday, June 14th, 2014, 5:06 am",
-   "html": "<p>this comic is precisely, 100% the opposite of &#8220;Questionable Content&#8221;.</p>\n<p>thank you.</p>"
+   "date": "2014-06-14T05:06",
+   "avatar": "537b7315c0960d9c16a420fa82b93bba",
+   "text": "<p>this comic is precisely, 100% the opposite of &#8220;Questionable Content&#8221;.</p>\n<p>thank you.</p>"
   },
   {
    "id": 583258,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "June 16, 2014 at 8:42 pm",
-   "timeTitle": "Monday, June 16th, 2014, 8:42 pm",
-   "html": "<p>Ah yes! Onan! Thank you bpatrick!</p>"
+   "date": "2014-06-16T20:42",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Ah yes! Onan! Thank you bpatrick!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 236",
-  "bodyClass": "post-template-default single single-post postid-944 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 236",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2014-06-01-Eat_Shit_And_Die_236.jpg"
- }
+ ]
 }

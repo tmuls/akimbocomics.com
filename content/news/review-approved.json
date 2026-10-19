@@ -1,38 +1,6 @@
 {
- "path": "/news/review-approved/",
- "series": "news",
- "slug": "review-approved",
- "id": 1053,
  "title": "Review approved",
  "author": "emulsifier",
- "date": "April 20, 2017",
- "time": "2:44 pm",
- "datetime": "2017-04-20T14:44:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>The latest malware review got approved.  I had to revert to a backup from February 2016.  Whoever messed with the site must have been thorough about hiding stuff all over the place in both the database and the php files.  I have a better backup system in place now (like 95% foolproof)</p>\n<p>Comments are disabled for now. I will probably re-enable them once the dust settles and I am confident that there isn&#8217;t any more weird shit going on. Feel free to discuss the comics on facebook or wherever else you want.</p>\n<p>I am sending Brian the image files of the comics that are now missing, these files come with the dates for them so he can re-upload them easily.  Comments made since February 2016 are lost.  Sorry it took so long to fix, pretty busy with real life.</p>\n<p>Last but not least, if your browser warns you a site is unsafe, it probably is.  If that happens to us again, just let us know and stay off until we get it fixed.  We won&#8217;t upload new comics if chrome or firefox are blocking us.</p>",
- "postClass": "post-1053 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/old-site/",
-  "next": "/news/looks-like-everything-worked/"
- },
- "menuNav": {},
- "commentCount": null,
- "commentsOpen": false,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Review approved",
-  "bodyClass": "post-template-default single single-post postid-1053 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Review approved",
-  "ogDescription": ""
- }
+ "date": "2017-04-20T14:44",
+ "body": "<p>The latest malware review got approved.  I had to revert to a backup from February 2016.  Whoever messed with the site must have been thorough about hiding stuff all over the place in both the database and the php files.  I have a better backup system in place now (like 95% foolproof)</p>\n<p>Comments are disabled for now. I will probably re-enable them once the dust settles and I am confident that there isn&#8217;t any more weird shit going on. Feel free to discuss the comics on facebook or wherever else you want.</p>\n<p>I am sending Brian the image files of the comics that are now missing, these files come with the dates for them so he can re-upload them easily.  Comments made since February 2016 are lost.  Sorry it took so long to fix, pretty busy with real life.</p>\n<p>Last but not least, if your browser warns you a site is unsafe, it probably is.  If that happens to us again, just let us know and stay off until we get it fixed.  We won&#8217;t upload new comics if chrome or firefox are blocking us.</p>"
 }

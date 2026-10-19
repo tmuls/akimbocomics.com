@@ -1,50 +1,8 @@
 {
- "path": "/comics/bonus-zeno-18/",
- "series": "comics",
- "slug": "bonus-zeno-18",
- "id": 1221,
  "title": "Bonus: Zeno 18",
  "author": "bpatrick",
- "date": "January 27, 2000",
- "time": "3:20 am",
- "datetime": "2000-01-27T03:20:00",
- "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1221 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2000-01-27T03:20",
  "images": [
-  {
-   "src": "2000-01-27-Zeno_18.jpg",
-   "alt": "Bonus: Zeno 18",
-   "title": "Bonus: Zeno 18"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/comics/bonus-26-zeno-17/",
-  "next": "/comics/bonus-zeno-19/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/comics/bonus-26-zeno-17/",
-  "next": "/comics/bonus-zeno-19/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Bonus: Zeno 18",
-  "bodyClass": "post-template-default single single-post postid-1221 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Bonus: Zeno 18",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2000-01-27-Zeno_18.jpg"
- }
+  "2000-01-27-Zeno_18.jpg"
+ ]
 }

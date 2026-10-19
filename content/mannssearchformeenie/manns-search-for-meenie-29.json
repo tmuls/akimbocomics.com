@@ -1,78 +1,32 @@
 {
- "path": "/mannssearchformeenie/manns-search-for-meenie-29/",
- "series": "mannssearchformeenie",
- "slug": "manns-search-for-meenie-29",
- "id": 683,
  "title": "Manns Search For Meenie 29",
  "author": "bpatrick",
- "date": "July 27, 2011",
- "time": "12:00 am",
- "datetime": "2011-07-27T00:00:00",
- "categories": [
-  {
-   "title": "Manns search for Meenie",
-   "href": "/mannssearchformeenie/"
-  }
- ],
- "tags": [],
- "html": "<p>Some MSFM by request. I&#8217;ll see what I can do about getting some good es&#038;d.</p>",
- "postClass": "post-683 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-07-27T00:00",
  "images": [
-  {
-   "src": "2011-07-27-Manns_Search_For_Meenie_29.jpg",
-   "alt": "Manns Search For Meenie 29",
-   "title": "Manns Search For Meenie 29"
-  }
+  "2011-07-27-Manns_Search_For_Meenie_29.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-192/",
-  "next": "/eatshitanddie/eat-shit-and-die-193/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-192/",
-  "next": "/eatshitanddie/eat-shit-and-die-193/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Some MSFM by request. I&#8217;ll see what I can do about getting some good es&#038;d.</p>",
  "comments": [
   {
    "id": 8924,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "July 28, 2011 at 9:52 pm",
-   "timeTitle": "Thursday, July 28th, 2011, 9:52 pm",
-   "html": "<p>Ambiguous adjectives are funny. I just forgot about them after highschool.</p>"
+   "date": "2011-07-28T21:52",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Ambiguous adjectives are funny. I just forgot about them after highschool.</p>"
   },
   {
    "id": 8932,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "July 29, 2011 at 10:39 pm",
-   "timeTitle": "Friday, July 29th, 2011, 10:39 pm",
-   "html": "<p>Some MSFM. I do feel obliged to cheer now: nice move! (wonder where it&#8217;s going?)</p>"
+   "date": "2011-07-29T22:39",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>Some MSFM. I do feel obliged to cheer now: nice move! (wonder where it&#8217;s going?)</p>"
   },
   {
    "id": 9514,
    "author": "rapchee",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9c0de9178cdd8b95918225da80e6b77b?s=64&d=identicon&r=r",
-   "time": "September 18, 2011 at 10:48 pm",
-   "timeTitle": "Sunday, September 18th, 2011, 10:48 pm",
-   "html": "<p>a few pages ago i was like &#8220;dont listen to those guys, do what you feel like&#8221; which i ofc meant like continue this story<br />\nand now on a completely unrelated note &#8230;</p>"
+   "date": "2011-09-18T22:48",
+   "avatar": "9c0de9178cdd8b95918225da80e6b77b",
+   "text": "<p>a few pages ago i was like &#8220;dont listen to those guys, do what you feel like&#8221; which i ofc meant like continue this story<br />\nand now on a completely unrelated note &#8230;</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 29",
-  "bodyClass": "post-template-default single single-post postid-683 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Manns Search For Meenie 29",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-07-27-Manns_Search_For_Meenie_29.jpg"
- }
+ ]
 }

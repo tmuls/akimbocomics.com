@@ -1,50 +1,10 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-140/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-140",
- "id": 450,
  "title": "eat shit & die 140",
  "author": "bpatrick",
- "date": "August 20, 2009",
- "time": "12:00 am",
- "datetime": "2009-08-20T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>We&#8217;re Back! The comic&#8217;s not in color but it does have Shannon and Chloe in bathing suits! It&#8217;s not really my comment on the way girls are as much as Shannon&#8217;s comment on the way she is.</p>",
- "postClass": "post-450 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-08-20T00:00",
  "images": [
-  {
-   "src": "2009-08-20-Eat_Shit_And_Die_140.jpg",
-   "alt": "...hanging out at Real and Chance's?",
-   "title": "...hanging out at Real and Chance's?"
-  }
+  "2009-08-20-Eat_Shit_And_Die_140.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/linetool/line-tool-1/",
-  "next": "/vivianblank/vivian-blank-18/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/linetool/line-tool-1/",
-  "next": "/vivianblank/vivian-blank-18/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 140",
-  "bodyClass": "post-template-default single single-post postid-450 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 140",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-08-20-Eat_Shit_And_Die_140.jpg"
- }
+ "hoverText": "...hanging out at Real and Chance's?",
+ "body": "<p>We&#8217;re Back! The comic&#8217;s not in color but it does have Shannon and Chloe in bathing suits! It&#8217;s not really my comment on the way girls are as much as Shannon&#8217;s comment on the way she is.</p>"
 }

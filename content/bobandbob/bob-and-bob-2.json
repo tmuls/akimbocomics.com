@@ -1,50 +1,8 @@
 {
- "path": "/bobandbob/bob-and-bob-2/",
- "series": "bobandbob",
- "slug": "bob-and-bob-2",
- "id": 10,
  "title": "Bob And Bob 2",
  "author": "emulsifier",
- "date": "April 19, 2008",
- "time": "12:00 am",
- "datetime": "2008-04-19T00:00:00",
- "categories": [
-  {
-   "title": "Bob and Bob",
-   "href": "/bobandbob/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-10 post type-post status-publish format-standard hentry category-bobandbob uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-04-19T00:00",
  "images": [
-  {
-   "src": "2008-04-19-Bob_And_Bob_2.jpg",
-   "alt": "Bob And Bob 2",
-   "title": "Bob And Bob 2"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/bellyofthefish/belly-of-the-fish-2/",
-  "next": "/bobandbob/bob-and-bob-3/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/bellyofthefish/belly-of-the-fish-2/",
-  "next": "/bobandbob/bob-and-bob-3/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob And Bob 2",
-  "bodyClass": "post-template-default single single-post postid-10 single-format-standard user-guest comic unknown single-category-bobandbob single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Bob And Bob 2",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-04-19-Bob_And_Bob_2.jpg"
- }
+  "2008-04-19-Bob_And_Bob_2.jpg"
+ ]
 }

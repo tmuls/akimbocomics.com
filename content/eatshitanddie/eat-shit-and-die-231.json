@@ -1,123 +1,67 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-231/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-231",
- "id": 883,
  "title": "eat shit & die 231",
  "author": "bpatrick",
- "date": "December 7, 2013",
- "time": "12:00 am",
- "datetime": "2013-12-07T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>With a debt to Mr. Brainwash. </p>\n<p>I&#8217;m trying to get stuff out there.</p>",
- "postClass": "post-883 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2013-12-07T00:00",
  "images": [
-  {
-   "src": "2013-12-07-Eat_Shit_And_Die_231.jpg",
-   "alt": "eat shit & die 231",
-   "title": "eat shit & die 231"
-  }
+  "2013-12-07-Eat_Shit_And_Die_231.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-230/",
-  "next": "/eatshitanddie/eat-shit-and-die-232/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-230/",
-  "next": "/eatshitanddie/eat-shit-and-die-232/"
- },
- "commentCount": 8,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>With a debt to Mr. Brainwash. </p>\n<p>I&#8217;m trying to get stuff out there.</p>",
  "comments": [
   {
    "id": 282125,
    "author": "hwagz",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/82216ead459ba75c9c706dab4223a6bb?s=64&d=identicon&r=r",
-   "time": "December 8, 2013 at 4:29 am",
-   "timeTitle": "Sunday, December 8th, 2013, 4:29 am",
-   "html": "<p>I graduate from college in a week. Thanks for coloring in my nightmares.</p>"
+   "date": "2013-12-08T04:29",
+   "avatar": "82216ead459ba75c9c706dab4223a6bb",
+   "text": "<p>I graduate from college in a week. Thanks for coloring in my nightmares.</p>"
   },
   {
    "id": 282254,
    "author": "mitchfish",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f0684be39d256233d99d33a1be01ae1f?s=64&d=identicon&r=r",
-   "time": "December 8, 2013 at 6:19 am",
-   "timeTitle": "Sunday, December 8th, 2013, 6:19 am",
-   "html": "<p>Great comic!</p>"
+   "date": "2013-12-08T06:19",
+   "avatar": "f0684be39d256233d99d33a1be01ae1f",
+   "text": "<p>Great comic!</p>"
   },
   {
    "id": 282270,
    "author": "bachterman",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/849febbbc71eb48210f19d38fa50ea70?s=64&d=identicon&r=r",
-   "time": "December 8, 2013 at 6:30 am",
-   "timeTitle": "Sunday, December 8th, 2013, 6:30 am",
-   "html": "<p>at first i thought it was zee captain from romanticallyapocalyptic, but then i saw it was red skull-agent smith. 😉</p>"
+   "date": "2013-12-08T06:30",
+   "avatar": "849febbbc71eb48210f19d38fa50ea70",
+   "text": "<p>at first i thought it was zee captain from romanticallyapocalyptic, but then i saw it was red skull-agent smith. 😉</p>"
   },
   {
    "id": 282969,
    "author": "sim",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/78a64d270cce20f30c1c48f864dd3e2b?s=64&d=identicon&r=r",
-   "time": "December 8, 2013 at 6:27 pm",
-   "timeTitle": "Sunday, December 8th, 2013, 6:27 pm",
-   "html": "<p>I love how in the panel where she says &#8216;You aren&#8217;t an asshole or some Pyscho&#8217;, he looks like Norman Bates.</p>"
+   "date": "2013-12-08T18:27",
+   "avatar": "78a64d270cce20f30c1c48f864dd3e2b",
+   "text": "<p>I love how in the panel where she says &#8216;You aren&#8217;t an asshole or some Pyscho&#8217;, he looks like Norman Bates.</p>"
   },
   {
    "id": 284073,
    "author": "SoldierMD",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d5ff310dfc75cf5cca115a3e6c6699b0?s=64&d=identicon&r=r",
-   "time": "December 9, 2013 at 8:45 am",
-   "timeTitle": "Monday, December 9th, 2013, 8:45 am",
-   "html": "<p>Good eye, Sim.  I missed that.  Brilliant as always, bpatrick!</p>"
+   "date": "2013-12-09T08:45",
+   "avatar": "d5ff310dfc75cf5cca115a3e6c6699b0",
+   "text": "<p>Good eye, Sim.  I missed that.  Brilliant as always, bpatrick!</p>"
   },
   {
    "id": 290023,
    "author": "Jules.LT",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f6c19574565dc36948343cef94f30e48?s=64&d=identicon&r=r",
-   "time": "December 11, 2013 at 10:46 pm",
-   "timeTitle": "Wednesday, December 11th, 2013, 10:46 pm",
-   "html": "<p>What&#8217;s the MBW piece you&#8217;re referring to?</p>"
+   "date": "2013-12-11T22:46",
+   "avatar": "f6c19574565dc36948343cef94f30e48",
+   "text": "<p>What&#8217;s the MBW piece you&#8217;re referring to?</p>"
   },
   {
    "id": 298350,
    "author": "Michael Parshall",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/defd5d75e769cdb624a9d497f6eb96ed?s=64&d=identicon&r=r",
-   "time": "December 15, 2013 at 4:23 am",
-   "timeTitle": "Sunday, December 15th, 2013, 4:23 am",
-   "html": "<p>Winter of comix!!!<br />\nThat dude can&#8217;t be evil he&#8217;s got a sexy butt.</p>"
+   "date": "2013-12-15T04:23",
+   "avatar": "defd5d75e769cdb624a9d497f6eb96ed",
+   "text": "<p>Winter of comix!!!<br />\nThat dude can&#8217;t be evil he&#8217;s got a sexy butt.</p>"
   },
   {
    "id": 302296,
    "author": "Simen valla",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/46651ceb5561752888190084b1e10b2a?s=64&d=identicon&r=r",
-   "time": "December 16, 2013 at 10:54 pm",
-   "timeTitle": "Monday, December 16th, 2013, 10:54 pm",
-   "html": "<p>That was elegant, to say the least. Incidentally: Is the face on the picture in the background someone in particular? Just curious</p>"
+   "date": "2013-12-16T22:54",
+   "avatar": "46651ceb5561752888190084b1e10b2a",
+   "text": "<p>That was elegant, to say the least. Incidentally: Is the face on the picture in the background someone in particular? Just curious</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 231",
-  "bodyClass": "post-template-default single single-post postid-883 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 231",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2013-12-07-Eat_Shit_And_Die_231.jpg"
- }
+ ]
 }

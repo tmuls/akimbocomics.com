@@ -1,38 +1,6 @@
 {
- "path": "/news/downtime/",
- "series": "news",
- "slug": "downtime",
- "id": 391,
  "title": "Downtime",
  "author": "emulsifier",
- "date": "June 26, 2009",
- "time": "1:09 am",
- "datetime": "2009-06-26T01:09:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>Site was down for a short while, not sure how long.  Sorry guys.</p>",
- "postClass": "post-391 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/follow-us-on-twitter/",
-  "next": "/news/heroes-of-newerth/"
- },
- "menuNav": {},
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Downtime",
-  "bodyClass": "post-template-default single single-post postid-391 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Downtime",
-  "ogDescription": ""
- }
+ "date": "2009-06-26T01:09",
+ "body": "<p>Site was down for a short while, not sure how long.  Sorry guys.</p>"
 }

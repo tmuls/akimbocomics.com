@@ -1,50 +1,10 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-137/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-137",
- "id": 403,
  "title": "eat shit& die 137",
  "author": "bpatrick",
- "date": "July 11, 2009",
- "time": "12:00 am",
- "datetime": "2009-07-11T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>Saturday comic! Sorry for the lame week. I&#8217;m stressed out from work, applying to school and getting ready to move in three weeks. But today is comic-making day! So I should be back Monday with some awesome stuff.</p>",
- "postClass": "post-403 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-07-11T00:00",
  "images": [
-  {
-   "src": "2009-07-11-Eat_Shit_And_Die_137.jpg",
-   "alt": "sooo ...is that robot under-age?",
-   "title": "sooo ...is that robot under-age?"
-  }
+  "2009-07-11-Eat_Shit_And_Die_137.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-136/",
-  "next": "/eatshitanddie/eat-shit-and-die-138/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-136/",
-  "next": "/eatshitanddie/eat-shit-and-die-138/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit& die 137",
-  "bodyClass": "post-template-default single single-post postid-403 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit& die 137",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-07-11-Eat_Shit_And_Die_137.jpg"
- }
+ "hoverText": "sooo ...is that robot under-age?",
+ "body": "<p>Saturday comic! Sorry for the lame week. I&#8217;m stressed out from work, applying to school and getting ready to move in three weeks. But today is comic-making day! So I should be back Monday with some awesome stuff.</p>"
 }

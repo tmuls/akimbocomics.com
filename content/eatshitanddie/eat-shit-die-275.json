@@ -1,67 +1,15 @@
 {
- "path": "/eatshitanddie/eat-shit-die-275/",
- "series": "eatshitanddie",
- "slug": "eat-shit-die-275",
- "id": 1204,
  "title": "eat, shit & die 275",
  "author": "bpatrick",
- "date": "March 3, 2018",
- "time": "5:19 am",
- "datetime": "2018-03-03T05:19:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2018-03-03T05:19",
  "tags": [
-  {
-   "title": "Alcohol",
-   "href": "/tag/alcohol/"
-  },
-  {
-   "title": "Jordi",
-   "href": "/tag/jordi/"
-  },
-  {
-   "title": "Trent",
-   "href": "/tag/trent/"
-  },
-  {
-   "title": "Withdrawal",
-   "href": "/tag/withdrawal/"
-  }
+  "alcohol",
+  "jordi",
+  "trent",
+  "withdrawal"
  ],
- "html": "<p>I feel like I should mention that alcohol withdrawal can be very dangerous and is one of the only substances the withdrawal from which can be fatal. If you are having any signs of delirium tremens like shaking, hallucinations, feeling like you might pass out or seizure you should go to the ER. If you experience shaking in the morning or need a drink in the morning to feel ok you and are thinking of quitting alcohol you should probably do a medical detox to be safe. </p>\n<p>I&#8217;ve played Trent&#8217;s alcoholism for laughs but for everyone suffering from addiction, I feel you and hope for the best for you. You&#8217;re stronger than you think. </p>",
- "postClass": "post-1204 post type-post status-publish format-standard hentry category-eatshitanddie tag-alcohol tag-jordi tag-trent tag-withdrawal uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2018-03-03-Eat_Shit_And_Die_275.jpg",
-   "alt": "eat, shit & die 275",
-   "title": "eat, shit & die 275"
-  }
+  "2018-03-03-Eat_Shit_And_Die_275.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-die-274/",
-  "next": "/eatshitanddie/eat-shit-die-276/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-die-274/",
-  "next": "/eatshitanddie/eat-shit-die-276/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat, shit & die 275",
-  "bodyClass": "post-template-default single single-post postid-1204 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat, shit & die 275",
-  "ogDescription": "",
-  "ogImage": "//comic/2018-03-03-Eat_Shit_And_Die_275.jpg"
- }
+ "body": "<p>I feel like I should mention that alcohol withdrawal can be very dangerous and is one of the only substances the withdrawal from which can be fatal. If you are having any signs of delirium tremens like shaking, hallucinations, feeling like you might pass out or seizure you should go to the ER. If you experience shaking in the morning or need a drink in the morning to feel ok you and are thinking of quitting alcohol you should probably do a medical detox to be safe. </p>\n<p>I&#8217;ve played Trent&#8217;s alcoholism for laughs but for everyone suffering from addiction, I feel you and hope for the best for you. You&#8217;re stronger than you think. </p>"
 }

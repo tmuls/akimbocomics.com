@@ -1,92 +1,42 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-30/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-30",
- "id": 112,
  "title": "Eat Shit And Die 30",
  "author": "emulsifier",
- "date": "July 22, 2008",
- "time": "12:00 am",
- "datetime": "2008-07-22T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2008-07-22T00:00",
  "tags": [
-  {
-   "title": "lil bastards",
-   "href": "/tag/lil-bastards/"
-  }
+  "lil-bastards"
  ],
- "html": "",
- "postClass": "post-112 post type-post status-publish format-standard hentry category-eatshitanddie tag-lil-bastards uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
  "images": [
-  {
-   "src": "2008-07-22-Eat_Shit_And_Die_30.jpg",
-   "alt": "Eat Shit And Die 30",
-   "title": "Eat Shit And Die 30"
-  }
+  "2008-07-22-Eat_Shit_And_Die_30.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-29/",
-  "next": "/eatshitanddie/eat-shit-and-die-31/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-29/",
-  "next": "/eatshitanddie/eat-shit-and-die-31/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 10395,
    "author": "Joshua",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c2ee896d0722d6355909e1d6cda01488?s=64&d=identicon&r=r",
-   "time": "October 18, 2011 at 3:34 pm",
-   "timeTitle": "Tuesday, October 18th, 2011, 3:34 pm",
-   "html": "<p>I think this may be one of my favorite things. Thank you.</p>"
+   "date": "2011-10-18T15:34",
+   "avatar": "c2ee896d0722d6355909e1d6cda01488",
+   "text": "<p>I think this may be one of my favorite things. Thank you.</p>"
   },
   {
    "id": 93822,
    "author": "Paul",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f2a2e9e64c56810e6533d1fb99be40ac?s=64&d=identicon&r=r",
-   "time": "August 16, 2012 at 10:29 am",
-   "timeTitle": "Thursday, August 16th, 2012, 10:29 am",
-   "html": "<p>Boom.</p>"
+   "date": "2012-08-16T10:29",
+   "avatar": "f2a2e9e64c56810e6533d1fb99be40ac",
+   "text": "<p>Boom.</p>"
   },
   {
    "id": 109707,
    "author": "Suecae",
+   "date": "2012-10-13T14:56",
    "url": "http://www.suecae.com",
-   "avatar": "http://2.gravatar.com/avatar/80d71075858fee5057848fc02af829ec?s=64&d=identicon&r=r",
-   "time": "October 13, 2012 at 2:56 pm",
-   "timeTitle": "Saturday, October 13th, 2012, 2:56 pm",
-   "html": "<p>Absolutely brilliant.</p>"
+   "avatar": "80d71075858fee5057848fc02af829ec",
+   "text": "<p>Absolutely brilliant.</p>"
   },
   {
    "id": 527385,
    "author": "RWDTOY",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e0683efb521a044a8a93f50e2188b043?s=64&d=identicon&r=r",
-   "time": "April 10, 2014 at 9:23 am",
-   "timeTitle": "Thursday, April 10th, 2014, 9:23 am",
-   "html": "<p>This may have answered what happens in Radioheads &#8220;Just&#8221; video&#8230;</p>"
+   "date": "2014-04-10T09:23",
+   "avatar": "e0683efb521a044a8a93f50e2188b043",
+   "text": "<p>This may have answered what happens in Radioheads &#8220;Just&#8221; video&#8230;</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 30",
-  "bodyClass": "post-template-default single single-post postid-112 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 30",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-07-22-Eat_Shit_And_Die_30.jpg"
- }
+ ]
 }

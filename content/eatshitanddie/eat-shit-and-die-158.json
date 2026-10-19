@@ -1,147 +1,88 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-158/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-158",
- "id": 537,
  "title": "eat shit & die 158",
  "author": "bpatrick",
- "date": "June 8, 2010",
- "time": "12:00 am",
- "datetime": "2010-06-08T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2010-06-08T00:00",
  "tags": [
-  {
-   "title": "burly guy",
-   "href": "/tag/burly-guy/"
-  }
+  "burly-guy"
  ],
- "html": "<p>This is about the fifth version of this comic I&#8217;ve done. I almost gave up but I think it turned out OK. I had the idea nailed I just couldn&#8217;t bring it into being &#8211; as it were.</p>",
- "postClass": "post-537 post type-post status-publish format-standard hentry category-eatshitanddie tag-burly-guy uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2010-06-08-Eat_Shit_And_DIe_158.jpg",
-   "alt": "tourists",
-   "title": "tourists"
-  }
+  "2010-06-08-Eat_Shit_And_DIe_158.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-157/",
-  "next": "/eatshitanddie/eat-shit-and-die-159/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-157/",
-  "next": "/eatshitanddie/eat-shit-and-die-159/"
- },
- "commentCount": 10,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "tourists",
+ "body": "<p>This is about the fifth version of this comic I&#8217;ve done. I almost gave up but I think it turned out OK. I had the idea nailed I just couldn&#8217;t bring it into being &#8211; as it were.</p>",
  "comments": [
   {
    "id": 2616,
    "author": "Eb0la",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3b17421ad77a592a8f4a301240f09d5d?s=64&d=identicon&r=r",
-   "time": "June 9, 2010 at 8:34 am",
-   "timeTitle": "Wednesday, June 9th, 2010, 8:34 am",
-   "html": "<p>It works great ! Very good, you have brilliant ideas.<br />\nI already told you on drawingboard that I love your style, so much expressiveness. Keep it up.<br />\nI just love your girls 🙂</p>"
+   "date": "2010-06-09T08:34",
+   "avatar": "3b17421ad77a592a8f4a301240f09d5d",
+   "text": "<p>It works great ! Very good, you have brilliant ideas.<br />\nI already told you on drawingboard that I love your style, so much expressiveness. Keep it up.<br />\nI just love your girls 🙂</p>"
   },
   {
    "id": 2630,
    "author": "Jada",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/077a1fa57c4e1fb39b203a7f7163bda4?s=64&d=identicon&r=r",
-   "time": "June 10, 2010 at 10:04 pm",
-   "timeTitle": "Thursday, June 10th, 2010, 10:04 pm",
-   "html": "<p>Spent the last few days reading through your archive. I really enjoy your stuff, both serious and humorous. Glad to see an update. 🙂</p>"
+   "date": "2010-06-10T22:04",
+   "avatar": "077a1fa57c4e1fb39b203a7f7163bda4",
+   "text": "<p>Spent the last few days reading through your archive. I really enjoy your stuff, both serious and humorous. Glad to see an update. 🙂</p>"
   },
   {
    "id": 2764,
    "author": "b.patrick",
+   "date": "2010-06-16T20:12",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "June 16, 2010 at 8:12 pm",
-   "timeTitle": "Wednesday, June 16th, 2010, 8:12 pm",
-   "html": "<p>Thanks Eb0la! I&#8217;ve been unhappy with my girls lately. They can be better.<br />\nThanks Jada! I love hearing that people have read through the archives &#8211; just in case my best work is behind me.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks Eb0la! I&#8217;ve been unhappy with my girls lately. They can be better.<br />\nThanks Jada! I love hearing that people have read through the archives &#8211; just in case my best work is behind me.</p>"
   },
   {
    "id": 2783,
    "author": "Eb0la",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3b17421ad77a592a8f4a301240f09d5d?s=64&d=identicon&r=r",
-   "time": "June 17, 2010 at 8:38 am",
-   "timeTitle": "Thursday, June 17th, 2010, 8:38 am",
-   "html": "<p>I hope your best work isn&#8217;t gay then.<br />\nYour girls are just fine.</p>"
+   "date": "2010-06-17T08:38",
+   "avatar": "3b17421ad77a592a8f4a301240f09d5d",
+   "text": "<p>I hope your best work isn&#8217;t gay then.<br />\nYour girls are just fine.</p>"
   },
   {
    "id": 4697,
    "author": "Joe bob",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/365cba06d9552387c1a6e208a5bea1a5?s=64&d=identicon&r=r",
-   "time": "November 19, 2010 at 1:52 pm",
-   "timeTitle": "Friday, November 19th, 2010, 1:52 pm",
-   "html": "<p>Ha , I used to live there also but I escaped</p>"
+   "date": "2010-11-19T13:52",
+   "avatar": "365cba06d9552387c1a6e208a5bea1a5",
+   "text": "<p>Ha , I used to live there also but I escaped</p>"
   },
   {
    "id": 6512,
    "author": "bill",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/af309bbe0be8181f48a02823262b60d4?s=64&d=identicon&r=r",
-   "time": "April 6, 2011 at 4:09 pm",
-   "timeTitle": "Wednesday, April 6th, 2011, 4:09 pm",
-   "html": "<p>Nice</p>"
+   "date": "2011-04-06T16:09",
+   "avatar": "af309bbe0be8181f48a02823262b60d4",
+   "text": "<p>Nice</p>"
   },
   {
    "id": 6914,
    "author": "Rich",
+   "date": "2011-05-02T17:39",
    "url": "http://twitter.com/highlifechron",
-   "avatar": "http://2.gravatar.com/avatar/2f44f15d6d5ed877a7a39858fba44571?s=64&d=identicon&r=r",
-   "time": "May 2, 2011 at 5:39 pm",
-   "timeTitle": "Monday, May 2nd, 2011, 5:39 pm",
-   "html": "<p>the sad thing is, trent&#8217;s room looks like like mine.  Right down to the empty beer cans and cigarettes.</p>"
+   "avatar": "2f44f15d6d5ed877a7a39858fba44571",
+   "text": "<p>the sad thing is, trent&#8217;s room looks like like mine.  Right down to the empty beer cans and cigarettes.</p>"
   },
   {
    "id": 10143,
    "author": "Artez",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c70756012e3aaf1f46195147d5dd927b?s=64&d=identicon&r=r",
-   "time": "October 11, 2011 at 10:34 pm",
-   "timeTitle": "Tuesday, October 11th, 2011, 10:34 pm",
-   "html": "<p>Hey, do you make prints of your stuff?</p>"
+   "date": "2011-10-11T22:34",
+   "avatar": "c70756012e3aaf1f46195147d5dd927b",
+   "text": "<p>Hey, do you make prints of your stuff?</p>"
   },
   {
    "id": 194116,
    "author": "kuddos",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bf1c5b5b447bb39a6ac35060d43b1a0d?s=64&d=identicon&r=r",
-   "time": "March 6, 2013 at 3:58 pm",
-   "timeTitle": "Wednesday, March 6th, 2013, 3:58 pm",
-   "html": "<p>I&#8217;ve been reading your comics for a couple of weeks now, two or three every morning starting from the newest, and this my man&#8230; I think is one of best of all!<br />\nIs hard to pick just one, you  have a lot of very good ideas.<br />\nLove your work.</p>"
+   "date": "2013-03-06T15:58",
+   "avatar": "bf1c5b5b447bb39a6ac35060d43b1a0d",
+   "text": "<p>I&#8217;ve been reading your comics for a couple of weeks now, two or three every morning starting from the newest, and this my man&#8230; I think is one of best of all!<br />\nIs hard to pick just one, you  have a lot of very good ideas.<br />\nLove your work.</p>"
   }
  ],
  "pingbacks": [
   {
    "id": 3451,
-   "author": "Comic picks of the day: « Ninjabortion",
+   "title": "Comic picks of the day: « Ninjabortion",
    "url": "http://ninjabortion.wordpress.com/2010/07/19/comic-picks-of-the-day-19/",
-   "avatar": null,
-   "time": "July 20, 2010 at 4:38 am",
-   "timeTitle": "Tuesday, July 20th, 2010, 4:38 am",
-   "html": ""
+   "date": "2010-07-20T04:38"
   }
- ],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 158",
-  "bodyClass": "post-template-default single single-post postid-537 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 158",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-06-08-Eat_Shit_And_DIe_158.jpg"
- }
+ ]
 }

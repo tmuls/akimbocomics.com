@@ -1,232 +1,154 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-188/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-188",
- "id": 662,
  "title": "eat shit & die 188",
  "author": "bpatrick",
- "date": "June 21, 2011",
- "time": "12:00 am",
- "datetime": "2011-06-21T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>Thanks for all the kind words from everyone! I really appreciate it. This comic doesn&#8217;t have a lot of laughs either. Maybe the next one&#8230; </p>",
- "postClass": "post-662 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-06-21T00:00",
  "images": [
-  {
-   "src": "2011-06-21-Eat_Shit_And_Die_188.jpg",
-   "alt": "eat shit & die 188",
-   "title": "eat shit & die 188"
-  }
+  "2011-06-21-Eat_Shit_And_Die_188.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-187/",
-  "next": "/curiousurgency/curious-urgency-48/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-187/",
-  "next": "/curiousurgency/curious-urgency-48/"
- },
- "commentCount": 20,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Thanks for all the kind words from everyone! I really appreciate it. This comic doesn&#8217;t have a lot of laughs either. Maybe the next one&#8230; </p>",
  "comments": [
   {
    "id": 8253,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "June 21, 2011 at 7:50 pm",
-   "timeTitle": "Tuesday, June 21st, 2011, 7:50 pm",
-   "html": "<p>comics don&#8217;t have to be funny (inspite of the name &#8211; maybe we should call them something else &#8211; graphic poems?  Visual philosophy?)</p>\n<p>I really like this one.</p>"
+   "date": "2011-06-21T19:50",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>comics don&#8217;t have to be funny (inspite of the name &#8211; maybe we should call them something else &#8211; graphic poems?  Visual philosophy?)</p>\n<p>I really like this one.</p>"
   },
   {
    "id": 8255,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "June 21, 2011 at 8:32 pm",
-   "timeTitle": "Tuesday, June 21st, 2011, 8:32 pm",
-   "html": "<p>Lovely, man. (Pretty recent citation you snuck in there, too 🙂</p>"
+   "date": "2011-06-21T20:32",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>Lovely, man. (Pretty recent citation you snuck in there, too 🙂</p>"
   },
   {
    "id": 8256,
    "author": "Njam!",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8573ef7a0f83fbfb0b39f26aaf398811?s=64&d=identicon&r=r",
-   "time": "June 21, 2011 at 8:36 pm",
-   "timeTitle": "Tuesday, June 21st, 2011, 8:36 pm",
-   "html": "<p>I love when comics I love reference other comics I love.</p>"
+   "date": "2011-06-21T20:36",
+   "avatar": "8573ef7a0f83fbfb0b39f26aaf398811",
+   "text": "<p>I love when comics I love reference other comics I love.</p>"
   },
   {
    "id": 8261,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "June 21, 2011 at 11:09 pm",
-   "timeTitle": "Tuesday, June 21st, 2011, 11:09 pm",
-   "html": "<p>Hi,</p>\n<p>I love your comic and this one is quite profound.</p>\n<p>It got me thinking about love.</p>\n<p>It reminded me of when I was a kid and I thought love as all that was needed. </p>\n<p>Now, that I&#8217;m older I don&#8217;t think love directly changes anything any more than hate does. But I would certainly want to be in a relationship with a partner which was based on love rather than hate. And in general all relationships, even with total strangers go better if they are based on things like respect and love (where appropriate) rather than hate and violence.</p>"
+   "date": "2011-06-21T23:09",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>Hi,</p>\n<p>I love your comic and this one is quite profound.</p>\n<p>It got me thinking about love.</p>\n<p>It reminded me of when I was a kid and I thought love as all that was needed. </p>\n<p>Now, that I&#8217;m older I don&#8217;t think love directly changes anything any more than hate does. But I would certainly want to be in a relationship with a partner which was based on love rather than hate. And in general all relationships, even with total strangers go better if they are based on things like respect and love (where appropriate) rather than hate and violence.</p>"
   },
   {
    "id": 8263,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "June 21, 2011 at 11:29 pm",
-   "timeTitle": "Tuesday, June 21st, 2011, 11:29 pm",
-   "html": "<p>Honestly I think comics should just express things in general, and if they happen to be funny at the end, so be it. Comics with forced punchlines at the end are generally bad, when they could have been good with just the message.</p>"
+   "date": "2011-06-21T23:29",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>Honestly I think comics should just express things in general, and if they happen to be funny at the end, so be it. Comics with forced punchlines at the end are generally bad, when they could have been good with just the message.</p>"
   },
   {
    "id": 8264,
    "author": "Kelsi",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/38265ca6fcc312559d7edbbdefca1fec?s=64&d=identicon&r=r",
-   "time": "June 21, 2011 at 11:33 pm",
-   "timeTitle": "Tuesday, June 21st, 2011, 11:33 pm",
-   "html": "<p>Love the way you popped the girl from the last Subnormality comic in here, this makes me unbelievably happy! Akimbo comic and Subnormality are always my first call when i go online. Please keep up the incredible work your line is really good, drawn and plot, and that&#8217;s all that really matters so don&#8217;t let anyone tell you different.</p>"
+   "date": "2011-06-21T23:33",
+   "avatar": "38265ca6fcc312559d7edbbdefca1fec",
+   "text": "<p>Love the way you popped the girl from the last Subnormality comic in here, this makes me unbelievably happy! Akimbo comic and Subnormality are always my first call when i go online. Please keep up the incredible work your line is really good, drawn and plot, and that&#8217;s all that really matters so don&#8217;t let anyone tell you different.</p>"
   },
   {
    "id": 8281,
    "author": "randomguy",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e21949a78bc73d80b580489f5536a4d6?s=64&d=identicon&r=r",
-   "time": "June 22, 2011 at 7:23 am",
-   "timeTitle": "Wednesday, June 22nd, 2011, 7:23 am",
-   "html": "<p>probably felt the same as 9 out of the 12 people in you strip at least once or more times in my life. hate the fact that love is so subjective. especially in this century where i feel that its value is slowly slipping away by the minute. i agree with kelsi btw, if its one thing i know, i love subnormality and akimbo comics thats for sure. good too see trent in this strip was well 😛</p>"
+   "date": "2011-06-22T07:23",
+   "avatar": "e21949a78bc73d80b580489f5536a4d6",
+   "text": "<p>probably felt the same as 9 out of the 12 people in you strip at least once or more times in my life. hate the fact that love is so subjective. especially in this century where i feel that its value is slowly slipping away by the minute. i agree with kelsi btw, if its one thing i know, i love subnormality and akimbo comics thats for sure. good too see trent in this strip was well 😛</p>"
   },
   {
    "id": 8288,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "June 22, 2011 at 1:37 pm",
-   "timeTitle": "Wednesday, June 22nd, 2011, 1:37 pm",
-   "html": "<p>This comic deserves a gold star. I wouldn&#8217;t  be surprised if akimbocomics gets hit by another reddit or stumbleupon wave if you keep making more like this. See you next time, b!</p>"
+   "date": "2011-06-22T13:37",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>This comic deserves a gold star. I wouldn&#8217;t  be surprised if akimbocomics gets hit by another reddit or stumbleupon wave if you keep making more like this. See you next time, b!</p>"
   },
   {
    "id": 8303,
    "author": "Elle",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3fdb7fb9dc6710633bac94ef23843bd3?s=64&d=identicon&r=r",
-   "time": "June 23, 2011 at 4:40 am",
-   "timeTitle": "Thursday, June 23rd, 2011, 4:40 am",
-   "html": "<p>The girl in the bottom row, she&#8217;s who I think she is, right? Or, from the place I think she&#8217;s from?</p>"
+   "date": "2011-06-23T04:40",
+   "avatar": "3fdb7fb9dc6710633bac94ef23843bd3",
+   "text": "<p>The girl in the bottom row, she&#8217;s who I think she is, right? Or, from the place I think she&#8217;s from?</p>"
   },
   {
    "id": 8332,
    "author": "Dude",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0202449d09b40e426f4ebc2b4f23dae7?s=64&d=identicon&r=r",
-   "time": "June 24, 2011 at 2:08 am",
-   "timeTitle": "Friday, June 24th, 2011, 2:08 am",
-   "html": "<p>being in a couple of those, feels bad man, great work</p>"
+   "date": "2011-06-24T02:08",
+   "avatar": "0202449d09b40e426f4ebc2b4f23dae7",
+   "text": "<p>being in a couple of those, feels bad man, great work</p>"
   },
   {
    "id": 8582,
    "author": "hello",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/820d0e4ee14e986a44d33782ca852f51?s=64&d=identicon&r=r",
-   "time": "July 3, 2011 at 7:06 am",
-   "timeTitle": "Sunday, July 3rd, 2011, 7:06 am",
-   "html": "<p>Very nice comic man &#8230;I definitely fit in one of those categories .</p>"
+   "date": "2011-07-03T07:06",
+   "avatar": "820d0e4ee14e986a44d33782ca852f51",
+   "text": "<p>Very nice comic man &#8230;I definitely fit in one of those categories .</p>"
   },
   {
    "id": 8706,
    "author": "b.patrick",
+   "date": "2011-07-08T03:17",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "July 8, 2011 at 3:17 am",
-   "timeTitle": "Friday, July 8th, 2011, 3:17 am",
-   "html": "<p>Thanks, everyone! Love that randomguy recognized Trent in there. As far as the girl in the bottom row, I would never presume to put words in the mouth of another creator&#8217;s character but it is certainly meant as an homage, if Mr. Rowntree will allow me.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks, everyone! Love that randomguy recognized Trent in there. As far as the girl in the bottom row, I would never presume to put words in the mouth of another creator&#8217;s character but it is certainly meant as an homage, if Mr. Rowntree will allow me.</p>"
   },
   {
    "id": 8849,
    "author": "johnfactorial",
+   "date": "2011-07-19T17:37",
    "url": "http://doomsicle.com",
-   "avatar": "http://0.gravatar.com/avatar/f549c72ba5233084e5fa335beeb8271c?s=64&d=identicon&r=r",
-   "time": "July 19, 2011 at 5:37 pm",
-   "timeTitle": "Tuesday, July 19th, 2011, 5:37 pm",
-   "html": "<p>I cried man.</p>"
+   "avatar": "f549c72ba5233084e5fa335beeb8271c",
+   "text": "<p>I cried man.</p>"
   },
   {
    "id": 10105,
    "author": "Beatriz",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/65124729e7e597988acd75612413c0de?s=64&d=identicon&r=r",
-   "time": "October 9, 2011 at 3:55 am",
-   "timeTitle": "Sunday, October 9th, 2011, 3:55 am",
-   "html": "<p>Lovely. One of my favorites from here.</p>"
+   "date": "2011-10-09T03:55",
+   "avatar": "65124729e7e597988acd75612413c0de",
+   "text": "<p>Lovely. One of my favorites from here.</p>"
   },
   {
    "id": 12280,
    "author": "Aaron",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/569548009f430cf192620d54da5f4bc4?s=64&d=identicon&r=r",
-   "time": "November 10, 2011 at 10:19 pm",
-   "timeTitle": "Thursday, November 10th, 2011, 10:19 pm",
-   "html": "<p>It&#8217;s reassuring to see that other people feel the same way I do.</p>"
+   "date": "2011-11-10T22:19",
+   "avatar": "569548009f430cf192620d54da5f4bc4",
+   "text": "<p>It&#8217;s reassuring to see that other people feel the same way I do.</p>"
   },
   {
    "id": 14451,
    "author": "Locke",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/ddb31624ec4011e9cb7a9a12dde61c3a?s=64&d=identicon&r=r",
-   "time": "November 18, 2011 at 6:44 am",
-   "timeTitle": "Friday, November 18th, 2011, 6:44 am",
-   "html": "<p>Panel four- Yeeeeeah. That one really burns. It burns like kerosene, and lasts for quite a while.</p>\n<p>Enjoying your work, though.</p>"
+   "date": "2011-11-18T06:44",
+   "avatar": "ddb31624ec4011e9cb7a9a12dde61c3a",
+   "text": "<p>Panel four- Yeeeeeah. That one really burns. It burns like kerosene, and lasts for quite a while.</p>\n<p>Enjoying your work, though.</p>"
   },
   {
    "id": 52513,
    "author": "Compelled",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6cc862757b24e75943d7b72bf36a9641?s=64&d=identicon&r=r",
-   "time": "January 23, 2012 at 12:20 am",
-   "timeTitle": "Monday, January 23rd, 2012, 12:20 am",
-   "html": "<p>I find the last panel somewhat empowering. 1 &#8211; 5 are rough and I&#8217;ve come to grips with #7.</p>"
+   "date": "2012-01-23T00:20",
+   "avatar": "6cc862757b24e75943d7b72bf36a9641",
+   "text": "<p>I find the last panel somewhat empowering. 1 &#8211; 5 are rough and I&#8217;ve come to grips with #7.</p>"
   },
   {
    "id": 52514,
    "author": "Compelled",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6cc862757b24e75943d7b72bf36a9641?s=64&d=identicon&r=r",
-   "time": "January 23, 2012 at 12:21 am",
-   "timeTitle": "Monday, January 23rd, 2012, 12:21 am",
-   "html": "<p>Er, come to grips with #8, rather. Not 7.</p>"
+   "date": "2012-01-23T00:21",
+   "avatar": "6cc862757b24e75943d7b72bf36a9641",
+   "text": "<p>Er, come to grips with #8, rather. Not 7.</p>"
   },
   {
    "id": 61883,
    "author": "BoboB",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0d8c8fc2beb94797c1d54275b37f5105?s=64&d=identicon&r=r",
-   "time": "February 16, 2012 at 11:19 am",
-   "timeTitle": "Thursday, February 16th, 2012, 11:19 am",
-   "html": "<p>Aw, Trent and the cashier girl. And Ethel! Awesome.</p>"
+   "date": "2012-02-16T11:19",
+   "avatar": "0d8c8fc2beb94797c1d54275b37f5105",
+   "text": "<p>Aw, Trent and the cashier girl. And Ethel! Awesome.</p>"
   }
  ],
  "pingbacks": [
   {
    "id": 92374,
-   "author": "Heb je een lief: the sequel deel 18 - Pagina 166 - 9lives - Games Forum",
+   "title": "Heb je een lief: the sequel deel 18 - Pagina 166 - 9lives - Games Forum",
    "url": "http://www.9lives.be/forum/vrije-tijd-lifestyle/866153-heb-je-een-lief-sequel-deel-18-a-166.html#post16568123",
-   "avatar": null,
-   "time": "July 30, 2012 at 8:18 pm",
-   "timeTitle": "Monday, July 30th, 2012, 8:18 pm",
-   "html": ""
+   "date": "2012-07-30T20:18"
   }
- ],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 188",
-  "bodyClass": "post-template-default single single-post postid-662 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 188",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-06-21-Eat_Shit_And_Die_188.jpg"
- }
+ ]
 }

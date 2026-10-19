@@ -1,54 +1,12 @@
 {
- "path": "/vivianblank/vivian-blank-23/",
- "series": "vivianblank",
- "slug": "vivian-blank-23",
- "id": 1217,
  "title": "Vivian Blank 23",
  "author": "bpatrick",
- "date": "November 4, 2015",
- "time": "5:52 am",
- "datetime": "2015-11-04T05:52:00",
+ "date": "2015-11-04T05:52",
  "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  },
-  {
-   "title": "Vivian Blank",
-   "href": "/vivianblank/"
-  }
+  "comics",
+  "vivianblank"
  ],
- "tags": [],
- "html": "",
- "postClass": "post-1217 post type-post status-publish format-standard hentry category-comics category-vivianblank uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2015-11-04-Vivian_Blank_23.jpg",
-   "alt": "Vivian Blank 23",
-   "title": "Vivian Blank 23"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-68/",
-  "next": "/curiousurgency/curious-urgency-69/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-68/",
-  "next": "/curiousurgency/curious-urgency-69/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Vivian Blank 23",
-  "bodyClass": "post-template-default single single-post postid-1217 single-format-standard user-guest comic unknown single-category-comics single-category-vivianblank single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Vivian Blank 23",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2015-11-04-Vivian_Blank_23.jpg"
- }
+  "2015-11-04-Vivian_Blank_23.jpg"
+ ]
 }

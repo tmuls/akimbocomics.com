@@ -1,60 +1,18 @@
 {
- "path": "/curiousurgency/curious-urgency-54/",
- "series": "curiousurgency",
- "slug": "curious-urgency-54",
- "id": 724,
  "title": "Curious Urgency 54",
  "author": "bpatrick",
- "date": "March 13, 2012",
- "time": "12:00 am",
- "datetime": "2012-03-13T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Not what you were hoping for but at least it&#8217;s something. Coloring takes so so long. New es&#038;d is in the works though. </p>\n<p>Also great news regarding the Bob &#038; Bob film: It was just accepted to the Atlanta Film Festival (an academy award qualifying festival)! It will play Friday, March 23rd. Congratulations to all the awesome people who made it awesome!</p>",
- "postClass": "post-724 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-03-13T00:00",
  "images": [
-  {
-   "src": "2012-03-13-Curious_Urgency_54.jpg",
-   "alt": "Curious Urgency 54",
-   "title": "Curious Urgency 54"
-  }
+  "2012-03-13-Curious_Urgency_54.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-53/",
-  "next": "/eatshitanddie/eat-shit-and-die-205/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-53/",
-  "next": "/eatshitanddie/eat-shit-and-die-205/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Not what you were hoping for but at least it&#8217;s something. Coloring takes so so long. New es&#038;d is in the works though. </p>\n<p>Also great news regarding the Bob &#038; Bob film: It was just accepted to the Atlanta Film Festival (an academy award qualifying festival)! It will play Friday, March 23rd. Congratulations to all the awesome people who made it awesome!</p>",
  "comments": [
   {
    "id": 67308,
    "author": "steve",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b43ced333b790d6f06b19dc18f7ace5c?s=64&d=identicon&r=r",
-   "time": "March 13, 2012 at 9:46 pm",
-   "timeTitle": "Tuesday, March 13th, 2012, 9:46 pm",
-   "html": "<p>I could see Curious as your next story adapted to film. You should also put out a book. In other words, please take my money.</p>"
+   "date": "2012-03-13T21:46",
+   "avatar": "b43ced333b790d6f06b19dc18f7ace5c",
+   "text": "<p>I could see Curious as your next story adapted to film. You should also put out a book. In other words, please take my money.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 54",
-  "bodyClass": "post-template-default single single-post postid-724 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 54",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-03-13-Curious_Urgency_54.jpg"
- }
+ ]
 }

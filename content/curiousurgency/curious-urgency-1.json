@@ -1,69 +1,22 @@
 {
- "path": "/curiousurgency/curious-urgency-1/",
- "series": "curiousurgency",
- "slug": "curious-urgency-1",
- "id": 50,
  "title": "Curious Urgency 1",
  "author": "emulsifier",
- "date": "May 25, 2008",
- "time": "12:00 am",
- "datetime": "2008-05-25T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-50 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-05-25T00:00",
  "images": [
-  {
-   "src": "2008-05-25-Curious_Urgency_1.jpg",
-   "alt": "Curious Urgency 1",
-   "title": "Curious Urgency 1"
-  }
+  "2008-05-25-Curious_Urgency_1.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/covergallery/cover-gallery-13/",
-  "next": "/curiousurgency/curious-urgency-2/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/covergallery/cover-gallery-13/",
-  "next": "/curiousurgency/curious-urgency-2/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
  "pingbacks": [
   {
    "id": 220425,
-   "author": "The Five Best Webcomics You Should Already Be Reading – Christopher Ruz - Author & Designer",
+   "title": "The Five Best Webcomics You Should Already Be Reading – Christopher Ruz - Author & Designer",
    "url": "http://www.ruzkin.com/?p=1812",
-   "avatar": null,
-   "time": "June 18, 2013 at 3:44 am",
-   "timeTitle": "Tuesday, June 18th, 2013, 3:44 am",
-   "html": ""
+   "date": "2013-06-18T03:44"
   },
   {
    "id": 239378,
-   "author": "The Five Best Webcomics You Should Already Be Reading- Sci-fi & Fantasy Author",
+   "title": "The Five Best Webcomics You Should Already Be Reading- Sci-fi & Fantasy Author",
    "url": "http://www.ruzkin.com/newsite/the-five-best-webcomics-you-should-already-be-reading/",
-   "avatar": null,
-   "time": "September 18, 2013 at 5:14 am",
-   "timeTitle": "Wednesday, September 18th, 2013, 5:14 am",
-   "html": ""
+   "date": "2013-09-18T05:14"
   }
- ],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 1",
-  "bodyClass": "post-template-default single single-post postid-50 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 1",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-05-25-Curious_Urgency_1.jpg"
- }
+ ]
 }

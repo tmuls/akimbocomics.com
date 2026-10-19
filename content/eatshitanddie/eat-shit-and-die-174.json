@@ -1,174 +1,111 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-174/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-174",
- "id": 613,
  "title": "eat shit & die 174",
  "author": "bpatrick",
- "date": "March 5, 2011",
- "time": "12:00 am",
- "datetime": "2011-03-05T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2011-03-05T00:00",
  "tags": [
-  {
-   "title": "allison kelly",
-   "href": "/tag/allison-kelly/"
-  }
+  "allison-kelly"
  ],
- "html": "<p>This one actually had two more panels and a completely different punch line but at the last minute I thought this was better &#8211; hope I was right. </p>",
- "postClass": "post-613 post type-post status-publish format-standard hentry category-eatshitanddie tag-allison-kelly uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2011-03-05-Eat_Shit_And_Die_174.jpg",
-   "alt": "eat shit & die 174",
-   "title": "eat shit & die 174"
-  }
+  "2011-03-05-Eat_Shit_And_Die_174.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-46/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-46/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie/"
- },
- "commentCount": 13,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>This one actually had two more panels and a completely different punch line but at the last minute I thought this was better &#8211; hope I was right. </p>",
  "comments": [
   {
    "id": 6040,
    "author": "person",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b16d3a748f126a6fa3d07df09851008f?s=64&d=identicon&r=r",
-   "time": "March 7, 2011 at 12:09 pm",
-   "timeTitle": "Monday, March 7th, 2011, 12:09 pm",
-   "html": "<p>🙁</p>"
+   "date": "2011-03-07T12:09",
+   "avatar": "b16d3a748f126a6fa3d07df09851008f",
+   "text": "<p>🙁</p>"
   },
   {
    "id": 6041,
    "author": "Drew Springer",
+   "date": "2011-03-07T12:11",
    "url": "http://www.smallchangecomic.net",
-   "avatar": "http://0.gravatar.com/avatar/c9d9871eed9fed28e31b2500310d3891?s=64&d=identicon&r=r",
-   "time": "March 7, 2011 at 12:11 pm",
-   "timeTitle": "Monday, March 7th, 2011, 12:11 pm",
-   "html": "<p>This is amazing!</p>"
+   "avatar": "c9d9871eed9fed28e31b2500310d3891",
+   "text": "<p>This is amazing!</p>"
   },
   {
    "id": 6042,
    "author": "Matan",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/adabb87981163c60d2bf63e81b43cc13?s=64&d=identicon&r=r",
-   "time": "March 7, 2011 at 12:22 pm",
-   "timeTitle": "Monday, March 7th, 2011, 12:22 pm",
-   "html": "<p>if you feel like uploading the alternate ending version, that would be cool</p>"
+   "date": "2011-03-07T12:22",
+   "avatar": "adabb87981163c60d2bf63e81b43cc13",
+   "text": "<p>if you feel like uploading the alternate ending version, that would be cool</p>"
   },
   {
    "id": 6044,
    "author": "Eb0la",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3b17421ad77a592a8f4a301240f09d5d?s=64&d=identicon&r=r",
-   "time": "March 7, 2011 at 1:30 pm",
-   "timeTitle": "Monday, March 7th, 2011, 1:30 pm",
-   "html": "<p>another nice job ! the punch line is good as so true. As mentionned above, all the drones here would like to know the original version you had in mind !</p>"
+   "date": "2011-03-07T13:30",
+   "avatar": "3b17421ad77a592a8f4a301240f09d5d",
+   "text": "<p>another nice job ! the punch line is good as so true. As mentionned above, all the drones here would like to know the original version you had in mind !</p>"
   },
   {
    "id": 6053,
    "author": "james",
+   "date": "2011-03-08T04:00",
    "url": "http://riotfish.com",
-   "avatar": "http://1.gravatar.com/avatar/a01eba8e83a6a5fed815a65c4ef3606a?s=64&d=identicon&r=r",
-   "time": "March 8, 2011 at 4:00 am",
-   "timeTitle": "Tuesday, March 8th, 2011, 4:00 am",
-   "html": "<p>great comic! </p>\n<p>apparently this philosophy is actually in the mission statement of the forces that shaped public school:</p>\n<p><a href=\"http://www.johntaylorgatto.com/chapters/2i.htm\" rel=\"nofollow\">http://www.johntaylorgatto.com/chapters/2i.htm</a></p>"
+   "avatar": "a01eba8e83a6a5fed815a65c4ef3606a",
+   "text": "<p>great comic! </p>\n<p>apparently this philosophy is actually in the mission statement of the forces that shaped public school:</p>\n<p><a href=\"http://www.johntaylorgatto.com/chapters/2i.htm\" rel=\"nofollow\">http://www.johntaylorgatto.com/chapters/2i.htm</a></p>"
   },
   {
    "id": 6504,
    "author": "Gabriel",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c38a6f9cbcc95b81e1336bea62cf023b?s=64&d=identicon&r=r",
-   "time": "April 6, 2011 at 9:04 am",
-   "timeTitle": "Wednesday, April 6th, 2011, 9:04 am",
-   "html": "<p>I guess my teachers didn&#8217;t explained the concept of &#8216;work&#8217; to me too well, either, but I&#8217;ve always suspected this might be the case</p>"
+   "date": "2011-04-06T09:04",
+   "avatar": "c38a6f9cbcc95b81e1336bea62cf023b",
+   "text": "<p>I guess my teachers didn&#8217;t explained the concept of &#8216;work&#8217; to me too well, either, but I&#8217;ve always suspected this might be the case</p>"
   },
   {
    "id": 6603,
    "author": "james",
+   "date": "2011-04-12T19:46",
    "url": "http://riotfish.com",
-   "avatar": "http://1.gravatar.com/avatar/a01eba8e83a6a5fed815a65c4ef3606a?s=64&d=identicon&r=r",
-   "time": "April 12, 2011 at 7:46 pm",
-   "timeTitle": "Tuesday, April 12th, 2011, 7:46 pm",
-   "html": "<p>found this article recently that very strongly reminded me of this comic, and it maybe a better link than the one i originally left here&#8230;</p>\n<p><a href=\"http://www.truthdig.com/report/item/why_the_united_states_is_destroying_her_education_system_20110410/?ln\" rel=\"nofollow\">http://www.truthdig.com/report/item/why_the_united_states_is_destroying_her_education_system_20110410/?ln</a></p>\n<p>&#8230;plus it ties in to current events!</p>"
+   "avatar": "a01eba8e83a6a5fed815a65c4ef3606a",
+   "text": "<p>found this article recently that very strongly reminded me of this comic, and it maybe a better link than the one i originally left here&#8230;</p>\n<p><a href=\"http://www.truthdig.com/report/item/why_the_united_states_is_destroying_her_education_system_20110410/?ln\" rel=\"nofollow\">http://www.truthdig.com/report/item/why_the_united_states_is_destroying_her_education_system_20110410/?ln</a></p>\n<p>&#8230;plus it ties in to current events!</p>"
   },
   {
    "id": 6831,
    "author": "Shimo",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b18908d78dffa7a742826d6a45b448d2?s=64&d=identicon&r=r",
-   "time": "April 28, 2011 at 9:03 pm",
-   "timeTitle": "Thursday, April 28th, 2011, 9:03 pm",
-   "html": "<p>Hard to say for certain without having seen the other punchline, but this worked for me like a sack or bricks to the head. The funny comes from the absurd truthfulness of the situation, the sheer brutality and harshness of the reality as it hits the poor students. I have a hard time seeing how any actual joke would have improved the impact.</p>\n<p>Excellent work!</p>"
+   "date": "2011-04-28T21:03",
+   "avatar": "b18908d78dffa7a742826d6a45b448d2",
+   "text": "<p>Hard to say for certain without having seen the other punchline, but this worked for me like a sack or bricks to the head. The funny comes from the absurd truthfulness of the situation, the sheer brutality and harshness of the reality as it hits the poor students. I have a hard time seeing how any actual joke would have improved the impact.</p>\n<p>Excellent work!</p>"
   },
   {
    "id": 7561,
    "author": "Nate",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b3e359668f2369fe1b576ce4d25014d9?s=64&d=identicon&r=r",
-   "time": "May 30, 2011 at 6:41 pm",
-   "timeTitle": "Monday, May 30th, 2011, 6:41 pm",
-   "html": "<p>Great concept, I have to disagree with the &#8220;doctor&#8221; part though. Sure not everyone is going to be able to become a doctor, but for many people it actually is a realistic/attainable goal. Plenty of people I know have parents that are doctors (myself included).</p>"
+   "date": "2011-05-30T18:41",
+   "avatar": "b3e359668f2369fe1b576ce4d25014d9",
+   "text": "<p>Great concept, I have to disagree with the &#8220;doctor&#8221; part though. Sure not everyone is going to be able to become a doctor, but for many people it actually is a realistic/attainable goal. Plenty of people I know have parents that are doctors (myself included).</p>"
   },
   {
    "id": 7576,
    "author": "b.patrick",
+   "date": "2011-05-31T00:27",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "May 31, 2011 at 12:27 am",
-   "timeTitle": "Tuesday, May 31st, 2011, 12:27 am",
-   "html": "<p>@Nate: That&#8217;s kind of a personal joke as I&#8217;ve spent the past five years applying unsuccessfully for admittance to med school.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>@Nate: That&#8217;s kind of a personal joke as I&#8217;ve spent the past five years applying unsuccessfully for admittance to med school.</p>"
   },
   {
    "id": 17336,
    "author": "rajit",
+   "date": "2011-11-28T18:06",
    "url": "http://youtube.com/lolzgym",
-   "avatar": "http://0.gravatar.com/avatar/c1d8cf5cc7fd7b9f3871fdd637bf53d2?s=64&d=identicon&r=r",
-   "time": "November 28, 2011 at 6:06 pm",
-   "timeTitle": "Monday, November 28th, 2011, 6:06 pm",
-   "html": "<p>too bad i have a best selling novel that chronicles my life as an astronaut before i settled down and became a best selling author</p>"
+   "avatar": "c1d8cf5cc7fd7b9f3871fdd637bf53d2",
+   "text": "<p>too bad i have a best selling novel that chronicles my life as an astronaut before i settled down and became a best selling author</p>"
   },
   {
    "id": 89148,
    "author": "allisonaxe",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bf245b1a759060c4b3c17747c344f602?s=64&d=identicon&r=r",
-   "time": "July 3, 2012 at 1:33 am",
-   "timeTitle": "Tuesday, July 3rd, 2012, 1:33 am",
-   "html": "<p>i think PBF handled this topic a bit better: <a href=\"http://www.pbfcomics.com/37/\" rel=\"nofollow\">http://www.pbfcomics.com/37/</a></p>\n<p>maybe not as realistic, but at least the outcome is a bit more positive.</p>"
+   "date": "2012-07-03T01:33",
+   "avatar": "bf245b1a759060c4b3c17747c344f602",
+   "text": "<p>i think PBF handled this topic a bit better: <a href=\"http://www.pbfcomics.com/37/\" rel=\"nofollow\">http://www.pbfcomics.com/37/</a></p>\n<p>maybe not as realistic, but at least the outcome is a bit more positive.</p>"
   }
  ],
  "pingbacks": [
   {
    "id": 6063,
-   "author": "I guess my college education was not a waste « I have qualities",
+   "title": "I guess my college education was not a waste « I have qualities",
    "url": "http://ihavequalities.wordpress.com/2011/03/07/i-guess-my-college-education-was-not-a-waste/",
-   "avatar": null,
-   "time": "March 9, 2011 at 5:13 am",
-   "timeTitle": "Wednesday, March 9th, 2011, 5:13 am",
-   "html": ""
+   "date": "2011-03-09T05:13"
   }
- ],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 174",
-  "bodyClass": "post-template-default single single-post postid-613 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 174",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-03-05-Eat_Shit_And_Die_174.jpg"
- }
+ ]
 }

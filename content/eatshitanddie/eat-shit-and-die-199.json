@@ -1,164 +1,102 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-199/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-199",
- "id": 700,
  "title": "eat shit & die 199",
  "author": "bpatrick",
- "date": "October 10, 2011",
- "time": "12:00 am",
- "datetime": "2011-10-10T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2011-10-10T00:00",
  "tags": [
-  {
-   "title": "burly guy",
-   "href": "/tag/burly-guy/"
-  }
+  "burly-guy"
  ],
- "html": "<p>Why, when it&#8217;s been so long since I&#8217;ve posted, did I make this comic so long? Oh well, here it finally is. In case you haven&#8217;t heard the Bob &#038; Bob film by Andrew Alonso won the Audience Choice Award at the Atlanta Underground Film Festival! </p>",
- "postClass": "post-700 post type-post status-publish format-standard hentry category-eatshitanddie tag-burly-guy uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2011-10-10-Eat_Shit_And_Die_199.jpg",
-   "alt": "eat shit & die 199",
-   "title": "eat shit & die 199"
-  }
+  "2011-10-10-Eat_Shit_And_Die_199.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-198/",
-  "next": "/eatshitanddie/eat-shit-and-die-200/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-198/",
-  "next": "/eatshitanddie/eat-shit-and-die-200/"
- },
- "commentCount": 12,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Why, when it&#8217;s been so long since I&#8217;ve posted, did I make this comic so long? Oh well, here it finally is. In case you haven&#8217;t heard the Bob &#038; Bob film by Andrew Alonso won the Audience Choice Award at the Atlanta Underground Film Festival! </p>",
  "comments": [
   {
    "id": 10136,
    "author": "Cartoondave",
+   "date": "2011-10-11T06:31",
    "url": "http://www.davecharlton.org",
-   "avatar": "http://0.gravatar.com/avatar/62a8e81a12c99e40de2a6a2134882b2d?s=64&d=identicon&r=r",
-   "time": "October 11, 2011 at 6:31 am",
-   "timeTitle": "Tuesday, October 11th, 2011, 6:31 am",
-   "html": "<p>Brilliant! Good one.</p>"
+   "avatar": "62a8e81a12c99e40de2a6a2134882b2d",
+   "text": "<p>Brilliant! Good one.</p>"
   },
   {
    "id": 10140,
    "author": "Leo W.",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/57c1d311d365b2c9060f33979d87088e?s=64&d=identicon&r=r",
-   "time": "October 11, 2011 at 7:05 pm",
-   "timeTitle": "Tuesday, October 11th, 2011, 7:05 pm",
-   "html": "<p>I love this one. I can&#8217;t stop reading it.</p>"
+   "date": "2011-10-11T19:05",
+   "avatar": "57c1d311d365b2c9060f33979d87088e",
+   "text": "<p>I love this one. I can&#8217;t stop reading it.</p>"
   },
   {
    "id": 10145,
    "author": "randomjackass",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2835ff72500b04a4e87ee5e2c31d4647?s=64&d=identicon&r=r",
-   "time": "October 12, 2011 at 3:42 am",
-   "timeTitle": "Wednesday, October 12th, 2011, 3:42 am",
-   "html": "<p>Not sure if your familiar with comedian Doug Stanhope, but he has a bit in a similar vein. His bit on excess in moderation, paraphrased &#8220;Don&#8217;t drink a few beers every night, save them up and drink them all at once at the end of the week, other wise you&#8217;ll never get the full effect&#8221; <a href=\"http://www.youtube.com/watch?v=Mrrca_PmViw\" rel=\"nofollow\">http://www.youtube.com/watch?v=Mrrca_PmViw</a></p>"
+   "date": "2011-10-12T03:42",
+   "avatar": "2835ff72500b04a4e87ee5e2c31d4647",
+   "text": "<p>Not sure if your familiar with comedian Doug Stanhope, but he has a bit in a similar vein. His bit on excess in moderation, paraphrased &#8220;Don&#8217;t drink a few beers every night, save them up and drink them all at once at the end of the week, other wise you&#8217;ll never get the full effect&#8221; <a href=\"http://www.youtube.com/watch?v=Mrrca_PmViw\" rel=\"nofollow\">http://www.youtube.com/watch?v=Mrrca_PmViw</a></p>"
   },
   {
    "id": 10149,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "October 12, 2011 at 3:05 pm",
-   "timeTitle": "Wednesday, October 12th, 2011, 3:05 pm",
-   "html": "<p>I lolled when she barely moved in the jetpack. Hilarious.</p>"
+   "date": "2011-10-12T15:05",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>I lolled when she barely moved in the jetpack. Hilarious.</p>"
   },
   {
    "id": 10154,
    "author": "Ludor",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/33863aea1023998adfe4ed86cabe2eab?s=64&d=identicon&r=r",
-   "time": "October 12, 2011 at 10:22 pm",
-   "timeTitle": "Wednesday, October 12th, 2011, 10:22 pm",
-   "html": "<p>God dammit, you&#8217;re really good.</p>"
+   "date": "2011-10-12T22:22",
+   "avatar": "33863aea1023998adfe4ed86cabe2eab",
+   "text": "<p>God dammit, you&#8217;re really good.</p>"
   },
   {
    "id": 10158,
    "author": "Marcus",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/100cbe4e63550c89fe84fa88e1e31d83?s=64&d=identicon&r=r",
-   "time": "October 13, 2011 at 2:14 am",
-   "timeTitle": "Thursday, October 13th, 2011, 2:14 am",
-   "html": "<p>Do I spy a slight Neutral Milk Hotel reference, or have my eyes been poisoned to the point that I see them everywhere?</p>"
+   "date": "2011-10-13T02:14",
+   "avatar": "100cbe4e63550c89fe84fa88e1e31d83",
+   "text": "<p>Do I spy a slight Neutral Milk Hotel reference, or have my eyes been poisoned to the point that I see them everywhere?</p>"
   },
   {
    "id": 10169,
    "author": "bpatrick",
+   "date": "2011-10-14T03:26",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "October 14, 2011 at 3:26 am",
-   "timeTitle": "Friday, October 14th, 2011, 3:26 am",
-   "html": "<p>Should I consult the Pree-sisters regarding the whereabouts of that donkey&#8217;s eye? I wish I&#8217;d thought of that &#8211; I missed a great opportunity.</p>\n<p>I may have Oliver Stoned this one. If it seems like I&#8217;m encouraging alcoholism then I botched this completely.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Should I consult the Pree-sisters regarding the whereabouts of that donkey&#8217;s eye? I wish I&#8217;d thought of that &#8211; I missed a great opportunity.</p>\n<p>I may have Oliver Stoned this one. If it seems like I&#8217;m encouraging alcoholism then I botched this completely.</p>"
   },
   {
    "id": 10241,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "October 14, 2011 at 10:20 pm",
-   "timeTitle": "Friday, October 14th, 2011, 10:20 pm",
-   "html": "<p>What d&#8217;you mean &#8220;you don&#8217;t encourage alcoholism&#8221;?!</p>"
+   "date": "2011-10-14T22:20",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>What d&#8217;you mean &#8220;you don&#8217;t encourage alcoholism&#8221;?!</p>"
   },
   {
    "id": 10354,
    "author": "FACE",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/960520f892c2d821bb6beb3512593828?s=64&d=identicon&r=r",
-   "time": "October 17, 2011 at 7:18 am",
-   "timeTitle": "Monday, October 17th, 2011, 7:18 am",
-   "html": "<p>Good use of comedy to soften the raw message core. I usually feel like Akimbo punches me in the face; this time it gently caressed my jawline and poked my nose playfully.</p>"
+   "date": "2011-10-17T07:18",
+   "avatar": "960520f892c2d821bb6beb3512593828",
+   "text": "<p>Good use of comedy to soften the raw message core. I usually feel like Akimbo punches me in the face; this time it gently caressed my jawline and poked my nose playfully.</p>"
   },
   {
    "id": 10436,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "October 20, 2011 at 3:09 pm",
-   "timeTitle": "Thursday, October 20th, 2011, 3:09 pm",
-   "html": "<p>this comic needs a &#8216;burly guy&#8217; tag</p>"
+   "date": "2011-10-20T15:09",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>this comic needs a &#8216;burly guy&#8217; tag</p>"
   },
   {
    "id": 10437,
    "author": "bpatrick",
+   "date": "2011-10-20T15:54",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "October 20, 2011 at 3:54 pm",
-   "timeTitle": "Thursday, October 20th, 2011, 3:54 pm",
-   "html": "<p>@D: It sure did. Done. Thanks.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>@D: It sure did. Done. Thanks.</p>"
   },
   {
    "id": 96969,
    "author": "-evan.",
+   "date": "2012-09-09T18:12",
    "url": "http://www.culturewarreporters.com",
-   "avatar": "http://1.gravatar.com/avatar/d699330b6edb3b99283458e0863f4ead?s=64&d=identicon&r=r",
-   "time": "September 9, 2012 at 6:12 pm",
-   "timeTitle": "Sunday, September 9th, 2012, 6:12 pm",
-   "html": "<p>This strip is now my go-to when sharing how I feel about alcohol. Thank you.</p>"
+   "avatar": "d699330b6edb3b99283458e0863f4ead",
+   "text": "<p>This strip is now my go-to when sharing how I feel about alcohol. Thank you.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 199",
-  "bodyClass": "post-template-default single single-post postid-700 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 199",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-10-10-Eat_Shit_And_Die_199.jpg"
- }
+ ]
 }

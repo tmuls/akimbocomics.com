@@ -1,78 +1,32 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-115/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-115",
- "id": 216,
  "title": "Eat Shit And Die 115",
  "author": "emulsifier",
- "date": "October 16, 2008",
- "time": "12:00 am",
- "datetime": "2008-10-16T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-216 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-10-16T00:00",
  "images": [
-  {
-   "src": "2008-10-16-Eat_Shit_And_Die_115.jpg",
-   "alt": "Eat Shit And Die 115",
-   "title": "Eat Shit And Die 115"
-  }
+  "2008-10-16-Eat_Shit_And_Die_115.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-114/",
-  "next": "/eatshitanddie/eat-shit-and-die-116/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-114/",
-  "next": "/eatshitanddie/eat-shit-and-die-116/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 2363,
    "author": "Vixx",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d1d1f0c4a13ed5ce2f6bb3a3a8cf09ee?s=64&d=identicon&r=r",
-   "time": "May 10, 2010 at 1:48 am",
-   "timeTitle": "Monday, May 10th, 2010, 1:48 am",
-   "html": "<p>Blond facial hair is revolting and you captured it well.<br />\nI have ~discovered~ you today and am reading everything eagerly.</p>"
+   "date": "2010-05-10T01:48",
+   "avatar": "d1d1f0c4a13ed5ce2f6bb3a3a8cf09ee",
+   "text": "<p>Blond facial hair is revolting and you captured it well.<br />\nI have ~discovered~ you today and am reading everything eagerly.</p>"
   },
   {
    "id": 8958,
    "author": "Gina",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/ab514eccdce0ea73d1e1c4e8b548cce1?s=64&d=identicon&r=r",
-   "time": "August 2, 2011 at 4:38 am",
-   "timeTitle": "Tuesday, August 2nd, 2011, 4:38 am",
-   "html": "<p>Me too. Rad stuff you&#8217;ve got here. Reading it all.</p>"
+   "date": "2011-08-02T04:38",
+   "avatar": "ab514eccdce0ea73d1e1c4e8b548cce1",
+   "text": "<p>Me too. Rad stuff you&#8217;ve got here. Reading it all.</p>"
   },
   {
    "id": 10122,
    "author": "Shane",
+   "date": "2011-10-10T01:59",
    "url": "http://thesilentarmy.tumblr.com",
-   "avatar": "http://2.gravatar.com/avatar/edfc031b91b0565cb2f4998575df3ec1?s=64&d=identicon&r=r",
-   "time": "October 10, 2011 at 1:59 am",
-   "timeTitle": "Monday, October 10th, 2011, 1:59 am",
-   "html": "<p>I&#8217;ve been reading here too, but I just started growing facial hair out for the first time in my life. I&#8217;ve discovered that while some girls don&#8217;t like it, there are some who want you seemingly BECAUSE of it. It&#8217;s resulted in this terrible, &#8220;Does she like me for me or for the beard?&#8221; problem.</p>"
+   "avatar": "edfc031b91b0565cb2f4998575df3ec1",
+   "text": "<p>I&#8217;ve been reading here too, but I just started growing facial hair out for the first time in my life. I&#8217;ve discovered that while some girls don&#8217;t like it, there are some who want you seemingly BECAUSE of it. It&#8217;s resulted in this terrible, &#8220;Does she like me for me or for the beard?&#8221; problem.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 115",
-  "bodyClass": "post-template-default single single-post postid-216 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 115",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-10-16-Eat_Shit_And_Die_115.jpg"
- }
+ ]
 }

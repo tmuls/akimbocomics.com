@@ -1,69 +1,26 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-149/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-149",
- "id": 488,
  "title": "eat shit & die 149",
  "author": "bpatrick",
- "date": "January 2, 2010",
- "time": "12:00 am",
- "datetime": "2010-01-02T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>Another comic from &#8217;08. I always get nervous leaving books on car seats. I have an urge to hide them under the seat or in the glove-box but then I remember that no one reads anyway. I&#8217;d have mixed feelings if someone busted out my window just to get to a book.</p>",
- "postClass": "post-488 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2010-01-02T00:00",
  "images": [
-  {
-   "src": "2010-01-02-Eat_Shit_And_Die_149.jpg",
-   "alt": "it's a Ford Fiesta",
-   "title": "it's a Ford Fiesta"
-  }
+  "2010-01-02-Eat_Shit_And_Die_149.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/linetool/line-tool-4/",
-  "next": "/eatshitanddie/eat-shit-and-die-150/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/linetool/line-tool-4/",
-  "next": "/eatshitanddie/eat-shit-and-die-150/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "it's a Ford Fiesta",
+ "body": "<p>Another comic from &#8217;08. I always get nervous leaving books on car seats. I have an urge to hide them under the seat or in the glove-box but then I remember that no one reads anyway. I&#8217;d have mixed feelings if someone busted out my window just to get to a book.</p>",
  "comments": [
   {
    "id": 4293,
    "author": "JPEspinoza",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2b60a23f8a87f2ed843f0a12561bda8e?s=64&d=identicon&r=r",
-   "time": "August 31, 2010 at 2:25 pm",
-   "timeTitle": "Tuesday, August 31st, 2010, 2:25 pm",
-   "html": "<p>Bolaño is The Man</p>"
+   "date": "2010-08-31T14:25",
+   "avatar": "2b60a23f8a87f2ed843f0a12561bda8e",
+   "text": "<p>Bolaño is The Man</p>"
   },
   {
    "id": 4728,
    "author": "fiendamundo",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/07c209adeb0f9a901c700580565ab7ed?s=64&d=identicon&r=r",
-   "time": "November 22, 2010 at 6:21 pm",
-   "timeTitle": "Monday, November 22nd, 2010, 6:21 pm",
-   "html": "<p>Trust me, in today&#8217;s society, no one would steal a book. Most people hate reading. Sad, really.</p>"
+   "date": "2010-11-22T18:21",
+   "avatar": "07c209adeb0f9a901c700580565ab7ed",
+   "text": "<p>Trust me, in today&#8217;s society, no one would steal a book. Most people hate reading. Sad, really.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 149",
-  "bodyClass": "post-template-default single single-post postid-488 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 149",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-01-02-Eat_Shit_And_Die_149.jpg"
- }
+ ]
 }

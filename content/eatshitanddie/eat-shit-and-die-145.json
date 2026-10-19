@@ -1,96 +1,48 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-145/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-145",
- "id": 471,
  "title": "eat shit & die 145",
  "author": "bpatrick",
- "date": "November 16, 2009",
- "time": "12:00 am",
- "datetime": "2009-11-16T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>No way, a Monday update. I&#8217;m indebted to John Barth for this one. </p>",
- "postClass": "post-471 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-11-16T00:00",
  "images": [
-  {
-   "src": "2009-11-16-Eat_Shit_And_Die_145.jpg",
-   "alt": "Fatass is a fine publication",
-   "title": "Fatass is a fine publication"
-  }
+  "2009-11-16-Eat_Shit_And_Die_145.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/vivianblank/vivian-blank-20/",
-  "next": "/eatshitanddie/eat-shit-and-die-146/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/vivianblank/vivian-blank-20/",
-  "next": "/eatshitanddie/eat-shit-and-die-146/"
- },
- "commentCount": 5,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "Fatass is a fine publication",
+ "body": "<p>No way, a Monday update. I&#8217;m indebted to John Barth for this one. </p>",
  "comments": [
   {
    "id": 1159,
    "author": "baslisks",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/cd54407fc9a7122e60ba8bbb6b5e69e7?s=64&d=identicon&r=r",
-   "time": "November 21, 2009 at 8:55 pm",
-   "timeTitle": "Saturday, November 21st, 2009, 8:55 pm",
-   "html": "<p>How does one exactly rape a porpoise?</p>"
+   "date": "2009-11-21T20:55",
+   "avatar": "cd54407fc9a7122e60ba8bbb6b5e69e7",
+   "text": "<p>How does one exactly rape a porpoise?</p>"
   },
   {
    "id": 1163,
    "author": "b.patrick",
+   "date": "2009-11-22T18:01",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "November 22, 2009 at 6:01 pm",
-   "timeTitle": "Sunday, November 22nd, 2009, 6:01 pm",
-   "html": "<p>I&#8217;m not sure. We&#8217;ll have to ask the Comte de Lautreamont.  I hear it happens in Maldoror but I haven&#8217;t read it yet. Sounded like the ultimate act of hedonistic abandon.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>I&#8217;m not sure. We&#8217;ll have to ask the Comte de Lautreamont.  I hear it happens in Maldoror but I haven&#8217;t read it yet. Sounded like the ultimate act of hedonistic abandon.</p>"
   },
   {
    "id": 1175,
    "author": "baslisks",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/cd54407fc9a7122e60ba8bbb6b5e69e7?s=64&d=identicon&r=r",
-   "time": "November 25, 2009 at 11:38 am",
-   "timeTitle": "Wednesday, November 25th, 2009, 11:38 am",
-   "html": "<p>I think you need something extra nowadays&#8230;. Not enough anymore. Todays ever increasing hedonism cries for more!</p>"
+   "date": "2009-11-25T11:38",
+   "avatar": "cd54407fc9a7122e60ba8bbb6b5e69e7",
+   "text": "<p>I think you need something extra nowadays&#8230;. Not enough anymore. Todays ever increasing hedonism cries for more!</p>"
   },
   {
    "id": 90890,
    "author": "tempeanthalia",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6f65a84b563ef16aaefdd695dcef395c?s=64&d=identicon&r=r",
-   "time": "July 18, 2012 at 12:50 pm",
-   "timeTitle": "Wednesday, July 18th, 2012, 12:50 pm",
-   "html": "<p>It happens in that new Crossed webcomic. But you really, really shouldn&#8217;t read Crossed.</p>\n<p>&#8230;.*goes to read Crossed*</p>"
+   "date": "2012-07-18T12:50",
+   "avatar": "6f65a84b563ef16aaefdd695dcef395c",
+   "text": "<p>It happens in that new Crossed webcomic. But you really, really shouldn&#8217;t read Crossed.</p>\n<p>&#8230;.*goes to read Crossed*</p>"
   },
   {
    "id": 94322,
    "author": "Sunny",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3bd5592a8a6bef60ddc092ee8961bd43?s=64&d=identicon&r=r",
-   "time": "August 20, 2012 at 7:27 pm",
-   "timeTitle": "Monday, August 20th, 2012, 7:27 pm",
-   "html": "<p>I desperately need a like button for this one</p>"
+   "date": "2012-08-20T19:27",
+   "avatar": "3bd5592a8a6bef60ddc092ee8961bd43",
+   "text": "<p>I desperately need a like button for this one</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 145",
-  "bodyClass": "post-template-default single single-post postid-471 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 145",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-11-16-Eat_Shit_And_Die_145.jpg"
- }
+ ]
 }

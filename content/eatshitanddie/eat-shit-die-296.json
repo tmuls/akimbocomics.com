@@ -1,55 +1,11 @@
 {
- "path": "/eatshitanddie/eat-shit-die-296/",
- "series": "eatshitanddie",
- "slug": "eat-shit-die-296",
- "id": 1323,
  "title": "eat, shit & die 296",
  "author": "bpatrick",
- "date": "September 24, 2019",
- "time": "3:47 am",
- "datetime": "2019-09-24T03:47:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2019-09-24T03:47",
  "tags": [
-  {
-   "title": "onan",
-   "href": "/tag/onan/"
-  }
+  "onan"
  ],
- "html": "",
- "postClass": "post-1323 post type-post status-publish format-standard hentry category-eatshitanddie tag-onan uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2019-09-24-Eat_Shit_And_Die_296.jpg",
-   "alt": "eat, shit & die 296",
-   "title": "eat, shit & die 296"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-die-295/",
-  "next": "/eatshitanddie/eat-shit-die-297/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-die-295/",
-  "next": "/eatshitanddie/eat-shit-die-297/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat, shit & die 296",
-  "bodyClass": "post-template-default single single-post postid-1323 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat, shit & die 296",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2019-09-24-Eat_Shit_And_Die_296.jpg"
- }
+  "2019-09-24-Eat_Shit_And_Die_296.jpg"
+ ]
 }

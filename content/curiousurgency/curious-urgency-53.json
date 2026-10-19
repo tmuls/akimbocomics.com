@@ -1,105 +1,54 @@
 {
- "path": "/curiousurgency/curious-urgency-53/",
- "series": "curiousurgency",
- "slug": "curious-urgency-53",
- "id": 723,
  "title": "Curious Urgency 53",
  "author": "bpatrick",
- "date": "March 9, 2012",
- "time": "12:00 am",
- "datetime": "2012-03-09T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>A little <em>Curious</em> for Jonny Paycheck. Sorry it&#8217;s so late, Jonny. </p>\n<p>I&#8217;m working on some other stuff too. Hopefully I&#8217;ll be updating more. </p>",
- "postClass": "post-723 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-03-09T00:00",
  "images": [
-  {
-   "src": "2012-03-09-Curious_Urgency_53.jpg",
-   "alt": "Curious Urgency 53",
-   "title": "Curious Urgency 53"
-  }
+  "2012-03-09-Curious_Urgency_53.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-204/",
-  "next": "/curiousurgency/curious-urgency-54/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-204/",
-  "next": "/curiousurgency/curious-urgency-54/"
- },
- "commentCount": 6,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>A little <em>Curious</em> for Jonny Paycheck. Sorry it&#8217;s so late, Jonny. </p>\n<p>I&#8217;m working on some other stuff too. Hopefully I&#8217;ll be updating more. </p>",
  "comments": [
   {
    "id": 66707,
    "author": "Gogo Yubari",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/901ebba303cb8eaa293089ca06ad7523?s=64&d=identicon&r=r",
-   "time": "March 11, 2012 at 6:50 am",
-   "timeTitle": "Sunday, March 11th, 2012, 6:50 am",
-   "html": "<p>Waiting 3 months between these is torturous.</p>\n<p>But they&#8217;re amazing so it&#8217;s worth it. Keep up the amazing work.</p>"
+   "date": "2012-03-11T06:50",
+   "avatar": "901ebba303cb8eaa293089ca06ad7523",
+   "text": "<p>Waiting 3 months between these is torturous.</p>\n<p>But they&#8217;re amazing so it&#8217;s worth it. Keep up the amazing work.</p>"
   },
   {
    "id": 66713,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/21a82e367907273b9715a54f7cb9704c?s=64&d=identicon&r=r",
-   "time": "March 11, 2012 at 7:24 am",
-   "timeTitle": "Sunday, March 11th, 2012, 7:24 am",
-   "html": "<p>Always glad to see Sheriff Chuck and hear whispers of future comics. Gotta figure out how to get you into a comic-writing craze. If you need to free up some time, try not sleeping.</p>"
+   "date": "2012-03-11T07:24",
+   "avatar": "21a82e367907273b9715a54f7cb9704c",
+   "text": "<p>Always glad to see Sheriff Chuck and hear whispers of future comics. Gotta figure out how to get you into a comic-writing craze. If you need to free up some time, try not sleeping.</p>"
   },
   {
    "id": 66714,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "March 11, 2012 at 7:25 am",
-   "timeTitle": "Sunday, March 11th, 2012, 7:25 am",
-   "html": "<p>Changed computers and put in wrong email. Just testing if my ugly mug is still on here.</p>"
+   "date": "2012-03-11T07:25",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Changed computers and put in wrong email. Just testing if my ugly mug is still on here.</p>"
   },
   {
    "id": 67283,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "March 13, 2012 at 7:16 pm",
-   "timeTitle": "Tuesday, March 13th, 2012, 7:16 pm",
-   "html": "<p>Just seen the good news about the Bob&amp;Bob film on facebook. Maybe you&#8217;ll have to quit being a comic artist to become a film writer.</p>"
+   "date": "2012-03-13T19:16",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Just seen the good news about the Bob&amp;Bob film on facebook. Maybe you&#8217;ll have to quit being a comic artist to become a film writer.</p>"
   },
   {
    "id": 67297,
    "author": "b.patrick",
+   "date": "2012-03-13T20:46",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "March 13, 2012 at 8:46 pm",
-   "timeTitle": "Tuesday, March 13th, 2012, 8:46 pm",
-   "html": "<p>I can never quit comics, Jonny. It&#8217;s a compulsion. Thanks for letting me know about Bob &amp; Bob, though. That is awesome!</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>I can never quit comics, Jonny. It&#8217;s a compulsion. Thanks for letting me know about Bob &amp; Bob, though. That is awesome!</p>"
   },
   {
    "id": 831120,
    "author": "Az",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/62011ec51ace617afce313c9d3046053?s=64&d=identicon&r=r",
-   "time": "October 22, 2014 at 9:52 pm",
-   "timeTitle": "Wednesday, October 22nd, 2014, 9:52 pm",
-   "html": "<p>heh, J. Y. Kelly</p>"
+   "date": "2014-10-22T21:52",
+   "avatar": "62011ec51ace617afce313c9d3046053",
+   "text": "<p>heh, J. Y. Kelly</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 53",
-  "bodyClass": "post-template-default single single-post postid-723 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 53",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-03-09-Curious_Urgency_53.jpg"
- }
+ ]
 }

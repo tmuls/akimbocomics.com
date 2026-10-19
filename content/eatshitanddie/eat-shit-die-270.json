@@ -1,50 +1,9 @@
 {
- "path": "/eatshitanddie/eat-shit-die-270/",
- "series": "eatshitanddie",
- "slug": "eat-shit-die-270",
- "id": 1176,
  "title": "eat, shit & die 270",
  "author": "bpatrick",
- "date": "November 1, 2017",
- "time": "6:11 am",
- "datetime": "2017-11-01T06:11:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>Part two of this crazy-long thing. Don&#8217;t forget to click through. </p>",
- "postClass": "post-1176 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2017-11-01T06:11",
  "images": [
-  {
-   "src": "2017-11-01-Eat_Shit_And_Die_270.jpg",
-   "alt": "eat, shit & die 270",
-   "title": "eat, shit & die 270"
-  }
+  "2017-11-01-Eat_Shit_And_Die_270.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-die-269-2/",
-  "next": "/eatshitanddie/eat-shit-die-271/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-die-269-2/",
-  "next": "/eatshitanddie/eat-shit-die-271/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat, shit & die 270",
-  "bodyClass": "post-template-default single single-post postid-1176 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat, shit & die 270",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2017-11-01-Eat_Shit_And_Die_270.jpg"
- }
+ "body": "<p>Part two of this crazy-long thing. Don&#8217;t forget to click through. </p>"
 }

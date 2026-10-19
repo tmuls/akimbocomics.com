@@ -1,150 +1,90 @@
 {
- "path": "/my_boyfriend_smells/my-boyfriend-smells-2/",
- "series": "my_boyfriend_smells",
- "slug": "my-boyfriend-smells-2",
- "id": 646,
  "title": "My Boyfriend Smells 2",
  "author": "bpatrick",
- "date": "May 8, 2011",
- "time": "12:00 am",
- "datetime": "2011-05-08T00:00:00",
- "categories": [
-  {
-   "title": "My Boyfriend Smells",
-   "href": "/my_boyfriend_smells/"
-  }
- ],
- "tags": [],
- "html": "<p>I thought I&#8217;d whip out a black and white <em>Boyfriend</em> and then decided to color it a little and then got carried away and now I don&#8217;t even really like how it turned out. It took forever. Maybe 8 times as long as the average es&#038;d. Oh well. On to the next.</p>",
- "postClass": "post-646 post type-post status-publish format-standard hentry category-my_boyfriend_smells uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-05-08T00:00",
  "images": [
-  {
-   "src": "2011-05-08-My_Boyfriend_Smells_2.jpg",
-   "alt": "My Boyfriend Smells 2",
-   "title": "My Boyfriend Smells 2"
-  }
+  "2011-05-08-My_Boyfriend_Smells_2.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-181/",
-  "next": "/eatshitanddie/eat-shit-and-die-182/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-181/",
-  "next": "/eatshitanddie/eat-shit-and-die-182/"
- },
- "commentCount": 11,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I thought I&#8217;d whip out a black and white <em>Boyfriend</em> and then decided to color it a little and then got carried away and now I don&#8217;t even really like how it turned out. It took forever. Maybe 8 times as long as the average es&#038;d. Oh well. On to the next.</p>",
  "comments": [
   {
    "id": 7006,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "May 8, 2011 at 10:24 pm",
-   "timeTitle": "Sunday, May 8th, 2011, 10:24 pm",
-   "html": "<p>Whoa you posted this on facebook!</p>"
+   "date": "2011-05-08T22:24",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>Whoa you posted this on facebook!</p>"
   },
   {
    "id": 7011,
    "author": "kitschbot",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8480f829bb5be3a8f8d9cadbc3f745a9?s=64&d=identicon&r=r",
-   "time": "May 9, 2011 at 3:21 am",
-   "timeTitle": "Monday, May 9th, 2011, 3:21 am",
-   "html": "<p>I used to dislike the way my ex smelled, exactly as your character described. And I mean, exactly. It wasn&#8217;t stink, we were just chemically incompatible I guess. Anyway, the shading for this one is weird. It reminds me of the matte embossment on like a plastic mask for children, I don&#8217;t like it. I like the way you usually color things, and the way you do black and white is great too. Anyway, looking forward to more in this weird storyline.</p>"
+   "date": "2011-05-09T03:21",
+   "avatar": "8480f829bb5be3a8f8d9cadbc3f745a9",
+   "text": "<p>I used to dislike the way my ex smelled, exactly as your character described. And I mean, exactly. It wasn&#8217;t stink, we were just chemically incompatible I guess. Anyway, the shading for this one is weird. It reminds me of the matte embossment on like a plastic mask for children, I don&#8217;t like it. I like the way you usually color things, and the way you do black and white is great too. Anyway, looking forward to more in this weird storyline.</p>"
   },
   {
    "id": 7013,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "May 9, 2011 at 5:36 am",
-   "timeTitle": "Monday, May 9th, 2011, 5:36 am",
-   "html": "<p>It&#8217;s really well colored, though, and I think the color contributes a lot.</p>"
+   "date": "2011-05-09T05:36",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>It&#8217;s really well colored, though, and I think the color contributes a lot.</p>"
   },
   {
    "id": 7016,
    "author": "Eb0la",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3b17421ad77a592a8f4a301240f09d5d?s=64&d=identicon&r=r",
-   "time": "May 9, 2011 at 9:07 am",
-   "timeTitle": "Monday, May 9th, 2011, 9:07 am",
-   "html": "<p>What have you done to your inking ? IMHO your coloring isn&#8217;t the reason why you get that &#8220;stained-glass window&#8221; look which I don&#8217;t appreciate that much either.<br />\nMaybe color the line work as well ? Or remove it entirely like in the backgrounds ?<br />\nOr stay with your previous flat color style and more blacks which works very well and take 8x less time 🙂</p>"
+   "date": "2011-05-09T09:07",
+   "avatar": "3b17421ad77a592a8f4a301240f09d5d",
+   "text": "<p>What have you done to your inking ? IMHO your coloring isn&#8217;t the reason why you get that &#8220;stained-glass window&#8221; look which I don&#8217;t appreciate that much either.<br />\nMaybe color the line work as well ? Or remove it entirely like in the backgrounds ?<br />\nOr stay with your previous flat color style and more blacks which works very well and take 8x less time 🙂</p>"
   },
   {
    "id": 7022,
    "author": "Phil C.",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c52325397493673acc10fc4ba8e48ae9?s=64&d=identicon&r=r",
-   "time": "May 9, 2011 at 1:29 pm",
-   "timeTitle": "Monday, May 9th, 2011, 1:29 pm",
-   "html": "<p>Honestly don&#8217;t get why you aren&#8217;t happy with this one; it looks marvelous. Well, that&#8217;s what makes your stuff good &#8212; the constant search for perfection. Great to finally have more in this story!</p>\n<p>It&#8217;s interesting to see the slightly changed look of these pieces that go a long time between updates as your artwork evolves and improves and changes. Even with the changes, it still fits together well and looks like a unified whole.</p>\n<p>cheers,<br />\nPhil</p>"
+   "date": "2011-05-09T13:29",
+   "avatar": "c52325397493673acc10fc4ba8e48ae9",
+   "text": "<p>Honestly don&#8217;t get why you aren&#8217;t happy with this one; it looks marvelous. Well, that&#8217;s what makes your stuff good &#8212; the constant search for perfection. Great to finally have more in this story!</p>\n<p>It&#8217;s interesting to see the slightly changed look of these pieces that go a long time between updates as your artwork evolves and improves and changes. Even with the changes, it still fits together well and looks like a unified whole.</p>\n<p>cheers,<br />\nPhil</p>"
   },
   {
    "id": 7042,
    "author": "b.patrick",
+   "date": "2011-05-10T16:05",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "May 10, 2011 at 4:05 pm",
-   "timeTitle": "Tuesday, May 10th, 2011, 4:05 pm",
-   "html": "<p>Eb0la nailed me on the inking. I was trying a brush-pen and while it is way faster the one I got dulled after two comics and could no longer vary the line weight so it&#8217;s basically just a sharpee now &#8211; which is why the aptly described &#8220;stained-glass&#8221; effect. And kitschbot nailed the problem with the colors. Now when I look at it I can smell the cheap plastic of halloween costumes. If I can figure out how to import some brushes into photoshop I think I could get something more painterly which is what I wanted &#8212; more like the-comic-that-dare-not-speak-its-name. Thanks for the feedback! I&#8217;ll get it right someday.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Eb0la nailed me on the inking. I was trying a brush-pen and while it is way faster the one I got dulled after two comics and could no longer vary the line weight so it&#8217;s basically just a sharpee now &#8211; which is why the aptly described &#8220;stained-glass&#8221; effect. And kitschbot nailed the problem with the colors. Now when I look at it I can smell the cheap plastic of halloween costumes. If I can figure out how to import some brushes into photoshop I think I could get something more painterly which is what I wanted &#8212; more like the-comic-that-dare-not-speak-its-name. Thanks for the feedback! I&#8217;ll get it right someday.</p>"
   },
   {
    "id": 7083,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "May 14, 2011 at 4:21 am",
-   "timeTitle": "Saturday, May 14th, 2011, 4:21 am",
-   "html": "<p>Love your work!  I&#8217;m kinda new to web comics &#8211; I just finished reading your whole archive in like 3 days, after spending a week doing the same thing at subnormality.  Any suggestions on where I should go next while I&#8217;m waiting for the next update?</p>"
+   "date": "2011-05-14T04:21",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>Love your work!  I&#8217;m kinda new to web comics &#8211; I just finished reading your whole archive in like 3 days, after spending a week doing the same thing at subnormality.  Any suggestions on where I should go next while I&#8217;m waiting for the next update?</p>"
   },
   {
    "id": 7090,
    "author": "robb cayman",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/525698b7cfb2c266d83a0c4937513311?s=64&d=identicon&r=r",
-   "time": "May 14, 2011 at 2:12 pm",
-   "timeTitle": "Saturday, May 14th, 2011, 2:12 pm",
-   "html": "<p>the characters and stories in these comics almost always hit home for me, to a reference-able extent. I&#8217;m not saying I don&#8217;t come here for the art, it&#8217;s got a solid base, but if there&#8217;s one thing I love about following comics online, it&#8217;s progression. You&#8217;ve got some solid ideas that get across very clearly, so as a reader, a page or 2 or 10 of experimentation aren&#8217;t gonna detract from the overall experience. (but if you&#8217;re looking to mess around with things in between segments, a cover page here and there can satisfy quite a few needs when you want to play around with things without having to justify a sudden shift.)</p>"
+   "date": "2011-05-14T14:12",
+   "avatar": "525698b7cfb2c266d83a0c4937513311",
+   "text": "<p>the characters and stories in these comics almost always hit home for me, to a reference-able extent. I&#8217;m not saying I don&#8217;t come here for the art, it&#8217;s got a solid base, but if there&#8217;s one thing I love about following comics online, it&#8217;s progression. You&#8217;ve got some solid ideas that get across very clearly, so as a reader, a page or 2 or 10 of experimentation aren&#8217;t gonna detract from the overall experience. (but if you&#8217;re looking to mess around with things in between segments, a cover page here and there can satisfy quite a few needs when you want to play around with things without having to justify a sudden shift.)</p>"
   },
   {
    "id": 7151,
    "author": "b.patrick",
+   "date": "2011-05-17T14:08",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "May 17, 2011 at 2:08 pm",
-   "timeTitle": "Tuesday, May 17th, 2011, 2:08 pm",
-   "html": "<p>@cbobgo: Thanks! Any of the comics I&#8217;ve linked to in the side-bar are great.<br />\n@robb cayman: Thanks! Cover page experimentation is a great suggestion, thanks!</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>@cbobgo: Thanks! Any of the comics I&#8217;ve linked to in the side-bar are great.<br />\n@robb cayman: Thanks! Cover page experimentation is a great suggestion, thanks!</p>"
   },
   {
    "id": 7154,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "May 17, 2011 at 4:47 pm",
-   "timeTitle": "Tuesday, May 17th, 2011, 4:47 pm",
-   "html": "<p>At least half of those comics are inactive, and of the other half none of them are anywhere near as good as yours!</p>"
+   "date": "2011-05-17T16:47",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>At least half of those comics are inactive, and of the other half none of them are anywhere near as good as yours!</p>"
   },
   {
    "id": 91889,
    "author": "Haemoglobin Juniour",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9d253303b2ae7552c1aa74d7dbbbdf06?s=64&d=identicon&r=r",
-   "time": "July 24, 2012 at 10:05 pm",
-   "timeTitle": "Tuesday, July 24th, 2012, 10:05 pm",
-   "html": "<p>Will there ever be more of these? I&#8217;d be interested to see the story progress.</p>"
+   "date": "2012-07-24T22:05",
+   "avatar": "9d253303b2ae7552c1aa74d7dbbbdf06",
+   "text": "<p>Will there ever be more of these? I&#8217;d be interested to see the story progress.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - My Boyfriend Smells 2",
-  "bodyClass": "post-template-default single single-post postid-646 single-format-standard user-guest comic unknown single-category-my_boyfriend_smells single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "My Boyfriend Smells 2",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-05-08-My_Boyfriend_Smells_2.jpg"
- }
+ ]
 }

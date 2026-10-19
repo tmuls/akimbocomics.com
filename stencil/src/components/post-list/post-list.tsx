@@ -1,5 +1,5 @@
 import { Component, Prop, h } from '@stencil/core';
-import { Listing, PER_PAGE } from '../../data/content';
+import { Listing, PER_PAGE, posts, shortDate } from '../../data/content';
 
 /** A series (category) or tag archive page: one table row per post, paged. */
 @Component({ tag: 'post-list', shadow: false })
@@ -9,21 +9,22 @@ export class PostList {
 
   render() {
     const { listing, page } = this;
-    const rows = listing.entries.slice((page - 1) * PER_PAGE, page * PER_PAGE);
+    const n = listing.entries.length;
+    const rows = listing.entries.slice((page - 1) * PER_PAGE, page * PER_PAGE).map(p => posts[p]);
     return (
       <div id="content" class="narrowcolumn">
-        <h2 class="page-title">{listing.heading}</h2>
-        <div class="archiveresults">{listing.entries.length} {listing.entries.length === 1 ? 'result' : 'results'}.</div>
+        <h2 class="page-title">{listing.kind === 'tag' ? 'Posts Tagged' : 'Archive for'} &lsquo;{listing.title}&rsquo;</h2>
+        <div class="archiveresults">{n} {n === 1 ? 'result' : 'results'}.</div>
         <div class="clear"></div>
         <div class="post uentry">
           <div class="post-head"></div>
           <div class="entry">
             <table class="archive-table">
-              {rows.map(e => (
+              {rows.map(p => (
                 <tr>
-                  <td class="archive-date">{e.date}</td>
+                  <td class="archive-date">{shortDate(p.date)}</td>
                   <td class="archive-title">
-                    <a href={e.href} rel="bookmark" title={`Permanent Link: ${e.title}`}>{e.title}</a>
+                    <a href={p.path} rel="bookmark">{p.title}</a>
                   </td>
                 </tr>
               ))}
@@ -32,7 +33,7 @@ export class PostList {
           <div class="post-foot"></div>
         </div>
         <div class="clear"></div>
-        <page-nav base={listing.path} page={page} pages={listing.pages} />
+        <page-nav base={listing.path} page={page} pages={Math.ceil(n / PER_PAGE)} />
       </div>
     );
   }

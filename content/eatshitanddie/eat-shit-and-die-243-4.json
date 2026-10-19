@@ -1,87 +1,39 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-243-4/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-243-4",
- "id": 1022,
  "title": "Eat Shit And Die 243",
  "author": "bpatrick",
- "date": "March 6, 2015",
- "time": "12:00 am",
- "datetime": "2015-03-06T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1022 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2015-03-06T00:00",
  "images": [
-  {
-   "src": "2015-03-06-Eat_Shit_And_Die_243.jpg",
-   "alt": "Eat Shit And Die 243",
-   "title": "Eat Shit And Die 243"
-  }
+  "2015-03-06-Eat_Shit_And_Die_243.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-242/",
-  "next": "/eatshitanddie/eat-shit-and-die-244/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-242/",
-  "next": "/eatshitanddie/eat-shit-and-die-244/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1035065,
    "author": "Winston Rowntree",
+   "date": "2015-03-09T06:07",
    "url": "http://www.viruscomix.com/subnormality.html",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "March 9, 2015 at 6:07 am",
-   "timeTitle": "Monday, March 9th, 2015, 6:07 am",
-   "html": "<p>That&#8217;ll be the nine and a half minute version off the live album, i reckon. I for one am fully in favor of any comics about how great Ministry are&#8230; #fuckgorbachev #fucknoriega #fuckalltheseassholes</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>That&#8217;ll be the nine and a half minute version off the live album, i reckon. I for one am fully in favor of any comics about how great Ministry are&#8230; #fuckgorbachev #fucknoriega #fuckalltheseassholes</p>"
   },
   {
    "id": 1035698,
    "author": "Zerhauen",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/973e3eb2034d563b7ede6ac2b5d3cd18?s=64&d=identicon&r=r",
-   "time": "March 10, 2015 at 2:20 am",
-   "timeTitle": "Tuesday, March 10th, 2015, 2:20 am",
-   "html": "<p>Just finished listening to this myself (and yes that version Winston Roundtree). Good shit man, the song and the comic both.</p>"
+   "date": "2015-03-10T02:20",
+   "avatar": "973e3eb2034d563b7ede6ac2b5d3cd18",
+   "text": "<p>Just finished listening to this myself (and yes that version Winston Roundtree). Good shit man, the song and the comic both.</p>"
   },
   {
    "id": 1039522,
    "author": "Eight",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ca372b9792bab66460024a27813b29de?s=64&d=identicon&r=r",
-   "time": "March 17, 2015 at 4:28 pm",
-   "timeTitle": "Tuesday, March 17th, 2015, 4:28 pm",
-   "html": "<p>It might not be my dig but I know what it&#8217;s like to have a song in my head that&#8217;s more powerful than real life.</p>"
+   "date": "2015-03-17T16:28",
+   "avatar": "ca372b9792bab66460024a27813b29de",
+   "text": "<p>It might not be my dig but I know what it&#8217;s like to have a song in my head that&#8217;s more powerful than real life.</p>"
   },
   {
    "id": 1044391,
    "author": "ferrousaemyr",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/65f1f49d764e2d88d86ae686e2737676?s=64&d=identicon&r=r",
-   "time": "March 29, 2015 at 7:12 pm",
-   "timeTitle": "Sunday, March 29th, 2015, 7:12 pm",
-   "html": "<p>Excellent comics. Love the messages and the art. Your brain is delightful.</p>"
+   "date": "2015-03-29T19:12",
+   "avatar": "65f1f49d764e2d88d86ae686e2737676",
+   "text": "<p>Excellent comics. Love the messages and the art. Your brain is delightful.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 243",
-  "bodyClass": "post-template-default single single-post postid-1022 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 243",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2015-03-06-Eat_Shit_And_Die_243.jpg"
- }
+ ]
 }

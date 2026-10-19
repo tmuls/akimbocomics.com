@@ -1,63 +1,18 @@
 {
- "path": "/linetool/line-tool-4-2/",
- "series": "linetool",
- "slug": "line-tool-4-2",
- "id": 973,
  "title": "Line Tool 4",
  "author": "bpatrick",
- "date": "January 1, 2000",
- "time": "12:00 am",
- "datetime": "2000-01-01T00:00:00",
- "categories": [
-  {
-   "title": "Line Tool",
-   "href": "/linetool/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-973 post type-post status-publish format-standard hentry category-linetool uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2000-01-01T00:00",
  "images": [
-  {
-   "src": "/comics/bonus-1/2000-01-01-Bonus_Material_1.jpg",
-   "alt": "Line Tool 4",
-   "title": "Line Tool 4"
-  },
-  {
-   "src": "2000-01-01_Line_Tool_4.jpg",
-   "alt": "Line Tool 4",
-   "title": "Line Tool 4"
-  }
+  "/comics/bonus-1/2000-01-01-Bonus_Material_1.jpg",
+  "2000-01-01_Line_Tool_4.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "next": "/comics/bonus-1/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "next": "/comics/bonus-1/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 908865,
    "author": "Zerhauen",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/973e3eb2034d563b7ede6ac2b5d3cd18?s=64&d=identicon&r=r",
-   "time": "November 23, 2014 at 5:31 am",
-   "timeTitle": "Sunday, November 23rd, 2014, 5:31 am",
-   "html": "<p>&#8230;.Wow.</p>"
+   "date": "2014-11-23T05:31",
+   "avatar": "973e3eb2034d563b7ede6ac2b5d3cd18",
+   "text": "<p>&#8230;.Wow.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Line Tool 4",
-  "bodyClass": "post-template-default single single-post postid-973 single-format-standard user-guest comic unknown single-category-linetool single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Line Tool 4",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2000-01-01_Line_Tool_4.jpg"
- }
+ ]
 }

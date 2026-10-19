@@ -1,60 +1,17 @@
 {
- "path": "/vivianblank/vivian-blank-15/",
- "series": "vivianblank",
- "slug": "vivian-blank-15",
- "id": 297,
  "title": "Vivian Blank 15",
  "author": "emulsifier",
- "date": "January 1, 2009",
- "time": "12:00 am",
- "datetime": "2009-01-01T00:00:00",
- "categories": [
-  {
-   "title": "Vivian Blank",
-   "href": "/vivianblank/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-297 post type-post status-publish format-standard hentry category-vivianblank uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2009-01-01T00:00",
  "images": [
-  {
-   "src": "2009-01-01-Bob_And_Bob_1.jpg",
-   "alt": "Vivian Blank 15",
-   "title": "Vivian Blank 15"
-  }
+  "2009-01-01-Bob_And_Bob_1.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/vivianblank/vivian-blank-14/",
-  "next": "/vivianblank/vivian-blank-16/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/vivianblank/vivian-blank-14/",
-  "next": "/vivianblank/vivian-blank-16/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1027,
    "author": "lev",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e9d26e4f197d9e71dc90399f34c23795?s=64&d=identicon&r=r",
-   "time": "October 25, 2009 at 1:07 pm",
-   "timeTitle": "Sunday, October 25th, 2009, 1:07 pm",
-   "html": "<p>fuckin intense.</p>"
+   "date": "2009-10-25T13:07",
+   "avatar": "e9d26e4f197d9e71dc90399f34c23795",
+   "text": "<p>fuckin intense.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Vivian Blank 15",
-  "bodyClass": "post-template-default single single-post postid-297 single-format-standard user-guest comic unknown single-category-vivianblank single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Vivian Blank 15",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-01-01-Bob_And_Bob_1.jpg"
- }
+ ]
 }

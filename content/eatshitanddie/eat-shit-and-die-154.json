@@ -1,123 +1,73 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-154/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-154",
- "id": 522,
  "title": "eat shit & die 154",
  "author": "bpatrick",
- "date": "March 13, 2010",
- "time": "12:00 am",
- "datetime": "2010-03-13T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>The official motto of akimbo remains &#8220;Waste your life doing something you love&#8221;.</p>",
- "postClass": "post-522 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2010-03-13T00:00",
  "images": [
-  {
-   "src": "2010-03-13-Eat_Shit_And_DIe_154.jpg",
-   "alt": "I should've been a cavema......oh.",
-   "title": "I should've been a cavema......oh."
-  }
+  "2010-03-13-Eat_Shit_And_DIe_154.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-37/",
-  "next": "/eatshitanddie/eat-shit-and-die-155/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-37/",
-  "next": "/eatshitanddie/eat-shit-and-die-155/"
- },
- "commentCount": 8,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "I should've been a cavema......oh.",
+ "body": "<p>The official motto of akimbo remains &#8220;Waste your life doing something you love&#8221;.</p>",
  "comments": [
   {
    "id": 1855,
    "author": "Michal",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/060fa097179059275dff122f4839f467?s=64&d=identicon&r=r",
-   "time": "March 24, 2010 at 10:11 am",
-   "timeTitle": "Wednesday, March 24th, 2010, 10:11 am",
-   "html": "<p>Phew! Finished reading the archives. Took me two rather unproductive days at work. I&#8217;m in awe of your work and I have to admit I feel a bit envious of your talent. Do update soon, your comics brighten my day, even the bleak ones.</p>"
+   "date": "2010-03-24T10:11",
+   "avatar": "060fa097179059275dff122f4839f467",
+   "text": "<p>Phew! Finished reading the archives. Took me two rather unproductive days at work. I&#8217;m in awe of your work and I have to admit I feel a bit envious of your talent. Do update soon, your comics brighten my day, even the bleak ones.</p>"
   },
   {
    "id": 1856,
    "author": "b.patrick",
+   "date": "2010-03-24T16:58",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "March 24, 2010 at 4:58 pm",
-   "timeTitle": "Wednesday, March 24th, 2010, 4:58 pm",
-   "html": "<p>Thanks, Michal! I love the idea of people reading my comics at work. I&#8217;m not sure why &#8211; maybe because it feels like I&#8217;m doing something to make people&#8217;s day better, as you said. Thanks, again. I should have an update by this weekend.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks, Michal! I love the idea of people reading my comics at work. I&#8217;m not sure why &#8211; maybe because it feels like I&#8217;m doing something to make people&#8217;s day better, as you said. Thanks, again. I should have an update by this weekend.</p>"
   },
   {
    "id": 1859,
    "author": "Juan Santapau",
+   "date": "2010-03-24T17:11",
    "url": "http://www.thesecretknots.com",
-   "avatar": "http://0.gravatar.com/avatar/f5c11197b800b2d2672e83c8983e957b?s=64&d=identicon&r=r",
-   "time": "March 24, 2010 at 5:11 pm",
-   "timeTitle": "Wednesday, March 24th, 2010, 5:11 pm",
-   "html": "<p>Hey! I loved this comic. And: thanks for linking The Secret Knots.</p>"
+   "avatar": "f5c11197b800b2d2672e83c8983e957b",
+   "text": "<p>Hey! I loved this comic. And: thanks for linking The Secret Knots.</p>"
   },
   {
    "id": 1864,
    "author": "christiann",
+   "date": "2010-03-25T05:22",
    "url": "http://stickycomics.com",
-   "avatar": "http://1.gravatar.com/avatar/44e713d9e32825550b0371db3d3f80c0?s=64&d=identicon&r=r",
-   "time": "March 25, 2010 at 5:22 am",
-   "timeTitle": "Thursday, March 25th, 2010, 5:22 am",
-   "html": "<p>This is awesome. I just found your comics and love them!</p>"
+   "avatar": "44e713d9e32825550b0371db3d3f80c0",
+   "text": "<p>This is awesome. I just found your comics and love them!</p>"
   },
   {
    "id": 1879,
    "author": "Ash Freeman",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a49aa63e14b7c840d4495b6970330e0e?s=64&d=identicon&r=r",
-   "time": "March 26, 2010 at 7:52 am",
-   "timeTitle": "Friday, March 26th, 2010, 7:52 am",
-   "html": "<p>Just Stumbled this.  Perfect sir, just perfect.  Art.</p>"
+   "date": "2010-03-26T07:52",
+   "avatar": "a49aa63e14b7c840d4495b6970330e0e",
+   "text": "<p>Just Stumbled this.  Perfect sir, just perfect.  Art.</p>"
   },
   {
    "id": 2586,
    "author": "Matan",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/adabb87981163c60d2bf63e81b43cc13?s=64&d=identicon&r=r",
-   "time": "June 4, 2010 at 5:07 pm",
-   "timeTitle": "Friday, June 4th, 2010, 5:07 pm",
-   "html": "<p>Just wanted to say, i found this site yesterday &#8211; and it is great. great ideas, great comics. i  read through practically all the archive i 2 days.</p>"
+   "date": "2010-06-04T17:07",
+   "avatar": "adabb87981163c60d2bf63e81b43cc13",
+   "text": "<p>Just wanted to say, i found this site yesterday &#8211; and it is great. great ideas, great comics. i  read through practically all the archive i 2 days.</p>"
   },
   {
    "id": 2592,
    "author": "b.patrick",
+   "date": "2010-06-05T18:04",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "June 5, 2010 at 6:04 pm",
-   "timeTitle": "Saturday, June 5th, 2010, 6:04 pm",
-   "html": "<p>Juan Santapau: Thanks! The Secret Knots is brilliant.<br />\nchristiann: Thanks!<br />\nAsh Freeman: Thank you sir.<br />\nMatan: Thanks! That&#8217;s a lot of comics &#8211; thank you.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Juan Santapau: Thanks! The Secret Knots is brilliant.<br />\nchristiann: Thanks!<br />\nAsh Freeman: Thank you sir.<br />\nMatan: Thanks! That&#8217;s a lot of comics &#8211; thank you.</p>"
   },
   {
    "id": 13550,
    "author": "Deaf singles",
+   "date": "2011-11-16T00:55",
    "url": "http://www.kissofdeaf.com",
-   "avatar": "http://0.gravatar.com/avatar/9f16731d5cebe2676cc067ea16293a12?s=64&d=identicon&r=r",
-   "time": "November 16, 2011 at 12:55 am",
-   "timeTitle": "Wednesday, November 16th, 2011, 12:55 am",
-   "html": "<p>I agree with Michal. I too am in awe of your work and look forward to more soon. I&#8217;ve looked at everything on this site already.</p>"
+   "avatar": "9f16731d5cebe2676cc067ea16293a12",
+   "text": "<p>I agree with Michal. I too am in awe of your work and look forward to more soon. I&#8217;ve looked at everything on this site already.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 154",
-  "bodyClass": "post-template-default single single-post postid-522 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 154",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-03-13-Eat_Shit_And_DIe_154.jpg"
- }
+ ]
 }

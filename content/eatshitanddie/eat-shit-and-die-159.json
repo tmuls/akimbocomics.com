@@ -1,141 +1,84 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-159/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-159",
- "id": 547,
  "title": "eat shit & die 159",
  "author": "bpatrick",
- "date": "June 15, 2010",
- "time": "12:00 am",
- "datetime": "2010-06-15T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I decided to do a black and white comic so I could get it up faster and thought &#8220;Why not really make a black and white comic rather than just not coloring a comic&#8221; &#8211; so I broke out my pens. I&#8217;m not sure it translates to the screen as well as brushwork.</p>",
- "postClass": "post-547 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2010-06-15T00:00",
  "images": [
-  {
-   "src": "2010-06-15-Eat_Shit_And_Die_159.jpg",
-   "alt": "being a good person justifies every horrible thing I might do",
-   "title": "being a good person justifies every horrible thing I might do"
-  }
+  "2010-06-15-Eat_Shit_And_Die_159.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-158/",
-  "next": "/eatshitanddie/eat-shit-and-die-160/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-158/",
-  "next": "/eatshitanddie/eat-shit-and-die-160/"
- },
- "commentCount": 10,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "being a good person justifies every horrible thing I might do",
+ "body": "<p>I decided to do a black and white comic so I could get it up faster and thought &#8220;Why not really make a black and white comic rather than just not coloring a comic&#8221; &#8211; so I broke out my pens. I&#8217;m not sure it translates to the screen as well as brushwork.</p>",
  "comments": [
   {
    "id": 2765,
    "author": "Matan",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/adabb87981163c60d2bf63e81b43cc13?s=64&d=identicon&r=r",
-   "time": "June 16, 2010 at 8:29 pm",
-   "timeTitle": "Wednesday, June 16th, 2010, 8:29 pm",
-   "html": "<p>so good. loved this one</p>"
+   "date": "2010-06-16T20:29",
+   "avatar": "adabb87981163c60d2bf63e81b43cc13",
+   "text": "<p>so good. loved this one</p>"
   },
   {
    "id": 2770,
    "author": "Matthew",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/472dd32a91a8c12a695bc69e3dff0982?s=64&d=identicon&r=r",
-   "time": "June 16, 2010 at 11:16 pm",
-   "timeTitle": "Wednesday, June 16th, 2010, 11:16 pm",
-   "html": "<p>Our hero saved his money for future donations to the poor, until one day he knocked up a not so heroic lady who lives off that money for &#8220;child suport&#8221;.</p>\n<p>You be a hero today.  Don&#8217;t wait for tomorrow.</p>"
+   "date": "2010-06-16T23:16",
+   "avatar": "472dd32a91a8c12a695bc69e3dff0982",
+   "text": "<p>Our hero saved his money for future donations to the poor, until one day he knocked up a not so heroic lady who lives off that money for &#8220;child suport&#8221;.</p>\n<p>You be a hero today.  Don&#8217;t wait for tomorrow.</p>"
   },
   {
    "id": 2790,
    "author": "Ryan",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/888ff72baa4ac8b5512ca52206eff015?s=64&d=identicon&r=r",
-   "time": "June 17, 2010 at 11:53 am",
-   "timeTitle": "Thursday, June 17th, 2010, 11:53 am",
-   "html": "<p>Keeping it up with the same stuff that makes this my favorite comic on the web.  You rock.</p>"
+   "date": "2010-06-17T11:53",
+   "avatar": "888ff72baa4ac8b5512ca52206eff015",
+   "text": "<p>Keeping it up with the same stuff that makes this my favorite comic on the web.  You rock.</p>"
   },
   {
    "id": 2901,
    "author": "b.patrick",
+   "date": "2010-06-22T04:35",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "June 22, 2010 at 4:35 am",
-   "timeTitle": "Tuesday, June 22nd, 2010, 4:35 am",
-   "html": "<p>Matan: Thanks!<br />\nMatthew: Well said.<br />\nRyan: Wow. I don&#8217;t want to dissuade you but there are a lot of good comics on the web &#8211; thank you!</p>\n<p>I think I may have been too subtle with this one. Maybe his mask with some cobwebs on it in a panel or some un-answered cries for help while he relaxes &#8211; I don&#8217;t know&#8230;</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Matan: Thanks!<br />\nMatthew: Well said.<br />\nRyan: Wow. I don&#8217;t want to dissuade you but there are a lot of good comics on the web &#8211; thank you!</p>\n<p>I think I may have been too subtle with this one. Maybe his mask with some cobwebs on it in a panel or some un-answered cries for help while he relaxes &#8211; I don&#8217;t know&#8230;</p>"
   },
   {
    "id": 3043,
    "author": "Ted",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8494c4a77bca779ae711affe5b62d717?s=64&d=identicon&r=r",
-   "time": "June 29, 2010 at 9:43 pm",
-   "timeTitle": "Tuesday, June 29th, 2010, 9:43 pm",
-   "html": "<p>Our Hero gives to the Red Cross and the Salvation Army.<br />\nOur Hero saves his receipts so he can declare it on his income tax.<br />\nSee? Our Hero is saving the helpless and the downtrodden.  🙂</p>"
+   "date": "2010-06-29T21:43",
+   "avatar": "8494c4a77bca779ae711affe5b62d717",
+   "text": "<p>Our Hero gives to the Red Cross and the Salvation Army.<br />\nOur Hero saves his receipts so he can declare it on his income tax.<br />\nSee? Our Hero is saving the helpless and the downtrodden.  🙂</p>"
   },
   {
    "id": 3143,
    "author": "b.patrick",
+   "date": "2010-07-02T20:55",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "July 2, 2010 at 8:55 pm",
-   "timeTitle": "Friday, July 2nd, 2010, 8:55 pm",
-   "html": "<p>Ha! Nice one, Ted.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Ha! Nice one, Ted.</p>"
   },
   {
    "id": 3961,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "August 15, 2010 at 4:27 pm",
-   "timeTitle": "Sunday, August 15th, 2010, 4:27 pm",
-   "html": "<p>I love these comics cause they&#8217;re consistently good</p>"
+   "date": "2010-08-15T16:27",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>I love these comics cause they&#8217;re consistently good</p>"
   },
   {
    "id": 92148,
    "author": "Ava",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0f1dd128667326ef1bd9c4976177ebc6?s=64&d=identicon&r=r",
-   "time": "July 28, 2012 at 1:02 am",
-   "timeTitle": "Saturday, July 28th, 2012, 1:02 am",
-   "html": "<p>It&#8217;s creepily easy to get into that mindset</p>"
+   "date": "2012-07-28T01:02",
+   "avatar": "0f1dd128667326ef1bd9c4976177ebc6",
+   "text": "<p>It&#8217;s creepily easy to get into that mindset</p>"
   },
   {
    "id": 93388,
    "author": "Gatesnat",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c2e55fa9cfb4e29f822f043c3db2ff4b?s=64&d=identicon&r=r",
-   "time": "August 13, 2012 at 2:26 am",
-   "timeTitle": "Monday, August 13th, 2012, 2:26 am",
-   "html": "<p>I don&#8217;t think you were too subtle.  </p>\n<p>This should be able to be read as both an indictment of the behavior AND as support of. </p>\n<p>It bespeaks more depth and truth.</p>"
+   "date": "2012-08-13T02:26",
+   "avatar": "c2e55fa9cfb4e29f822f043c3db2ff4b",
+   "text": "<p>I don&#8217;t think you were too subtle.  </p>\n<p>This should be able to be read as both an indictment of the behavior AND as support of. </p>\n<p>It bespeaks more depth and truth.</p>"
   },
   {
    "id": 197607,
    "author": "Kris",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/ab92f2ee6d69d7651b6a3388078e1f28?s=64&d=identicon&r=r",
-   "time": "March 14, 2013 at 8:49 am",
-   "timeTitle": "Thursday, March 14th, 2013, 8:49 am",
-   "html": "<p>Awesome comic, but definitely not too subtle.</p>"
+   "date": "2013-03-14T08:49",
+   "avatar": "ab92f2ee6d69d7651b6a3388078e1f28",
+   "text": "<p>Awesome comic, but definitely not too subtle.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 159",
-  "bodyClass": "post-template-default single single-post postid-547 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 159",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-06-15-Eat_Shit_And_Die_159.jpg"
- }
+ ]
 }

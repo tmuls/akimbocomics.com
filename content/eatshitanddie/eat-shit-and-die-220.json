@@ -1,110 +1,58 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-220/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-220",
- "id": 796,
  "title": "eat shit & die 220",
  "author": "bpatrick",
- "date": "October 12, 2012",
- "time": "12:00 am",
- "datetime": "2012-10-12T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2012-10-12T00:00",
  "tags": [
-  {
-   "title": "allison kelly",
-   "href": "/tag/allison-kelly/"
-  }
+  "allison-kelly"
  ],
- "html": "<p>Was this just my neighborhood in the &#8217;80s or do some of you know what I&#8217;m talking about? The fear and superstition may be exaggerated here but not by much. </p>\n<p>I hate not being able to update more! I&#8217;m going to take full advantage of the weekend and do as much as possible. I&#8217;m preparing October&#8217;s fun pack as well. Thank you so much to everyone who joined the fun club! I am so so grateful and amazed at how awesome you all are. </p>",
- "postClass": "post-796 post type-post status-publish format-standard hentry category-eatshitanddie tag-allison-kelly uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2012-10-12-Eat_Shit_And_Die_220.jpg",
-   "alt": "eat shit & die 220",
-   "title": "eat shit & die 220"
-  }
+  "2012-10-12-Eat_Shit_And_Die_220.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-219/",
-  "next": "/eatshitanddie/eat-shit-and-die-221/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-219/",
-  "next": "/eatshitanddie/eat-shit-and-die-221/"
- },
- "commentCount": 6,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Was this just my neighborhood in the &#8217;80s or do some of you know what I&#8217;m talking about? The fear and superstition may be exaggerated here but not by much. </p>\n<p>I hate not being able to update more! I&#8217;m going to take full advantage of the weekend and do as much as possible. I&#8217;m preparing October&#8217;s fun pack as well. Thank you so much to everyone who joined the fun club! I am so so grateful and amazed at how awesome you all are. </p>",
  "comments": [
   {
    "id": 109795,
    "author": "Spideycow",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/4eafe4fd66ff3e7126671b0ba39287cc?s=64&d=identicon&r=r",
-   "time": "October 13, 2012 at 8:19 pm",
-   "timeTitle": "Saturday, October 13th, 2012, 8:19 pm",
-   "html": "<p>I&#8217;m too young to remember the 80&#8217;s but I appreciate the sentiment here. I can remember the awe and whispered stories shared between my peers about our terrifying encounters with teenagers.</p>\n<p>I like the connection here between ghost stories and this gossip. The playgrounds, like campfires, are some of the last true homes of oral storytelling in modern times.</p>"
+   "date": "2012-10-13T20:19",
+   "avatar": "4eafe4fd66ff3e7126671b0ba39287cc",
+   "text": "<p>I&#8217;m too young to remember the 80&#8217;s but I appreciate the sentiment here. I can remember the awe and whispered stories shared between my peers about our terrifying encounters with teenagers.</p>\n<p>I like the connection here between ghost stories and this gossip. The playgrounds, like campfires, are some of the last true homes of oral storytelling in modern times.</p>"
   },
   {
    "id": 109884,
    "author": "sinfestfantoo",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/eaaf62b132372a7c899561c31fe3f02d?s=64&d=identicon&r=r",
-   "time": "October 13, 2012 at 11:52 pm",
-   "timeTitle": "Saturday, October 13th, 2012, 11:52 pm",
-   "html": "<p>I remember, as I was born nearly 43 years ago. I remember when crack replaced weed, and I remember the PCP freakout during the winter holding his family hostage, killing one of his kids and killing a cop. I remember walking to elementary school when some weird older man (probably an addict, obviously whacked)  trying to pimp out his daughter or maybe girlfriend or whatever she was and all I could say is, &#8220;I&#8217;m nine years old! I have to go to school.&#8221; My parents would tell me, &#8220;It was a nice neighborhood when we moved here,&#8221; after they had moved out. The single family homes were surrounded by high rises and depression era three story apartment projects. It was Suitland, MD in the PG. I&#8217;m lucky to have left with my life.</p>"
+   "date": "2012-10-13T23:52",
+   "avatar": "eaaf62b132372a7c899561c31fe3f02d",
+   "text": "<p>I remember, as I was born nearly 43 years ago. I remember when crack replaced weed, and I remember the PCP freakout during the winter holding his family hostage, killing one of his kids and killing a cop. I remember walking to elementary school when some weird older man (probably an addict, obviously whacked)  trying to pimp out his daughter or maybe girlfriend or whatever she was and all I could say is, &#8220;I&#8217;m nine years old! I have to go to school.&#8221; My parents would tell me, &#8220;It was a nice neighborhood when we moved here,&#8221; after they had moved out. The single family homes were surrounded by high rises and depression era three story apartment projects. It was Suitland, MD in the PG. I&#8217;m lucky to have left with my life.</p>"
   },
   {
    "id": 110692,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "October 14, 2012 at 11:34 pm",
-   "timeTitle": "Sunday, October 14th, 2012, 11:34 pm",
-   "html": "<p>I grew up in the 90&#8217;s, and though there was less denim, the burnouts still existed.</p>"
+   "date": "2012-10-14T23:34",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>I grew up in the 90&#8217;s, and though there was less denim, the burnouts still existed.</p>"
   },
   {
    "id": 111600,
    "author": "popcultivation",
+   "date": "2012-10-16T09:40",
    "url": "http://popcultivation.com",
-   "avatar": "http://1.gravatar.com/avatar/4bc669eaf80b3463aec0d156824dbaa1?s=64&d=identicon&r=r",
-   "time": "October 16, 2012 at 9:40 am",
-   "timeTitle": "Tuesday, October 16th, 2012, 9:40 am",
-   "html": "<p>&#8220;teenagers&#8221; are the most frightening thing when you&#8217;re a child.</p>\n<p>that said? i don&#8217;t think it should be considered a reason for suicide &#8211; anti-bully campaigns make me cringe with the falsehood and  hypocrisy of it all.</p>"
+   "avatar": "4bc669eaf80b3463aec0d156824dbaa1",
+   "text": "<p>&#8220;teenagers&#8221; are the most frightening thing when you&#8217;re a child.</p>\n<p>that said? i don&#8217;t think it should be considered a reason for suicide &#8211; anti-bully campaigns make me cringe with the falsehood and  hypocrisy of it all.</p>"
   },
   {
    "id": 112280,
    "author": "kevin",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/31b46b9e0c70314d83c7a68ae7389818?s=64&d=identicon&r=r",
-   "time": "October 17, 2012 at 5:40 pm",
-   "timeTitle": "Wednesday, October 17th, 2012, 5:40 pm",
-   "html": "<p>@Popcultivation What the hell does this have to do with anti-bully campaigns ?</p>"
+   "date": "2012-10-17T17:40",
+   "avatar": "31b46b9e0c70314d83c7a68ae7389818",
+   "text": "<p>@Popcultivation What the hell does this have to do with anti-bully campaigns ?</p>"
   },
   {
    "id": 218666,
    "author": "three-fourths",
+   "date": "2013-06-10T01:06",
    "url": "http://ratebeer.com",
-   "avatar": "http://0.gravatar.com/avatar/359278015a2bd93462f04602eedc660b?s=64&d=identicon&r=r",
-   "time": "June 10, 2013 at 1:06 am",
-   "timeTitle": "Monday, June 10th, 2013, 1:06 am",
-   "html": "<p>My childhood right here.</p>"
+   "avatar": "359278015a2bd93462f04602eedc660b",
+   "text": "<p>My childhood right here.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 220",
-  "bodyClass": "post-template-default single single-post postid-796 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 220",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-10-12-Eat_Shit_And_Die_220.jpg"
- }
+ ]
 }

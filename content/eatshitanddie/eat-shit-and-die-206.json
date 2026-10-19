@@ -1,105 +1,53 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-206/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-206",
- "id": 730,
  "title": "eat shit & die 206",
  "author": "bpatrick",
- "date": "April 17, 2012",
- "time": "12:00 am",
- "datetime": "2012-04-17T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I&#8217;m kind of relying on antiquated comics tropes for the third panel. Pictured in last panel: disappointed readers. If it&#8217;s any comfort I am sincerely sorry for the harm I cause by compulsively making these comics. </p>\n<p>Also, any time someone appears with both hands on hips we yell, &#8220;Akimbo!&#8221; and drink. </p>\n<p>New stuff is in the works. Thanks for reading, everyone!</p>",
- "postClass": "post-730 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-04-17T00:00",
  "images": [
-  {
-   "src": "2012-04-17-Eat_Shit_And_Die_206.jpg",
-   "alt": "eat shit & die 206",
-   "title": "eat shit & die 206"
-  }
+  "2012-04-17-Eat_Shit_And_Die_206.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-55/",
-  "next": "/curiousurgency/curious-urgency-56/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-55/",
-  "next": "/curiousurgency/curious-urgency-56/"
- },
- "commentCount": 6,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I&#8217;m kind of relying on antiquated comics tropes for the third panel. Pictured in last panel: disappointed readers. If it&#8217;s any comfort I am sincerely sorry for the harm I cause by compulsively making these comics. </p>\n<p>Also, any time someone appears with both hands on hips we yell, &#8220;Akimbo!&#8221; and drink. </p>\n<p>New stuff is in the works. Thanks for reading, everyone!</p>",
  "comments": [
   {
    "id": 72927,
    "author": "randomguy",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e21949a78bc73d80b580489f5536a4d6?s=64&d=identicon&r=r",
-   "time": "April 17, 2012 at 8:45 pm",
-   "timeTitle": "Tuesday, April 17th, 2012, 8:45 pm",
-   "html": "<p>panel 3 = boss mechanic/electrician haha. nice variety!</p>"
+   "date": "2012-04-17T20:45",
+   "avatar": "e21949a78bc73d80b580489f5536a4d6",
+   "text": "<p>panel 3 = boss mechanic/electrician haha. nice variety!</p>"
   },
   {
    "id": 72930,
    "author": "doyle",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b0ea1412261bbfbd65c4d4b21fbd9e9b?s=64&d=identicon&r=r",
-   "time": "April 17, 2012 at 8:56 pm",
-   "timeTitle": "Tuesday, April 17th, 2012, 8:56 pm",
-   "html": "<p>I would like to highlite the cop in panel 4, that guy is my new hero lol.</p>"
+   "date": "2012-04-17T20:56",
+   "avatar": "b0ea1412261bbfbd65c4d4b21fbd9e9b",
+   "text": "<p>I would like to highlite the cop in panel 4, that guy is my new hero lol.</p>"
   },
   {
    "id": 72949,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "April 18, 2012 at 3:18 am",
-   "timeTitle": "Wednesday, April 18th, 2012, 3:18 am",
-   "html": "<p>Are you seriously getting negative energy? Every comic is a free gift to the world, which is more than most of us ever give&#8230;</p>"
+   "date": "2012-04-18T03:18",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>Are you seriously getting negative energy? Every comic is a free gift to the world, which is more than most of us ever give&#8230;</p>"
   },
   {
    "id": 72959,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "April 18, 2012 at 5:13 am",
-   "timeTitle": "Wednesday, April 18th, 2012, 5:13 am",
-   "html": "<p>Because hands are hard to draw &#8220;AKIMBO!&#8221;</p>"
+   "date": "2012-04-18T05:13",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Because hands are hard to draw &#8220;AKIMBO!&#8221;</p>"
   },
   {
    "id": 73000,
    "author": "KDR",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f2e137ff0f0c5708f08ab5e70c7cc832?s=64&d=identicon&r=r",
-   "time": "April 19, 2012 at 12:34 am",
-   "timeTitle": "Thursday, April 19th, 2012, 12:34 am",
-   "html": "<p>Ahh, this is a good one&#8230;my boss almost always uses this phrase while screaming at some poor kid for some minor mistake.<br />\nTake care, man.</p>"
+   "date": "2012-04-19T00:34",
+   "avatar": "f2e137ff0f0c5708f08ab5e70c7cc832",
+   "text": "<p>Ahh, this is a good one&#8230;my boss almost always uses this phrase while screaming at some poor kid for some minor mistake.<br />\nTake care, man.</p>"
   },
   {
    "id": 73390,
    "author": "Dennis",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8d75bea1c6b43a699fde1e9ffef516b2?s=64&d=identicon&r=r",
-   "time": "April 22, 2012 at 4:20 pm",
-   "timeTitle": "Sunday, April 22nd, 2012, 4:20 pm",
-   "html": "<p>Now I&#8217;m going to start yelling Akimbo and drinking when I see someone with both hands on their hips. Thanks!</p>"
+   "date": "2012-04-22T16:20",
+   "avatar": "8d75bea1c6b43a699fde1e9ffef516b2",
+   "text": "<p>Now I&#8217;m going to start yelling Akimbo and drinking when I see someone with both hands on their hips. Thanks!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 206",
-  "bodyClass": "post-template-default single single-post postid-730 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 206",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-04-17-Eat_Shit_And_Die_206.jpg"
- }
+ ]
 }

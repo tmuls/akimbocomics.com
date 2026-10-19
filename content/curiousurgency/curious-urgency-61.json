@@ -1,50 +1,9 @@
 {
- "path": "/curiousurgency/curious-urgency-61/",
- "series": "curiousurgency",
- "slug": "curious-urgency-61",
- "id": 771,
  "title": "Curious Urgency 61",
  "author": "bpatrick",
- "date": "July 14, 2012",
- "time": "12:00 am",
- "datetime": "2012-07-14T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Some new <em>Curious</em>. Also, I got a request for some more <em>Vivian Blank</em> that I&#8217;m all to happy to honor (thanks, MicahelParshall.) </p>\n<p>Thanks to everyone who joined the fun club! I&#8217;m planning on having the first fun pack in the mail by the end of the month. Anyone else considering it, it&#8217;s not too late! </p>",
- "postClass": "post-771 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-07-14T00:00",
  "images": [
-  {
-   "src": "2012-07-14-Curious_Urgency_61.jpg",
-   "alt": "Curious Urgency 61",
-   "title": "Curious Urgency 61"
-  }
+  "2012-07-14-Curious_Urgency_61.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-213/",
-  "next": "/eatshitanddie/eat-shit-and-die-214/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-213/",
-  "next": "/eatshitanddie/eat-shit-and-die-214/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 61",
-  "bodyClass": "post-template-default single single-post postid-771 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 61",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-07-14-Curious_Urgency_61.jpg"
- }
+ "body": "<p>Some new <em>Curious</em>. Also, I got a request for some more <em>Vivian Blank</em> that I&#8217;m all to happy to honor (thanks, MicahelParshall.) </p>\n<p>Thanks to everyone who joined the fun club! I&#8217;m planning on having the first fun pack in the mail by the end of the month. Anyone else considering it, it&#8217;s not too late! </p>"
 }

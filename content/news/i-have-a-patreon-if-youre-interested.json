@@ -1,38 +1,6 @@
 {
- "path": "/news/i-have-a-patreon-if-youre-interested/",
- "series": "news",
- "slug": "i-have-a-patreon-if-youre-interested",
- "id": 1328,
  "title": "I have a Patreon (if you’re interested)",
  "author": "bpatrick",
- "date": "January 6, 2018",
- "time": "3:12 am",
- "datetime": "2018-01-06T03:12:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>Everyone reading this is awesome and I can&#8217;t tell you how amazing it is that anyone reads anything I&#8217;ve made. If you&#8217;d also like to part with your hard-earned money to help support these otherwise free, sub-par comics then you can do so here:<br />\n<a href=\"https://www.patreon.com/akimbocomics\">https://www.patreon.com/akimbocomics</a><br />\nand know that I appreciate it more than I can ever express.<br />\nI also have a Facebook page here:<br />\n<a href=\"https://www.facebook.com/Akimbo-Comics-57109711467/\">https://www.facebook.com/Akimbo-Comics-57109711467/</a><br />\nif you want to leave a comment (the comments here have to be kept disabled) then I would be overjoyed.<br />\nAnd as always: please write me: akimbocomix@hotmail.com</p>",
- "postClass": "post-1328 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-bpatrick",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/looks-like-everything-worked/",
-  "next": "/news/you-should-totally-write-me/"
- },
- "menuNav": {},
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - I have a Patreon (if you’re interested)",
-  "bodyClass": "post-template-default single single-post postid-1328 single-format-standard user-guest noncomic unknown single-category-news single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "I have a Patreon (if you’re interested)",
-  "ogDescription": ""
- }
+ "date": "2018-01-06T03:12",
+ "body": "<p>Everyone reading this is awesome and I can&#8217;t tell you how amazing it is that anyone reads anything I&#8217;ve made. If you&#8217;d also like to part with your hard-earned money to help support these otherwise free, sub-par comics then you can do so here:<br />\n<a href=\"https://www.patreon.com/akimbocomics\">https://www.patreon.com/akimbocomics</a><br />\nand know that I appreciate it more than I can ever express.<br />\nI also have a Facebook page here:<br />\n<a href=\"https://www.facebook.com/Akimbo-Comics-57109711467/\">https://www.facebook.com/Akimbo-Comics-57109711467/</a><br />\nif you want to leave a comment (the comments here have to be kept disabled) then I would be overjoyed.<br />\nAnd as always: please write me: akimbocomix@hotmail.com</p>"
 }

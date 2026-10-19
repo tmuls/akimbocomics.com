@@ -1,60 +1,17 @@
 {
- "path": "/mannssearchformeenie/manns-search-for-meenie-3/",
- "series": "mannssearchformeenie",
- "slug": "manns-search-for-meenie-3",
- "id": 240,
  "title": "Manns Search For Meenie 3",
  "author": "emulsifier",
- "date": "November 8, 2008",
- "time": "12:00 am",
- "datetime": "2008-11-08T00:00:00",
- "categories": [
-  {
-   "title": "Manns search for Meenie",
-   "href": "/mannssearchformeenie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-240 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-11-08T00:00",
  "images": [
-  {
-   "src": "2008-11-08-Manns_Search_For_Meenie_3.jpg",
-   "alt": "Manns Search For Meenie 3",
-   "title": "Manns Search For Meenie 3"
-  }
+  "2008-11-08-Manns_Search_For_Meenie_3.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-2/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-4/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-2/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-4/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1025,
    "author": "lev",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e9d26e4f197d9e71dc90399f34c23795?s=64&d=identicon&r=r",
-   "time": "October 25, 2009 at 11:27 am",
-   "timeTitle": "Sunday, October 25th, 2009, 11:27 am",
-   "html": "<p>What&#8217;s this?  Viktor Frankl puns?</p>"
+   "date": "2009-10-25T11:27",
+   "avatar": "e9d26e4f197d9e71dc90399f34c23795",
+   "text": "<p>What&#8217;s this?  Viktor Frankl puns?</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 3",
-  "bodyClass": "post-template-default single single-post postid-240 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Manns Search For Meenie 3",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-11-08-Manns_Search_For_Meenie_3.jpg"
- }
+ ]
 }

@@ -1,60 +1,18 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-139/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-139",
- "id": 434,
  "title": "Eat Shit And Die 139",
  "author": "bpatrick",
- "date": "July 24, 2009",
- "time": "12:00 am",
- "datetime": "2009-07-24T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>My internet service is being shut off Monday. I don&#8217;t know if I&#8217;ll be able to post again before then or when I&#8217;ll be able to post again after. Hopefully soon. I don&#8217;t have a new place yet. Crazy, I know. We&#8217;ll see how it goes.</p>",
- "postClass": "post-434 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-07-24T00:00",
  "images": [
-  {
-   "src": "2009-07-24-Eat_Shit_And_Die_139.jpg",
-   "alt": "Eat Shit And Die 139",
-   "title": "Eat Shit And Die 139"
-  }
+  "2009-07-24-Eat_Shit_And_Die_139.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/vivianblank/vivian-blank-17/",
-  "next": "/curiousurgency/curious-urgency-31/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/vivianblank/vivian-blank-17/",
-  "next": "/curiousurgency/curious-urgency-31/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>My internet service is being shut off Monday. I don&#8217;t know if I&#8217;ll be able to post again before then or when I&#8217;ll be able to post again after. Hopefully soon. I don&#8217;t have a new place yet. Crazy, I know. We&#8217;ll see how it goes.</p>",
  "comments": [
   {
    "id": 6466,
    "author": "LoudPrint",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9164d8e0d2e032f201c8068f3c0a8edc?s=64&d=identicon&r=r",
-   "time": "April 4, 2011 at 5:30 am",
-   "timeTitle": "Monday, April 4th, 2011, 5:30 am",
-   "html": "<p>This shit is golden, bro.</p>"
+   "date": "2011-04-04T05:30",
+   "avatar": "9164d8e0d2e032f201c8068f3c0a8edc",
+   "text": "<p>This shit is golden, bro.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 139",
-  "bodyClass": "post-template-default single single-post postid-434 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 139",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-07-24-Eat_Shit_And_Die_139.jpg"
- }
+ ]
 }

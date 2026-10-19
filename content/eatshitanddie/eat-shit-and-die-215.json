@@ -1,92 +1,43 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-215/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-215",
- "id": 772,
  "title": "eat shit & die 215",
  "author": "bpatrick",
- "date": "July 21, 2012",
- "time": "12:00 am",
- "datetime": "2012-07-21T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2012-07-21T00:00",
  "tags": [
-  {
-   "title": "onan",
-   "href": "/tag/onan/"
-  }
+  "onan"
  ],
- "html": "<p>I wanted to be sure to get some more <em>Onan</em> in before the end of the summer. </p>\n<p>I&#8217;ve really been touched by all the support I&#8217;ve received through the fun club, thank you! I&#8217;m going to do my best to make sure the fun packs are awesome. It&#8217;s not too late join if you haven&#8217;t already! </p>",
- "postClass": "post-772 post type-post status-publish format-standard hentry category-eatshitanddie tag-onan uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2012-07-21-Eat_Shit_And_Die_215.jpg",
-   "alt": "eat shit & die 215",
-   "title": "eat shit & die 215"
-  }
+  "2012-07-21-Eat_Shit_And_Die_215.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/vivianblank/vivian-blank-21-2/",
-  "next": "/eatshitanddie/eat-shit-and-die-216/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/vivianblank/vivian-blank-21-2/",
-  "next": "/eatshitanddie/eat-shit-and-die-216/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I wanted to be sure to get some more <em>Onan</em> in before the end of the summer. </p>\n<p>I&#8217;ve really been touched by all the support I&#8217;ve received through the fun club, thank you! I&#8217;m going to do my best to make sure the fun packs are awesome. It&#8217;s not too late join if you haven&#8217;t already! </p>",
  "comments": [
   {
    "id": 91280,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "July 21, 2012 at 12:42 pm",
-   "timeTitle": "Saturday, July 21st, 2012, 12:42 pm",
-   "html": "<p>How late is too late?</p>"
+   "date": "2012-07-21T12:42",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>How late is too late?</p>"
   },
   {
    "id": 91329,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "July 21, 2012 at 5:21 pm",
-   "timeTitle": "Saturday, July 21st, 2012, 5:21 pm",
-   "html": "<p>great sound effects</p>"
+   "date": "2012-07-21T17:21",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>great sound effects</p>"
   },
   {
    "id": 91397,
    "author": "bpatrick",
+   "date": "2012-07-21T23:10",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "July 21, 2012 at 11:10 pm",
-   "timeTitle": "Saturday, July 21st, 2012, 11:10 pm",
-   "html": "<p>The first package goes out at the end of the month, but it&#8217;s never too late, David. Your year starts from whenever you donate.<br />\n Thanks. They were the only sound in the comic so I thought I&#8217;d play them up, cbobgo.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>The first package goes out at the end of the month, but it&#8217;s never too late, David. Your year starts from whenever you donate.<br />\n Thanks. They were the only sound in the comic so I thought I&#8217;d play them up, cbobgo.</p>"
   },
   {
    "id": 91562,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "July 22, 2012 at 9:51 pm",
-   "timeTitle": "Sunday, July 22nd, 2012, 9:51 pm",
-   "html": "<p>Any chance you could make a separate category on the right side for Onan?  That would make it easier to go back and read them all again.</p>"
+   "date": "2012-07-22T21:51",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>Any chance you could make a separate category on the right side for Onan?  That would make it easier to go back and read them all again.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 215",
-  "bodyClass": "post-template-default single single-post postid-772 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 215",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-07-21-Eat_Shit_And_Die_215.jpg"
- }
+ ]
 }

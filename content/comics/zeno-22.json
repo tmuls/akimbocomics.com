@@ -1,50 +1,8 @@
 {
- "path": "/comics/zeno-22/",
- "series": "comics",
- "slug": "zeno-22",
- "id": 1276,
  "title": "zeno 22",
  "author": "bpatrick",
- "date": "January 31, 2000",
- "time": "3:10 am",
- "datetime": "2000-01-31T03:10:00",
- "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1276 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2000-01-31T03:10",
  "images": [
-  {
-   "src": "2000-01-31-Zeno_22.jpg",
-   "alt": "zeno 22",
-   "title": "zeno 22"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/comics/zeno-21/",
-  "next": "/comics/the-badness-6/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/comics/zeno-21/",
-  "next": "/comics/the-badness-6/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - zeno 22",
-  "bodyClass": "post-template-default single single-post postid-1276 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "zeno 22",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2000-01-31-Zeno_22.jpg"
- }
+  "2000-01-31-Zeno_22.jpg"
+ ]
 }

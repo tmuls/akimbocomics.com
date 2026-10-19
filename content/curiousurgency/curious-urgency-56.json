@@ -1,69 +1,25 @@
 {
- "path": "/curiousurgency/curious-urgency-56/",
- "series": "curiousurgency",
- "slug": "curious-urgency-56",
- "id": 734,
  "title": "Curious Urgency 56",
  "author": "bpatrick",
- "date": "April 28, 2012",
- "time": "12:00 am",
- "datetime": "2012-04-28T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Squeezed in some <em>Curious.</em></p>",
- "postClass": "post-734 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-04-28T00:00",
  "images": [
-  {
-   "src": "2012-04-28-Curious_Urgency_56.jpg",
-   "alt": "Curious Urgency 56",
-   "title": "Curious Urgency 56"
-  }
+  "2012-04-28-Curious_Urgency_56.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-206/",
-  "next": "/eatshitanddie/eat-shit-and-die-207/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-206/",
-  "next": "/eatshitanddie/eat-shit-and-die-207/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Squeezed in some <em>Curious.</em></p>",
  "comments": [
   {
    "id": 74538,
    "author": "randomjackass",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/31b46b9e0c70314d83c7a68ae7389818?s=64&d=identicon&r=r",
-   "time": "May 1, 2012 at 10:40 pm",
-   "timeTitle": "Tuesday, May 1st, 2012, 10:40 pm",
-   "html": "<p>Always glad to see some new curious.</p>"
+   "date": "2012-05-01T22:40",
+   "avatar": "31b46b9e0c70314d83c7a68ae7389818",
+   "text": "<p>Always glad to see some new curious.</p>"
   },
   {
    "id": 77522,
    "author": "Ed Dale",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/619b083b66eccf84c593803fa74e6c2f?s=64&d=identicon&r=r",
-   "time": "May 11, 2012 at 4:19 pm",
-   "timeTitle": "Friday, May 11th, 2012, 4:19 pm",
-   "html": "<p>Thanks for more curious &#8211; waiting to see how this plays out.</p>"
+   "date": "2012-05-11T16:19",
+   "avatar": "619b083b66eccf84c593803fa74e6c2f",
+   "text": "<p>Thanks for more curious &#8211; waiting to see how this plays out.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 56",
-  "bodyClass": "post-template-default single single-post postid-734 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 56",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-04-28-Curious_Urgency_56.jpg"
- }
+ ]
 }

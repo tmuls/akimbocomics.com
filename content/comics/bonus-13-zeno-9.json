@@ -1,50 +1,8 @@
 {
- "path": "/comics/bonus-13-zeno-9/",
- "series": "comics",
- "slug": "bonus-13-zeno-9",
- "id": 1138,
  "title": "Bonus 13: Zeno 9",
  "author": "bpatrick",
- "date": "January 13, 2000",
- "time": "3:17 pm",
- "datetime": "2000-01-13T15:17:00",
- "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1138 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2000-01-13T15:17",
  "images": [
-  {
-   "src": "2000-01-13-Zeno_9.jpg",
-   "alt": "Bonus 13: Zeno 9",
-   "title": "Bonus 13: Zeno 9"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/comics/bonus-12-zeno-8/",
-  "next": "/comics/bonus-14-zeno-10/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/comics/bonus-12-zeno-8/",
-  "next": "/comics/bonus-14-zeno-10/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Bonus 13: Zeno 9",
-  "bodyClass": "post-template-default single single-post postid-1138 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Bonus 13: Zeno 9",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2000-01-13-Zeno_9.jpg"
- }
+  "2000-01-13-Zeno_9.jpg"
+ ]
 }

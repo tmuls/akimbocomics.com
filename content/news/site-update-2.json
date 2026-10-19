@@ -1,48 +1,15 @@
 {
- "path": "/news/site-update-2/",
- "series": "news",
- "slug": "site-update-2",
- "id": 817,
  "title": "Site update",
  "author": "emulsifier",
- "date": "May 29, 2013",
- "time": "4:31 pm",
- "datetime": "2013-05-29T16:31:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>Hey guys, so here is the news.  I have been noticing some extremely unusual traffic patterns and disk i/o access lately that has not been the result of increased traffic.  Because of recent news about apache and wordpress exploits, and also because the server was running an extremely old version of wordpress 2, I have decided to be cautious about this and rebuilt the entire server with updated packages and the latest version of wordpress 3 which is now easily upgradeable.  </p>\n<p>You have probably noticed by now that the site doesn&#8217;t look like it used to.  I am working to fix that, but there will still probably be some permanent changes as a result of the way the newer comicpress plugins and themes work.  Before we were running a slightly customized version of comicpress + inkblot.  For now, and until I can find time to make changes to the theme (css and php) we are going to be on the stock theme.  I am hoping to be able to get that done this Sunday, but I have a lot of stuff going on at home so I may not have time.</p>\n<p>If you notice anything unusual (broken images in particular) please add a comment to this post so I can look into it.</p>\n<p>Also, Brian if you are reading this and just now finding out the news, check your damn email.  I told you about this a few weeks ago. Oh, and good luck with the exams.</p>",
- "postClass": "post-817 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/fun-pack-2-on-its-way/",
-  "next": "/news/on-donations-advertising-and-the-future-of-this-site/"
- },
- "menuNav": {},
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
+ "date": "2013-05-29T16:31",
+ "body": "<p>Hey guys, so here is the news.  I have been noticing some extremely unusual traffic patterns and disk i/o access lately that has not been the result of increased traffic.  Because of recent news about apache and wordpress exploits, and also because the server was running an extremely old version of wordpress 2, I have decided to be cautious about this and rebuilt the entire server with updated packages and the latest version of wordpress 3 which is now easily upgradeable.  </p>\n<p>You have probably noticed by now that the site doesn&#8217;t look like it used to.  I am working to fix that, but there will still probably be some permanent changes as a result of the way the newer comicpress plugins and themes work.  Before we were running a slightly customized version of comicpress + inkblot.  For now, and until I can find time to make changes to the theme (css and php) we are going to be on the stock theme.  I am hoping to be able to get that done this Sunday, but I have a lot of stuff going on at home so I may not have time.</p>\n<p>If you notice anything unusual (broken images in particular) please add a comment to this post so I can look into it.</p>\n<p>Also, Brian if you are reading this and just now finding out the news, check your damn email.  I told you about this a few weeks ago. Oh, and good luck with the exams.</p>",
  "comments": [
   {
    "id": 218033,
    "author": "D",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1db1e3b42e37f44abcc71317d2b1f4ca?s=64&d=identicon&r=r",
-   "time": "June 6, 2013 at 9:05 pm",
-   "timeTitle": "Thursday, June 6th, 2013, 9:05 pm",
-   "html": "<p>Emulsifier, since nobody said anything, let me say it with my awkward words: Thank you for keeping the site running, it is appreciated.</p>"
+   "date": "2013-06-06T21:05",
+   "avatar": "1db1e3b42e37f44abcc71317d2b1f4ca",
+   "text": "<p>Emulsifier, since nobody said anything, let me say it with my awkward words: Thank you for keeping the site running, it is appreciated.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Site update",
-  "bodyClass": "post-template-default single single-post postid-817 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Site update",
-  "ogDescription": ""
- }
+ ]
 }

@@ -1,105 +1,53 @@
 {
- "path": "/my_boyfriend_smells/my-boyfriend-smells-1/",
- "series": "my_boyfriend_smells",
- "slug": "my-boyfriend-smells-1",
- "id": 261,
  "title": "My Boyfriend Smells 1",
  "author": "emulsifier",
- "date": "November 28, 2008",
- "time": "12:00 am",
- "datetime": "2008-11-28T00:00:00",
- "categories": [
-  {
-   "title": "My Boyfriend Smells",
-   "href": "/my_boyfriend_smells/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-261 post type-post status-publish format-standard hentry category-my_boyfriend_smells uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-11-28T00:00",
  "images": [
-  {
-   "src": "2008-11-28-My_Boyfriend_Smells_1.jpg",
-   "alt": "My Boyfriend Smells 1",
-   "title": "My Boyfriend Smells 1"
-  }
+  "2008-11-28-My_Boyfriend_Smells_1.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-22/",
-  "next": "/really_deep_down/really-deep-down-1/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-22/",
-  "next": "/really_deep_down/really-deep-down-1/"
- },
- "commentCount": 6,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 322,
    "author": "Kat!",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/5c74d78c3126e66d1fa91f88295349ce?s=64&d=identicon&r=r",
-   "time": "August 26, 2009 at 4:28 am",
-   "timeTitle": "Wednesday, August 26th, 2009, 4:28 am",
-   "html": "<p>.V.</p>"
+   "date": "2009-08-26T04:28",
+   "avatar": "5c74d78c3126e66d1fa91f88295349ce",
+   "text": "<p>.V.</p>"
   },
   {
    "id": 4129,
    "author": "Wth?",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/4812f1cad61b08db5701b0f221ec479c?s=64&d=identicon&r=r",
-   "time": "August 22, 2010 at 9:20 am",
-   "timeTitle": "Sunday, August 22nd, 2010, 9:20 am",
-   "html": "<p>Was it a sudden thing when you decided you hate your audience or did it grow gradually? That last story line&#8230;</p>"
+   "date": "2010-08-22T09:20",
+   "avatar": "4812f1cad61b08db5701b0f221ec479c",
+   "text": "<p>Was it a sudden thing when you decided you hate your audience or did it grow gradually? That last story line&#8230;</p>"
   },
   {
    "id": 4145,
    "author": "b.patrick",
+   "date": "2010-08-23T02:56",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "August 23, 2010 at 2:56 am",
-   "timeTitle": "Monday, August 23rd, 2010, 2:56 am",
-   "html": "<p>I don&#8217;t hate my audience! I hate myself&#8230; Which storyline do you mean? My Boyfriend Smells or Mann&#8217;s Search for Meenie? I really like Mann&#8217;s Search for Meenie &#8211; was it no good? I really want to go ahead with My Boyfriend but it would have to be in B &amp; W. I&#8217;m concerned, you really feel hate coming from me?</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>I don&#8217;t hate my audience! I hate myself&#8230; Which storyline do you mean? My Boyfriend Smells or Mann&#8217;s Search for Meenie? I really like Mann&#8217;s Search for Meenie &#8211; was it no good? I really want to go ahead with My Boyfriend but it would have to be in B &amp; W. I&#8217;m concerned, you really feel hate coming from me?</p>"
   },
   {
    "id": 6051,
    "author": "Drew",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e8a229615ed0511e08209365f5160cef?s=64&d=identicon&r=r",
-   "time": "March 7, 2011 at 8:59 pm",
-   "timeTitle": "Monday, March 7th, 2011, 8:59 pm",
-   "html": "<p>These stories are great.  I&#8217;m very much looking forward to the conclusions of Mann&#8217;s Search and Curious Urgency (which it looks like you&#8217;re working on).</p>"
+   "date": "2011-03-07T20:59",
+   "avatar": "e8a229615ed0511e08209365f5160cef",
+   "text": "<p>These stories are great.  I&#8217;m very much looking forward to the conclusions of Mann&#8217;s Search and Curious Urgency (which it looks like you&#8217;re working on).</p>"
   },
   {
    "id": 7073,
    "author": "Sam",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8f7428333b46897531cb3e2ec3e035d6?s=64&d=identicon&r=r",
-   "time": "May 13, 2011 at 8:18 am",
-   "timeTitle": "Friday, May 13th, 2011, 8:18 am",
-   "html": "<p>Yeah, I&#8217;m also really enjoying these stories.</p>"
+   "date": "2011-05-13T08:18",
+   "avatar": "8f7428333b46897531cb3e2ec3e035d6",
+   "text": "<p>Yeah, I&#8217;m also really enjoying these stories.</p>"
   },
   {
    "id": 7074,
    "author": "Jarrod",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6a7e6261a049a70e4601059cf054063e?s=64&d=identicon&r=r",
-   "time": "May 13, 2011 at 8:20 am",
-   "timeTitle": "Friday, May 13th, 2011, 8:20 am",
-   "html": "<p>What&#8217;s the deal, Kat and Wth? Seriously, why do you not like the recent comics? It&#8217;s fine to have your own opinion and everything, but can you please at least explain why you don&#8217;t like them instead of leaving such ambiguous posts?</p>"
+   "date": "2011-05-13T08:20",
+   "avatar": "6a7e6261a049a70e4601059cf054063e",
+   "text": "<p>What&#8217;s the deal, Kat and Wth? Seriously, why do you not like the recent comics? It&#8217;s fine to have your own opinion and everything, but can you please at least explain why you don&#8217;t like them instead of leaving such ambiguous posts?</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - My Boyfriend Smells 1",
-  "bodyClass": "post-template-default single single-post postid-261 single-format-standard user-guest comic unknown single-category-my_boyfriend_smells single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "My Boyfriend Smells 1",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-11-28-My_Boyfriend_Smells_1.jpg"
- }
+ ]
 }

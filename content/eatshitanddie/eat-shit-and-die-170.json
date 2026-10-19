@@ -1,141 +1,83 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-170/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-170",
- "id": 598,
  "title": "eat shit & die 170",
  "author": "bpatrick",
- "date": "January 21, 2011",
- "time": "12:00 am",
- "datetime": "2011-01-21T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>The end of this little story. I split it up so I could update more but it works as just one story. A little insight into Trent. I don&#8217;t know if I like him more or less after this.</p>",
- "postClass": "post-598 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-01-21T00:00",
  "images": [
-  {
-   "src": "2011-01-21-Eat_Shit_And_Die_170.jpg",
-   "alt": "eat shit & die 170",
-   "title": "eat shit & die 170"
-  }
+  "2011-01-21-Eat_Shit_And_Die_170.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-43/",
-  "next": "/eatshitanddie/eat-shit-and-die-171/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-43/",
-  "next": "/eatshitanddie/eat-shit-and-die-171/"
- },
- "commentCount": 10,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>The end of this little story. I split it up so I could update more but it works as just one story. A little insight into Trent. I don&#8217;t know if I like him more or less after this.</p>",
  "comments": [
   {
    "id": 5453,
    "author": "SoldierMD",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/87cbfdc8e8f38ea4b6fe0f17e9852776?s=64&d=identicon&r=r",
-   "time": "January 24, 2011 at 3:54 pm",
-   "timeTitle": "Monday, January 24th, 2011, 3:54 pm",
-   "html": "<p>definitely more.  How &#8217;bout a little something from the Sheriff or even My Boyfriend Smells</p>"
+   "date": "2011-01-24T15:54",
+   "avatar": "87cbfdc8e8f38ea4b6fe0f17e9852776",
+   "text": "<p>definitely more.  How &#8217;bout a little something from the Sheriff or even My Boyfriend Smells</p>"
   },
   {
    "id": 5455,
    "author": "b.patrick",
+   "date": "2011-01-24T23:34",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "January 24, 2011 at 11:34 pm",
-   "timeTitle": "Monday, January 24th, 2011, 11:34 pm",
-   "html": "<p>More Sheriff comin&#8217; up, SoldierMD. And more My Boyfriend Smells sounds great. I think it&#8217;ll have to be in black and white though.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>More Sheriff comin&#8217; up, SoldierMD. And more My Boyfriend Smells sounds great. I think it&#8217;ll have to be in black and white though.</p>"
   },
   {
    "id": 5494,
    "author": "SoldierMD",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/87cbfdc8e8f38ea4b6fe0f17e9852776?s=64&d=identicon&r=r",
-   "time": "January 28, 2011 at 3:21 pm",
-   "timeTitle": "Friday, January 28th, 2011, 3:21 pm",
-   "html": "<p>Also, I love the sky in your last frame.</p>"
+   "date": "2011-01-28T15:21",
+   "avatar": "87cbfdc8e8f38ea4b6fe0f17e9852776",
+   "text": "<p>Also, I love the sky in your last frame.</p>"
   },
   {
    "id": 5497,
    "author": "kitschbot",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8480f829bb5be3a8f8d9cadbc3f745a9?s=64&d=identicon&r=r",
-   "time": "January 28, 2011 at 11:50 pm",
-   "timeTitle": "Friday, January 28th, 2011, 11:50 pm",
-   "html": "<p>Hello, long time fan here. I can&#8217;t help but want to find out what Trent has to say every time he opens his mouth, even though I know I won&#8217;t like what he says. This glimpse into his life makes me feel rather sympathetic, although I still hate him. Love your stuff in general! Keep up the great work.</p>"
+   "date": "2011-01-28T23:50",
+   "avatar": "8480f829bb5be3a8f8d9cadbc3f745a9",
+   "text": "<p>Hello, long time fan here. I can&#8217;t help but want to find out what Trent has to say every time he opens his mouth, even though I know I won&#8217;t like what he says. This glimpse into his life makes me feel rather sympathetic, although I still hate him. Love your stuff in general! Keep up the great work.</p>"
   },
   {
    "id": 5508,
    "author": "b.patrick",
+   "date": "2011-01-29T23:26",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "January 29, 2011 at 11:26 pm",
-   "timeTitle": "Saturday, January 29th, 2011, 11:26 pm",
-   "html": "<p>@kitschbot: I find it very interesting/hilarious that you say you &#8220;hate&#8221; Trent. I agree with you that he says some very unlikable things &#8211; but you hate him? That makes me very happy though I&#8217;m not sure why. Thanks for commenting!!</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>@kitschbot: I find it very interesting/hilarious that you say you &#8220;hate&#8221; Trent. I agree with you that he says some very unlikable things &#8211; but you hate him? That makes me very happy though I&#8217;m not sure why. Thanks for commenting!!</p>"
   },
   {
    "id": 5743,
    "author": "Rath",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8b3b23e6dc1d4c31d12ade93f819267f?s=64&d=identicon&r=r",
-   "time": "February 20, 2011 at 8:11 pm",
-   "timeTitle": "Sunday, February 20th, 2011, 8:11 pm",
-   "html": "<p>Trent reminds me of a less extreme version of Happy Rabbit here. It&#8217;s really a day, while Rabbit&#8217;s arcs always seem like they summarize a life. </p>\n<p>I think people (especially guys) will hate Trent in this one because he&#8217;s pathetic but so relateable. The whole bit in the store, where he softens and immediately gets burned for it conveys a sense of rejection so well. </p>\n<p>Between getting rejected and coming onto Shannon when he&#8217;s drunk, Trent goes through two scenarios that probably every guy has experienced and still holds onto deep shame about.</p>\n<p>We don&#8217;t hate Trent so much as we hate ourselves.</p>\n<p>Keep up the good work</p>"
+   "date": "2011-02-20T20:11",
+   "avatar": "8b3b23e6dc1d4c31d12ade93f819267f",
+   "text": "<p>Trent reminds me of a less extreme version of Happy Rabbit here. It&#8217;s really a day, while Rabbit&#8217;s arcs always seem like they summarize a life. </p>\n<p>I think people (especially guys) will hate Trent in this one because he&#8217;s pathetic but so relateable. The whole bit in the store, where he softens and immediately gets burned for it conveys a sense of rejection so well. </p>\n<p>Between getting rejected and coming onto Shannon when he&#8217;s drunk, Trent goes through two scenarios that probably every guy has experienced and still holds onto deep shame about.</p>\n<p>We don&#8217;t hate Trent so much as we hate ourselves.</p>\n<p>Keep up the good work</p>"
   },
   {
    "id": 5771,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "February 22, 2011 at 2:50 am",
-   "timeTitle": "Tuesday, February 22nd, 2011, 2:50 am",
-   "html": "<p>Does he get burned in the store? I thought he just lacked the courage to make anything of the situation and then walked away hating himself for it.. which is also very relateable. Great arc, anyway.</p>"
+   "date": "2011-02-22T02:50",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>Does he get burned in the store? I thought he just lacked the courage to make anything of the situation and then walked away hating himself for it.. which is also very relateable. Great arc, anyway.</p>"
   },
   {
    "id": 5776,
    "author": "Rath",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8b3b23e6dc1d4c31d12ade93f819267f?s=64&d=identicon&r=r",
-   "time": "February 22, 2011 at 6:23 am",
-   "timeTitle": "Tuesday, February 22nd, 2011, 6:23 am",
-   "html": "<p>Snap. I think you&#8217;re right, David. Hahaha, I was so projecting my week onto this arc.</p>"
+   "date": "2011-02-22T06:23",
+   "avatar": "8b3b23e6dc1d4c31d12ade93f819267f",
+   "text": "<p>Snap. I think you&#8217;re right, David. Hahaha, I was so projecting my week onto this arc.</p>"
   },
   {
    "id": 6516,
    "author": "bill",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/af309bbe0be8181f48a02823262b60d4?s=64&d=identicon&r=r",
-   "time": "April 6, 2011 at 4:28 pm",
-   "timeTitle": "Wednesday, April 6th, 2011, 4:28 pm",
-   "html": "<p>i think it shows trent pretty much as id thought of him&#8230;this just spells it out</p>"
+   "date": "2011-04-06T16:28",
+   "avatar": "af309bbe0be8181f48a02823262b60d4",
+   "text": "<p>i think it shows trent pretty much as id thought of him&#8230;this just spells it out</p>"
   },
   {
    "id": 10422,
    "author": "Anonymous",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/46fb01a49e598195bffb6ca53e8a0585?s=64&d=identicon&r=r",
-   "time": "October 19, 2011 at 10:28 pm",
-   "timeTitle": "Wednesday, October 19th, 2011, 10:28 pm",
-   "html": "<p>Trent is just a very (male) human character that I think we can all relate to and respect. But that still doesn&#8217;t mean he&#8217;s your average shat out archetype or some empty character template. I think he&#8217;s a strong stand alone character that I could well see getting smashed with, talking our nihilist talk, talking about women with and always respecting his wit.</p>"
+   "date": "2011-10-19T22:28",
+   "avatar": "46fb01a49e598195bffb6ca53e8a0585",
+   "text": "<p>Trent is just a very (male) human character that I think we can all relate to and respect. But that still doesn&#8217;t mean he&#8217;s your average shat out archetype or some empty character template. I think he&#8217;s a strong stand alone character that I could well see getting smashed with, talking our nihilist talk, talking about women with and always respecting his wit.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 170",
-  "bodyClass": "post-template-default single single-post postid-598 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 170",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-01-21-Eat_Shit_And_Die_170.jpg"
- }
+ ]
 }

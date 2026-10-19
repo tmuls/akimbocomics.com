@@ -1,119 +1,61 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-247/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-247",
- "id": 1036,
  "title": "eat, shit & die 247",
  "author": "bpatrick",
- "date": "November 6, 2015",
- "time": "12:00 am",
- "datetime": "2015-11-06T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1036 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2015-11-06T00:00",
  "images": [
-  {
-   "src": "2015-11-06-Curious_Urgency_70.jpg",
-   "alt": "eat, shit & die 247",
-   "title": "eat, shit & die 247"
-  },
-  {
-   "src": "2015-11-06-Eat_Shit_And_Die_247.jpg",
-   "alt": "eat, shit & die 247",
-   "title": "eat, shit & die 247"
-  }
+  "2015-11-06-Curious_Urgency_70.jpg",
+  "2015-11-06-Eat_Shit_And_Die_247.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-69/",
-  "next": "/eatshitanddie/eat-shit-die-248/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-69/",
-  "next": "/eatshitanddie/eat-shit-die-248/"
- },
- "commentCount": 7,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1080980,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "November 7, 2015 at 10:56 am",
-   "timeTitle": "Saturday, November 7th, 2015, 10:56 am",
-   "html": "<p>Nice. Deep.</p>\n<p>My take on it is: a racist person has a higher chance of producing a racist act than a non-racist. Sort of like D&amp;D &#8211; a warrior has a greater chance of performing a critical hit with a sword than a non-warrior.</p>\n<p>Over time, if they change as people, and become less likely to perform racist acts, they become less racist. Same with good and evil. An evil person is more likely to perform evil acts.</p>\n<p>If you&#8217;re looking for other similar ideas to explore, some others are:<br />\n* What makes an act good, or an act bad?<br />\n* Why we need to class acts as good or bad?<br />\n* How we profit from the bad acts of our predecessors, and how we reconcile it  (like slavery carried out by our great-grandfathers that has lead to our family&#8217;s wealth)? </p>\n<p>Or not. 🙂</p>"
+   "date": "2015-11-07T10:56",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>Nice. Deep.</p>\n<p>My take on it is: a racist person has a higher chance of producing a racist act than a non-racist. Sort of like D&amp;D &#8211; a warrior has a greater chance of performing a critical hit with a sword than a non-warrior.</p>\n<p>Over time, if they change as people, and become less likely to perform racist acts, they become less racist. Same with good and evil. An evil person is more likely to perform evil acts.</p>\n<p>If you&#8217;re looking for other similar ideas to explore, some others are:<br />\n* What makes an act good, or an act bad?<br />\n* Why we need to class acts as good or bad?<br />\n* How we profit from the bad acts of our predecessors, and how we reconcile it  (like slavery carried out by our great-grandfathers that has lead to our family&#8217;s wealth)? </p>\n<p>Or not. 🙂</p>"
   },
   {
    "id": 1081050,
    "author": "Artopal",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ce00f88764600be6647205771a472973?s=64&d=identicon&r=r",
-   "time": "November 8, 2015 at 4:28 am",
-   "timeTitle": "Sunday, November 8th, 2015, 4:28 am",
-   "html": "<p>I just came to say your comics are great and I keep reading them whenever you publish something new. Great work. Thank you.</p>"
+   "date": "2015-11-08T04:28",
+   "avatar": "ce00f88764600be6647205771a472973",
+   "text": "<p>I just came to say your comics are great and I keep reading them whenever you publish something new. Great work. Thank you.</p>"
   },
   {
    "id": 1081100,
    "author": "Jimmyjames",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/751a351903ee81d86d4e6ccab9cbd538?s=64&d=identicon&r=r",
-   "time": "November 8, 2015 at 6:45 pm",
-   "timeTitle": "Sunday, November 8th, 2015, 6:45 pm",
-   "html": "<p>This strip is a perfect example of why I get excited every time I see a new entry for this site in my RSS feed.</p>"
+   "date": "2015-11-08T18:45",
+   "avatar": "751a351903ee81d86d4e6ccab9cbd538",
+   "text": "<p>This strip is a perfect example of why I get excited every time I see a new entry for this site in my RSS feed.</p>"
   },
   {
    "id": 1081130,
    "author": "Pirate Tom",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c0ff43e2431576e8d235edfcfb7df89e?s=64&d=identicon&r=r",
-   "time": "November 9, 2015 at 2:18 am",
-   "timeTitle": "Monday, November 9th, 2015, 2:18 am",
-   "html": "<p>You know, this covers philosophy better than the crap philosophy class I had in college.<br />\nI gladly come back here here to &#8220;eat this shit&#8221;, wen you update. Trying to hold off on the dying though.  Though, I&#8217;ve always pondered the comic name. What with the use of commas.  Grammatically, it should be an instruction to consume fecal matter, and then die.  But add an extra comma and it becomes the life cycle reduced to basics.  You eat, then you shit, and then you die.  Oxford commas.  The second most fun thing in the English language.</p>"
+   "date": "2015-11-09T02:18",
+   "avatar": "c0ff43e2431576e8d235edfcfb7df89e",
+   "text": "<p>You know, this covers philosophy better than the crap philosophy class I had in college.<br />\nI gladly come back here here to &#8220;eat this shit&#8221;, wen you update. Trying to hold off on the dying though.  Though, I&#8217;ve always pondered the comic name. What with the use of commas.  Grammatically, it should be an instruction to consume fecal matter, and then die.  But add an extra comma and it becomes the life cycle reduced to basics.  You eat, then you shit, and then you die.  Oxford commas.  The second most fun thing in the English language.</p>"
   },
   {
    "id": 1081212,
    "author": "Mental Mouse",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/5ffde00508a5a8ac5d7652aa4db2bd06?s=64&d=identicon&r=r",
-   "time": "November 9, 2015 at 11:39 pm",
-   "timeTitle": "Monday, November 9th, 2015, 11:39 pm",
-   "html": "<p>There&#8217;s a big excluded middle in that discussion:  Predisposition and habit.  Both evil and racism are behavior, but behavior doesn&#8217;t come from a vacuum.  We learn beliefs and develop habits which shape our actions, and too, we also have inborn temperaments biasing us toward certain sorts of responses and behavior.  But habits can also be changed, and as we&#8217;re starting to learn, even temperament isn&#8217;t immutable.</p>"
+   "date": "2015-11-09T23:39",
+   "avatar": "5ffde00508a5a8ac5d7652aa4db2bd06",
+   "text": "<p>There&#8217;s a big excluded middle in that discussion:  Predisposition and habit.  Both evil and racism are behavior, but behavior doesn&#8217;t come from a vacuum.  We learn beliefs and develop habits which shape our actions, and too, we also have inborn temperaments biasing us toward certain sorts of responses and behavior.  But habits can also be changed, and as we&#8217;re starting to learn, even temperament isn&#8217;t immutable.</p>"
   },
   {
    "id": 1084351,
    "author": "bpatrick",
+   "date": "2015-12-08T19:30",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "December 8, 2015 at 7:30 pm",
-   "timeTitle": "Tuesday, December 8th, 2015, 7:30 pm",
-   "html": "<p>Thanks for the amazing comments and support!</p>\n<p>I actually really like this comic. I thought it did what I wanted it to pretty well. And I spent a lot of time on the backgrounds and I&#8217;m pretty happy with the way they turned out. And writing the graffiti all over everything was super fun. There&#8217;s like 3 references to the Wu-tang Clan and 3 actual pictures of Alice Glass and 4 references to Crystal Castles and a new es&amp;d t-shirt design idea twice and like 5 different Ministry concert posters and 2 pictures of Veronica Lodge in the background. And I had so much fun doing them I wanted to graffiti over a whole comic, that combined with my dissatisfaction with what I do in general and not with this particular comic inspired the following comic. And I&#8217;m very surprised to hear people say I&#8217;m pandering to a SJW audience with this comic as I was most fearful of offending readers with SJW points of view and was trying to be respectful and not deliberately dickish or adversarial (I guess I over-did it) as they inspiration for this comic came from reading a particular website that has mainly entertainment/pop culture related content but filtered through a very SJW point of view and they&#8217;re always trying to &#8216;out&#8217; racists and determining if what people say is enough to qualify them as racists and completely turning on and denouncing people who obviously agree with them on many issues based on what seems like flimsy, inconsequential offenses. Without getting into the specifics of certain issues and opinions, it was this tendency of decreeing a person a villain that I was addressing and it was in reaction to, and I feared the hypothetical reaction of, people who could be described as sharing a SJW, as it were, point of view. (Just for example according to the ideas in this comic it&#8217;s not very helpful to decide Mel Gibson, say, is a bona fide and credentialed racist [regardless of the fact that he has said undeniably racist things] or that branding Sean Penn, on another hand,  a &#8220;garbage person&#8221; because he has perpetrated domestic abuse is maybe unhelpful as people are less likely to be diligent about not perpetrating domestic abuse because they are not &#8220;garbage people&#8221; and so don&#8217;t have to worry about doing it, etc., just for examples) So that surprised me.</p>\n<p>But all in all I kinda like this comic.<br />\nThanks!</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks for the amazing comments and support!</p>\n<p>I actually really like this comic. I thought it did what I wanted it to pretty well. And I spent a lot of time on the backgrounds and I&#8217;m pretty happy with the way they turned out. And writing the graffiti all over everything was super fun. There&#8217;s like 3 references to the Wu-tang Clan and 3 actual pictures of Alice Glass and 4 references to Crystal Castles and a new es&amp;d t-shirt design idea twice and like 5 different Ministry concert posters and 2 pictures of Veronica Lodge in the background. And I had so much fun doing them I wanted to graffiti over a whole comic, that combined with my dissatisfaction with what I do in general and not with this particular comic inspired the following comic. And I&#8217;m very surprised to hear people say I&#8217;m pandering to a SJW audience with this comic as I was most fearful of offending readers with SJW points of view and was trying to be respectful and not deliberately dickish or adversarial (I guess I over-did it) as they inspiration for this comic came from reading a particular website that has mainly entertainment/pop culture related content but filtered through a very SJW point of view and they&#8217;re always trying to &#8216;out&#8217; racists and determining if what people say is enough to qualify them as racists and completely turning on and denouncing people who obviously agree with them on many issues based on what seems like flimsy, inconsequential offenses. Without getting into the specifics of certain issues and opinions, it was this tendency of decreeing a person a villain that I was addressing and it was in reaction to, and I feared the hypothetical reaction of, people who could be described as sharing a SJW, as it were, point of view. (Just for example according to the ideas in this comic it&#8217;s not very helpful to decide Mel Gibson, say, is a bona fide and credentialed racist [regardless of the fact that he has said undeniably racist things] or that branding Sean Penn, on another hand,  a &#8220;garbage person&#8221; because he has perpetrated domestic abuse is maybe unhelpful as people are less likely to be diligent about not perpetrating domestic abuse because they are not &#8220;garbage people&#8221; and so don&#8217;t have to worry about doing it, etc., just for examples) So that surprised me.</p>\n<p>But all in all I kinda like this comic.<br />\nThanks!</p>"
   },
   {
    "id": 1085088,
    "author": "Michael Parshall",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/defd5d75e769cdb624a9d497f6eb96ed?s=64&d=identicon&r=r",
-   "time": "January 15, 2016 at 12:23 am",
-   "timeTitle": "Friday, January 15th, 2016, 12:23 am",
-   "html": "<p>What&#8217;s weighing down the other half of the scale that&#8217;s not shit?</p>"
+   "date": "2016-01-15T00:23",
+   "avatar": "defd5d75e769cdb624a9d497f6eb96ed",
+   "text": "<p>What&#8217;s weighing down the other half of the scale that&#8217;s not shit?</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat, shit & die 247",
-  "bodyClass": "post-template-default single single-post postid-1036 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat, shit & die 247",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2015-11-06-Curious_Urgency_70.jpg"
- }
+ ]
 }

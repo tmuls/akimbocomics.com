@@ -1,50 +1,8 @@
 {
- "path": "/comics/bonus-14-zeno-10/",
- "series": "comics",
- "slug": "bonus-14-zeno-10",
- "id": 1140,
  "title": "Bonus 14: Zeno 10",
  "author": "bpatrick",
- "date": "January 14, 2000",
- "time": "3:20 pm",
- "datetime": "2000-01-14T15:20:00",
- "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1140 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2000-01-14T15:20",
  "images": [
-  {
-   "src": "2000-01-14-Zeno_10.jpg",
-   "alt": "Bonus 14: Zeno 10",
-   "title": "Bonus 14: Zeno 10"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/comics/bonus-13-zeno-9/",
-  "next": "/comics/bonus-15-the-badness-1/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/comics/bonus-13-zeno-9/",
-  "next": "/comics/bonus-15-the-badness-1/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Bonus 14: Zeno 10",
-  "bodyClass": "post-template-default single single-post postid-1140 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Bonus 14: Zeno 10",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2000-01-14-Zeno_10.jpg"
- }
+  "2000-01-14-Zeno_10.jpg"
+ ]
 }

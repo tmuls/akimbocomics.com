@@ -1,38 +1,6 @@
 {
- "path": "/news/reddited/",
- "series": "news",
- "slug": "reddited",
- "id": 439,
  "title": "Reddited",
  "author": "emulsifier",
- "date": "August 12, 2009",
- "time": "12:06 am",
- "datetime": "2009-08-12T00:06:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>Hasn&#8217;t happened for a while, but just got reddited again.  Site is back up for now, I&#8217;ll keep watching the server in case it takes a dump again tonight.  Thanks for checking back!</p>\n<p>**update**<br />\nDown again, back up again.  Keep it coming!</p>",
- "postClass": "post-439 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/moving/",
-  "next": "/news/site-update/"
- },
- "menuNav": {},
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Reddited",
-  "bodyClass": "post-template-default single single-post postid-439 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Reddited",
-  "ogDescription": ""
- }
+ "date": "2009-08-12T00:06",
+ "body": "<p>Hasn&#8217;t happened for a while, but just got reddited again.  Site is back up for now, I&#8217;ll keep watching the server in case it takes a dump again tonight.  Thanks for checking back!</p>\n<p>**update**<br />\nDown again, back up again.  Keep it coming!</p>"
 }

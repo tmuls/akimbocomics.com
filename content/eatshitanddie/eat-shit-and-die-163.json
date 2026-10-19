@@ -1,129 +1,73 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-163/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-163",
- "id": 567,
  "title": "eat shit & die 163",
  "author": "bpatrick",
- "date": "September 25, 2010",
- "time": "12:00 am",
- "datetime": "2010-09-25T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2010-09-25T00:00",
  "tags": [
-  {
-   "title": "onan",
-   "href": "/tag/onan/"
-  }
+  "onan"
  ],
- "html": "<p>By request: another Onan. I&#8217;m going to start next week&#8217;s comic right now. The site going down really got to me. It made me realize how much I like sharing comics with people. Thanks for reading!</p>",
- "postClass": "post-567 post type-post status-publish format-standard hentry category-eatshitanddie tag-onan uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2010-09-25-Eat_Shit_And_Die_163.jpg",
-   "alt": "eat shit & die 163",
-   "title": "eat shit & die 163"
-  }
+  "2010-09-25-Eat_Shit_And_Die_163.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-38/",
-  "next": "/eatshitanddie/eat-shit-and-die-163-2/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-38/",
-  "next": "/eatshitanddie/eat-shit-and-die-163-2/"
- },
- "commentCount": 8,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>By request: another Onan. I&#8217;m going to start next week&#8217;s comic right now. The site going down really got to me. It made me realize how much I like sharing comics with people. Thanks for reading!</p>",
  "comments": [
   {
    "id": 4403,
    "author": "Winston Rowntree",
+   "date": "2010-09-25T21:41",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "September 25, 2010 at 9:41 pm",
-   "timeTitle": "Saturday, September 25th, 2010, 9:41 pm",
-   "html": "<p>I love the tone of these. If you do them by request then consider this another request!</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>I love the tone of these. If you do them by request then consider this another request!</p>"
   },
   {
    "id": 4404,
    "author": "kittencontinues",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e1e2514e08736c2b10e5126fb63c188d?s=64&d=identicon&r=r",
-   "time": "September 26, 2010 at 8:08 am",
-   "timeTitle": "Sunday, September 26th, 2010, 8:08 am",
-   "html": "<p>good to see you&#8217;re back, awesome scene. Your compositions are awesome.</p>"
+   "date": "2010-09-26T08:08",
+   "avatar": "e1e2514e08736c2b10e5126fb63c188d",
+   "text": "<p>good to see you&#8217;re back, awesome scene. Your compositions are awesome.</p>"
   },
   {
    "id": 4405,
    "author": "pspealman",
+   "date": "2010-09-26T15:49",
    "url": "http://ttmt.libsyn.com",
-   "avatar": "http://1.gravatar.com/avatar/4b8a9242da87e096fa26155e42da922e?s=64&d=identicon&r=r",
-   "time": "September 26, 2010 at 3:49 pm",
-   "timeTitle": "Sunday, September 26th, 2010, 3:49 pm",
-   "html": "<p>Thanks for sharing ! and thanks for being awesome!</p>"
+   "avatar": "4b8a9242da87e096fa26155e42da922e",
+   "text": "<p>Thanks for sharing ! and thanks for being awesome!</p>"
   },
   {
    "id": 4406,
    "author": "RatB",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8b3b23e6dc1d4c31d12ade93f819267f?s=64&d=identicon&r=r",
-   "time": "September 26, 2010 at 10:54 pm",
-   "timeTitle": "Sunday, September 26th, 2010, 10:54 pm",
-   "html": "<p>Glad you&#8217;re back dude, you make some damn fine comics</p>"
+   "date": "2010-09-26T22:54",
+   "avatar": "8b3b23e6dc1d4c31d12ade93f819267f",
+   "text": "<p>Glad you&#8217;re back dude, you make some damn fine comics</p>"
   },
   {
    "id": 4408,
    "author": "emulsifier",
+   "date": "2010-09-27T03:07",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
-   "time": "September 27, 2010 at 3:07 am",
-   "timeTitle": "Monday, September 27th, 2010, 3:07 am",
-   "html": "<p>Man.  You really need to make this one of your regulars.  It deserves a spot of it&#8217;s own on the right side.</p>",
-   "byAuthor": "emulsifier"
+   "avatar": "cd7434b888539623dcbb7ea85f17b601",
+   "text": "<p>Man.  You really need to make this one of your regulars.  It deserves a spot of it&#8217;s own on the right side.</p>"
   },
   {
    "id": 4423,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "September 30, 2010 at 12:10 pm",
-   "timeTitle": "Thursday, September 30th, 2010, 12:10 pm",
-   "html": "<p>Onan always leaves me with a sense of wonder. Wonder what he&#8217;s searching for. Wonder what he&#8217;ll find.</p>"
+   "date": "2010-09-30T12:10",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Onan always leaves me with a sense of wonder. Wonder what he&#8217;s searching for. Wonder what he&#8217;ll find.</p>"
   },
   {
    "id": 4454,
    "author": "Jada",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/077a1fa57c4e1fb39b203a7f7163bda4?s=64&d=identicon&r=r",
-   "time": "October 10, 2010 at 1:49 am",
-   "timeTitle": "Sunday, October 10th, 2010, 1:49 am",
-   "html": "<p>Man, I was super bummed when I saw the site was down. So glad to see ya back.</p>"
+   "date": "2010-10-10T01:49",
+   "avatar": "077a1fa57c4e1fb39b203a7f7163bda4",
+   "text": "<p>Man, I was super bummed when I saw the site was down. So glad to see ya back.</p>"
   },
   {
    "id": 4695,
    "author": "Joe bob",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/365cba06d9552387c1a6e208a5bea1a5?s=64&d=identicon&r=r",
-   "time": "November 19, 2010 at 1:48 pm",
-   "timeTitle": "Friday, November 19th, 2010, 1:48 pm",
-   "html": "<p>Ha nice 😀</p>"
+   "date": "2010-11-19T13:48",
+   "avatar": "365cba06d9552387c1a6e208a5bea1a5",
+   "text": "<p>Ha nice 😀</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 163",
-  "bodyClass": "post-template-default single single-post postid-567 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 163",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-09-25-Eat_Shit_And_Die_163.jpg"
- }
+ ]
 }

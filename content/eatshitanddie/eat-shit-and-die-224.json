@@ -1,87 +1,40 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-224/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-224",
- "id": 810,
  "title": "eat shit & die 224",
  "author": "bpatrick",
- "date": "March 8, 2013",
- "time": "12:00 am",
- "datetime": "2013-03-08T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>What next?</p>",
- "postClass": "post-810 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2013-03-08T00:00",
  "images": [
-  {
-   "src": "2013-03-08-Eat_Shit_And_Die_224.jpg",
-   "alt": "eat shit & die 224",
-   "title": "eat shit & die 224"
-  }
+  "2013-03-08-Eat_Shit_And_Die_224.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-223/",
-  "next": "/curiousurgency/curious-urgency-63/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-223/",
-  "next": "/curiousurgency/curious-urgency-63/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>What next?</p>",
  "comments": [
   {
    "id": 195236,
    "author": "The Remington Sloan",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/05ca55479b4de83ce585a0950970d659?s=64&d=identicon&r=r",
-   "time": "March 8, 2013 at 7:44 pm",
-   "timeTitle": "Friday, March 8th, 2013, 7:44 pm",
-   "html": "<p>That was really beautiful B. The poets will write many verses of you.</p>"
+   "date": "2013-03-08T19:44",
+   "avatar": "05ca55479b4de83ce585a0950970d659",
+   "text": "<p>That was really beautiful B. The poets will write many verses of you.</p>"
   },
   {
    "id": 195239,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "March 8, 2013 at 7:55 pm",
-   "timeTitle": "Friday, March 8th, 2013, 7:55 pm",
-   "html": "<p>superb!</p>"
+   "date": "2013-03-08T19:55",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>superb!</p>"
   },
   {
    "id": 197891,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/5930e5d1f76c2aeaa0e99d995ce1ff13?s=64&d=identicon&r=r",
-   "time": "March 15, 2013 at 8:19 pm",
-   "timeTitle": "Friday, March 15th, 2013, 8:19 pm",
-   "html": "<p>&#8220;What next?&#8221;</p>\n<p>Rhetorical question, innit? If it wasn&#8217;t I&#8217;d say &#8220;MSFM&#8221;. Or &#8220;Vivian Blank&#8221;.</p>"
+   "date": "2013-03-15T20:19",
+   "avatar": "5930e5d1f76c2aeaa0e99d995ce1ff13",
+   "text": "<p>&#8220;What next?&#8221;</p>\n<p>Rhetorical question, innit? If it wasn&#8217;t I&#8217;d say &#8220;MSFM&#8221;. Or &#8220;Vivian Blank&#8221;.</p>"
   },
   {
    "id": 198256,
    "author": "SoldierMD",
+   "date": "2013-03-16T18:33",
    "url": "http://ebay.ca",
-   "avatar": "http://1.gravatar.com/avatar/d5ff310dfc75cf5cca115a3e6c6699b0?s=64&d=identicon&r=r",
-   "time": "March 16, 2013 at 6:33 pm",
-   "timeTitle": "Saturday, March 16th, 2013, 6:33 pm",
-   "html": "<p>Well done,  your comics cut to the bone!</p>"
+   "avatar": "d5ff310dfc75cf5cca115a3e6c6699b0",
+   "text": "<p>Well done,  your comics cut to the bone!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 224",
-  "bodyClass": "post-template-default single single-post postid-810 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 224",
-  "ogDescription": "",
-  "ogImage": "//comic/2013-03-08-Eat_Shit_And_Die_224.jpg"
- }
+ ]
 }

@@ -1,83 +1,34 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-25/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-25",
- "id": 105,
  "title": "Eat Shit And Die 25",
  "author": "emulsifier",
- "date": "July 17, 2008",
- "time": "12:00 am",
- "datetime": "2008-07-17T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2008-07-17T00:00",
  "tags": [
-  {
-   "title": "happy rabbit",
-   "href": "/tag/happy-rabbit/"
-  }
+  "happy-rabbit"
  ],
- "html": "",
- "postClass": "post-105 post type-post status-publish format-standard hentry category-eatshitanddie tag-happy-rabbit uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
  "images": [
-  {
-   "src": "2008-07-17-Eat_Shit_And_Die_25.jpg",
-   "alt": "Eat Shit And Die 25",
-   "title": "Eat Shit And Die 25"
-  }
+  "2008-07-17-Eat_Shit_And_Die_25.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-24/",
-  "next": "/eatshitanddie/eat-shit-and-die-26/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-24/",
-  "next": "/eatshitanddie/eat-shit-and-die-26/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 6190,
    "author": "PandaHuggaz",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/dc1f8322edf6b6aa1e46ff1ab504f2d9?s=64&d=identicon&r=r",
-   "time": "March 17, 2011 at 2:52 am",
-   "timeTitle": "Thursday, March 17th, 2011, 2:52 am",
-   "html": "<p>Happy bunny is not that happy&#8230;</p>"
+   "date": "2011-03-17T02:52",
+   "avatar": "dc1f8322edf6b6aa1e46ff1ab504f2d9",
+   "text": "<p>Happy bunny is not that happy&#8230;</p>"
   },
   {
    "id": 10412,
    "author": "dan",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bd56efa1439ee1249b1b30890e876ea1?s=64&d=identicon&r=r",
-   "time": "October 19, 2011 at 3:01 pm",
-   "timeTitle": "Wednesday, October 19th, 2011, 3:01 pm",
-   "html": "<p>why is it that you enjoy reading depressing comics when you are depressed? maybe it suggests a kind of company</p>"
+   "date": "2011-10-19T15:01",
+   "avatar": "bd56efa1439ee1249b1b30890e876ea1",
+   "text": "<p>why is it that you enjoy reading depressing comics when you are depressed? maybe it suggests a kind of company</p>"
   },
   {
    "id": 97644,
    "author": "Gabriel",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a872c28fc2d08236e6bc30e2e8170255?s=64&d=identicon&r=r",
-   "time": "September 11, 2012 at 8:07 pm",
-   "timeTitle": "Tuesday, September 11th, 2012, 8:07 pm",
-   "html": "<p>@dan </p>\n<p>Because that&#8217;s how you know there are people out there more miserable than you.</p>\n<p>That makes everyone a little bit more happy.</p>"
+   "date": "2012-09-11T20:07",
+   "avatar": "a872c28fc2d08236e6bc30e2e8170255",
+   "text": "<p>@dan </p>\n<p>Because that&#8217;s how you know there are people out there more miserable than you.</p>\n<p>That makes everyone a little bit more happy.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 25",
-  "bodyClass": "post-template-default single single-post postid-105 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 25",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-07-17-Eat_Shit_And_Die_25.jpg"
- }
+ ]
 }

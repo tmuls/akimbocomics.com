@@ -1,50 +1,8 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-84/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-84",
- "id": 184,
  "title": "Eat Shit And Die 84",
  "author": "emulsifier",
- "date": "September 15, 2008",
- "time": "12:00 am",
- "datetime": "2008-09-15T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-184 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-09-15T00:00",
  "images": [
-  {
-   "src": "2008-09-15-Eat_Shit_And_Die_84.jpg",
-   "alt": "Eat Shit And Die 84",
-   "title": "Eat Shit And Die 84"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-83/",
-  "next": "/eatshitanddie/eat-shit-and-die-85/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-83/",
-  "next": "/eatshitanddie/eat-shit-and-die-85/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 84",
-  "bodyClass": "post-template-default single single-post postid-184 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 84",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-09-15-Eat_Shit_And_Die_84.jpg"
- }
+  "2008-09-15-Eat_Shit_And_Die_84.jpg"
+ ]
 }

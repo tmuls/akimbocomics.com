@@ -1,50 +1,8 @@
 {
- "path": "/imsureidontknow/im-sure-i-dont-know-5/",
- "series": "imsureidontknow",
- "slug": "im-sure-i-dont-know-5",
- "id": 229,
  "title": "Im Sure I Dont Know 5",
  "author": "emulsifier",
- "date": "October 29, 2008",
- "time": "12:00 am",
- "datetime": "2008-10-29T00:00:00",
- "categories": [
-  {
-   "title": "I'm sure I don't know",
-   "href": "/imsureidontknow/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-229 post type-post status-publish format-standard hentry category-imsureidontknow uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-10-29T00:00",
  "images": [
-  {
-   "src": "2008-10-29-Im_Sure_I_Dont_Know_5.jpg",
-   "alt": "Im Sure I Dont Know 5",
-   "title": "Im Sure I Dont Know 5"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/imsureidontknow/im-sure-i-dont-know-4/",
-  "next": "/imsureidontknow/im-sure-i-dont-know-6/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/imsureidontknow/im-sure-i-dont-know-4/",
-  "next": "/imsureidontknow/im-sure-i-dont-know-6/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Im Sure I Dont Know 5",
-  "bodyClass": "post-template-default single single-post postid-229 single-format-standard user-guest comic unknown single-category-imsureidontknow single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Im Sure I Dont Know 5",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-10-29-Im_Sure_I_Dont_Know_5.jpg"
- }
+  "2008-10-29-Im_Sure_I_Dont_Know_5.jpg"
+ ]
 }

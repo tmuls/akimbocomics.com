@@ -1,69 +1,25 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-121/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-121",
- "id": 222,
  "title": "Eat Shit And Die 121",
  "author": "emulsifier",
- "date": "October 22, 2008",
- "time": "12:00 am",
- "datetime": "2008-10-22T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-222 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-10-22T00:00",
  "images": [
-  {
-   "src": "2008-10-22-Eat_Shit_And_Die_121.jpg",
-   "alt": "Eat Shit And Die 121",
-   "title": "Eat Shit And Die 121"
-  }
+  "2008-10-22-Eat_Shit_And_Die_121.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-120/",
-  "next": "/eatshitanddie/eat-shit-and-die-122/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-120/",
-  "next": "/eatshitanddie/eat-shit-and-die-122/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1027227,
    "author": "Arjuna",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c9a01a3bc0978581befabafd624bf929?s=64&d=identicon&r=r",
-   "time": "February 12, 2015 at 12:58 am",
-   "timeTitle": "Thursday, February 12th, 2015, 12:58 am",
-   "html": "<p>Kind of sexist don&#8217;t you think? Your sexualization of the women&#8217;s body in most of your comics haven&#8217;t bothered me much, cause you compensate with great themes/dialogue (although, a lot of your stuff is kind of anti-existentialism&#8230; which isn&#8217;t bad)&#8230; but this is a bit much, even if it is satirical. I mean&#8230; you&#8217;ve even got the statue of wonder woman in the background of the last scene? A woman that represents a strong, independent women&#8230; and you have her stripped naked. I&#8217;m not a crazy feminist or anything&#8230; but thought I&#8217;d say something&#8230; most women don&#8217;t think like this.</p>"
+   "date": "2015-02-12T00:58",
+   "avatar": "c9a01a3bc0978581befabafd624bf929",
+   "text": "<p>Kind of sexist don&#8217;t you think? Your sexualization of the women&#8217;s body in most of your comics haven&#8217;t bothered me much, cause you compensate with great themes/dialogue (although, a lot of your stuff is kind of anti-existentialism&#8230; which isn&#8217;t bad)&#8230; but this is a bit much, even if it is satirical. I mean&#8230; you&#8217;ve even got the statue of wonder woman in the background of the last scene? A woman that represents a strong, independent women&#8230; and you have her stripped naked. I&#8217;m not a crazy feminist or anything&#8230; but thought I&#8217;d say something&#8230; most women don&#8217;t think like this.</p>"
   },
   {
    "id": 1027355,
    "author": "bpatrick",
+   "date": "2015-02-12T03:57",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "February 12, 2015 at 3:57 am",
-   "timeTitle": "Thursday, February 12th, 2015, 3:57 am",
-   "html": "<p>Charges of sexism are the most distressing to me because they&#8217;re most likely true. I make an effort to not be hateful and to balance the more juvenile with more nuanced portrayals. In this case I had deemed this comic unworthy to publish but then when going through old sketches I ran across it and was taken by surprise by the last panel and laughed. I figured if I laughed someone else might too. The rest of the comic excluding the last panel is actually based on certain men I know. It was never intended to be a criticism of women in general or even a certain type of woman but a certain type of thinking with a somewhat incongruous punchline based more on the character&#8217;s personal thinking than that of her whole gender. But you&#8217;re absolutely right, it does read in poor taste. I hope you stick around to enjoy the stuff you like and aren&#8217;t chased away by the stuff that I readily admit can be quite offensive. By the way, you&#8217;re the first to mention the Wonder Woman statue! I had been doing these sculptures in the background for a while and one time on a whim through in a statue of Wolverine and thought it&#8217;d be fun to hide naked superhero statues in the backgrounds. I quickly discovered that most superheroes are unrecognizable without their costumes. So it was just an unlucky coincidence that that was in the background of a more tasteless comic.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Charges of sexism are the most distressing to me because they&#8217;re most likely true. I make an effort to not be hateful and to balance the more juvenile with more nuanced portrayals. In this case I had deemed this comic unworthy to publish but then when going through old sketches I ran across it and was taken by surprise by the last panel and laughed. I figured if I laughed someone else might too. The rest of the comic excluding the last panel is actually based on certain men I know. It was never intended to be a criticism of women in general or even a certain type of woman but a certain type of thinking with a somewhat incongruous punchline based more on the character&#8217;s personal thinking than that of her whole gender. But you&#8217;re absolutely right, it does read in poor taste. I hope you stick around to enjoy the stuff you like and aren&#8217;t chased away by the stuff that I readily admit can be quite offensive. By the way, you&#8217;re the first to mention the Wonder Woman statue! I had been doing these sculptures in the background for a while and one time on a whim through in a statue of Wolverine and thought it&#8217;d be fun to hide naked superhero statues in the backgrounds. I quickly discovered that most superheroes are unrecognizable without their costumes. So it was just an unlucky coincidence that that was in the background of a more tasteless comic.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 121",
-  "bodyClass": "post-template-default single single-post postid-222 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 121",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-10-22-Eat_Shit_And_Die_121.jpg"
- }
+ ]
 }

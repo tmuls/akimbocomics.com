@@ -1,50 +1,8 @@
 {
- "path": "/really_deep_down/really-deep-down-2/",
- "series": "really_deep_down",
- "slug": "really-deep-down-2",
- "id": 377,
  "title": "Really Deep Down 2",
  "author": "bpatrick",
- "date": "February 9, 2009",
- "time": "12:00 am",
- "datetime": "2009-02-09T00:00:00",
- "categories": [
-  {
-   "title": "Really Deep Down",
-   "href": "/really_deep_down/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-377 post type-post status-publish format-standard hentry category-really_deep_down uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-02-09T00:00",
  "images": [
-  {
-   "src": "2009-02-09-Really_Deep_Down_2.jpg",
-   "alt": "Really Deep Down 2",
-   "title": "Really Deep Down 2"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-130/",
-  "next": "/eatshitanddie/eat-shit-and-die-131/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-130/",
-  "next": "/eatshitanddie/eat-shit-and-die-131/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Really Deep Down 2",
-  "bodyClass": "post-template-default single single-post postid-377 single-format-standard user-guest comic unknown single-category-really_deep_down single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Really Deep Down 2",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-02-09-Really_Deep_Down_2.jpg"
- }
+  "2009-02-09-Really_Deep_Down_2.jpg"
+ ]
 }

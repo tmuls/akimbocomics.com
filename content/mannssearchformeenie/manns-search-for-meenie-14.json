@@ -1,97 +1,47 @@
 {
- "path": "/mannssearchformeenie/manns-search-for-meenie-14/",
- "series": "mannssearchformeenie",
- "slug": "manns-search-for-meenie-14",
- "id": 252,
  "title": "Manns Search For Meenie 14",
  "author": "emulsifier",
- "date": "November 19, 2008",
- "time": "12:00 am",
- "datetime": "2008-11-19T00:00:00",
- "categories": [
-  {
-   "title": "Manns search for Meenie",
-   "href": "/mannssearchformeenie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-252 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-11-19T00:00",
  "images": [
-  {
-   "src": "2008-11-19-Manns_Search_For_Meenie_14.jpg",
-   "alt": "Manns Search For Meenie 14",
-   "title": "Manns Search For Meenie 14"
-  }
+  "2008-11-19-Manns_Search_For_Meenie_14.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-13/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-15/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-13/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-15/"
- },
- "commentCount": 5,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 84985,
    "author": "johhnydollar",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/820955a2509b131d073e3dd9854e0664?s=64&d=identicon&r=r",
-   "time": "May 29, 2012 at 8:26 pm",
-   "timeTitle": "Tuesday, May 29th, 2012, 8:26 pm",
-   "html": "<p>Awesome.  The matchbook trick&#8230;it was between channel 30 and 31 without a cable box&#8230;hope there&#8217;s a Mr. Moon&#8217;s Magic Circus reference coming.</p>"
+   "date": "2012-05-29T20:26",
+   "avatar": "820955a2509b131d073e3dd9854e0664",
+   "text": "<p>Awesome.  The matchbook trick&#8230;it was between channel 30 and 31 without a cable box&#8230;hope there&#8217;s a Mr. Moon&#8217;s Magic Circus reference coming.</p>"
   },
   {
    "id": 85189,
    "author": "bpatrick",
+   "date": "2012-05-31T00:20",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "May 31, 2012 at 12:20 am",
-   "timeTitle": "Thursday, May 31st, 2012, 12:20 am",
-   "html": "<p>I think you&#8217;re the first person I&#8217;ve spoken with who remembers this! People ask me, &#8220;Why a matchbook?&#8221; I wasn&#8217;t sure but for all I knew it was the key to the magic and I didn&#8217;t want to risk it. I was told matchbook and so I used a matchbook.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>I think you&#8217;re the first person I&#8217;ve spoken with who remembers this! People ask me, &#8220;Why a matchbook?&#8221; I wasn&#8217;t sure but for all I knew it was the key to the magic and I didn&#8217;t want to risk it. I was told matchbook and so I used a matchbook.</p>"
   },
   {
    "id": 85680,
    "author": "johhnydollar",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/820955a2509b131d073e3dd9854e0664?s=64&d=identicon&r=r",
-   "time": "June 1, 2012 at 10:36 pm",
-   "timeTitle": "Friday, June 1st, 2012, 10:36 pm",
-   "html": "<p>The matchbook was necessary to put pressure on the dial and allow it to be held in position between two channels.</p>"
+   "date": "2012-06-01T22:36",
+   "avatar": "820955a2509b131d073e3dd9854e0664",
+   "text": "<p>The matchbook was necessary to put pressure on the dial and allow it to be held in position between two channels.</p>"
   },
   {
    "id": 85708,
    "author": "bpatrick",
+   "date": "2012-06-02T05:39",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/c088e8950f971823a1a7376d8da4d58c?s=64&d=identicon&r=r",
-   "time": "June 2, 2012 at 5:39 am",
-   "timeTitle": "Saturday, June 2nd, 2012, 5:39 am",
-   "html": "<p>Yeah, but why a matchbook specifically and not just a wad of paper? I didn&#8217;t ask at the time. I just accepted the formula as it was given to me.</p>",
-   "byAuthor": "bpatrick"
+   "avatar": "c088e8950f971823a1a7376d8da4d58c",
+   "text": "<p>Yeah, but why a matchbook specifically and not just a wad of paper? I didn&#8217;t ask at the time. I just accepted the formula as it was given to me.</p>"
   },
   {
    "id": 85771,
    "author": "johhnydollar",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/820955a2509b131d073e3dd9854e0664?s=64&d=identicon&r=r",
-   "time": "June 3, 2012 at 4:39 am",
-   "timeTitle": "Sunday, June 3rd, 2012, 4:39 am",
-   "html": "<p>i used a playing card&#8230;not afraid to mess with the magic&#8230;</p>"
+   "date": "2012-06-03T04:39",
+   "avatar": "820955a2509b131d073e3dd9854e0664",
+   "text": "<p>i used a playing card&#8230;not afraid to mess with the magic&#8230;</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 14",
-  "bodyClass": "post-template-default single single-post postid-252 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Manns Search For Meenie 14",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-11-19-Manns_Search_For_Meenie_14.jpg"
- }
+ ]
 }

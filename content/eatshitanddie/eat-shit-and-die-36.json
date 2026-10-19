@@ -1,60 +1,18 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-36/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-36",
- "id": 118,
  "title": "Eat Shit And Die 36",
  "author": "emulsifier",
- "date": "July 28, 2008",
- "time": "12:00 am",
- "datetime": "2008-07-28T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-118 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-07-28T00:00",
  "images": [
-  {
-   "src": "2008-07-28-Eat_Shit_And_Die_36.jpg",
-   "alt": "Eat Shit And Die 36",
-   "title": "Eat Shit And Die 36"
-  }
+  "2008-07-28-Eat_Shit_And_Die_36.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-35/",
-  "next": "/eatshitanddie/eat-shit-and-die-37/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-35/",
-  "next": "/eatshitanddie/eat-shit-and-die-37/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 7283,
    "author": "Tangela",
+   "date": "2011-05-23T02:27",
    "url": "http://www.google.com/",
-   "avatar": "http://1.gravatar.com/avatar/49d659cbab792a48210180ccfcbca918?s=64&d=identicon&r=r",
-   "time": "May 23, 2011 at 2:27 am",
-   "timeTitle": "Monday, May 23rd, 2011, 2:27 am",
-   "html": "<p>I&#8217;m not easily impressed. . . but that&#8217;s iprmseisng me! 🙂</p>"
+   "avatar": "49d659cbab792a48210180ccfcbca918",
+   "text": "<p>I&#8217;m not easily impressed. . . but that&#8217;s iprmseisng me! 🙂</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 36",
-  "bodyClass": "post-template-default single single-post postid-118 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 36",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-07-28-Eat_Shit_And_Die_36.jpg"
- }
+ ]
 }

@@ -1,78 +1,32 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-24/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-24",
- "id": 104,
  "title": "Eat Shit And Die 24",
  "author": "emulsifier",
- "date": "July 16, 2008",
- "time": "12:00 am",
- "datetime": "2008-07-16T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-104 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-07-16T00:00",
  "images": [
-  {
-   "src": "2008-07-16-Eat_Shit_And_Die_24.jpg",
-   "alt": "Eat Shit And Die 24",
-   "title": "Eat Shit And Die 24"
-  }
+  "2008-07-16-Eat_Shit_And_Die_24.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-23/",
-  "next": "/eatshitanddie/eat-shit-and-die-25/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-23/",
-  "next": "/eatshitanddie/eat-shit-and-die-25/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 3528,
    "author": "MrSmith",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/455f1faceb6a5b72b126dad3a2d405c2?s=64&d=identicon&r=r",
-   "time": "July 26, 2010 at 8:56 am",
-   "timeTitle": "Monday, July 26th, 2010, 8:56 am",
-   "html": "<p>I can feel my pecs growing and my abs tightening!</p>"
+   "date": "2010-07-26T08:56",
+   "avatar": "455f1faceb6a5b72b126dad3a2d405c2",
+   "text": "<p>I can feel my pecs growing and my abs tightening!</p>"
   },
   {
    "id": 11943,
    "author": "Deaf singles",
+   "date": "2011-11-07T21:27",
    "url": "http://www.kissofdeaf.com/",
-   "avatar": "http://0.gravatar.com/avatar/9f16731d5cebe2676cc067ea16293a12?s=64&d=identicon&r=r",
-   "time": "November 7, 2011 at 9:27 pm",
-   "timeTitle": "Monday, November 7th, 2011, 9:27 pm",
-   "html": "<p>Good thing Charles Atlas is dead or he&#8217;d have to fuck you up over this.</p>"
+   "avatar": "9f16731d5cebe2676cc067ea16293a12",
+   "text": "<p>Good thing Charles Atlas is dead or he&#8217;d have to fuck you up over this.</p>"
   },
   {
    "id": 102969,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "September 23, 2012 at 8:38 pm",
-   "timeTitle": "Sunday, September 23rd, 2012, 8:38 pm",
-   "html": "<p>Oh, how I wish reading comics would magically get me in shape&#8230;.</p>"
+   "date": "2012-09-23T20:38",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>Oh, how I wish reading comics would magically get me in shape&#8230;.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 24",
-  "bodyClass": "post-template-default single single-post postid-104 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 24",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-07-16-Eat_Shit_And_Die_24.jpg"
- }
+ ]
 }

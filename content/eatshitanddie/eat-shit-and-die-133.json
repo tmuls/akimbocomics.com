@@ -1,69 +1,27 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-133/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-133",
- "id": 383,
  "title": "eat shit & die 133",
  "author": "bpatrick",
- "date": "June 15, 2009",
- "time": "12:00 am",
- "datetime": "2009-06-15T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>The comic&#8217;s green this week &#8211; maybe too green. I should have a new <em>Mann&#8217;s</em> page later this week. It&#8217;s getting to a nice stopping point. Does anyone have any suggestions on what longer storyline I should start updating next?<br />\np.s. I just read Scott Pilgrim 1 and it was pretty damn good.</p>",
- "postClass": "post-383 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-06-15T00:00",
  "images": [
-  {
-   "src": "2009-06-15-Eat_Shit_And_Die_133.jpg",
-   "alt": "It's dangerous the way those other guys say what we say is dangerous",
-   "title": "It's dangerous the way those other guys say what we say is dangerous"
-  }
+  "2009-06-15-Eat_Shit_And_Die_133.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/really_deep_down/really-deep-down-3/",
-  "next": "/linetool/line-tool-2/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/really_deep_down/really-deep-down-3/",
-  "next": "/linetool/line-tool-2/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "It's dangerous the way those other guys say what we say is dangerous",
+ "body": "<p>The comic&#8217;s green this week &#8211; maybe too green. I should have a new <em>Mann&#8217;s</em> page later this week. It&#8217;s getting to a nice stopping point. Does anyone have any suggestions on what longer storyline I should start updating next?<br />\np.s. I just read Scott Pilgrim 1 and it was pretty damn good.</p>",
  "comments": [
   {
    "id": 17,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "June 15, 2009 at 6:47 pm",
-   "timeTitle": "Monday, June 15th, 2009, 6:47 pm",
-   "html": "<p>One vote for Vivian Blank</p>"
+   "date": "2009-06-15T18:47",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>One vote for Vivian Blank</p>"
   },
   {
    "id": 18,
    "author": "b.patrick",
+   "date": "2009-06-16T04:22",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "June 16, 2009 at 4:22 am",
-   "timeTitle": "Tuesday, June 16th, 2009, 4:22 am",
-   "html": "<p>I&#8217;ve been looking forward to doing the next part of Vivian Blank. That could work.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>I&#8217;ve been looking forward to doing the next part of Vivian Blank. That could work.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 133",
-  "bodyClass": "post-template-default single single-post postid-383 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 133",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-06-15-Eat_Shit_And_Die_133.jpg"
- }
+ ]
 }

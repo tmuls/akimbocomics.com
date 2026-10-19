@@ -1,132 +1,76 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-193/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-193",
- "id": 685,
  "title": "eat shit and die 193",
  "author": "bpatrick",
- "date": "July 29, 2011",
- "time": "12:00 am",
- "datetime": "2011-07-29T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I&#8217;m all moved in to my new place. Classes start in just a few weeks. There&#8217;re comics to be made and, damn it, I&#8217;m going to make them. Here&#8217;s one for the haters. It&#8217;s got a little of everything everyone hates about akimbo, except an unenlightened attitude toward the sexes but that can be assumed.</p>",
- "postClass": "post-685 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-07-29T00:00",
  "images": [
-  {
-   "src": "2011-07-29-Eat_Shit_And_Die_193.jpg",
-   "alt": "Milton knew his shit      or The Devil Went A'shovelin'",
-   "title": "Milton knew his shit      or The Devil Went A'shovelin'"
-  }
+  "2011-07-29-Eat_Shit_And_Die_193.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-29/",
-  "next": "/eatshitanddie/eat-shit-and-die-194/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-29/",
-  "next": "/eatshitanddie/eat-shit-and-die-194/"
- },
- "commentCount": 9,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "Milton knew his shit      or The Devil Went A'shovelin'",
+ "body": "<p>I&#8217;m all moved in to my new place. Classes start in just a few weeks. There&#8217;re comics to be made and, damn it, I&#8217;m going to make them. Here&#8217;s one for the haters. It&#8217;s got a little of everything everyone hates about akimbo, except an unenlightened attitude toward the sexes but that can be assumed.</p>",
  "comments": [
   {
    "id": 8935,
    "author": "Eric",
+   "date": "2011-07-30T05:15",
    "url": "http://babybeebooks.com",
-   "avatar": "http://0.gravatar.com/avatar/c5522670f04175ec395517282603b2c5?s=64&d=identicon&r=r",
-   "time": "July 30, 2011 at 5:15 am",
-   "timeTitle": "Saturday, July 30th, 2011, 5:15 am",
-   "html": "<p>On the contrary, this has everything I love about Akimbo except for drawings of cigarettes!</p>"
+   "avatar": "c5522670f04175ec395517282603b2c5",
+   "text": "<p>On the contrary, this has everything I love about Akimbo except for drawings of cigarettes!</p>"
   },
   {
    "id": 8938,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "July 30, 2011 at 6:19 am",
-   "timeTitle": "Saturday, July 30th, 2011, 6:19 am",
-   "html": "<p>Somehow, I love this?</p>"
+   "date": "2011-07-30T06:19",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>Somehow, I love this?</p>"
   },
   {
    "id": 8940,
    "author": "ignorance",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3aedfbbff4930851c2e9586b80d54eb9?s=64&d=identicon&r=r",
-   "time": "July 30, 2011 at 1:38 pm",
-   "timeTitle": "Saturday, July 30th, 2011, 1:38 pm",
-   "html": "<p>Mmmm, made me think that maybe everything the haters hate about Akimbo is actually what everyone else loves about it. May be the case as I loved this one too.</p>\n<p>&lt;3</p>"
+   "date": "2011-07-30T13:38",
+   "avatar": "3aedfbbff4930851c2e9586b80d54eb9",
+   "text": "<p>Mmmm, made me think that maybe everything the haters hate about Akimbo is actually what everyone else loves about it. May be the case as I loved this one too.</p>\n<p>&lt;3</p>"
   },
   {
    "id": 8941,
    "author": "invertedquestionmark",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6dfce43cde7a7c0c1f853ae8a36e73b8?s=64&d=identicon&r=r",
-   "time": "July 30, 2011 at 2:01 pm",
-   "timeTitle": "Saturday, July 30th, 2011, 2:01 pm",
-   "html": "<p>Akimbo has haters?</p>"
+   "date": "2011-07-30T14:01",
+   "avatar": "6dfce43cde7a7c0c1f853ae8a36e73b8",
+   "text": "<p>Akimbo has haters?</p>"
   },
   {
    "id": 8943,
    "author": "Page",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1c4a10ecd39ffe8e1d58ee20f42424c9?s=64&d=identicon&r=r",
-   "time": "July 30, 2011 at 7:54 pm",
-   "timeTitle": "Saturday, July 30th, 2011, 7:54 pm",
-   "html": "<p>I agree with the other posters, ESAD is my favorite part of Akimbo.  Cynical?  Maybe.  Truth?  Absolutely.  Any haters are trapped in their own fantasy worlds.</p>"
+   "date": "2011-07-30T19:54",
+   "avatar": "1c4a10ecd39ffe8e1d58ee20f42424c9",
+   "text": "<p>I agree with the other posters, ESAD is my favorite part of Akimbo.  Cynical?  Maybe.  Truth?  Absolutely.  Any haters are trapped in their own fantasy worlds.</p>"
   },
   {
    "id": 8950,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "August 1, 2011 at 5:51 am",
-   "timeTitle": "Monday, August 1st, 2011, 5:51 am",
-   "html": "<p>This may have a sprinkle of truth in it, but I prefer to reflect on my miserable life with a more positive outlook. Still put a smile on my face tho.</p>"
+   "date": "2011-08-01T05:51",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>This may have a sprinkle of truth in it, but I prefer to reflect on my miserable life with a more positive outlook. Still put a smile on my face tho.</p>"
   },
   {
    "id": 8954,
    "author": "Phil C.",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c52325397493673acc10fc4ba8e48ae9?s=64&d=identicon&r=r",
-   "time": "August 1, 2011 at 1:35 pm",
-   "timeTitle": "Monday, August 1st, 2011, 1:35 pm",
-   "html": "<p>Screw the haters. Make the comics you damn well want to make. Most of us love what you come up with. 🙂</p>\n<p>cheers,<br />\nPhil</p>"
+   "date": "2011-08-01T13:35",
+   "avatar": "c52325397493673acc10fc4ba8e48ae9",
+   "text": "<p>Screw the haters. Make the comics you damn well want to make. Most of us love what you come up with. 🙂</p>\n<p>cheers,<br />\nPhil</p>"
   },
   {
    "id": 8991,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "August 5, 2011 at 7:21 am",
-   "timeTitle": "Friday, August 5th, 2011, 7:21 am",
-   "html": "<p>Shouldn&#8217;t the others be busy keeping themselves down rather than attacking the hero?</p>"
+   "date": "2011-08-05T07:21",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>Shouldn&#8217;t the others be busy keeping themselves down rather than attacking the hero?</p>"
   },
   {
    "id": 9195,
    "author": "iaoth",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/435c856ae156028166e43065bf6285cf?s=64&d=identicon&r=r",
-   "time": "August 25, 2011 at 11:50 am",
-   "timeTitle": "Thursday, August 25th, 2011, 11:50 am",
-   "html": "<p>I love this.</p>"
+   "date": "2011-08-25T11:50",
+   "avatar": "435c856ae156028166e43065bf6285cf",
+   "text": "<p>I love this.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit and die 193",
-  "bodyClass": "post-template-default single single-post postid-685 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit and die 193",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-07-29-Eat_Shit_And_Die_193.jpg"
- }
+ ]
 }

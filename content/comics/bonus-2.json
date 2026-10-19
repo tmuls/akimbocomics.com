@@ -1,50 +1,8 @@
 {
- "path": "/comics/bonus-2/",
- "series": "comics",
- "slug": "bonus-2",
- "id": 1113,
  "title": "bonus 2",
  "author": "bpatrick",
- "date": "January 2, 2000",
- "time": "3:54 am",
- "datetime": "2000-01-02T03:54:00",
- "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1113 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2000-01-02T03:54",
  "images": [
-  {
-   "src": "2000-01-02-Bonus_Material_2.jpg",
-   "alt": "bonus 2",
-   "title": "bonus 2"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/comics/bonus-1/",
-  "next": "/comics/bonus-3/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/comics/bonus-1/",
-  "next": "/comics/bonus-3/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - bonus 2",
-  "bodyClass": "post-template-default single single-post postid-1113 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "bonus 2",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2000-01-02-Bonus_Material_2.jpg"
- }
+  "2000-01-02-Bonus_Material_2.jpg"
+ ]
 }

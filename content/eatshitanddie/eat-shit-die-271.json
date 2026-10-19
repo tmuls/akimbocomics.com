@@ -1,50 +1,9 @@
 {
- "path": "/eatshitanddie/eat-shit-die-271/",
- "series": "eatshitanddie",
- "slug": "eat-shit-die-271",
- "id": 1178,
  "title": "eat, shit & die 271",
  "author": "bpatrick",
- "date": "November 2, 2017",
- "time": "6:13 am",
- "datetime": "2017-11-02T06:13:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>Sorry, everyone! This took forever and it ended up so long that this is actually the third and final part of the latest comic. Go back to 269 to start this one. I tried to post all three as one mammoth comic but it was too big. </p>",
- "postClass": "post-1178 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2017-11-02T06:13",
  "images": [
-  {
-   "src": "2017-11-02-Eat_Shit_And_Die_271.jpg",
-   "alt": "eat, shit & die 271",
-   "title": "eat, shit & die 271"
-  }
+  "2017-11-02-Eat_Shit_And_Die_271.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-die-270/",
-  "next": "/eatshitanddie/eat-shit-die-272/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-die-270/",
-  "next": "/eatshitanddie/eat-shit-die-272/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat, shit & die 271",
-  "bodyClass": "post-template-default single single-post postid-1178 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat, shit & die 271",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2017-11-02-Eat_Shit_And_Die_271.jpg"
- }
+ "body": "<p>Sorry, everyone! This took forever and it ended up so long that this is actually the third and final part of the latest comic. Go back to 269 to start this one. I tried to post all three as one mammoth comic but it was too big. </p>"
 }

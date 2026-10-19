@@ -1,87 +1,40 @@
 {
- "path": "/curiousurgency/curious-urgency-30/",
- "series": "curiousurgency",
- "slug": "curious-urgency-30",
- "id": 401,
  "title": "Curious Urgency 30",
  "author": "bpatrick",
- "date": "July 1, 2009",
- "time": "12:00 am",
- "datetime": "2009-07-01T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Remember this guy? <em>Curious Urgency</em> is probably my favorite story. I had this page half done when word came in for more <em>Vivian</em> so here it is. I love making comics and I love having people read them and hearing what they think. Thanks for all the feedback, I love it. I was just wondering today how the comics appeal , or don&#8217;t, to the female reader. I think there&#8217;s some stuff on the site that has some cross-over appeal. I mean, they&#8217;re not too phallocentric are they? I might have to work on this.</p>",
- "postClass": "post-401 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-07-01T00:00",
  "images": [
-  {
-   "src": "2009-07-01-Curious_Urgency_30.jpg",
-   "alt": "Curious Urgency 30",
-   "title": "Curious Urgency 30"
-  }
+  "2009-07-01-Curious_Urgency_30.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-135/",
-  "next": "/eatshitanddie/eat-shit-and-die-136/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-135/",
-  "next": "/eatshitanddie/eat-shit-and-die-136/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Remember this guy? <em>Curious Urgency</em> is probably my favorite story. I had this page half done when word came in for more <em>Vivian</em> so here it is. I love making comics and I love having people read them and hearing what they think. Thanks for all the feedback, I love it. I was just wondering today how the comics appeal , or don&#8217;t, to the female reader. I think there&#8217;s some stuff on the site that has some cross-over appeal. I mean, they&#8217;re not too phallocentric are they? I might have to work on this.</p>",
  "comments": [
   {
    "id": 31,
    "author": "Och",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d8c16399b0305a69eda176db6b5f71c0?s=64&d=identicon&r=r",
-   "time": "July 7, 2009 at 2:59 am",
-   "timeTitle": "Tuesday, July 7th, 2009, 2:59 am",
-   "html": "<p>I&#8217;ve read everything here. If the work is well-executed and the story is interesting, what&#8217;s to complain about? I doubt that I&#8217;m indicative of all female readers, but I like the male perspective &#8211; it feels genuine. It&#8217;s what you draw and you do it well, so you shouldn&#8217;t have to feel a need to work on it, right?</p>\n<p>This and Vivian Blank are definitely my favorites, though. It was hard to choose between them. -_-</p>"
+   "date": "2009-07-07T02:59",
+   "avatar": "d8c16399b0305a69eda176db6b5f71c0",
+   "text": "<p>I&#8217;ve read everything here. If the work is well-executed and the story is interesting, what&#8217;s to complain about? I doubt that I&#8217;m indicative of all female readers, but I like the male perspective &#8211; it feels genuine. It&#8217;s what you draw and you do it well, so you shouldn&#8217;t have to feel a need to work on it, right?</p>\n<p>This and Vivian Blank are definitely my favorites, though. It was hard to choose between them. -_-</p>"
   },
   {
    "id": 36,
    "author": "b.patrick",
+   "date": "2009-07-08T05:43",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "July 8, 2009 at 5:43 am",
-   "timeTitle": "Wednesday, July 8th, 2009, 5:43 am",
-   "html": "<p>Yay! I just get paranoid sometimes that I&#8217;m unintentionally alienating an entire gender. Thanks for taking a minute to talk me down.<br />\nThis page was fun. I&#8217;m thinking about just doing Vivian and Curious both for a while.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Yay! I just get paranoid sometimes that I&#8217;m unintentionally alienating an entire gender. Thanks for taking a minute to talk me down.<br />\nThis page was fun. I&#8217;m thinking about just doing Vivian and Curious both for a while.</p>"
   },
   {
    "id": 39,
    "author": "mike",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/936172f1744abf2723b815c78583a04d?s=64&d=identicon&r=r",
-   "time": "July 9, 2009 at 11:42 pm",
-   "timeTitle": "Thursday, July 9th, 2009, 11:42 pm",
-   "html": "<p>ive read everything so far and after reading the curious urgency series i would say this is one of the best comics on the net i cant think of a storyline i haven&#8217;t liked but vivian and curious urgency are my faves</p>"
+   "date": "2009-07-09T23:42",
+   "avatar": "936172f1744abf2723b815c78583a04d",
+   "text": "<p>ive read everything so far and after reading the curious urgency series i would say this is one of the best comics on the net i cant think of a storyline i haven&#8217;t liked but vivian and curious urgency are my faves</p>"
   },
   {
    "id": 1307,
    "author": "Cathany",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c5aadbb5b9725678f769115229802c5f?s=64&d=identicon&r=r",
-   "time": "January 14, 2010 at 12:28 pm",
-   "timeTitle": "Thursday, January 14th, 2010, 12:28 pm",
-   "html": "<p>I was going to wait until reading the entire archives to comment, but I&#8217;m a female and I think this is the best comic I&#8217;ve ever read.  My favorite story to date was actually the one about the guy with the brain worms, whatever that one was called (sorry!).  Your work is remarkable, honest, and it makes me feel human.  Thank you.</p>"
+   "date": "2010-01-14T12:28",
+   "avatar": "c5aadbb5b9725678f769115229802c5f",
+   "text": "<p>I was going to wait until reading the entire archives to comment, but I&#8217;m a female and I think this is the best comic I&#8217;ve ever read.  My favorite story to date was actually the one about the guy with the brain worms, whatever that one was called (sorry!).  Your work is remarkable, honest, and it makes me feel human.  Thank you.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 30",
-  "bodyClass": "post-template-default single single-post postid-401 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 30",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-07-01-Curious_Urgency_30.jpg"
- }
+ ]
 }

@@ -1,54 +1,13 @@
 {
- "path": "/eatshitanddie/eat-shit-die-279/",
- "series": "eatshitanddie",
- "slug": "eat-shit-die-279",
- "id": 1232,
  "title": "eat, shit & die 279",
  "author": "bpatrick",
- "date": "June 14, 2018",
- "time": "1:51 am",
- "datetime": "2018-06-14T01:51:00",
+ "date": "2018-06-14T01:51",
  "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  },
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
+  "comics",
+  "eatshitanddie"
  ],
- "tags": [],
- "html": "<p>So a few people have mentioned that some of the comics contradict each other and while I&#8217;m sure this is the case I can&#8217;t think of any examples and I was hoping you guys would point some out to me. </p>\n<p>I am obsessed with making the posters and graffiti and tattoos in the background of these comics. I spend way too much time on them. </p>",
- "postClass": "post-1232 post type-post status-publish format-standard hentry category-comics category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2018-06-14-Eat_Shit_And_Die_279.jpg",
-   "alt": "eat, shit & die 279",
-   "title": "eat, shit & die 279"
-  }
+  "2018-06-14-Eat_Shit_And_Die_279.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-die-278/",
-  "next": "/eatshitanddie/eat-shit-die-280/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-die-278/",
-  "next": "/eatshitanddie/eat-shit-die-280/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat, shit & die 279",
-  "bodyClass": "post-template-default single single-post postid-1232 single-format-standard user-guest comic unknown single-category-comics single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat, shit & die 279",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2018-06-14-Eat_Shit_And_Die_279.jpg"
- }
+ "body": "<p>So a few people have mentioned that some of the comics contradict each other and while I&#8217;m sure this is the case I can&#8217;t think of any examples and I was hoping you guys would point some out to me. </p>\n<p>I am obsessed with making the posters and graffiti and tattoos in the background of these comics. I spend way too much time on them. </p>"
 }

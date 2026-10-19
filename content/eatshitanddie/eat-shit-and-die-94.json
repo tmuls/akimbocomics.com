@@ -1,60 +1,17 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-94/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-94",
- "id": 195,
  "title": "Eat Shit And Die 94",
  "author": "emulsifier",
- "date": "September 25, 2008",
- "time": "12:00 am",
- "datetime": "2008-09-25T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-195 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-09-25T00:00",
  "images": [
-  {
-   "src": "2008-09-25-Eat_Shit_And_Die_94.jpg",
-   "alt": "Eat Shit And Die 94",
-   "title": "Eat Shit And Die 94"
-  }
+  "2008-09-25-Eat_Shit_And_Die_94.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-93/",
-  "next": "/eatshitanddie/eat-shit-and-die-95/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-93/",
-  "next": "/eatshitanddie/eat-shit-and-die-95/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 236436,
    "author": "z",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/5fe079fdd11c06d2a0d566d1ca313981?s=64&d=identicon&r=r",
-   "time": "September 2, 2013 at 3:42 pm",
-   "timeTitle": "Monday, September 2nd, 2013, 3:42 pm",
-   "html": "<p>snrk<br />\nthe krazy kat one</p>"
+   "date": "2013-09-02T15:42",
+   "avatar": "5fe079fdd11c06d2a0d566d1ca313981",
+   "text": "<p>snrk<br />\nthe krazy kat one</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 94",
-  "bodyClass": "post-template-default single single-post postid-195 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 94",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-09-25-Eat_Shit_And_Die_94.jpg"
- }
+ ]
 }

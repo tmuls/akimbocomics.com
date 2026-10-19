@@ -1,60 +1,17 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-106/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-106",
- "id": 207,
  "title": "Eat Shit And Die 106",
  "author": "emulsifier",
- "date": "October 7, 2008",
- "time": "12:00 am",
- "datetime": "2008-10-07T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-207 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-10-07T00:00",
  "images": [
-  {
-   "src": "2008-10-07-Eat_Shit_And_Die_106.jpg",
-   "alt": "Eat Shit And Die 106",
-   "title": "Eat Shit And Die 106"
-  }
+  "2008-10-07-Eat_Shit_And_Die_106.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-105/",
-  "next": "/eatshitanddie/eat-shit-and-die-107/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-105/",
-  "next": "/eatshitanddie/eat-shit-and-die-107/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 9154,
    "author": "Broody",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d46f78c6a8c79cccc50df4831cd9a909?s=64&d=identicon&r=r",
-   "time": "August 22, 2011 at 2:54 pm",
-   "timeTitle": "Monday, August 22nd, 2011, 2:54 pm",
-   "html": "<p>Fuck, this STILL makes me sad.</p>"
+   "date": "2011-08-22T14:54",
+   "avatar": "d46f78c6a8c79cccc50df4831cd9a909",
+   "text": "<p>Fuck, this STILL makes me sad.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 106",
-  "bodyClass": "post-template-default single single-post postid-207 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 106",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-10-07-Eat_Shit_And_Die_106.jpg"
- }
+ ]
 }

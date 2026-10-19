@@ -1,69 +1,21 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-16/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-16",
- "id": 96,
  "title": "Eat Shit And Die 16",
  "author": "emulsifier",
- "date": "July 8, 2008",
- "time": "12:00 am",
- "datetime": "2008-07-08T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2008-07-08T00:00",
  "tags": [
-  {
-   "title": "burly guy",
-   "href": "/tag/burly-guy/"
-  },
-  {
-   "title": "sex",
-   "href": "/tag/sex/"
-  }
+  "burly-guy",
+  "sex"
  ],
- "html": "",
- "postClass": "post-96 post type-post status-publish format-standard hentry category-eatshitanddie tag-burly-guy tag-sex uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
  "images": [
-  {
-   "src": "2008-07-08-Eat_Shit_And_Die_16.jpg",
-   "alt": "Eat Shit And Die 16",
-   "title": "Eat Shit And Die 16"
-  }
+  "2008-07-08-Eat_Shit_And_Die_16.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-15/",
-  "next": "/eatshitanddie/eat-shit-and-die-17/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-15/",
-  "next": "/eatshitanddie/eat-shit-and-die-17/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 6613,
    "author": "Mirela",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b33b3d7016427582d57a51f809320d52?s=64&d=identicon&r=r",
-   "time": "April 13, 2011 at 11:37 am",
-   "timeTitle": "Wednesday, April 13th, 2011, 11:37 am",
-   "html": "<p>I found your comic on reddit. I keep having the instinct to search for an upvote button every comic I read. Great comics I love them!</p>"
+   "date": "2011-04-13T11:37",
+   "avatar": "b33b3d7016427582d57a51f809320d52",
+   "text": "<p>I found your comic on reddit. I keep having the instinct to search for an upvote button every comic I read. Great comics I love them!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 16",
-  "bodyClass": "post-template-default single single-post postid-96 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 16",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-07-08-Eat_Shit_And_Die_16.jpg"
- }
+ ]
 }

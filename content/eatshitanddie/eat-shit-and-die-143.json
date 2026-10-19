@@ -1,123 +1,72 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-143/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-143",
- "id": 465,
  "title": "eat shit & die 143",
  "author": "bpatrick",
- "date": "October 1, 2009",
- "time": "12:00 am",
- "datetime": "2009-10-01T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>Here&#8217;s a comic about Trent.</p>",
- "postClass": "post-465 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-10-01T00:00",
  "images": [
-  {
-   "src": "2009-10-01-Eat_Shit_And_Die_143.jpg",
-   "alt": "eat shit & die 143",
-   "title": "eat shit & die 143"
-  }
+  "2009-10-01-Eat_Shit_And_Die_143.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-142/",
-  "next": "/eatshitanddie/eat-shit-and-die-144/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-142/",
-  "next": "/eatshitanddie/eat-shit-and-die-144/"
- },
- "commentCount": 8,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Here&#8217;s a comic about Trent.</p>",
  "comments": [
   {
    "id": 697,
    "author": "Winston Rowntree",
+   "date": "2009-10-02T03:56",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "October 2, 2009 at 3:56 am",
-   "timeTitle": "Friday, October 2nd, 2009, 3:56 am",
-   "html": "<p>Nice one. I wanted to be batman when i was as old as 15, so he&#8217;s one up on me.</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>Nice one. I wanted to be batman when i was as old as 15, so he&#8217;s one up on me.</p>"
   },
   {
    "id": 716,
    "author": "b.patrick",
+   "date": "2009-10-02T21:32",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "October 2, 2009 at 9:32 pm",
-   "timeTitle": "Friday, October 2nd, 2009, 9:32 pm",
-   "html": "<p>Me too. It actually led to my being arrested &#8211; but that&#8217;s a whole other story&#8230;</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Me too. It actually led to my being arrested &#8211; but that&#8217;s a whole other story&#8230;</p>"
   },
   {
    "id": 913,
    "author": "sammichas",
+   "date": "2009-10-09T22:20",
    "url": "http://the-bloody-tap.blogspot.com/",
-   "avatar": "http://1.gravatar.com/avatar/1f94429199847179fae2d7cb18b988dc?s=64&d=identicon&r=r",
-   "time": "October 9, 2009 at 10:20 pm",
-   "timeTitle": "Friday, October 9th, 2009, 10:20 pm",
-   "html": "<p>nice  comic i like the idea!!</p>"
+   "avatar": "1f94429199847179fae2d7cb18b988dc",
+   "text": "<p>nice  comic i like the idea!!</p>"
   },
   {
    "id": 1001,
    "author": "Renee",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/581b6e7165ec4ca1d0ad5bfe7d91ab3b?s=64&d=identicon&r=r",
-   "time": "October 23, 2009 at 4:49 pm",
-   "timeTitle": "Friday, October 23rd, 2009, 4:49 pm",
-   "html": "<p>I wanted to be Superman, but I couldn&#8217;t figure out how to change my biological makeup to match that of a Kryptonian&#8217;s.</p>"
+   "date": "2009-10-23T16:49",
+   "avatar": "581b6e7165ec4ca1d0ad5bfe7d91ab3b",
+   "text": "<p>I wanted to be Superman, but I couldn&#8217;t figure out how to change my biological makeup to match that of a Kryptonian&#8217;s.</p>"
   },
   {
    "id": 1015,
    "author": "50mfreestyle",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/87cbfdc8e8f38ea4b6fe0f17e9852776?s=64&d=identicon&r=r",
-   "time": "October 24, 2009 at 9:13 pm",
-   "timeTitle": "Saturday, October 24th, 2009, 9:13 pm",
-   "html": "<p>B.Patrick &#8211; you rule.  I love your site.  I&#8217;d love to see more &#8220;Curious Ugency&#8221; and to know if you had plans for more &#8220;my boyfriend smells.&#8221;  Of course, &#8220;Eat Shit and Die&#8221; is always classic.</p>"
+   "date": "2009-10-24T21:13",
+   "avatar": "87cbfdc8e8f38ea4b6fe0f17e9852776",
+   "text": "<p>B.Patrick &#8211; you rule.  I love your site.  I&#8217;d love to see more &#8220;Curious Ugency&#8221; and to know if you had plans for more &#8220;my boyfriend smells.&#8221;  Of course, &#8220;Eat Shit and Die&#8221; is always classic.</p>"
   },
   {
    "id": 1095,
    "author": "bryan",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/691e417e63592be292b8fa3a510add21?s=64&d=identicon&r=r",
-   "time": "November 6, 2009 at 8:02 pm",
-   "timeTitle": "Friday, November 6th, 2009, 8:02 pm",
-   "html": "<p>why have you stopped updating???</p>"
+   "date": "2009-11-06T20:02",
+   "avatar": "691e417e63592be292b8fa3a510add21",
+   "text": "<p>why have you stopped updating???</p>"
   },
   {
    "id": 1096,
    "author": "b.patrick",
+   "date": "2009-11-06T22:16",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "November 6, 2009 at 10:16 pm",
-   "timeTitle": "Friday, November 6th, 2009, 10:16 pm",
-   "html": "<p>Aaarggh, sorry everyone. My new school schedule took over my whole life &#8211; but it&#8217;s let up now. Updates this weekend for sure and on a regular basis for a few months (at least).<br />\n@50mfreestyle: Thanks, and I do have plans for more &#8220;My Boyfriend Smells&#8221;. I underestimated how long they would take to color and so have put them aside to get other stuff out faster.<br />\nThanks to everyone still checking in!</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Aaarggh, sorry everyone. My new school schedule took over my whole life &#8211; but it&#8217;s let up now. Updates this weekend for sure and on a regular basis for a few months (at least).<br />\n@50mfreestyle: Thanks, and I do have plans for more &#8220;My Boyfriend Smells&#8221;. I underestimated how long they would take to color and so have put them aside to get other stuff out faster.<br />\nThanks to everyone still checking in!</p>"
   },
   {
    "id": 6665,
    "author": "Simim",
+   "date": "2011-04-16T19:44",
    "url": "http://www.facebook.com/simim23",
-   "avatar": "http://1.gravatar.com/avatar/7db39e6bb877e954f9a553b4e2611ca9?s=64&d=identicon&r=r",
-   "time": "April 16, 2011 at 7:44 pm",
-   "timeTitle": "Saturday, April 16th, 2011, 7:44 pm",
-   "html": "<p>Dude, I *still* wanna be a post-apocalyptic zombie killer, or, potentially, a zombie, thereby extending my career options way past post-mortem limitations.</p>"
+   "avatar": "7db39e6bb877e954f9a553b4e2611ca9",
+   "text": "<p>Dude, I *still* wanna be a post-apocalyptic zombie killer, or, potentially, a zombie, thereby extending my career options way past post-mortem limitations.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 143",
-  "bodyClass": "post-template-default single single-post postid-465 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 143",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-10-01-Eat_Shit_And_Die_143.jpg"
- }
+ ]
 }

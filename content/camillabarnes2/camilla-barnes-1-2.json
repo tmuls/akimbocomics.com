@@ -1,151 +1,91 @@
 {
- "path": "/camillabarnes2/camilla-barnes-1-2/",
- "series": "camillabarnes2",
- "slug": "camilla-barnes-1-2",
- "id": 674,
  "title": "Camilla Barnes 1",
  "author": "bpatrick",
- "date": "July 8, 2011",
- "time": "12:00 am",
- "datetime": "2011-07-08T00:00:00",
- "categories": [
-  {
-   "title": "Camilla Barnes 2",
-   "href": "/camillabarnes2/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-674 post type-post status-publish format-standard hentry category-camillabarnes2 uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-07-08T00:00",
  "images": [
-  {
-   "src": "2011-07-08-Camilla_Barnes_1.jpg",
-   "alt": "Camilla Barnes 1",
-   "title": "Camilla Barnes 1"
-  }
+  "2011-07-08-Camilla_Barnes_1.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-49/",
-  "next": "/vivianblank/vivian-blank-21/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-49/",
-  "next": "/vivianblank/vivian-blank-21/"
- },
- "commentCount": 11,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 8714,
    "author": "emulsifier",
+   "date": "2011-07-08T21:45",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
-   "time": "July 8, 2011 at 9:45 pm",
-   "timeTitle": "Friday, July 8th, 2011, 9:45 pm",
-   "html": "<p>I love this series.  Although I liked the original subtitle better.  Or at least what I think in my head every time I read this one.</p>",
-   "byAuthor": "emulsifier"
+   "avatar": "cd7434b888539623dcbb7ea85f17b601",
+   "text": "<p>I love this series.  Although I liked the original subtitle better.  Or at least what I think in my head every time I read this one.</p>"
   },
   {
    "id": 8715,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "July 8, 2011 at 9:46 pm",
-   "timeTitle": "Friday, July 8th, 2011, 9:46 pm",
-   "html": "<p>wow her ass is really big in this one</p>"
+   "date": "2011-07-08T21:46",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>wow her ass is really big in this one</p>"
   },
   {
    "id": 8717,
    "author": "RatB",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8b3b23e6dc1d4c31d12ade93f819267f?s=64&d=identicon&r=r",
-   "time": "July 9, 2011 at 12:03 am",
-   "timeTitle": "Saturday, July 9th, 2011, 12:03 am",
-   "html": "<p>Even white boys got to shout</p>"
+   "date": "2011-07-09T00:03",
+   "avatar": "8b3b23e6dc1d4c31d12ade93f819267f",
+   "text": "<p>Even white boys got to shout</p>"
   },
   {
    "id": 8720,
    "author": "Phil C.",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c52325397493673acc10fc4ba8e48ae9?s=64&d=identicon&r=r",
-   "time": "July 9, 2011 at 3:03 am",
-   "timeTitle": "Saturday, July 9th, 2011, 3:03 am",
-   "html": "<p>She&#8217;s BACK! So delighted you&#8217;re taking this one up again. I love the reactions of the guys that encounter her. I also love that she&#8217;s a big curvy girl instead of a stick-thin waif. Never understood the Kate Moss attraction thing&#8230;..</p>\n<p>Keep writing and drawing!</p>\n<p>cheers,<br />\nPhil</p>"
+   "date": "2011-07-09T03:03",
+   "avatar": "c52325397493673acc10fc4ba8e48ae9",
+   "text": "<p>She&#8217;s BACK! So delighted you&#8217;re taking this one up again. I love the reactions of the guys that encounter her. I also love that she&#8217;s a big curvy girl instead of a stick-thin waif. Never understood the Kate Moss attraction thing&#8230;..</p>\n<p>Keep writing and drawing!</p>\n<p>cheers,<br />\nPhil</p>"
   },
   {
    "id": 8722,
    "author": "Motmaitre",
+   "date": "2011-07-09T09:37",
    "url": "http://www.blackflycomic.com",
-   "avatar": "http://0.gravatar.com/avatar/63725a25bde9ab541e1bb68c5c5a09eb?s=64&d=identicon&r=r",
-   "time": "July 9, 2011 at 9:37 am",
-   "timeTitle": "Saturday, July 9th, 2011, 9:37 am",
-   "html": "<p>Ah yes. A big, gorgeous butt will lure any man away from his sweetheart. I too have many a rotund, magnificient butt portrayed on my webcomic. And my babes are hotter than she is, I declare! Decide for yourself at <a href=\"http://www.blackflycomic.com\" rel=\"nofollow\">http://www.blackflycomic.com</a> (largely NSFW)</p>"
+   "avatar": "63725a25bde9ab541e1bb68c5c5a09eb",
+   "text": "<p>Ah yes. A big, gorgeous butt will lure any man away from his sweetheart. I too have many a rotund, magnificient butt portrayed on my webcomic. And my babes are hotter than she is, I declare! Decide for yourself at <a href=\"http://www.blackflycomic.com\" rel=\"nofollow\">http://www.blackflycomic.com</a> (largely NSFW)</p>"
   },
   {
    "id": 8724,
    "author": "kitschbot",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8480f829bb5be3a8f8d9cadbc3f745a9?s=64&d=identicon&r=r",
-   "time": "July 9, 2011 at 6:01 pm",
-   "timeTitle": "Saturday, July 9th, 2011, 6:01 pm",
-   "html": "<p>Phil C., I don&#8217;t mean to be hypercritical but that isn&#8217;t a big curvy girl&#8230; she&#8217;s a normal sized girl with a lump on her ass and bigger tits than usual. Big girls have bigger everything and this one isn&#8217;t very curved.</p>\n<p>And what&#8217;s up with her feet? She was born with 5 inch heels? I&#8217;ll take all those as part of the joke though huh.</p>"
+   "date": "2011-07-09T18:01",
+   "avatar": "8480f829bb5be3a8f8d9cadbc3f745a9",
+   "text": "<p>Phil C., I don&#8217;t mean to be hypercritical but that isn&#8217;t a big curvy girl&#8230; she&#8217;s a normal sized girl with a lump on her ass and bigger tits than usual. Big girls have bigger everything and this one isn&#8217;t very curved.</p>\n<p>And what&#8217;s up with her feet? She was born with 5 inch heels? I&#8217;ll take all those as part of the joke though huh.</p>"
   },
   {
    "id": 8728,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "July 10, 2011 at 1:46 am",
-   "timeTitle": "Sunday, July 10th, 2011, 1:46 am",
-   "html": "<p>I really enjoy the &#8220;idea&#8221; of a single avatar of pinnacle beauty, even tho it is a completely ridiculous concept. Still should be an interesting read.</p>"
+   "date": "2011-07-10T01:46",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>I really enjoy the &#8220;idea&#8221; of a single avatar of pinnacle beauty, even tho it is a completely ridiculous concept. Still should be an interesting read.</p>"
   },
   {
    "id": 8732,
    "author": "Motmaitre",
+   "date": "2011-07-10T06:31",
    "url": "http://www.blackflycomic.com",
-   "avatar": "http://0.gravatar.com/avatar/63725a25bde9ab541e1bb68c5c5a09eb?s=64&d=identicon&r=r",
-   "time": "July 10, 2011 at 6:31 am",
-   "timeTitle": "Sunday, July 10th, 2011, 6:31 am",
-   "html": "<p>Kitschbot, I assure you it is not true that big girls have big everything. Women like this are quite common in Africa. Google &#8216;Angel Lola Love&#8217;, Buffie the Body&#8217; &#8216;Pebbelz da model&#8217; and &#8216;Cherokee d&#8217;ass&#8217;. They all have disproportionally huge derrieres. Granted they&#8217;re all black, and it&#8217;s rare to find a white girl buikt like this. However, Kim Kardashian, A plumper J-lo and a gorgeous white model called Courtney Black all have backsides like this. Google them and prepare to be floored.</p>"
+   "avatar": "63725a25bde9ab541e1bb68c5c5a09eb",
+   "text": "<p>Kitschbot, I assure you it is not true that big girls have big everything. Women like this are quite common in Africa. Google &#8216;Angel Lola Love&#8217;, Buffie the Body&#8217; &#8216;Pebbelz da model&#8217; and &#8216;Cherokee d&#8217;ass&#8217;. They all have disproportionally huge derrieres. Granted they&#8217;re all black, and it&#8217;s rare to find a white girl buikt like this. However, Kim Kardashian, A plumper J-lo and a gorgeous white model called Courtney Black all have backsides like this. Google them and prepare to be floored.</p>"
   },
   {
    "id": 8740,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "July 11, 2011 at 2:31 am",
-   "timeTitle": "Monday, July 11th, 2011, 2:31 am",
-   "html": "<p>I think Kitschbot likes his girls bigger than the ones you described. His definition of &#8220;big curvy girl&#8221; is just different than yours.</p>"
+   "date": "2011-07-11T02:31",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>I think Kitschbot likes his girls bigger than the ones you described. His definition of &#8220;big curvy girl&#8221; is just different than yours.</p>"
   },
   {
    "id": 8754,
    "author": "b.patrick",
+   "date": "2011-07-11T23:58",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "July 11, 2011 at 11:58 pm",
-   "timeTitle": "Monday, July 11th, 2011, 11:58 pm",
-   "html": "<p>@kitschbot: Any charges of stereotypical adolescent male behavior leveled at me will undoubtedly prove to be valid &#8211; but I do make an effort. I try to have some interesting multi-dimensional female characters and while every story/comic may not, the site as a whole at least passes the Bechdel Test.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>@kitschbot: Any charges of stereotypical adolescent male behavior leveled at me will undoubtedly prove to be valid &#8211; but I do make an effort. I try to have some interesting multi-dimensional female characters and while every story/comic may not, the site as a whole at least passes the Bechdel Test.</p>"
   },
   {
    "id": 8809,
    "author": "kitschbot",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8480f829bb5be3a8f8d9cadbc3f745a9?s=64&d=identicon&r=r",
-   "time": "July 15, 2011 at 7:31 pm",
-   "timeTitle": "Friday, July 15th, 2011, 7:31 pm",
-   "html": "<p>Motmaitre, I wasn&#8217;t saying girls like that don&#8217;t exist, but they don&#8217;t count as &#8220;big girls&#8221; for me. If you consider those women &#8220;big&#8221;, I question your standard of &#8220;skinny&#8221;. Jonny Paycheck got it, although I&#8217;m not a he nor do I have a thing for big girls (untested, but pretty sure my skinny ass boyfriend is somewhat proof).</p>\n<p>b.patrick, I think it was precisely because I usually find your comics insightful and your humor intelligent that I was surprised to see this. Now that you mention the Bechdel Test, I may have to inspect to see if you live up to that claim. 😉 I kid, but I certainly have noticed that you do make an effort, otherwise I wouldn&#8217;t be coming here all the time making controversial comments!</p>"
+   "date": "2011-07-15T19:31",
+   "avatar": "8480f829bb5be3a8f8d9cadbc3f745a9",
+   "text": "<p>Motmaitre, I wasn&#8217;t saying girls like that don&#8217;t exist, but they don&#8217;t count as &#8220;big girls&#8221; for me. If you consider those women &#8220;big&#8221;, I question your standard of &#8220;skinny&#8221;. Jonny Paycheck got it, although I&#8217;m not a he nor do I have a thing for big girls (untested, but pretty sure my skinny ass boyfriend is somewhat proof).</p>\n<p>b.patrick, I think it was precisely because I usually find your comics insightful and your humor intelligent that I was surprised to see this. Now that you mention the Bechdel Test, I may have to inspect to see if you live up to that claim. 😉 I kid, but I certainly have noticed that you do make an effort, otherwise I wouldn&#8217;t be coming here all the time making controversial comments!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Camilla Barnes 1",
-  "bodyClass": "post-template-default single single-post postid-674 single-format-standard user-guest comic unknown single-category-camillabarnes2 single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Camilla Barnes 1",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-07-08-Camilla_Barnes_1.jpg"
- }
+ ]
 }

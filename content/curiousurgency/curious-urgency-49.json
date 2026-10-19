@@ -1,87 +1,40 @@
 {
- "path": "/curiousurgency/curious-urgency-49/",
- "series": "curiousurgency",
- "slug": "curious-urgency-49",
- "id": 673,
  "title": "Curious Urgency 49",
  "author": "bpatrick",
- "date": "July 7, 2011",
- "time": "12:00 am",
- "datetime": "2011-07-07T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>You guys are the best. I wish I had time to respond to comments more often. Just know that I appreciate every one (<em>more</em> than Jonny Paycheck does!) I&#8217;ve got week left before I bail on my second master&#8217;s and knuckle down to some comics for a few weeks. &#8216;Til then, here&#8217;s some <em>Curious</em>. </p>",
- "postClass": "post-673 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-07-07T00:00",
  "images": [
-  {
-   "src": "2011-07-07-Curious_Urgency_49.jpg",
-   "alt": "Curious Urgency 49",
-   "title": "Curious Urgency 49"
-  }
+  "2011-07-07-Curious_Urgency_49.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-190/",
-  "next": "/camillabarnes2/camilla-barnes-1-2/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-190/",
-  "next": "/camillabarnes2/camilla-barnes-1-2/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>You guys are the best. I wish I had time to respond to comments more often. Just know that I appreciate every one (<em>more</em> than Jonny Paycheck does!) I&#8217;ve got week left before I bail on my second master&#8217;s and knuckle down to some comics for a few weeks. &#8216;Til then, here&#8217;s some <em>Curious</em>. </p>",
  "comments": [
   {
    "id": 8707,
    "author": "Cartoondave",
+   "date": "2011-07-08T06:51",
    "url": "http://www.davecharlton.org",
-   "avatar": "http://0.gravatar.com/avatar/62a8e81a12c99e40de2a6a2134882b2d?s=64&d=identicon&r=r",
-   "time": "July 8, 2011 at 6:51 am",
-   "timeTitle": "Friday, July 8th, 2011, 6:51 am",
-   "html": "<p>I love Curious Urgency. Nice work.</p>"
+   "avatar": "62a8e81a12c99e40de2a6a2134882b2d",
+   "text": "<p>I love Curious Urgency. Nice work.</p>"
   },
   {
    "id": 8710,
    "author": "steve",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b43ced333b790d6f06b19dc18f7ace5c?s=64&d=identicon&r=r",
-   "time": "July 8, 2011 at 11:24 am",
-   "timeTitle": "Friday, July 8th, 2011, 11:24 am",
-   "html": "<p>No, YOU&#8217;re the best.</p>"
+   "date": "2011-07-08T11:24",
+   "avatar": "b43ced333b790d6f06b19dc18f7ace5c",
+   "text": "<p>No, YOU&#8217;re the best.</p>"
   },
   {
    "id": 8711,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "July 8, 2011 at 4:46 pm",
-   "timeTitle": "Friday, July 8th, 2011, 4:46 pm",
-   "html": "<p>Another master&#8217;s? I&#8217;m giving you all my good karma for this week, so just relax and let the good times roll. I&#8217;ll appreciate the comments in your absence.</p>"
+   "date": "2011-07-08T16:46",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Another master&#8217;s? I&#8217;m giving you all my good karma for this week, so just relax and let the good times roll. I&#8217;ll appreciate the comments in your absence.</p>"
   },
   {
    "id": 8824,
    "author": "Jamie",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e254c43b0c6f34bf377cf07d095e2ac6?s=64&d=identicon&r=r",
-   "time": "July 16, 2011 at 9:22 pm",
-   "timeTitle": "Saturday, July 16th, 2011, 9:22 pm",
-   "html": "<p>Loved the touch with the window, really nice work man, really nice. (I could just be insane though)</p>"
+   "date": "2011-07-16T21:22",
+   "avatar": "e254c43b0c6f34bf377cf07d095e2ac6",
+   "text": "<p>Loved the touch with the window, really nice work man, really nice. (I could just be insane though)</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 49",
-  "bodyClass": "post-template-default single single-post postid-673 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 49",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-07-07-Curious_Urgency_49.jpg"
- }
+ ]
 }

@@ -20,6 +20,7 @@ Fails if any page differs or a site/ page has no generated counterpart.
 import argparse
 import difflib
 import html
+import posixpath
 import re
 import sys
 from pathlib import Path
@@ -28,10 +29,6 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 from htmltree import parse  # noqa: E402
 
-import importlib.util  # noqa: E402
-spec = importlib.util.spec_from_file_location("extract", HERE / "extract-content.py")
-extract = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(extract)
 
 WWW = HERE.parent / "www"
 SITE = None  # --site
@@ -44,6 +41,31 @@ DROPPED_TEXT = [
 # URLs the old pages linked that are dead or dropped with the text above.
 DROPPED_URL = re.compile(r"^(https?:)?//(connect\.facebook\.net|www\.projectwonderful\.com|"
                          r"www\.google-analytics\.com|s\.w\.org)|^https?://akimbocomics\.com/\?feed=")
+
+
+def to_root(href, page):
+    """A link as written in the export -> root-relative URL.
+
+    `page` is the URL of the folder holding the page (/a/b/). Folder links
+    (x/index.html) become /x/; files keep their name; absolute, protocol,
+    mailto: and #fragment links are left alone.
+    """
+    if not href or re.match(r"^([a-z][a-z0-9+.-]*:|//|#|/)", href, re.I):
+        return href
+    frag = ""
+    if "#" in href:
+        href, frag = href.split("#", 1)
+        frag = "#" + frag
+    if not href:
+        return page + frag
+    url = posixpath.normpath(posixpath.join(page, href))
+    if url == "/index.html" or url == "/.":
+        url = "/"
+    elif url.endswith("/index.html"):
+        url = url[: -len("index.html")]
+    elif not posixpath.splitext(url)[1] and not url.endswith("/"):
+        url += "/"
+    return url + frag
 
 
 def visible(doc):
@@ -76,9 +98,12 @@ def urls(doc, page, old):
                 continue
             v = html.unescape(v)
             if old:
-                v = extract.to_root(v, page)
+                v = to_root(v, page)
             if v.startswith("#"):
                 v = page + v  # in-page anchors: both forms are fine
+            m = re.match(r"^(?:https?:)?//(?:[0-9]|secure)\.gravatar\.com/avatar/([0-9a-f]{32})", v)
+            if m:
+                v = "gravatar:" + m.group(1)  # http://0.gravatar.com -> https://secure.gravatar.com
             if v.endswith("#outside"):
                 v = v[: -len("outside")] + "page-head"  # "Back to Top": the old anchor didn't exist
             if not DROPPED_URL.search(v):

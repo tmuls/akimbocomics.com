@@ -1,60 +1,17 @@
 {
- "path": "/bobandbob/bob-and-bob-6/",
- "series": "bobandbob",
- "slug": "bob-and-bob-6",
- "id": 16,
  "title": "Bob And Bob 6",
  "author": "emulsifier",
- "date": "April 23, 2008",
- "time": "12:00 am",
- "datetime": "2008-04-23T00:00:00",
- "categories": [
-  {
-   "title": "Bob and Bob",
-   "href": "/bobandbob/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-16 post type-post status-publish format-standard hentry category-bobandbob uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-04-23T00:00",
  "images": [
-  {
-   "src": "2008-04-23-Bob_And_Bob_6.jpg",
-   "alt": "Bob And Bob 6",
-   "title": "Bob And Bob 6"
-  }
+  "2008-04-23-Bob_And_Bob_6.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/bobandbob/bob-and-bob-5/",
-  "next": "/bobandbob/bob-and-bob-7/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/bobandbob/bob-and-bob-5/",
-  "next": "/bobandbob/bob-and-bob-7/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1059176,
    "author": "N10ae",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/4ae1c4db0e03f83c72e81723d89ed8eb?s=64&d=identicon&r=r",
-   "time": "May 31, 2015 at 3:56 pm",
-   "timeTitle": "Sunday, May 31st, 2015, 3:56 pm",
-   "html": "<p>What a bitch! It&#8217;s not like he asked for this shit</p>"
+   "date": "2015-05-31T15:56",
+   "avatar": "4ae1c4db0e03f83c72e81723d89ed8eb",
+   "text": "<p>What a bitch! It&#8217;s not like he asked for this shit</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob And Bob 6",
-  "bodyClass": "post-template-default single single-post postid-16 single-format-standard user-guest comic unknown single-category-bobandbob single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Bob And Bob 6",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-04-23-Bob_And_Bob_6.jpg"
- }
+ ]
 }

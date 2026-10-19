@@ -1,60 +1,17 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-26/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-26",
- "id": 106,
  "title": "Eat Shit And Die 26",
  "author": "emulsifier",
- "date": "July 18, 2008",
- "time": "12:00 am",
- "datetime": "2008-07-18T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-106 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-07-18T00:00",
  "images": [
-  {
-   "src": "2008-07-18-Eat_Shit_And_Die_26.jpg",
-   "alt": "Eat Shit And Die 26",
-   "title": "Eat Shit And Die 26"
-  }
+  "2008-07-18-Eat_Shit_And_Die_26.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-25/",
-  "next": "/eatshitanddie/eat-shit-and-die-27/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-25/",
-  "next": "/eatshitanddie/eat-shit-and-die-27/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 239723,
    "author": "rholliday",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0ec5c3c154597b564f37e0c3c0aae9ae?s=64&d=identicon&r=r",
-   "time": "September 20, 2013 at 1:04 am",
-   "timeTitle": "Friday, September 20th, 2013, 1:04 am",
-   "html": "<p>Just started reading your stuff. This one really hits home.</p>"
+   "date": "2013-09-20T01:04",
+   "avatar": "0ec5c3c154597b564f37e0c3c0aae9ae",
+   "text": "<p>Just started reading your stuff. This one really hits home.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 26",
-  "bodyClass": "post-template-default single single-post postid-106 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 26",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-07-18-Eat_Shit_And_Die_26.jpg"
- }
+ ]
 }

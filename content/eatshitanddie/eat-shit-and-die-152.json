@@ -1,114 +1,62 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-152/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-152",
- "id": 495,
  "title": "eat shit & die 152",
  "author": "bpatrick",
- "date": "January 13, 2010",
- "time": "12:00 am",
- "datetime": "2010-01-13T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-495 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2010-01-13T00:00",
  "images": [
-  {
-   "src": "2010-01-13-Eat_Shit_And_Die_152.jpg",
-   "alt": "eat shit & die 152",
-   "title": "eat shit & die 152"
-  }
+  "2010-01-13-Eat_Shit_And_Die_152.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-151/",
-  "next": "/eatshitanddie/eat-shit-and-die-153/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-151/",
-  "next": "/eatshitanddie/eat-shit-and-die-153/"
- },
- "commentCount": 7,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1303,
    "author": "Pavel",
+   "date": "2010-01-13T23:11",
    "url": "http://postfarm.net/",
-   "avatar": "http://0.gravatar.com/avatar/91fe978bf915be2ae1e7f69756af96f8?s=64&d=identicon&r=r",
-   "time": "January 13, 2010 at 11:11 pm",
-   "timeTitle": "Wednesday, January 13th, 2010, 11:11 pm",
-   "html": "<p>Holy shit. Wisdom.</p>"
+   "avatar": "91fe978bf915be2ae1e7f69756af96f8",
+   "text": "<p>Holy shit. Wisdom.</p>"
   },
   {
    "id": 1308,
    "author": "Cathany",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c5aadbb5b9725678f769115229802c5f?s=64&d=identicon&r=r",
-   "time": "January 14, 2010 at 12:45 pm",
-   "timeTitle": "Thursday, January 14th, 2010, 12:45 pm",
-   "html": "<p>Love this comic.  Love, love, love.  You&#8217;re bloody brilliant, and I mean that.</p>"
+   "date": "2010-01-14T12:45",
+   "avatar": "c5aadbb5b9725678f769115229802c5f",
+   "text": "<p>Love this comic.  Love, love, love.  You&#8217;re bloody brilliant, and I mean that.</p>"
   },
   {
    "id": 1310,
    "author": "Winston Rowntree",
+   "date": "2010-01-15T19:37",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "January 15, 2010 at 7:37 pm",
-   "timeTitle": "Friday, January 15th, 2010, 7:37 pm",
-   "html": "<p>Ha, this is you at your best, sir. Very well done indeed. That ending is just perfect&#8230;</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>Ha, this is you at your best, sir. Very well done indeed. That ending is just perfect&#8230;</p>"
   },
   {
    "id": 1311,
    "author": "Offendi",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6666fae936096f5be818b7bb6ab5e7fb?s=64&d=identicon&r=r",
-   "time": "January 16, 2010 at 6:13 pm",
-   "timeTitle": "Saturday, January 16th, 2010, 6:13 pm",
-   "html": "<p>I should probably pitch in my appreciation for Akimbo too, yes?</p>\n<p>When I started reading from the beginning I didn&#8217;t know you&#8217;d had a site change, you see, so I was treated to a wordless succession of amazingly bleak stories, filled with shit and cum and blood arranged at least as artfully as your godly excrement artist. And because there were hardly any comments in those early strips, I was filled with the awe of someone obviously brilliant at his job, but surrounded by so much self-doubt and underappreciation that he was driven to something like the webcomic-bottle-thrown-into-the-dark page. (I suppose that&#8217;s what happens when you experience art without seeing analysis or critique or author&#8217;s notes &#8212; the story overwhelms you fully and directly.)</p>\n<p>I&#8217;m not sure if you&#8217;re quite as dramatically tortured as I&#8217;d imagined, but&#8230; uh&#8230; Thank you for the excellent misconception? I thoroughly enjoyed my archive binge. And I apologize for my confusing attempt at a compliment.</p>"
+   "date": "2010-01-16T18:13",
+   "avatar": "6666fae936096f5be818b7bb6ab5e7fb",
+   "text": "<p>I should probably pitch in my appreciation for Akimbo too, yes?</p>\n<p>When I started reading from the beginning I didn&#8217;t know you&#8217;d had a site change, you see, so I was treated to a wordless succession of amazingly bleak stories, filled with shit and cum and blood arranged at least as artfully as your godly excrement artist. And because there were hardly any comments in those early strips, I was filled with the awe of someone obviously brilliant at his job, but surrounded by so much self-doubt and underappreciation that he was driven to something like the webcomic-bottle-thrown-into-the-dark page. (I suppose that&#8217;s what happens when you experience art without seeing analysis or critique or author&#8217;s notes &#8212; the story overwhelms you fully and directly.)</p>\n<p>I&#8217;m not sure if you&#8217;re quite as dramatically tortured as I&#8217;d imagined, but&#8230; uh&#8230; Thank you for the excellent misconception? I thoroughly enjoyed my archive binge. And I apologize for my confusing attempt at a compliment.</p>"
   },
   {
    "id": 1312,
    "author": "Augh",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3ee62dcfc2a1170bb7d4fa847c715f6c?s=64&d=identicon&r=r",
-   "time": "January 16, 2010 at 7:10 pm",
-   "timeTitle": "Saturday, January 16th, 2010, 7:10 pm",
-   "html": "<p>Archive binge completed! RSS subscribed. Love your work.<br />\nYou even helped me learn for my exams: read some slides, read a page of ES&amp;D, read some slides, read a page of Vivian Blank, read some slides&#8230; Great way to keep up my motivation. Thanks!</p>"
+   "date": "2010-01-16T19:10",
+   "avatar": "3ee62dcfc2a1170bb7d4fa847c715f6c",
+   "text": "<p>Archive binge completed! RSS subscribed. Love your work.<br />\nYou even helped me learn for my exams: read some slides, read a page of ES&amp;D, read some slides, read a page of Vivian Blank, read some slides&#8230; Great way to keep up my motivation. Thanks!</p>"
   },
   {
    "id": 1317,
    "author": "b.patrick",
+   "date": "2010-01-18T02:42",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "January 18, 2010 at 2:42 am",
-   "timeTitle": "Monday, January 18th, 2010, 2:42 am",
-   "html": "<p>Pavel: Thanks!<br />\nCathany: Thank you so much! It&#8217;s nice to know I haven&#8217;t alienated every woman out there. Yet.<br />\nWinston: Thanks, man! Just tryin&#8217; to keep up.<br />\nOffendi: Thanks for the very clear compliment! I don&#8217;t know how tortured the average person is or where I measure up but I feel like if I was really good at what I did I&#8217;d come across a lot more tortured, which makes me kind of sick to say but I guess that&#8217;s how it works.<br />\nAugh: Thanks! Always happy to help, especially with exams which are pretty obviously evil.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Pavel: Thanks!<br />\nCathany: Thank you so much! It&#8217;s nice to know I haven&#8217;t alienated every woman out there. Yet.<br />\nWinston: Thanks, man! Just tryin&#8217; to keep up.<br />\nOffendi: Thanks for the very clear compliment! I don&#8217;t know how tortured the average person is or where I measure up but I feel like if I was really good at what I did I&#8217;d come across a lot more tortured, which makes me kind of sick to say but I guess that&#8217;s how it works.<br />\nAugh: Thanks! Always happy to help, especially with exams which are pretty obviously evil.</p>"
   },
   {
    "id": 6464,
    "author": "Chuck F.",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ca1a357053540be055a1dd380b48954e?s=64&d=identicon&r=r",
-   "time": "April 4, 2011 at 3:06 am",
-   "timeTitle": "Monday, April 4th, 2011, 3:06 am",
-   "html": "<p>Unfortunately, most people who continue drinking excessively turn into full alcoholics. Once you cross the line you can&#8217;t go back.</p>\n<p>Take a cucumber. Drop it into a vat of vinegar with dill and spices, then wait. What do you get? You get a pickle.</p>\n<p>Now take that pickle and make it a cucumber again.</p>\n<p>Same with alcoholism.</p>\n<p>(This doesn&#8217;t change the fact that I loved the comic.)</p>"
+   "date": "2011-04-04T03:06",
+   "avatar": "ca1a357053540be055a1dd380b48954e",
+   "text": "<p>Unfortunately, most people who continue drinking excessively turn into full alcoholics. Once you cross the line you can&#8217;t go back.</p>\n<p>Take a cucumber. Drop it into a vat of vinegar with dill and spices, then wait. What do you get? You get a pickle.</p>\n<p>Now take that pickle and make it a cucumber again.</p>\n<p>Same with alcoholism.</p>\n<p>(This doesn&#8217;t change the fact that I loved the comic.)</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 152",
-  "bodyClass": "post-template-default single single-post postid-495 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 152",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-01-13-Eat_Shit_And_Die_152.jpg"
- }
+ ]
 }

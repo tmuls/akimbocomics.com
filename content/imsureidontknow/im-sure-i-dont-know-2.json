@@ -1,60 +1,17 @@
 {
- "path": "/imsureidontknow/im-sure-i-dont-know-2/",
- "series": "imsureidontknow",
- "slug": "im-sure-i-dont-know-2",
- "id": 226,
  "title": "Im Sure I Dont Know 2",
  "author": "emulsifier",
- "date": "October 26, 2008",
- "time": "12:00 am",
- "datetime": "2008-10-26T00:00:00",
- "categories": [
-  {
-   "title": "I'm sure I don't know",
-   "href": "/imsureidontknow/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-226 post type-post status-publish format-standard hentry category-imsureidontknow uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-10-26T00:00",
  "images": [
-  {
-   "src": "2008-10-26-Im_Sure_I_Dont_Know_2.jpg",
-   "alt": "Im Sure I Dont Know 2",
-   "title": "Im Sure I Dont Know 2"
-  }
+  "2008-10-26-Im_Sure_I_Dont_Know_2.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/imsureidontknow/im-sure-i-dont-know-1/",
-  "next": "/imsureidontknow/im-sure-i-dont-know-3/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/imsureidontknow/im-sure-i-dont-know-1/",
-  "next": "/imsureidontknow/im-sure-i-dont-know-3/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 84271,
    "author": "nkh",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2b2a4a77a4731286a0fbb6bd0f53dd8f?s=64&d=identicon&r=r",
-   "time": "May 25, 2012 at 11:51 pm",
-   "timeTitle": "Friday, May 25th, 2012, 11:51 pm",
-   "html": "<p>&#8220;Patrick, Stuart,&#8230;&#8221; &#8230;. Patrick Stewart? Intentional?</p>"
+   "date": "2012-05-25T23:51",
+   "avatar": "2b2a4a77a4731286a0fbb6bd0f53dd8f",
+   "text": "<p>&#8220;Patrick, Stuart,&#8230;&#8221; &#8230;. Patrick Stewart? Intentional?</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Im Sure I Dont Know 2",
-  "bodyClass": "post-template-default single single-post postid-226 single-format-standard user-guest comic unknown single-category-imsureidontknow single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Im Sure I Dont Know 2",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-10-26-Im_Sure_I_Dont_Know_2.jpg"
- }
+ ]
 }

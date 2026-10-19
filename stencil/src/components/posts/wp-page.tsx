@@ -10,7 +10,7 @@ export class WpPage {
     const { page } = this;
     return (
       <div id="content" class="narrowcolumn">
-        <div class={`post-${page.id} page uentry post-page`}>
+        <div class="post page uentry">
           <div class="post-head"></div>
           <div class="post-content">
             <div class="post-info">
@@ -19,7 +19,7 @@ export class WpPage {
               </div>
             </div>
             <div class="clear"></div>
-            <div class="entry" innerHTML={`${page.html}<div class="clear"></div>`}></div>
+            <div class="entry" innerHTML={`${page.body}<div class="clear"></div>`}></div>
           </div>
           <div class="post-foot"></div>
         </div>

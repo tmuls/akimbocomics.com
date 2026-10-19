@@ -1,133 +1,76 @@
 {
- "path": "/curiousurgency/curious-urgency-38/",
- "series": "curiousurgency",
- "slug": "curious-urgency-38",
- "id": 558,
  "title": "Curious Urgency 38",
  "author": "bpatrick",
- "date": "August 27, 2010",
- "time": "12:00 am",
- "datetime": "2010-08-27T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Jonny Paycheck is calling for new Onan. Unless anyone else has any other suggestions I&#8217;m inclined to oblige him. </p>",
- "postClass": "post-558 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2010-08-27T00:00",
  "images": [
-  {
-   "src": "2010-08-27-Curious_Urgency_38.jpg",
-   "alt": "Curious Urgency 38",
-   "title": "Curious Urgency 38"
-  }
+  "2010-08-27-Curious_Urgency_38.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-162/",
-  "next": "/eatshitanddie/eat-shit-and-die-163/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-162/",
-  "next": "/eatshitanddie/eat-shit-and-die-163/"
- },
- "commentCount": 9,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Jonny Paycheck is calling for new Onan. Unless anyone else has any other suggestions I&#8217;m inclined to oblige him. </p>",
  "comments": [
   {
    "id": 4258,
    "author": "Garbledina",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a3e0bca04c0eaea28d08f0546c3b3052?s=64&d=identicon&r=r",
-   "time": "August 29, 2010 at 4:45 am",
-   "timeTitle": "Sunday, August 29th, 2010, 4:45 am",
-   "html": "<p>This is my favorite of all your stories so far. It&#8217;s simply stunning, gritty, and original. Does one person make these or what?</p>"
+   "date": "2010-08-29T04:45",
+   "avatar": "a3e0bca04c0eaea28d08f0546c3b3052",
+   "text": "<p>This is my favorite of all your stories so far. It&#8217;s simply stunning, gritty, and original. Does one person make these or what?</p>"
   },
   {
    "id": 4276,
    "author": "Och",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/904896a9a9dbe90eb25f05022a7e6595?s=64&d=identicon&r=r",
-   "time": "August 30, 2010 at 2:54 am",
-   "timeTitle": "Monday, August 30th, 2010, 2:54 am",
-   "html": "<p>I&#8217;ve started liking this one better than Vivian Blank, even. Good to see it~</p>"
+   "date": "2010-08-30T02:54",
+   "avatar": "904896a9a9dbe90eb25f05022a7e6595",
+   "text": "<p>I&#8217;ve started liking this one better than Vivian Blank, even. Good to see it~</p>"
   },
   {
    "id": 4354,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "September 7, 2010 at 11:16 pm",
-   "timeTitle": "Tuesday, September 7th, 2010, 11:16 pm",
-   "html": "<p>Omg this story is so gooooooooood, just everything is just great i can&#8217;t even explain it</p>"
+   "date": "2010-09-07T23:16",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>Omg this story is so gooooooooood, just everything is just great i can&#8217;t even explain it</p>"
   },
   {
    "id": 4389,
    "author": "whowhat",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b96b2f9f2a202fb7586a1ce48c6badbd?s=64&d=identicon&r=r",
-   "time": "September 22, 2010 at 7:32 am",
-   "timeTitle": "Wednesday, September 22nd, 2010, 7:32 am",
-   "html": "<p>So are you going to tell us what the fuck happened? First it seemed like you had just forgotten to rebuy your domain name or whatever, but then there were some huge douchebags&#8217; blogs.</p>"
+   "date": "2010-09-22T07:32",
+   "avatar": "b96b2f9f2a202fb7586a1ce48c6badbd",
+   "text": "<p>So are you going to tell us what the fuck happened? First it seemed like you had just forgotten to rebuy your domain name or whatever, but then there were some huge douchebags&#8217; blogs.</p>"
   },
   {
    "id": 4393,
    "author": "emulsifier",
+   "date": "2010-09-22T16:57",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
-   "time": "September 22, 2010 at 4:57 pm",
-   "timeTitle": "Wednesday, September 22nd, 2010, 4:57 pm",
-   "html": "<p>Repost from the &#8220;Akimbo isn&#8217;t dead yet&#8221; post:</p>\n<p>Haha, thanks for the comments/concern.  I&#8217;ll field this question.  Brian forgot to renew his domain, but the hosting is on my server (where I also have my douchebag blog) for some reason when he got everything straightened out my switch to activate Brian&#8217;s new domain (in case he couldn&#8217;t buy the old one back) apparently resulted in pointing the REAL domain to my blog.  Sorry about that, all is well for now.  As it turns out, the registrar Brian used is sort of difficult to deal with, he is in the process of transferring it to someone more reputable.  For now think happy thoughts and try to forget about the horrors you had seen.</p>",
-   "byAuthor": "emulsifier"
+   "avatar": "cd7434b888539623dcbb7ea85f17b601",
+   "text": "<p>Repost from the &#8220;Akimbo isn&#8217;t dead yet&#8221; post:</p>\n<p>Haha, thanks for the comments/concern.  I&#8217;ll field this question.  Brian forgot to renew his domain, but the hosting is on my server (where I also have my douchebag blog) for some reason when he got everything straightened out my switch to activate Brian&#8217;s new domain (in case he couldn&#8217;t buy the old one back) apparently resulted in pointing the REAL domain to my blog.  Sorry about that, all is well for now.  As it turns out, the registrar Brian used is sort of difficult to deal with, he is in the process of transferring it to someone more reputable.  For now think happy thoughts and try to forget about the horrors you had seen.</p>"
   },
   {
    "id": 4394,
    "author": "b.patrick",
+   "date": "2010-09-22T21:26",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "September 22, 2010 at 9:26 pm",
-   "timeTitle": "Wednesday, September 22nd, 2010, 9:26 pm",
-   "html": "<p>I thought the site with emulsifier&#8217;s pics was sweet! Sorry again for the interruption.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>I thought the site with emulsifier&#8217;s pics was sweet! Sorry again for the interruption.</p>"
   },
   {
    "id": 4395,
    "author": "Ivarian",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8fe46616d648cde4b652fd23056d4ac3?s=64&d=identicon&r=r",
-   "time": "September 23, 2010 at 3:17 am",
-   "timeTitle": "Thursday, September 23rd, 2010, 3:17 am",
-   "html": "<p>Just finished catching up on the archives, just wanted to say I love your work, the art the writing, its amazing. Also, I nearly had a heart attack when your site was down thinking I&#8217;d never get to read up on what had been there. Very glad Akimbo isn&#8217;t dead. ^.^</p>"
+   "date": "2010-09-23T03:17",
+   "avatar": "8fe46616d648cde4b652fd23056d4ac3",
+   "text": "<p>Just finished catching up on the archives, just wanted to say I love your work, the art the writing, its amazing. Also, I nearly had a heart attack when your site was down thinking I&#8217;d never get to read up on what had been there. Very glad Akimbo isn&#8217;t dead. ^.^</p>"
   },
   {
    "id": 4478,
    "author": "T52",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/89a2e462c57daec8da3df98f3c614264?s=64&d=identicon&r=r",
-   "time": "October 14, 2010 at 12:11 am",
-   "timeTitle": "Thursday, October 14th, 2010, 12:11 am",
-   "html": "<p>So many great details in this one. Love the silhouette of the hairy ape/wolf guy on the pipes in the upper right!</p>\n<p>Also, Curious Urgency is by far my favorite story on this site. Can we have some more, please?</p>"
+   "date": "2010-10-14T00:11",
+   "avatar": "89a2e462c57daec8da3df98f3c614264",
+   "text": "<p>So many great details in this one. Love the silhouette of the hairy ape/wolf guy on the pipes in the upper right!</p>\n<p>Also, Curious Urgency is by far my favorite story on this site. Can we have some more, please?</p>"
   },
   {
    "id": 4646,
    "author": "msr",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3cab8805b79974f967e06d6a5b7887d5?s=64&d=identicon&r=r",
-   "time": "November 13, 2010 at 3:21 am",
-   "timeTitle": "Saturday, November 13th, 2010, 3:21 am",
-   "html": "<p>I&#8217;m a big fan of this comic. Write more now. I bet you&#8217;d have a hit if you did it on a regular schedule.</p>"
+   "date": "2010-11-13T03:21",
+   "avatar": "3cab8805b79974f967e06d6a5b7887d5",
+   "text": "<p>I&#8217;m a big fan of this comic. Write more now. I bet you&#8217;d have a hit if you did it on a regular schedule.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 38",
-  "bodyClass": "post-template-default single single-post postid-558 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 38",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-08-27-Curious_Urgency_38.jpg"
- }
+ ]
 }

@@ -1,55 +1,12 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-130/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-130",
- "id": 350,
  "title": "Eat Shit And Die 130",
  "author": "bpatrick",
- "date": "February 8, 2009",
- "time": "12:00 am",
- "datetime": "2009-02-08T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2009-02-08T00:00",
  "tags": [
-  {
-   "title": "sex",
-   "href": "/tag/sex/"
-  }
+  "sex"
  ],
- "html": "",
- "postClass": "post-350 post type-post status-publish format-standard hentry category-eatshitanddie tag-sex uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2009-02-08-Eat_Shit_And_Die_130.jpg",
-   "alt": "Like a prince? Seriously?",
-   "title": "Like a prince? Seriously?"
-  }
+  "2009-02-08-Eat_Shit_And_Die_130.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-129/",
-  "next": "/really_deep_down/really-deep-down-2/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-129/",
-  "next": "/really_deep_down/really-deep-down-2/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 130",
-  "bodyClass": "post-template-default single single-post postid-350 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 130",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-02-08-Eat_Shit_And_Die_130.jpg"
- }
+ "hoverText": "Like a prince? Seriously?"
 }

@@ -1,74 +1,27 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-80/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-80",
- "id": 180,
  "title": "Eat Shit And Die 80",
  "author": "emulsifier",
- "date": "September 11, 2008",
- "time": "12:00 am",
- "datetime": "2008-09-11T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2008-09-11T00:00",
  "tags": [
-  {
-   "title": "breasts",
-   "href": "/tag/breasts/"
-  }
+  "breasts"
  ],
- "html": "",
- "postClass": "post-180 post type-post status-publish format-standard hentry category-eatshitanddie tag-breasts uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
  "images": [
-  {
-   "src": "2008-09-11-Eat_Shit_And_Die_80.jpg",
-   "alt": "Eat Shit And Die 80",
-   "title": "Eat Shit And Die 80"
-  }
+  "2008-09-11-Eat_Shit_And_Die_80.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-79/",
-  "next": "/eatshitanddie/eat-shit-and-die-81/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-79/",
-  "next": "/eatshitanddie/eat-shit-and-die-81/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 92381,
    "author": "d",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2badcad1514c9fdb404032262602fcc1?s=64&d=identicon&r=r",
-   "time": "July 30, 2012 at 10:46 pm",
-   "timeTitle": "Monday, July 30th, 2012, 10:46 pm",
-   "html": "<p>🙁</p>"
+   "date": "2012-07-30T22:46",
+   "avatar": "2badcad1514c9fdb404032262602fcc1",
+   "text": "<p>🙁</p>"
   },
   {
    "id": 1027431,
    "author": "Arjuna",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c9a01a3bc0978581befabafd624bf929?s=64&d=identicon&r=r",
-   "time": "February 12, 2015 at 6:20 am",
-   "timeTitle": "Thursday, February 12th, 2015, 6:20 am",
-   "html": "<p>this is horrifying&#8230; your older works are shit man&#8230; I&#8217;m glad you&#8217;ve improved with your recent stuff</p>"
+   "date": "2015-02-12T06:20",
+   "avatar": "c9a01a3bc0978581befabafd624bf929",
+   "text": "<p>this is horrifying&#8230; your older works are shit man&#8230; I&#8217;m glad you&#8217;ve improved with your recent stuff</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 80",
-  "bodyClass": "post-template-default single single-post postid-180 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 80",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-09-11-Eat_Shit_And_Die_80.jpg"
- }
+ ]
 }

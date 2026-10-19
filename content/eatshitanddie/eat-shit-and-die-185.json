@@ -1,78 +1,32 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-185/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-185",
- "id": 654,
  "title": "eat shit & die 185",
  "author": "bpatrick",
- "date": "May 27, 2011",
- "time": "12:00 am",
- "datetime": "2011-05-27T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-654 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-05-27T00:00",
  "images": [
-  {
-   "src": "2011-05-27-Eat_Shit_And_Die_185.jpg",
-   "alt": "every time",
-   "title": "every time"
-  }
+  "2011-05-27-Eat_Shit_And_Die_185.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-28/",
-  "next": "/eatshitanddie/eat-shit-and-die-186/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-28/",
-  "next": "/eatshitanddie/eat-shit-and-die-186/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "every time",
  "comments": [
   {
    "id": 7487,
    "author": "Kiara",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a7ac61f9aedf1e64e46282b8d762d514?s=64&d=identicon&r=r",
-   "time": "May 28, 2011 at 9:16 pm",
-   "timeTitle": "Saturday, May 28th, 2011, 9:16 pm",
-   "html": "<p>Haha true dat, homie</p>"
+   "date": "2011-05-28T21:16",
+   "avatar": "a7ac61f9aedf1e64e46282b8d762d514",
+   "text": "<p>Haha true dat, homie</p>"
   },
   {
    "id": 40984,
    "author": "Peter",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/4c8a9bec5a27b66b28d3c5cddeb70e93?s=64&d=identicon&r=r",
-   "time": "January 6, 2012 at 7:29 am",
-   "timeTitle": "Friday, January 6th, 2012, 7:29 am",
-   "html": "<p>One of my favorite things I&#8217;ve learned is how to forget about something as soon as I&#8217;ve done everything I can with it.</p>"
+   "date": "2012-01-06T07:29",
+   "avatar": "4c8a9bec5a27b66b28d3c5cddeb70e93",
+   "text": "<p>One of my favorite things I&#8217;ve learned is how to forget about something as soon as I&#8217;ve done everything I can with it.</p>"
   },
   {
    "id": 162992,
    "author": "Lucifer",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b77d2005ff0b6d590b52ac07b896a3ec?s=64&d=identicon&r=r",
-   "time": "December 31, 2012 at 3:10 pm",
-   "timeTitle": "Monday, December 31st, 2012, 3:10 pm",
-   "html": "<p>Your fans ,bro .All of those.</p>"
+   "date": "2012-12-31T15:10",
+   "avatar": "b77d2005ff0b6d590b52ac07b896a3ec",
+   "text": "<p>Your fans ,bro .All of those.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 185",
-  "bodyClass": "post-template-default single single-post postid-654 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 185",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-05-27-Eat_Shit_And_Die_185.jpg"
- }
+ ]
 }

@@ -1,69 +1,24 @@
 {
- "path": "/curiousurgency/curious-urgency-6/",
- "series": "curiousurgency",
- "slug": "curious-urgency-6",
- "id": 55,
  "title": "Curious Urgency 6",
  "author": "emulsifier",
- "date": "May 30, 2008",
- "time": "12:00 am",
- "datetime": "2008-05-30T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-55 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-05-30T00:00",
  "images": [
-  {
-   "src": "2008-05-30-Curious_Urgency_6.jpg",
-   "alt": "Curious Urgency 6",
-   "title": "Curious Urgency 6"
-  }
+  "2008-05-30-Curious_Urgency_6.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-5/",
-  "next": "/curiousurgency/curious-urgency-7/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-5/",
-  "next": "/curiousurgency/curious-urgency-7/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 85183,
    "author": "johhnydollar",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/820955a2509b131d073e3dd9854e0664?s=64&d=identicon&r=r",
-   "time": "May 30, 2012 at 11:15 pm",
-   "timeTitle": "Wednesday, May 30th, 2012, 11:15 pm",
-   "html": "<p>HA&#8230;Joey Bishop&#8230;nice.</p>"
+   "date": "2012-05-30T23:15",
+   "avatar": "820955a2509b131d073e3dd9854e0664",
+   "text": "<p>HA&#8230;Joey Bishop&#8230;nice.</p>"
   },
   {
    "id": 108904,
    "author": "Felix",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/213f88c61c24c6b17c26be4a6b29b9ec?s=64&d=identicon&r=r",
-   "time": "October 11, 2012 at 7:04 pm",
-   "timeTitle": "Thursday, October 11th, 2012, 7:04 pm",
-   "html": "<p>DFW!</p>"
+   "date": "2012-10-11T19:04",
+   "avatar": "213f88c61c24c6b17c26be4a6b29b9ec",
+   "text": "<p>DFW!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 6",
-  "bodyClass": "post-template-default single single-post postid-55 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 6",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-05-30-Curious_Urgency_6.jpg"
- }
+ ]
 }

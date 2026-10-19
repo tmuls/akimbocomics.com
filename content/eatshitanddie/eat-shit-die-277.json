@@ -1,71 +1,18 @@
 {
- "path": "/eatshitanddie/eat-shit-die-277/",
- "series": "eatshitanddie",
- "slug": "eat-shit-die-277",
- "id": 1215,
  "title": "eat, shit & die 277",
  "author": "bpatrick",
- "date": "March 10, 2018",
- "time": "6:23 am",
- "datetime": "2018-03-10T06:23:00",
+ "date": "2018-03-10T06:23",
  "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  },
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
+  "comics",
+  "eatshitanddie"
  ],
  "tags": [
-  {
-   "title": "Anxiety",
-   "href": "/tag/anxiety/"
-  },
-  {
-   "title": "Chloe",
-   "href": "/tag/chloe/"
-  },
-  {
-   "title": "Self-doubt",
-   "href": "/tag/self-doubt/"
-  },
-  {
-   "title": "Shannon",
-   "href": "/tag/shannon/"
-  }
+  "anxiety",
+  "chloe",
+  "self-doubt",
+  "shannon"
  ],
- "html": "",
- "postClass": "post-1215 post type-post status-publish format-standard hentry category-comics category-eatshitanddie tag-anxiety tag-chloe tag-self-doubt tag-shannon uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2018-03-10-Eat_Shit_And_Die_277.jpg",
-   "alt": "eat, shit & die 277",
-   "title": "eat, shit & die 277"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-die-276/",
-  "next": "/eatshitanddie/eat-shit-die-278/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-die-276/",
-  "next": "/eatshitanddie/eat-shit-die-278/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat, shit & die 277",
-  "bodyClass": "post-template-default single single-post postid-1215 single-format-standard user-guest comic unknown single-category-comics single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat, shit & die 277",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2018-03-10-Eat_Shit_And_Die_277.jpg"
- }
+  "2018-03-10-Eat_Shit_And_Die_277.jpg"
+ ]
 }

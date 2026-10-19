@@ -1,92 +1,44 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-144/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-144",
- "id": 467,
  "title": "eat shit & die 144",
  "author": "bpatrick",
- "date": "November 8, 2009",
- "time": "12:00 am",
- "datetime": "2009-11-08T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2009-11-08T00:00",
  "tags": [
-  {
-   "title": "onan",
-   "href": "/tag/onan/"
-  }
+  "onan"
  ],
- "html": "<p>I kinda fell down the rabbit hole with school there for a little bit &#8212; but things are (more or less) back to normal and akimbo comes back with a new Onan! Yay! There&#8217;s a new Vivian later in the week (Monday or Tuesday) and we&#8217;ll see what I can do for the rest of the week. </p>",
- "postClass": "post-467 post type-post status-publish format-standard hentry category-eatshitanddie tag-onan uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2009-11-08-Eat_Shit_And_Die_144.jpg",
-   "alt": "eat shit & die 144",
-   "title": "eat shit & die 144"
-  }
+  "2009-11-08-Eat_Shit_And_Die_144.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-143/",
-  "next": "/vivianblank/vivian-blank-20/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-143/",
-  "next": "/vivianblank/vivian-blank-20/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I kinda fell down the rabbit hole with school there for a little bit &#8212; but things are (more or less) back to normal and akimbo comes back with a new Onan! Yay! There&#8217;s a new Vivian later in the week (Monday or Tuesday) and we&#8217;ll see what I can do for the rest of the week. </p>",
  "comments": [
   {
    "id": 1106,
    "author": "Winston Rowntree",
+   "date": "2009-11-08T23:40",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "November 8, 2009 at 11:40 pm",
-   "timeTitle": "Sunday, November 8th, 2009, 11:40 pm",
-   "html": "<p>And so a mighty battle with a great soundtrack did ensue&#8230;<br />\nGlad to have yeh back! Love all the pipes and shit in the background in that last panel.</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>And so a mighty battle with a great soundtrack did ensue&#8230;<br />\nGlad to have yeh back! Love all the pipes and shit in the background in that last panel.</p>"
   },
   {
    "id": 1109,
    "author": "michael",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/936172f1744abf2723b815c78583a04d?s=64&d=identicon&r=r",
-   "time": "November 10, 2009 at 11:48 am",
-   "timeTitle": "Tuesday, November 10th, 2009, 11:48 am",
-   "html": "<p>lol i agree but the song would have to be by the gorillaz  either  &#8220;19/2000&#8221; or &#8220;dare&#8221;</p>"
+   "date": "2009-11-10T11:48",
+   "avatar": "936172f1744abf2723b815c78583a04d",
+   "text": "<p>lol i agree but the song would have to be by the gorillaz  either  &#8220;19/2000&#8221; or &#8220;dare&#8221;</p>"
   },
   {
    "id": 4598,
    "author": "Wylie",
+   "date": "2010-11-04T06:31",
    "url": "http://wylie.su",
-   "avatar": "http://2.gravatar.com/avatar/bfdb13d85dd51f5bf43831d118959bdc?s=64&d=identicon&r=r",
-   "time": "November 4, 2010 at 6:31 am",
-   "timeTitle": "Thursday, November 4th, 2010, 6:31 am",
-   "html": "<p>Well, I have to say that this was unexpected.</p>"
+   "avatar": "bfdb13d85dd51f5bf43831d118959bdc",
+   "text": "<p>Well, I have to say that this was unexpected.</p>"
   },
   {
    "id": 6923,
    "author": "Jojo",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e34af96d379a6a98ca8637333b51669b?s=64&d=identicon&r=r",
-   "time": "May 3, 2011 at 4:05 am",
-   "timeTitle": "Tuesday, May 3rd, 2011, 4:05 am",
-   "html": "<p>I&#8217;m diggin&#8217; the blond 2D-<br />\nalso, I had a feeling your art was inspired by Jamie Hewlett!</p>"
+   "date": "2011-05-03T04:05",
+   "avatar": "e34af96d379a6a98ca8637333b51669b",
+   "text": "<p>I&#8217;m diggin&#8217; the blond 2D-<br />\nalso, I had a feeling your art was inspired by Jamie Hewlett!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 144",
-  "bodyClass": "post-template-default single single-post postid-467 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 144",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-11-08-Eat_Shit_And_Die_144.jpg"
- }
+ ]
 }

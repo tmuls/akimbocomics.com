@@ -1,78 +1,33 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-191/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-191",
- "id": 676,
  "title": "eat shit & die 191",
  "author": "bpatrick",
- "date": "July 11, 2011",
- "time": "12:00 am",
- "datetime": "2011-07-11T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I felt like we were due some <em>es&#038;d</em>. </p>",
- "postClass": "post-676 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-07-11T00:00",
  "images": [
-  {
-   "src": "2011-07-11-Eat_Shit_And_DIe_191.jpg",
-   "alt": "I call this Vader style",
-   "title": "I call this Vader style"
-  }
+  "2011-07-11-Eat_Shit_And_DIe_191.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/vivianblank/vivian-blank-21/",
-  "next": "/curiousurgency/curious-urgency-50/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/vivianblank/vivian-blank-21/",
-  "next": "/curiousurgency/curious-urgency-50/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "I call this Vader style",
+ "body": "<p>I felt like we were due some <em>es&#038;d</em>. </p>",
  "comments": [
   {
    "id": 8757,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "July 12, 2011 at 4:11 am",
-   "timeTitle": "Tuesday, July 12th, 2011, 4:11 am",
-   "html": "<p>I said it before and i&#8217;ll say it again. I fucking love summer comics.</p>"
+   "date": "2011-07-12T04:11",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>I said it before and i&#8217;ll say it again. I fucking love summer comics.</p>"
   },
   {
    "id": 8773,
    "author": "steve",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b43ced333b790d6f06b19dc18f7ace5c?s=64&d=identicon&r=r",
-   "time": "July 13, 2011 at 5:16 pm",
-   "timeTitle": "Wednesday, July 13th, 2011, 5:16 pm",
-   "html": "<p>You&#8217;ve been on FIRE lately!  I love it.</p>"
+   "date": "2011-07-13T17:16",
+   "avatar": "b43ced333b790d6f06b19dc18f7ace5c",
+   "text": "<p>You&#8217;ve been on FIRE lately!  I love it.</p>"
   },
   {
    "id": 115749,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "October 27, 2012 at 10:26 pm",
-   "timeTitle": "Saturday, October 27th, 2012, 10:26 pm",
-   "html": "<p>vader style &#8211; nice!</p>"
+   "date": "2012-10-27T22:26",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>vader style &#8211; nice!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 191",
-  "bodyClass": "post-template-default single single-post postid-676 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 191",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-07-11-Eat_Shit_And_DIe_191.jpg"
- }
+ ]
 }

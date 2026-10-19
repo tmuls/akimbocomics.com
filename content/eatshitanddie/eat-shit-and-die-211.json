@@ -1,132 +1,76 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-211/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-211",
- "id": 754,
  "title": "eat shit & die 211",
  "author": "bpatrick",
- "date": "June 27, 2012",
- "time": "12:00 am",
- "datetime": "2012-06-27T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I&#8217;m disappointed with output volume so far. I&#8217;m going to try and step it up. There&#8217;s still a month of summer left!</p>",
- "postClass": "post-754 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-06-27T00:00",
  "images": [
-  {
-   "src": "2012-06-27-Eat_Shit_And_Die_211.jpg",
-   "alt": "eat shit & die 211",
-   "title": "eat shit & die 211"
-  }
+  "2012-06-27-Eat_Shit_And_Die_211.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-31/",
-  "next": "/curiousurgency/curious-urgency-60/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-31/",
-  "next": "/curiousurgency/curious-urgency-60/"
- },
- "commentCount": 9,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I&#8217;m disappointed with output volume so far. I&#8217;m going to try and step it up. There&#8217;s still a month of summer left!</p>",
  "comments": [
   {
    "id": 88849,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "June 28, 2012 at 2:32 am",
-   "timeTitle": "Thursday, June 28th, 2012, 2:32 am",
-   "html": "<p>Incredibly beautiful!</p>"
+   "date": "2012-06-28T02:32",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>Incredibly beautiful!</p>"
   },
   {
    "id": 88897,
    "author": "steve",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b43ced333b790d6f06b19dc18f7ace5c?s=64&d=identicon&r=r",
-   "time": "June 28, 2012 at 8:57 am",
-   "timeTitle": "Thursday, June 28th, 2012, 8:57 am",
-   "html": "<p>blown away.  This is a great one</p>"
+   "date": "2012-06-28T08:57",
+   "avatar": "b43ced333b790d6f06b19dc18f7ace5c",
+   "text": "<p>blown away.  This is a great one</p>"
   },
   {
    "id": 88947,
    "author": "Mainge",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/4d5b4d4026a8b67aafc4ea5e6aa47dc6?s=64&d=identicon&r=r",
-   "time": "June 28, 2012 at 9:22 pm",
-   "timeTitle": "Thursday, June 28th, 2012, 9:22 pm",
-   "html": "<p>That was awesome! I really enjoyed this one. Thanks B!</p>"
+   "date": "2012-06-28T21:22",
+   "avatar": "4d5b4d4026a8b67aafc4ea5e6aa47dc6",
+   "text": "<p>That was awesome! I really enjoyed this one. Thanks B!</p>"
   },
   {
    "id": 88991,
    "author": "Justin",
+   "date": "2012-06-30T01:23",
    "url": "http://jbabbcomics.com",
-   "avatar": "http://2.gravatar.com/avatar/833234ec05955076d969fe4bfffd74df?s=64&d=identicon&r=r",
-   "time": "June 30, 2012 at 1:23 am",
-   "timeTitle": "Saturday, June 30th, 2012, 1:23 am",
-   "html": "<p>Beautiful and brilliant.</p>"
+   "avatar": "833234ec05955076d969fe4bfffd74df",
+   "text": "<p>Beautiful and brilliant.</p>"
   },
   {
    "id": 89088,
    "author": "AJ",
+   "date": "2012-07-02T04:57",
    "url": "http://na",
-   "avatar": "http://2.gravatar.com/avatar/e531e8c39d11fc5c30bc0c298a2a2992?s=64&d=identicon&r=r",
-   "time": "July 2, 2012 at 4:57 am",
-   "timeTitle": "Monday, July 2nd, 2012, 4:57 am",
-   "html": "<p>This was shit&#8230;.</p>\n<p>yeah sorry i dont actually think that but your comments were too awesome<br />\ngood work as per usual</p>"
+   "avatar": "e531e8c39d11fc5c30bc0c298a2a2992",
+   "text": "<p>This was shit&#8230;.</p>\n<p>yeah sorry i dont actually think that but your comments were too awesome<br />\ngood work as per usual</p>"
   },
   {
    "id": 89131,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "July 2, 2012 at 6:09 pm",
-   "timeTitle": "Monday, July 2nd, 2012, 6:09 pm",
-   "html": "<p>I&#8217;m hoping everybody is seeing the new MSFM because it is kind of hidden in there, seeing as how the previous/next button doesn&#8217;t cross between albums.<br />\nThe colouring and shading looks fantastic and I like these detailed cityscapes the es&amp;d characters live in. You should find some time on of these evenings to crank out another comic (if you want my vote, make another Onan). I know; those Onan&#8217;s probably take hours to draw with all those pipes and stars and creepy robots and gorgeous robots.<br />\nOf course, I really like the output of comics you&#8217;ve done so far. This could quite possibly be the Summer of Comics.</p>"
+   "date": "2012-07-02T18:09",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>I&#8217;m hoping everybody is seeing the new MSFM because it is kind of hidden in there, seeing as how the previous/next button doesn&#8217;t cross between albums.<br />\nThe colouring and shading looks fantastic and I like these detailed cityscapes the es&amp;d characters live in. You should find some time on of these evenings to crank out another comic (if you want my vote, make another Onan). I know; those Onan&#8217;s probably take hours to draw with all those pipes and stars and creepy robots and gorgeous robots.<br />\nOf course, I really like the output of comics you&#8217;ve done so far. This could quite possibly be the Summer of Comics.</p>"
   },
   {
    "id": 89624,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "July 8, 2012 at 7:56 pm",
-   "timeTitle": "Sunday, July 8th, 2012, 7:56 pm",
-   "html": "<p>I knew it&#8230; I should have kept silent, then B would be continually making Onan&#8217;s to try to lure me back.</p>"
+   "date": "2012-07-08T19:56",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>I knew it&#8230; I should have kept silent, then B would be continually making Onan&#8217;s to try to lure me back.</p>"
   },
   {
    "id": 97008,
    "author": "hoopert mc hoopington",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8f513d86a62841f397118460415ec3a4?s=64&d=identicon&r=r",
-   "time": "September 10, 2012 at 12:48 am",
-   "timeTitle": "Monday, September 10th, 2012, 12:48 am",
-   "html": "<p>I want you to know your comics&#8230;are the ONLY webcomics i read. Iv never seen any other i like. So just know someone hold your to a high standard</p>"
+   "date": "2012-09-10T00:48",
+   "avatar": "8f513d86a62841f397118460415ec3a4",
+   "text": "<p>I want you to know your comics&#8230;are the ONLY webcomics i read. Iv never seen any other i like. So just know someone hold your to a high standard</p>"
   },
   {
    "id": 153383,
    "author": "Anna",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8871ccd331ba4a93070a5c6b3547a42d?s=64&d=identicon&r=r",
-   "time": "December 17, 2012 at 11:41 am",
-   "timeTitle": "Monday, December 17th, 2012, 11:41 am",
-   "html": "<p>this resonated with me so much that I can barely stand it. Thanks for summarizing the parts of me I hate so well..</p>"
+   "date": "2012-12-17T11:41",
+   "avatar": "8871ccd331ba4a93070a5c6b3547a42d",
+   "text": "<p>this resonated with me so much that I can barely stand it. Thanks for summarizing the parts of me I hate so well..</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 211",
-  "bodyClass": "post-template-default single single-post postid-754 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 211",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-06-27-Eat_Shit_And_Die_211.jpg"
- }
+ ]
 }

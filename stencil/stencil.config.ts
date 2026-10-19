@@ -12,7 +12,7 @@ const images = Object.keys(content.posts)
   .filter(path => existsSync(`../site${path}`)) // news posts without images have no folder
   .flatMap(path => readdirSync(`../site${path}`).map(f => siteFile(path + f)));
 const gallery = content.emulsifierOnline;
-const galleryImages = gallery.images.map((i: any) => siteFile(gallery.path + i.file));
+const galleryImages = gallery.images.map((file: string) => siteFile(gallery.path + file));
 // The only image akimbo.css uses; the old theme's other files stay served
 // as they are.
 const themeImages = ['/wp-content/uploads/2013/05/header1.jpg'].map(siteFile);

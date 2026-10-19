@@ -1,38 +1,6 @@
 {
- "path": "/news/old-site/",
- "series": "news",
- "slug": "old-site",
- "id": 1050,
  "title": "Old Site",
  "author": "emulsifier",
- "date": "April 19, 2017",
- "time": "9:04 pm",
- "datetime": "2017-04-19T21:04:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>This is an old version of the site because all newer backups were bad.  Trying to get it back to working.</p>",
- "postClass": "post-1050 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/new-server-more-memory-comics-are-fixed/",
-  "next": "/news/review-approved/"
- },
- "menuNav": {},
- "commentCount": null,
- "commentsOpen": false,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Old Site",
-  "bodyClass": "post-template-default single single-post postid-1050 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Old Site",
-  "ogDescription": ""
- }
+ "date": "2017-04-19T21:04",
+ "body": "<p>This is an old version of the site because all newer backups were bad.  Trying to get it back to working.</p>"
 }

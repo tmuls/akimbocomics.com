@@ -1,60 +1,17 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-15/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-15",
- "id": 137,
  "title": "Eat Shit And Die 15",
  "author": "emulsifier",
- "date": "July 7, 2008",
- "time": "12:00 am",
- "datetime": "2008-07-07T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-137 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-07-07T00:00",
  "images": [
-  {
-   "src": "2008-07-07-Eat_Shit_And_Die_15.jpg",
-   "alt": "Eat Shit And Die 15",
-   "title": "Eat Shit And Die 15"
-  }
+  "2008-07-07-Eat_Shit_And_Die_15.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-14/",
-  "next": "/eatshitanddie/eat-shit-and-die-16/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-14/",
-  "next": "/eatshitanddie/eat-shit-and-die-16/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 9485,
    "author": "TentacledBeast",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d84b801cf777a9326682fb905d59a81f?s=64&d=identicon&r=r",
-   "time": "September 17, 2011 at 5:00 pm",
-   "timeTitle": "Saturday, September 17th, 2011, 5:00 pm",
-   "html": "<p>Heh. He needs to realise that he doesn&#8217;t want a relationship, just a network of FWBs&#8230;</p>"
+   "date": "2011-09-17T17:00",
+   "avatar": "d84b801cf777a9326682fb905d59a81f",
+   "text": "<p>Heh. He needs to realise that he doesn&#8217;t want a relationship, just a network of FWBs&#8230;</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 15",
-  "bodyClass": "post-template-default single single-post postid-137 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 15",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-07-07-Eat_Shit_And_Die_15.jpg"
- }
+ ]
 }

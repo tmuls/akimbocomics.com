@@ -1,69 +1,24 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-9/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-9",
- "id": 131,
  "title": "Eat Shit And Die 9",
  "author": "emulsifier",
- "date": "July 1, 2008",
- "time": "12:00 am",
- "datetime": "2008-07-01T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-131 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-07-01T00:00",
  "images": [
-  {
-   "src": "2008-07-01-Eat_Shit_And_Die_9.jpg",
-   "alt": "Eat Shit And Die 9",
-   "title": "Eat Shit And Die 9"
-  }
+  "2008-07-01-Eat_Shit_And_Die_9.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-8/",
-  "next": "/eatshitanddie/eat-shit-and-die-10/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-8/",
-  "next": "/eatshitanddie/eat-shit-and-die-10/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 10507,
    "author": "Vi",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0edfd51f2730d7839367438b65fd20bc?s=64&d=identicon&r=r",
-   "time": "October 22, 2011 at 11:31 am",
-   "timeTitle": "Saturday, October 22nd, 2011, 11:31 am",
-   "html": "<p>Actually you can tell who the superficial creeps are by the way they look at *you*, or at other people- which isn&#8217;t quite the same thing as judging someone by their looks. Just sayin&#8217;.</p>"
+   "date": "2011-10-22T11:31",
+   "avatar": "0edfd51f2730d7839367438b65fd20bc",
+   "text": "<p>Actually you can tell who the superficial creeps are by the way they look at *you*, or at other people- which isn&#8217;t quite the same thing as judging someone by their looks. Just sayin&#8217;.</p>"
   },
   {
    "id": 71856,
    "author": "Number 57320",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1ae98a48ed53f636d8653ae770e680c6?s=64&d=identicon&r=r",
-   "time": "April 3, 2012 at 1:21 pm",
-   "timeTitle": "Tuesday, April 3rd, 2012, 1:21 pm",
-   "html": "<p>While it may not be the same thing as judging someone by their looks, it is pretty close. I mean, you are assuming that you can read their mind: that you know exactly what they&#8217;re looking at, why they&#8217;re looking at it, and what they&#8217;re thinking about it. I know that I probably look like I&#8217;m casting judgmental stares when I&#8217;m actually just spacing out, as I have a habit of following moving things (including people) with my eyes when I&#8217;m not paying attention.</p>\n<p>All of this is besides the point, though, as this strip is about hypocrites, not superficial creeps.</p>"
+   "date": "2012-04-03T13:21",
+   "avatar": "1ae98a48ed53f636d8653ae770e680c6",
+   "text": "<p>While it may not be the same thing as judging someone by their looks, it is pretty close. I mean, you are assuming that you can read their mind: that you know exactly what they&#8217;re looking at, why they&#8217;re looking at it, and what they&#8217;re thinking about it. I know that I probably look like I&#8217;m casting judgmental stares when I&#8217;m actually just spacing out, as I have a habit of following moving things (including people) with my eyes when I&#8217;m not paying attention.</p>\n<p>All of this is besides the point, though, as this strip is about hypocrites, not superficial creeps.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 9",
-  "bodyClass": "post-template-default single single-post postid-131 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 9",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-07-01-Eat_Shit_And_Die_9.jpg"
- }
+ ]
 }

@@ -1,69 +1,25 @@
 {
- "path": "/curiousurgency/curious-urgency-37/",
- "series": "curiousurgency",
- "slug": "curious-urgency-37",
- "id": 521,
  "title": "Curious Urgency 37",
  "author": "bpatrick",
- "date": "March 11, 2010",
- "time": "12:00 am",
- "datetime": "2010-03-11T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Holy shit an update! I don&#8217;t know if I&#8217;ve mentioned this before but since I quit my job and became exclusively a student I have a harder time putting out comics than when I worked and went to school. I think all those hours of mindless labor spent thinking up comics helped me be more mentally active in my off-time. But now I spend all day thinking and when I&#8217;m done I just want to zombie out. And Netflix helps me out with this. While we&#8217;re talking about it: how good was A Serious Man? A masterpiece. Also, why didn&#8217;t anyone tell me how good In Bruges was? I was surprised. I also liked Shutter Island. The friends I saw it with hated it. I saw the &#8220;twist&#8221; coming from the trailer but it was still good. I figured the whole plot of Moon from the trailer too and it was still good. But I do just have less time in general, school has been very demanding. Anyway, I&#8217;m working on ES&#038;D and should have two or more done this week. </p>",
- "postClass": "post-521 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2010-03-11T00:00",
  "images": [
-  {
-   "src": "2010-03-11-Curious_Urgency_37.jpg",
-   "alt": "Curious Urgency 37",
-   "title": "Curious Urgency 37"
-  }
+  "2010-03-11-Curious_Urgency_37.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-36/",
-  "next": "/eatshitanddie/eat-shit-and-die-154/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-36/",
-  "next": "/eatshitanddie/eat-shit-and-die-154/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Holy shit an update! I don&#8217;t know if I&#8217;ve mentioned this before but since I quit my job and became exclusively a student I have a harder time putting out comics than when I worked and went to school. I think all those hours of mindless labor spent thinking up comics helped me be more mentally active in my off-time. But now I spend all day thinking and when I&#8217;m done I just want to zombie out. And Netflix helps me out with this. While we&#8217;re talking about it: how good was A Serious Man? A masterpiece. Also, why didn&#8217;t anyone tell me how good In Bruges was? I was surprised. I also liked Shutter Island. The friends I saw it with hated it. I saw the &#8220;twist&#8221; coming from the trailer but it was still good. I figured the whole plot of Moon from the trailer too and it was still good. But I do just have less time in general, school has been very demanding. Anyway, I&#8217;m working on ES&#038;D and should have two or more done this week. </p>",
  "comments": [
   {
    "id": 3962,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "August 15, 2010 at 4:39 pm",
-   "timeTitle": "Sunday, August 15th, 2010, 4:39 pm",
-   "html": "<p>Thi is one of my favorite comics.. i really would like to see where its going</p>"
+   "date": "2010-08-15T16:39",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>Thi is one of my favorite comics.. i really would like to see where its going</p>"
   },
   {
    "id": 5444,
    "author": "dreadnaught",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d9be6ffde4fdc54917dfaa6e9d812368?s=64&d=identicon&r=r",
-   "time": "January 24, 2011 at 6:34 am",
-   "timeTitle": "Monday, January 24th, 2011, 6:34 am",
-   "html": "<p>A Serioues Man = Awesome</p>"
+   "date": "2011-01-24T06:34",
+   "avatar": "d9be6ffde4fdc54917dfaa6e9d812368",
+   "text": "<p>A Serioues Man = Awesome</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 37",
-  "bodyClass": "post-template-default single single-post postid-521 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 37",
-  "ogDescription": "",
-  "ogImage": "//comic/2010-03-11-Curious_Urgency_37.jpg"
- }
+ ]
 }

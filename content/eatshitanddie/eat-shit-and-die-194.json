@@ -1,141 +1,81 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-194/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-194",
- "id": 688,
  "title": "eat shit & die 194",
  "author": "bpatrick",
- "date": "August 3, 2011",
- "time": "12:00 am",
- "datetime": "2011-08-03T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>es&#038;d classic. A modified version of the monologues from all the way back at #1. Originally I was trying to invent a new comic format that no one had ever done by tweaking Feiffer a little. But it wasn&#8217;t that original and they weren&#8217;t that popular. I thought I&#8217;d try one with color and a little tighter drawing. I&#8217;m not thrilled with it. </p>",
- "postClass": "post-688 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-08-03T00:00",
  "images": [
-  {
-   "src": "2011-08-03-Eat_Shit_And_Die_194.jpg",
-   "alt": "eat shit & die 194",
-   "title": "eat shit & die 194"
-  }
+  "2011-08-03-Eat_Shit_And_Die_194.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-193/",
-  "next": "/eatshitanddie/eat-shit-and-die-195/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-193/",
-  "next": "/eatshitanddie/eat-shit-and-die-195/"
- },
- "commentCount": 10,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>es&#038;d classic. A modified version of the monologues from all the way back at #1. Originally I was trying to invent a new comic format that no one had ever done by tweaking Feiffer a little. But it wasn&#8217;t that original and they weren&#8217;t that popular. I thought I&#8217;d try one with color and a little tighter drawing. I&#8217;m not thrilled with it. </p>",
  "comments": [
   {
    "id": 8975,
    "author": "Elle",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3fdb7fb9dc6710633bac94ef23843bd3?s=64&d=identicon&r=r",
-   "time": "August 4, 2011 at 7:51 am",
-   "timeTitle": "Thursday, August 4th, 2011, 7:51 am",
-   "html": "<p>I quite like your monologues, actually. Especially this one, because I knew how it would end. Because I&#8217;m that kind of person, too.</p>"
+   "date": "2011-08-04T07:51",
+   "avatar": "3fdb7fb9dc6710633bac94ef23843bd3",
+   "text": "<p>I quite like your monologues, actually. Especially this one, because I knew how it would end. Because I&#8217;m that kind of person, too.</p>"
   },
   {
    "id": 8978,
    "author": "raunch",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/811250e17a40a09c379266dda6a51b3d?s=64&d=identicon&r=r",
-   "time": "August 4, 2011 at 11:57 am",
-   "timeTitle": "Thursday, August 4th, 2011, 11:57 am",
-   "html": "<p>&#8220;turn left at this stoplight and try not to think about the fact that an objectively good person would spend every waking moment trying to alleviate suffering&#8221;<br />\npicturesforsadchildrenchat</p>"
+   "date": "2011-08-04T11:57",
+   "avatar": "811250e17a40a09c379266dda6a51b3d",
+   "text": "<p>&#8220;turn left at this stoplight and try not to think about the fact that an objectively good person would spend every waking moment trying to alleviate suffering&#8221;<br />\npicturesforsadchildrenchat</p>"
   },
   {
    "id": 8979,
    "author": "Ina",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/969fc85c8f0c8896081cbab11bb0be7f?s=64&d=identicon&r=r",
-   "time": "August 4, 2011 at 12:46 pm",
-   "timeTitle": "Thursday, August 4th, 2011, 12:46 pm",
-   "html": "<p>So am I.</p>"
+   "date": "2011-08-04T12:46",
+   "avatar": "969fc85c8f0c8896081cbab11bb0be7f",
+   "text": "<p>So am I.</p>"
   },
   {
    "id": 8981,
    "author": "Leo",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/57c1d311d365b2c9060f33979d87088e?s=64&d=identicon&r=r",
-   "time": "August 4, 2011 at 4:20 pm",
-   "timeTitle": "Thursday, August 4th, 2011, 4:20 pm",
-   "html": "<p>Brilliant. Vintage Akimbo. This made my day.</p>"
+   "date": "2011-08-04T16:20",
+   "avatar": "57c1d311d365b2c9060f33979d87088e",
+   "text": "<p>Brilliant. Vintage Akimbo. This made my day.</p>"
   },
   {
    "id": 8983,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "August 4, 2011 at 6:56 pm",
-   "timeTitle": "Thursday, August 4th, 2011, 6:56 pm",
-   "html": "<p>I got a happy little buzz inside about half-way through knowing that there would be a great cynical kick at the end.  Nice one.</p>"
+   "date": "2011-08-04T18:56",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>I got a happy little buzz inside about half-way through knowing that there would be a great cynical kick at the end.  Nice one.</p>"
   },
   {
    "id": 9092,
    "author": "Ana O'Nimos",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f2e137ff0f0c5708f08ab5e70c7cc832?s=64&d=identicon&r=r",
-   "time": "August 16, 2011 at 9:36 pm",
-   "timeTitle": "Tuesday, August 16th, 2011, 9:36 pm",
-   "html": "<p>Love these monologues&#8230;they remind me of a kid I work with. After talking to him for a little while:<br />\nMe: Man, I&#8217;ve never seen Rachel in a tank top before&#8230;didn&#8217;t realize how huge her boobs are.<br />\nHim: Yeah she&#8217;s a fuckin cocktease. Her tits are pretty much the only thing going for though.<br />\nMe: What? No, she&#8217;s so sweet.<br />\nHim: Well, I mean yeah, I meant physically.<br />\nMe: &#8230;geez. You didn&#8217;t really strike me as the critical type, you&#8217;re so friendly towards everyone.<br />\nHim: What? No, I am friendly. I&#8217;m only critical when people say things that are ignorant and intolerable.</p>"
+   "date": "2011-08-16T21:36",
+   "avatar": "f2e137ff0f0c5708f08ab5e70c7cc832",
+   "text": "<p>Love these monologues&#8230;they remind me of a kid I work with. After talking to him for a little while:<br />\nMe: Man, I&#8217;ve never seen Rachel in a tank top before&#8230;didn&#8217;t realize how huge her boobs are.<br />\nHim: Yeah she&#8217;s a fuckin cocktease. Her tits are pretty much the only thing going for though.<br />\nMe: What? No, she&#8217;s so sweet.<br />\nHim: Well, I mean yeah, I meant physically.<br />\nMe: &#8230;geez. You didn&#8217;t really strike me as the critical type, you&#8217;re so friendly towards everyone.<br />\nHim: What? No, I am friendly. I&#8217;m only critical when people say things that are ignorant and intolerable.</p>"
   },
   {
    "id": 9196,
    "author": "iaoth",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/435c856ae156028166e43065bf6285cf?s=64&d=identicon&r=r",
-   "time": "August 25, 2011 at 11:56 am",
-   "timeTitle": "Thursday, August 25th, 2011, 11:56 am",
-   "html": "<p>Some completely honest feedback: The old monologues were walls of text. I read one and then skipped the rest. In contrast, this style pulled me in, and I enjoyed it.</p>"
+   "date": "2011-08-25T11:56",
+   "avatar": "435c856ae156028166e43065bf6285cf",
+   "text": "<p>Some completely honest feedback: The old monologues were walls of text. I read one and then skipped the rest. In contrast, this style pulled me in, and I enjoyed it.</p>"
   },
   {
    "id": 9510,
    "author": "rapchee",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9c0de9178cdd8b95918225da80e6b77b?s=64&d=identicon&r=r",
-   "time": "September 18, 2011 at 10:02 pm",
-   "timeTitle": "Sunday, September 18th, 2011, 10:02 pm",
-   "html": "<p>just to make your life harder: i liked the old monologues better<br />\nthey did feel more fresh, different.<br />\nalso, spending the afternoon and the evening to catch up with your works. why did i not know of this before??</p>"
+   "date": "2011-09-18T22:02",
+   "avatar": "9c0de9178cdd8b95918225da80e6b77b",
+   "text": "<p>just to make your life harder: i liked the old monologues better<br />\nthey did feel more fresh, different.<br />\nalso, spending the afternoon and the evening to catch up with your works. why did i not know of this before??</p>"
   },
   {
    "id": 14458,
    "author": "Locke",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/ddb31624ec4011e9cb7a9a12dde61c3a?s=64&d=identicon&r=r",
-   "time": "November 18, 2011 at 6:56 am",
-   "timeTitle": "Friday, November 18th, 2011, 6:56 am",
-   "html": "<p>And these people allow injustice and pain to foster. Then again, I understand the feeling completely, underneath, there&#8217;s a fear that you can do jack shit to help those in pain. And then you feel responsible for their suffering, even if you aren&#8217;t doing anything to add to it at all, even if you literally CAN&#8217;T help.</p>\n<p>And I actually like the monologues. I like the color, but I miss the floating heads. Putting it in standard comic form&#8230; I dunno, it just seems to restrain it a bit too much. But it&#8217;s not worse or anything, that just comes down to personal taste, to me.</p>"
+   "date": "2011-11-18T06:56",
+   "avatar": "ddb31624ec4011e9cb7a9a12dde61c3a",
+   "text": "<p>And these people allow injustice and pain to foster. Then again, I understand the feeling completely, underneath, there&#8217;s a fear that you can do jack shit to help those in pain. And then you feel responsible for their suffering, even if you aren&#8217;t doing anything to add to it at all, even if you literally CAN&#8217;T help.</p>\n<p>And I actually like the monologues. I like the color, but I miss the floating heads. Putting it in standard comic form&#8230; I dunno, it just seems to restrain it a bit too much. But it&#8217;s not worse or anything, that just comes down to personal taste, to me.</p>"
   },
   {
    "id": 1085632,
    "author": "Seth",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/750d5158cf2daa8d1e9d19412f6c6efd?s=64&d=identicon&r=r",
-   "time": "February 19, 2016 at 8:42 am",
-   "timeTitle": "Friday, February 19th, 2016, 8:42 am",
-   "html": "<p>What? The monologues are some of my favorite by you.  The series wouldn&#8217;t be the same without them; they are some of the rawest form of what this comic really is.</p>"
+   "date": "2016-02-19T08:42",
+   "avatar": "750d5158cf2daa8d1e9d19412f6c6efd",
+   "text": "<p>What? The monologues are some of my favorite by you.  The series wouldn&#8217;t be the same without them; they are some of the rawest form of what this comic really is.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 194",
-  "bodyClass": "post-template-default single single-post postid-688 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 194",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-08-03-Eat_Shit_And_Die_194.jpg"
- }
+ ]
 }

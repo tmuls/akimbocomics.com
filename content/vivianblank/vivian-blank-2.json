@@ -1,69 +1,25 @@
 {
- "path": "/vivianblank/vivian-blank-2/",
- "series": "vivianblank",
- "slug": "vivian-blank-2",
- "id": 284,
  "title": "Vivian Blank 2",
  "author": "emulsifier",
- "date": "December 19, 2008",
- "time": "12:00 am",
- "datetime": "2008-12-19T00:00:00",
- "categories": [
-  {
-   "title": "Vivian Blank",
-   "href": "/vivianblank/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-284 post type-post status-publish format-standard hentry category-vivianblank uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-12-19T00:00",
  "images": [
-  {
-   "src": "2008-12-19-Vivian_Blank_2.jpg",
-   "alt": "Vivian Blank 2",
-   "title": "Vivian Blank 2"
-  }
+  "2008-12-19-Vivian_Blank_2.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/vivianblank/vivian-blank-1/",
-  "next": "/vivianblank/vivian-blank-3/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/vivianblank/vivian-blank-1/",
-  "next": "/vivianblank/vivian-blank-3/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1841,
    "author": "J-Slice",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f3424e9d94416230dc9babe0d6112c1c?s=64&d=identicon&r=r",
-   "time": "March 23, 2010 at 1:21 am",
-   "timeTitle": "Tuesday, March 23rd, 2010, 1:21 am",
-   "html": "<p>maynard would be proud</p>"
+   "date": "2010-03-23T01:21",
+   "avatar": "f3424e9d94416230dc9babe0d6112c1c",
+   "text": "<p>maynard would be proud</p>"
   },
   {
    "id": 1858,
    "author": "b.patrick",
+   "date": "2010-03-24T17:02",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "March 24, 2010 at 5:02 pm",
-   "timeTitle": "Wednesday, March 24th, 2010, 5:02 pm",
-   "html": "<p>It&#8217;s very prestigious.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>It&#8217;s very prestigious.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Vivian Blank 2",
-  "bodyClass": "post-template-default single single-post postid-284 single-format-standard user-guest comic unknown single-category-vivianblank single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Vivian Blank 2",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-12-19-Vivian_Blank_2.jpg"
- }
+ ]
 }

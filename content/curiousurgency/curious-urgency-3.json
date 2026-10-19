@@ -1,50 +1,8 @@
 {
- "path": "/curiousurgency/curious-urgency-3/",
- "series": "curiousurgency",
- "slug": "curious-urgency-3",
- "id": 52,
  "title": "Curious Urgency 3",
  "author": "emulsifier",
- "date": "May 27, 2008",
- "time": "12:00 am",
- "datetime": "2008-05-27T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-52 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-05-27T00:00",
  "images": [
-  {
-   "src": "2008-05-27-Curious_Urgency_3.jpg",
-   "alt": "Curious Urgency 3",
-   "title": "Curious Urgency 3"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-2/",
-  "next": "/curiousurgency/curious-urgency-4/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-2/",
-  "next": "/curiousurgency/curious-urgency-4/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 3",
-  "bodyClass": "post-template-default single single-post postid-52 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 3",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-05-27-Curious_Urgency_3.jpg"
- }
+  "2008-05-27-Curious_Urgency_3.jpg"
+ ]
 }

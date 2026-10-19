@@ -1,50 +1,8 @@
 {
- "path": "/vivianblank/vivian-blank-12/",
- "series": "vivianblank",
- "slug": "vivian-blank-12",
- "id": 294,
  "title": "Vivian Blank 12",
  "author": "emulsifier",
- "date": "December 29, 2008",
- "time": "12:00 am",
- "datetime": "2008-12-29T00:00:00",
- "categories": [
-  {
-   "title": "Vivian Blank",
-   "href": "/vivianblank/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-294 post type-post status-publish format-standard hentry category-vivianblank uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-12-29T00:00",
  "images": [
-  {
-   "src": "2008-12-29-Vivian_Blank_12.jpg",
-   "alt": "Vivian Blank 12",
-   "title": "Vivian Blank 12"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/vivianblank/vivian-blank-11/",
-  "next": "/vivianblank/vivian-blank-13/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/vivianblank/vivian-blank-11/",
-  "next": "/vivianblank/vivian-blank-13/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Vivian Blank 12",
-  "bodyClass": "post-template-default single single-post postid-294 single-format-standard user-guest comic unknown single-category-vivianblank single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Vivian Blank 12",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-12-29-Vivian_Blank_12.jpg"
- }
+  "2008-12-29-Vivian_Blank_12.jpg"
+ ]
 }

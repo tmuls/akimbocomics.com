@@ -1,78 +1,33 @@
 {
- "path": "/curiousurgency/curious-urgency-58/",
- "series": "curiousurgency",
- "slug": "curious-urgency-58",
- "id": 750,
  "title": "Curious Urgency 58",
  "author": "bpatrick",
- "date": "June 14, 2012",
- "time": "12:00 am",
- "datetime": "2012-06-14T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>I almost violated my self-imposed ban on grayscale in the long comics for this page. Maybe I should. </p>",
- "postClass": "post-750 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-06-14T00:00",
  "images": [
-  {
-   "src": "2012-06-14-Curious_Urgency_58.jpg",
-   "alt": "Curious Urgency 58",
-   "title": "Curious Urgency 58"
-  }
+  "2012-06-14-Curious_Urgency_58.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-30/",
-  "next": "/eatshitanddie/eat-shit-and-die-209/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-30/",
-  "next": "/eatshitanddie/eat-shit-and-die-209/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I almost violated my self-imposed ban on grayscale in the long comics for this page. Maybe I should. </p>",
  "comments": [
   {
    "id": 86750,
    "author": "Mad Whiskey grin",
+   "date": "2012-06-16T02:16",
    "url": "http://www.madwhiskeygrin.com",
-   "avatar": "http://0.gravatar.com/avatar/955ae5653fb01fb55e6249b1be106aa8?s=64&d=identicon&r=r",
-   "time": "June 16, 2012 at 2:16 am",
-   "timeTitle": "Saturday, June 16th, 2012, 2:16 am",
-   "html": "<p>You&#8217;ll get no help with the grayscale decision from me, artist. Make your own choices!</p>\n<p>Continued nice work. Not surprised.</p>"
+   "avatar": "955ae5653fb01fb55e6249b1be106aa8",
+   "text": "<p>You&#8217;ll get no help with the grayscale decision from me, artist. Make your own choices!</p>\n<p>Continued nice work. Not surprised.</p>"
   },
   {
    "id": 86767,
    "author": "Gogo Yubari",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/901ebba303cb8eaa293089ca06ad7523?s=64&d=identicon&r=r",
-   "time": "June 16, 2012 at 4:31 am",
-   "timeTitle": "Saturday, June 16th, 2012, 4:31 am",
-   "html": "<p>Don&#8217;t do it! The pure black and white is just too good.</p>"
+   "date": "2012-06-16T04:31",
+   "avatar": "901ebba303cb8eaa293089ca06ad7523",
+   "text": "<p>Don&#8217;t do it! The pure black and white is just too good.</p>"
   },
   {
    "id": 86843,
    "author": "Joshua",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c2ee896d0722d6355909e1d6cda01488?s=64&d=identicon&r=r",
-   "time": "June 16, 2012 at 1:30 pm",
-   "timeTitle": "Saturday, June 16th, 2012, 1:30 pm",
-   "html": "<p>May I suggest that if you&#8217;re going to break the grayscale, you should do so at a moment of awakening/clarity/vision on the part of your plucky hero? I like this comic, I look forward to re-reading it up to what you&#8217;ve got up now. I don&#8217;t know how you keep all these different stories going at once, man, but good work.</p>"
+   "date": "2012-06-16T13:30",
+   "avatar": "c2ee896d0722d6355909e1d6cda01488",
+   "text": "<p>May I suggest that if you&#8217;re going to break the grayscale, you should do so at a moment of awakening/clarity/vision on the part of your plucky hero? I like this comic, I look forward to re-reading it up to what you&#8217;ve got up now. I don&#8217;t know how you keep all these different stories going at once, man, but good work.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 58",
-  "bodyClass": "post-template-default single single-post postid-750 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 58",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-06-14-Curious_Urgency_58.jpg"
- }
+ ]
 }

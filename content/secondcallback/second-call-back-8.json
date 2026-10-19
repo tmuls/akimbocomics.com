@@ -1,78 +1,32 @@
 {
- "path": "/secondcallback/second-call-back-8/",
- "series": "secondcallback",
- "slug": "second-call-back-8",
- "id": 272,
  "title": "Second Call Back 8",
  "author": "emulsifier",
- "date": "December 7, 2008",
- "time": "12:00 am",
- "datetime": "2008-12-07T00:00:00",
- "categories": [
-  {
-   "title": "Second Call Back",
-   "href": "/secondcallback/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-272 post type-post status-publish format-standard hentry category-secondcallback uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-12-07T00:00",
  "images": [
-  {
-   "src": "2008-12-07-Second_Call_Back_8.jpg",
-   "alt": "Second Call Back 8",
-   "title": "Second Call Back 8"
-  }
+  "2008-12-07-Second_Call_Back_8.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/secondcallback/second-call-back-7/",
-  "next": "/strangeadmission/strange-admission-1/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/secondcallback/second-call-back-7/",
-  "next": "/strangeadmission/strange-admission-1/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 9507,
    "author": "bachterman",
+   "date": "2011-09-18T15:33",
    "url": "http://coruscus.hu",
-   "avatar": "http://2.gravatar.com/avatar/849febbbc71eb48210f19d38fa50ea70?s=64&d=identicon&r=r",
-   "time": "September 18, 2011 at 3:33 pm",
-   "timeTitle": "Sunday, September 18th, 2011, 3:33 pm",
-   "html": "<p>simply amazing! i love the curves, too. 😉</p>"
+   "avatar": "849febbbc71eb48210f19d38fa50ea70",
+   "text": "<p>simply amazing! i love the curves, too. 😉</p>"
   },
   {
    "id": 9992,
    "author": "Leo W.",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/57c1d311d365b2c9060f33979d87088e?s=64&d=identicon&r=r",
-   "time": "October 1, 2011 at 8:44 pm",
-   "timeTitle": "Saturday, October 1st, 2011, 8:44 pm",
-   "html": "<p>Fucking great, one of your best characters, i think.</p>"
+   "date": "2011-10-01T20:44",
+   "avatar": "57c1d311d365b2c9060f33979d87088e",
+   "text": "<p>Fucking great, one of your best characters, i think.</p>"
   },
   {
    "id": 590168,
    "author": "Jon appomattox",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/351048d42a92c0f0a3ad8ab6ebfad29a?s=64&d=identicon&r=r",
-   "time": "June 28, 2014 at 6:58 am",
-   "timeTitle": "Saturday, June 28th, 2014, 6:58 am",
-   "html": "<p>You have an uncanny insight into the sociopathy of the ordinary person.</p>"
+   "date": "2014-06-28T06:58",
+   "avatar": "351048d42a92c0f0a3ad8ab6ebfad29a",
+   "text": "<p>You have an uncanny insight into the sociopathy of the ordinary person.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Second Call Back 8",
-  "bodyClass": "post-template-default single single-post postid-272 single-format-standard user-guest comic unknown single-category-secondcallback single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Second Call Back 8",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-12-07-Second_Call_Back_8.jpg"
- }
+ ]
 }

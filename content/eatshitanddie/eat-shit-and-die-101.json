@@ -1,96 +1,47 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-101/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-101",
- "id": 202,
  "title": "Eat Shit And Die 101",
  "author": "emulsifier",
- "date": "October 2, 2008",
- "time": "12:00 am",
- "datetime": "2008-10-02T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-202 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-10-02T00:00",
  "images": [
-  {
-   "src": "2008-10-02-Eat_Shit_And_Die_101.jpg",
-   "alt": "Eat Shit And Die 101",
-   "title": "Eat Shit And Die 101"
-  }
+  "2008-10-02-Eat_Shit_And_Die_101.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-100/",
-  "next": "/eatshitanddie/eat-shit-and-die-102/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-100/",
-  "next": "/eatshitanddie/eat-shit-and-die-102/"
- },
- "commentCount": 5,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 638,
    "author": "Tropylium",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/60883a6d7bfc3dd84e553e12db9797af?s=64&d=identicon&r=r",
-   "time": "September 27, 2009 at 8:26 pm",
-   "timeTitle": "Sunday, September 27th, 2009, 8:26 pm",
-   "html": "<p>It would be fun seeing more webcomickers do this. I count three, maybe four by now…</p>"
+   "date": "2009-09-27T20:26",
+   "avatar": "60883a6d7bfc3dd84e553e12db9797af",
+   "text": "<p>It would be fun seeing more webcomickers do this. I count three, maybe four by now…</p>"
   },
   {
    "id": 645,
    "author": "b.patrick",
+   "date": "2009-09-27T22:37",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "September 27, 2009 at 10:37 pm",
-   "timeTitle": "Sunday, September 27th, 2009, 10:37 pm",
-   "html": "<p>It would be fun. Kate Beaton&#8217;s a genius.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>It would be fun. Kate Beaton&#8217;s a genius.</p>"
   },
   {
    "id": 7305,
    "author": "randomdude",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e21949a78bc73d80b580489f5536a4d6?s=64&d=identicon&r=r",
-   "time": "May 24, 2011 at 11:16 am",
-   "timeTitle": "Tuesday, May 24th, 2011, 11:16 am",
-   "html": "<p>how every mans life should be, nicely done</p>"
+   "date": "2011-05-24T11:16",
+   "avatar": "e21949a78bc73d80b580489f5536a4d6",
+   "text": "<p>how every mans life should be, nicely done</p>"
   },
   {
    "id": 7337,
    "author": "randomguy",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e21949a78bc73d80b580489f5536a4d6?s=64&d=identicon&r=r",
-   "time": "May 25, 2011 at 5:53 am",
-   "timeTitle": "Wednesday, May 25th, 2011, 5:53 am",
-   "html": "<p>if i was put in a life and death situation and had to choose which of your comics as my favourite, id easily go with this. 😀</p>"
+   "date": "2011-05-25T05:53",
+   "avatar": "e21949a78bc73d80b580489f5536a4d6",
+   "text": "<p>if i was put in a life and death situation and had to choose which of your comics as my favourite, id easily go with this. 😀</p>"
   },
   {
    "id": 85871,
    "author": "analytik",
+   "date": "2012-06-04T20:22",
    "url": "http://analytik.tumblr.com",
-   "avatar": "http://2.gravatar.com/avatar/bbcc647bf45463eb6770d061a37da65b?s=64&d=identicon&r=r",
-   "time": "June 4, 2012 at 8:22 pm",
-   "timeTitle": "Monday, June 4th, 2012, 8:22 pm",
-   "html": "<p>Hah &#8211; this one is good. It&#8217;s almost as good as Karkat arguing with his past and future self &#8211; <a href=\"http://www.mspaintadventures.com/?s=6&#038;p=004752\" rel=\"nofollow\">http://www.mspaintadventures.com/?s=6&#038;p=004752</a></p>"
+   "avatar": "bbcc647bf45463eb6770d061a37da65b",
+   "text": "<p>Hah &#8211; this one is good. It&#8217;s almost as good as Karkat arguing with his past and future self &#8211; <a href=\"http://www.mspaintadventures.com/?s=6&#038;p=004752\" rel=\"nofollow\">http://www.mspaintadventures.com/?s=6&#038;p=004752</a></p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 101",
-  "bodyClass": "post-template-default single single-post postid-202 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 101",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-10-02-Eat_Shit_And_Die_101.jpg"
- }
+ ]
 }

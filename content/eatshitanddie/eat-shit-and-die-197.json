@@ -1,205 +1,132 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-197/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-197",
- "id": 695,
  "title": "eat shit & die 197",
  "author": "bpatrick",
- "date": "September 11, 2011",
- "time": "12:00 am",
- "datetime": "2011-09-11T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>A new comic and a ton of news! akimbo got an awesome shout-out from the <a href=\"http://www.webcastbeacon.com/webcomic-200/\">Webcomic Beacon</a> , specifically long-time supporter <a href=\"http://twitter.com/#!/DaisiesAndShit\">Tanya Higgins</a> who I thought had given us up a long time ago and am super-pleased is still checking in occasionally. <a href=\"http://www.ericdsnider.com/blog/\">Eric D. Snider</a> posted a link on his blog and also wrote an insightful article detailing his personal struggle with depression. In Bob &#038; Bob movie news, kick-ass director <a href=\"http://www.facebook.com/#!/profile.php?id=500045157\">Andrew Alonso</a> has informed me that Bob &#038; Bob will be showing at the <a href=\"http://auff.org/Blog/Entries/2011/9/25_Mad_Men_shorts.html\">Atlanta Underground Film Festival</a> September 25. So if you&#8217;re in the area, please, check it out. I&#8217;m going to try to make down but I&#8217;m not certain yet. Or if you&#8217;re going to be in Philadelphia, October 27th-29th you can check it out at the <a href=\"http://twitter.com/#!/TerrorFilmFest\">Terror Film Festival</a> where it and several people involved have received the following nominations: Claw Award Nominations:<br />\nBest Actor &#8211; Chris Burns<br />\nBest Actress &#8211; Megan DeSantis<br />\nBest Screenplay<br />\nBest Director</p>\n<p>Best Dramatic Short </p>\n<p>which is pretty awesome. I&#8217;m going to try to update more often but it may mean switching to black and white for awhile, which I hate. </p>",
- "postClass": "post-695 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-09-11T00:00",
  "images": [
-  {
-   "src": "2011-09-11-Eat_Shit_And_Die_197.jpg",
-   "alt": "eat shit & die 197",
-   "title": "eat shit & die 197"
-  }
+  "2011-09-11-Eat_Shit_And_Die_197.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-196/",
-  "next": "/eatshitanddie/eat-shit-and-die-198/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-196/",
-  "next": "/eatshitanddie/eat-shit-and-die-198/"
- },
- "commentCount": 17,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>A new comic and a ton of news! akimbo got an awesome shout-out from the <a href=\"http://www.webcastbeacon.com/webcomic-200/\">Webcomic Beacon</a> , specifically long-time supporter <a href=\"http://twitter.com/#!/DaisiesAndShit\">Tanya Higgins</a> who I thought had given us up a long time ago and am super-pleased is still checking in occasionally. <a href=\"http://www.ericdsnider.com/blog/\">Eric D. Snider</a> posted a link on his blog and also wrote an insightful article detailing his personal struggle with depression. In Bob &#038; Bob movie news, kick-ass director <a href=\"http://www.facebook.com/#!/profile.php?id=500045157\">Andrew Alonso</a> has informed me that Bob &#038; Bob will be showing at the <a href=\"http://auff.org/Blog/Entries/2011/9/25_Mad_Men_shorts.html\">Atlanta Underground Film Festival</a> September 25. So if you&#8217;re in the area, please, check it out. I&#8217;m going to try to make down but I&#8217;m not certain yet. Or if you&#8217;re going to be in Philadelphia, October 27th-29th you can check it out at the <a href=\"http://twitter.com/#!/TerrorFilmFest\">Terror Film Festival</a> where it and several people involved have received the following nominations: Claw Award Nominations:<br />\nBest Actor &#8211; Chris Burns<br />\nBest Actress &#8211; Megan DeSantis<br />\nBest Screenplay<br />\nBest Director</p>\n<p>Best Dramatic Short </p>\n<p>which is pretty awesome. I&#8217;m going to try to update more often but it may mean switching to black and white for awhile, which I hate. </p>",
  "comments": [
   {
    "id": 9427,
    "author": "hellionz",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b0ef3ea85514e2281f37af52439b1c0f?s=64&d=identicon&r=r",
-   "time": "September 12, 2011 at 8:01 am",
-   "timeTitle": "Monday, September 12th, 2011, 8:01 am",
-   "html": "<p>Your work is good and makes me think, sometimes it makes me feel better about my life.</p>"
+   "date": "2011-09-12T08:01",
+   "avatar": "b0ef3ea85514e2281f37af52439b1c0f",
+   "text": "<p>Your work is good and makes me think, sometimes it makes me feel better about my life.</p>"
   },
   {
    "id": 9433,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "September 12, 2011 at 6:16 pm",
-   "timeTitle": "Monday, September 12th, 2011, 6:16 pm",
-   "html": "<p>whoa, a magnificent comic and an eagerly expected news flash, thanks! and I spotted a new donate button, too! all good news. cheers</p>"
+   "date": "2011-09-12T18:16",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>whoa, a magnificent comic and an eagerly expected news flash, thanks! and I spotted a new donate button, too! all good news. cheers</p>"
   },
   {
    "id": 9435,
    "author": "Winston Rowntree",
+   "date": "2011-09-12T19:30",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "September 12, 2011 at 7:30 pm",
-   "timeTitle": "Monday, September 12th, 2011, 7:30 pm",
-   "html": "<p>Fuck, man, this is just awesome&#8230;</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>Fuck, man, this is just awesome&#8230;</p>"
   },
   {
    "id": 9436,
    "author": "Ben",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9e98f79e23f9d0fddbb575826fb6b17a?s=64&d=identicon&r=r",
-   "time": "September 12, 2011 at 7:57 pm",
-   "timeTitle": "Monday, September 12th, 2011, 7:57 pm",
-   "html": "<p>Brilliant. Just brilliant.</p>"
+   "date": "2011-09-12T19:57",
+   "avatar": "9e98f79e23f9d0fddbb575826fb6b17a",
+   "text": "<p>Brilliant. Just brilliant.</p>"
   },
   {
    "id": 9437,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "September 12, 2011 at 9:36 pm",
-   "timeTitle": "Monday, September 12th, 2011, 9:36 pm",
-   "html": "<p>Good news and a new comic. In the words of Mr. Rowntree &#8220;Fuck, man, this is just awesome&#8221;.</p>"
+   "date": "2011-09-12T21:36",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Good news and a new comic. In the words of Mr. Rowntree &#8220;Fuck, man, this is just awesome&#8221;.</p>"
   },
   {
    "id": 9444,
    "author": "kitschbot",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/def047aef37b3c99418b40a32b874346?s=64&d=identicon&r=r",
-   "time": "September 14, 2011 at 5:40 am",
-   "timeTitle": "Wednesday, September 14th, 2011, 5:40 am",
-   "html": "<p>&#8220;Living is just the absence of the thought of death&#8221;<br />\nI really like this one, well done. Also, personally, I don&#8217;t mind waiting a really long time if it means the next one is going to be as wonderful as this one, seriously.</p>"
+   "date": "2011-09-14T05:40",
+   "avatar": "def047aef37b3c99418b40a32b874346",
+   "text": "<p>&#8220;Living is just the absence of the thought of death&#8221;<br />\nI really like this one, well done. Also, personally, I don&#8217;t mind waiting a really long time if it means the next one is going to be as wonderful as this one, seriously.</p>"
   },
   {
    "id": 9445,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "September 14, 2011 at 5:56 am",
-   "timeTitle": "Wednesday, September 14th, 2011, 5:56 am",
-   "html": "<p>I&#8217;m with Winston.</p>"
+   "date": "2011-09-14T05:56",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>I&#8217;m with Winston.</p>"
   },
   {
    "id": 9446,
    "author": "steve",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b43ced333b790d6f06b19dc18f7ace5c?s=64&d=identicon&r=r",
-   "time": "September 14, 2011 at 9:44 am",
-   "timeTitle": "Wednesday, September 14th, 2011, 9:44 am",
-   "html": "<p>Wow, this is a great one.  I love how you did the layout of the panels.  I&#8217;m so glad to hear about Bob &amp; Bob, too.  Congrats, and keep em coming!</p>"
+   "date": "2011-09-14T09:44",
+   "avatar": "b43ced333b790d6f06b19dc18f7ace5c",
+   "text": "<p>Wow, this is a great one.  I love how you did the layout of the panels.  I&#8217;m so glad to hear about Bob &amp; Bob, too.  Congrats, and keep em coming!</p>"
   },
   {
    "id": 9457,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "September 15, 2011 at 12:57 am",
-   "timeTitle": "Thursday, September 15th, 2011, 12:57 am",
-   "html": "<p>glad to see that the site is back online</p>"
+   "date": "2011-09-15T00:57",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>glad to see that the site is back online</p>"
   },
   {
    "id": 9504,
    "author": "joeC",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f30301aa6f57d7b6271d3b7ccc97a743?s=64&d=identicon&r=r",
-   "time": "September 18, 2011 at 12:26 pm",
-   "timeTitle": "Sunday, September 18th, 2011, 12:26 pm",
-   "html": "<p>Came here because Winston Rowntree mentioned it in his also awesome comix &#8211; and I&#8217;m amazed, spent two days reading through the complete archive! Awesome work!</p>"
+   "date": "2011-09-18T12:26",
+   "avatar": "f30301aa6f57d7b6271d3b7ccc97a743",
+   "text": "<p>Came here because Winston Rowntree mentioned it in his also awesome comix &#8211; and I&#8217;m amazed, spent two days reading through the complete archive! Awesome work!</p>"
   },
   {
    "id": 9506,
    "author": "Mike",
+   "date": "2011-09-18T14:28",
    "url": "http://www.thoink.org",
-   "avatar": "http://2.gravatar.com/avatar/861f0bbb881713f02213b6bd337f0319?s=64&d=identicon&r=r",
-   "time": "September 18, 2011 at 2:28 pm",
-   "timeTitle": "Sunday, September 18th, 2011, 2:28 pm",
-   "html": "<p>Just wanted to say Winston of Subnormality referred his readers over here, and I&#8217;m glad he did!</p>"
+   "avatar": "861f0bbb881713f02213b6bd337f0319",
+   "text": "<p>Just wanted to say Winston of Subnormality referred his readers over here, and I&#8217;m glad he did!</p>"
   },
   {
    "id": 9742,
    "author": "Harry Wood",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/06dd21f351f24ade62c261f49a6f9854?s=64&d=identicon&r=r",
-   "time": "September 25, 2011 at 3:42 pm",
-   "timeTitle": "Sunday, September 25th, 2011, 3:42 pm",
-   "html": "<p>Shit. This comic&#8230; It&#8217;s just awesome. You&#8217;re incredible. Thought provoking, stimulating, beautiful. I&#8217;m so glad I read this.</p>"
+   "date": "2011-09-25T15:42",
+   "avatar": "06dd21f351f24ade62c261f49a6f9854",
+   "text": "<p>Shit. This comic&#8230; It&#8217;s just awesome. You&#8217;re incredible. Thought provoking, stimulating, beautiful. I&#8217;m so glad I read this.</p>"
   },
   {
    "id": 83766,
    "author": "John",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/42ee5fa55ff708b702e72f9262712425?s=64&d=identicon&r=r",
-   "time": "May 23, 2012 at 1:48 pm",
-   "timeTitle": "Wednesday, May 23rd, 2012, 1:48 pm",
-   "html": "<p>Sometimes it can be informative to empathize with robots: An ideal autonomous robot should not be content to sit and wait, it should always be looking for new ways to help its creators. So a robot with nothing to do is not a happy robot so to speak, because it is not doing what it was built for. It may be easier for a robot, which is built with obvious goals in mind, but the point remains the same: boredom is the feeling you get when you know you are not doing what you were built for.</p>\n<p>Unfortunately for us, what we were built for doesn&#8217;t appear to be much more than hunting, gathering, and reproducing. So it falls to us to give meaning to these things or create new, more meaningful things to do. But whatever we do, be it work, or athleticism, or entertainment, or sex, or contemplation of philosophy we cannot expect to enjoy it if we feel bored as we do it. To escape the sense of boredom we must invest great energy into our acts.</p>\n<p>Chole may see this as simply an activity to distract ourselves. But that means that there must be something she wants us to pay attention to instead, and whatever that thing is, I say we go at it full force.</p>"
+   "date": "2012-05-23T13:48",
+   "avatar": "42ee5fa55ff708b702e72f9262712425",
+   "text": "<p>Sometimes it can be informative to empathize with robots: An ideal autonomous robot should not be content to sit and wait, it should always be looking for new ways to help its creators. So a robot with nothing to do is not a happy robot so to speak, because it is not doing what it was built for. It may be easier for a robot, which is built with obvious goals in mind, but the point remains the same: boredom is the feeling you get when you know you are not doing what you were built for.</p>\n<p>Unfortunately for us, what we were built for doesn&#8217;t appear to be much more than hunting, gathering, and reproducing. So it falls to us to give meaning to these things or create new, more meaningful things to do. But whatever we do, be it work, or athleticism, or entertainment, or sex, or contemplation of philosophy we cannot expect to enjoy it if we feel bored as we do it. To escape the sense of boredom we must invest great energy into our acts.</p>\n<p>Chole may see this as simply an activity to distract ourselves. But that means that there must be something she wants us to pay attention to instead, and whatever that thing is, I say we go at it full force.</p>"
   },
   {
    "id": 115754,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "October 27, 2012 at 10:41 pm",
-   "timeTitle": "Saturday, October 27th, 2012, 10:41 pm",
-   "html": "<p>The stuff in this comic sounds very similar to Pascal. He wrote of this very conundrum of boredom, and how we fill our lives with things and activities that distract us from the inevitable truth of mortality.</p>"
+   "date": "2012-10-27T22:41",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>The stuff in this comic sounds very similar to Pascal. He wrote of this very conundrum of boredom, and how we fill our lives with things and activities that distract us from the inevitable truth of mortality.</p>"
   },
   {
    "id": 589320,
    "author": "Jon appomattox",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/351048d42a92c0f0a3ad8ab6ebfad29a?s=64&d=identicon&r=r",
-   "time": "June 26, 2014 at 4:41 pm",
-   "timeTitle": "Thursday, June 26th, 2014, 4:41 pm",
-   "html": "<p>I really like the way you write women. You know, like they&#8217;re people. Just in general terms, youve got some deep shit going on here, and i love it.</p>"
+   "date": "2014-06-26T16:41",
+   "avatar": "351048d42a92c0f0a3ad8ab6ebfad29a",
+   "text": "<p>I really like the way you write women. You know, like they&#8217;re people. Just in general terms, youve got some deep shit going on here, and i love it.</p>"
   }
  ],
  "pingbacks": [
   {
    "id": 9476,
-   "author": "down at the celestial megapalace « Virus Comix News",
+   "title": "down at the celestial megapalace « Virus Comix News",
    "url": "http://viruscomix.wordpress.com/2011/09/17/celestial-megapalace/",
-   "avatar": null,
-   "time": "September 17, 2011 at 6:14 am",
-   "timeTitle": "Saturday, September 17th, 2011, 6:14 am",
-   "html": ""
+   "date": "2011-09-17T06:14"
   },
   {
    "id": 10047,
-   "author": "Objectivism v Antinatalism: round 2… | The Prime Directive",
+   "title": "Objectivism v Antinatalism: round 2… | The Prime Directive",
    "url": "http://francoistremblay.wordpress.com/2011/10/03/objectivism-v-antinatalism-round-2/",
-   "avatar": null,
-   "time": "October 4, 2011 at 3:05 am",
-   "timeTitle": "Tuesday, October 4th, 2011, 3:05 am",
-   "html": ""
+   "date": "2011-10-04T03:05"
   }
- ],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 197",
-  "bodyClass": "post-template-default single single-post postid-695 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 197",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-09-11-Eat_Shit_And_Die_197.jpg"
- }
+ ]
 }

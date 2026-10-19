@@ -1,121 +1,69 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-132/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-132",
- "id": 380,
  "title": "eat shit & die 132",
  "author": "bpatrick",
- "date": "June 8, 2009",
- "time": "12:00 am",
- "datetime": "2009-06-08T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2009-06-08T00:00",
  "tags": [
-  {
-   "title": "allison kelly",
-   "href": "/tag/allison-kelly/"
-  }
+  "allison-kelly"
  ],
- "html": "<p>Allison is a character I&#8217;ve been thinking about for awhile. I have several story ideas for her but I can&#8217;t get to them because it takes so long to make comics. So I&#8217;ve been figuring out a way to work her into eat shit &amp; die which are shorter. She starts out on a down note here but I think she&#8217;ll give some comics a more positive feel eventually.</p>",
- "postClass": "post-380 post type-post status-publish format-standard hentry category-eatshitanddie tag-allison-kelly uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2009-06-08-Eat_Shit_And_Die_132.jpg",
-   "alt": "Have you seen me?",
-   "title": "Have you seen me?"
-  }
+  "2009-06-08-Eat_Shit_And_Die_132.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-131/",
-  "next": "/really_deep_down/really-deep-down-3/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-131/",
-  "next": "/really_deep_down/really-deep-down-3/"
- },
- "commentCount": 7,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "Have you seen me?",
+ "body": "<p>Allison is a character I&#8217;ve been thinking about for awhile. I have several story ideas for her but I can&#8217;t get to them because it takes so long to make comics. So I&#8217;ve been figuring out a way to work her into eat shit &amp; die which are shorter. She starts out on a down note here but I think she&#8217;ll give some comics a more positive feel eventually.</p>",
  "comments": [
   {
    "id": 8,
    "author": "Foxhat",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bd5880b729e62db166c54cfff5ecf058?s=64&d=identicon&r=r",
-   "time": "June 8, 2009 at 4:26 pm",
-   "timeTitle": "Monday, June 8th, 2009, 4:26 pm",
-   "html": "<p>I must say your comic is one of the best on the web.</p>\n<p>But that one sure dragged my mood down.</p>"
+   "date": "2009-06-08T16:26",
+   "avatar": "bd5880b729e62db166c54cfff5ecf058",
+   "text": "<p>I must say your comic is one of the best on the web.</p>\n<p>But that one sure dragged my mood down.</p>"
   },
   {
    "id": 9,
    "author": "emulsifier",
+   "date": "2009-06-08T17:18",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
-   "time": "June 8, 2009 at 5:18 pm",
-   "timeTitle": "Monday, June 8th, 2009, 5:18 pm",
-   "html": "<p>Don&#8217;t worry, he says it&#8217;s going to get happier, we&#8217;ll have to wait and see.</p>",
-   "byAuthor": "emulsifier"
+   "avatar": "cd7434b888539623dcbb7ea85f17b601",
+   "text": "<p>Don&#8217;t worry, he says it&#8217;s going to get happier, we&#8217;ll have to wait and see.</p>"
   },
   {
    "id": 10,
    "author": "speearr",
+   "date": "2009-06-10T02:11",
    "url": "http://tijuana.tntcomic.net",
-   "avatar": "http://0.gravatar.com/avatar/f444e0c7b3dfa21fde03ea73f3d42bb5?s=64&d=identicon&r=r",
-   "time": "June 10, 2009 at 2:11 am",
-   "timeTitle": "Wednesday, June 10th, 2009, 2:11 am",
-   "html": "<p>At some point between childhood and adulthood, we lose that optimism. She probably won&#8217;t find it again until she&#8217;s senile&#8230;.<br />\nHey her skirt vanishes in the last panel! 😉</p>"
+   "avatar": "f444e0c7b3dfa21fde03ea73f3d42bb5",
+   "text": "<p>At some point between childhood and adulthood, we lose that optimism. She probably won&#8217;t find it again until she&#8217;s senile&#8230;.<br />\nHey her skirt vanishes in the last panel! 😉</p>"
   },
   {
    "id": 14,
    "author": "Winston Rowntree",
+   "date": "2009-06-12T18:02",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "June 12, 2009 at 6:02 pm",
-   "timeTitle": "Friday, June 12th, 2009, 6:02 pm",
-   "html": "<p>I just wanna say i appreciate comix that actually have background art in them. You always deliver in that regard, I&#8217;ll say that. Oh, and when I was reading this i was coincidentally listening to the song &#8220;every day is exactly the same,&#8221; so that was, uh, unnerving, especially in panel eight there.</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>I just wanna say i appreciate comix that actually have background art in them. You always deliver in that regard, I&#8217;ll say that. Oh, and when I was reading this i was coincidentally listening to the song &#8220;every day is exactly the same,&#8221; so that was, uh, unnerving, especially in panel eight there.</p>"
   },
   {
    "id": 16,
    "author": "bpatrick",
+   "date": "2009-06-15T06:27",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/c088e8950f971823a1a7376d8da4d58c?s=64&d=identicon&r=r",
-   "time": "June 15, 2009 at 6:27 am",
-   "timeTitle": "Monday, June 15th, 2009, 6:27 am",
-   "html": "<p>Thanks, Winston! Not as detailed and packed with hilarious jokes as yours but I guess they&#8217;re all right.</p>",
-   "byAuthor": "bpatrick"
+   "avatar": "c088e8950f971823a1a7376d8da4d58c",
+   "text": "<p>Thanks, Winston! Not as detailed and packed with hilarious jokes as yours but I guess they&#8217;re all right.</p>"
   },
   {
    "id": 6398,
    "author": "Standard",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3ea99478f2902acb33c2dfc73c346ee5?s=64&d=identicon&r=r",
-   "time": "March 30, 2011 at 12:03 pm",
-   "timeTitle": "Wednesday, March 30th, 2011, 12:03 pm",
-   "html": "<p>I don&#8217;t think these comic could put you down if you&#8217;re already down. I just relate to most and sadly laugh at them all (sucks being happy for a change)</p>"
+   "date": "2011-03-30T12:03",
+   "avatar": "3ea99478f2902acb33c2dfc73c346ee5",
+   "text": "<p>I don&#8217;t think these comic could put you down if you&#8217;re already down. I just relate to most and sadly laugh at them all (sucks being happy for a change)</p>"
   },
   {
    "id": 6666,
    "author": "Simim",
+   "date": "2011-04-16T19:49",
    "url": "http://www.facebook.com/simim23",
-   "avatar": "http://1.gravatar.com/avatar/7db39e6bb877e954f9a553b4e2611ca9?s=64&d=identicon&r=r",
-   "time": "April 16, 2011 at 7:49 pm",
-   "timeTitle": "Saturday, April 16th, 2011, 7:49 pm",
-   "html": "<p>When you lose that optimism, that&#8217;s when you know you&#8217;ve grown up. Some people never grow up, and those people are the coolest fuckers to ever exist on the planet.</p>"
+   "avatar": "7db39e6bb877e954f9a553b4e2611ca9",
+   "text": "<p>When you lose that optimism, that&#8217;s when you know you&#8217;ve grown up. Some people never grow up, and those people are the coolest fuckers to ever exist on the planet.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 132",
-  "bodyClass": "post-template-default single single-post postid-380 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 132",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-06-08-Eat_Shit_And_Die_132.jpg"
- }
+ ]
 }

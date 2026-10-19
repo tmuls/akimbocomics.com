@@ -1,162 +1,156 @@
 {
  "title": "Akimbo Comics – Comics Everyone Can Hate",
- "menu": [
+ "categories": [
   {
-   "title": "About",
-   "href": "/about/"
-  }
- ],
- "sidebar": [
-  {
-   "class": "comicpress_latest_comics_widget",
-   "id": "comicpress_latest_comics_widget-2",
-   "items": [
-    {
-     "href": "/eatshitanddie/eat-shit-die-309/",
-     "title": "eat, shit & die 309"
-    },
-    {
-     "href": "/comics/xxxxafadionv90239u/",
-     "title": "xxXXafadionv90239u"
-    },
-    {
-     "href": "/eatshitanddie/eat-shit-die-308/",
-     "title": "eat, shit & die 308"
-    },
-    {
-     "href": "/eatshitanddie/eat-shit-and-die-307/",
-     "title": "eat, shit and die 307"
-    },
-    {
-     "href": "/eatshitanddie/eat-shit-die-306/",
-     "title": "eat, shit & die 306"
-    }
-   ],
-   "title": "Latest Comics"
+   "slug": "agoodstory",
+   "name": "A Good Story",
+   "parent": "comics"
   },
   {
-   "class": "widget_categories",
-   "id": "categories-447715191",
-   "items": [
-    {
-     "href": "/agoodstory/",
-     "id": 6,
-     "title": "A Good Story"
-    },
-    {
-     "href": "/badhairday/",
-     "id": 7,
-     "title": "Bad Hair Day"
-    },
-    {
-     "href": "/bellyofthefish/",
-     "id": 8,
-     "title": "Belly of the Fish"
-    },
-    {
-     "href": "/bobandbob/",
-     "id": 9,
-     "title": "Bob and Bob"
-    },
-    {
-     "href": "/burlapsack/",
-     "id": 10,
-     "title": "Burlap Sack"
-    },
-    {
-     "href": "/camillabarnes/",
-     "id": 11,
-     "title": "Camilla Barnes"
-    },
-    {
-     "href": "/camillabarnes2/",
-     "id": 40,
-     "title": "Camilla Barnes 2"
-    },
-    {
-     "href": "/claustromania/",
-     "id": 12,
-     "title": "Claustromania"
-    },
-    {
-     "href": "/comics/",
-     "id": 3,
-     "title": "Comics"
-    },
-    {
-     "href": "/covergallery/",
-     "id": 13,
-     "title": "Cover Gallery"
-    },
-    {
-     "href": "/curiousurgency/",
-     "id": 22,
-     "title": "Curious Urgency"
-    },
-    {
-     "href": "/eatshitanddie/",
-     "id": 4,
-     "title": "Eat Shit and Die"
-    },
-    {
-     "href": "/fan-art/",
-     "id": 46,
-     "title": "Fan Art"
-    },
-    {
-     "href": "/imsureidontknow/",
-     "id": 15,
-     "title": "I'm sure I don't know"
-    },
-    {
-     "description": "For when Brian is taking his sweet ass time moving to Ohio...",
-     "href": "/linetool/",
-     "id": 34,
-     "title": "Line Tool"
-    },
-    {
-     "href": "/mannssearchformeenie/",
-     "id": 16,
-     "title": "Manns search for Meenie"
-    },
-    {
-     "href": "/my_boyfriend_smells/",
-     "id": 23,
-     "title": "My Boyfriend Smells"
-    },
-    {
-     "href": "/news/",
-     "id": 1,
-     "title": "News"
-    },
-    {
-     "href": "/really_deep_down/",
-     "id": 24,
-     "title": "Really Deep Down"
-    },
-    {
-     "href": "/secondcallback/",
-     "id": 17,
-     "title": "Second Call Back"
-    },
-    {
-     "href": "/strangeadmission/",
-     "id": 18,
-     "title": "Strange Admission"
-    },
-    {
-     "href": "/vivianblank/",
-     "id": 19,
-     "title": "Vivian Blank"
-    },
-    {
-     "href": "/washday/",
-     "id": 20,
-     "title": "Wash Day"
-    }
-   ],
-   "title": "Categories"
+   "slug": "badhairday",
+   "name": "Bad Hair Day",
+   "parent": "comics"
+  },
+  {
+   "slug": "bellyofthefish",
+   "name": "Belly of the Fish",
+   "parent": "comics"
+  },
+  {
+   "slug": "bobandbob",
+   "name": "Bob and Bob",
+   "parent": "comics"
+  },
+  {
+   "slug": "burlapsack",
+   "name": "Burlap Sack",
+   "parent": "comics"
+  },
+  {
+   "slug": "camillabarnes",
+   "name": "Camilla Barnes",
+   "parent": "comics"
+  },
+  {
+   "slug": "camillabarnes2",
+   "name": "Camilla Barnes 2",
+   "parent": "comics"
+  },
+  {
+   "slug": "claustromania",
+   "name": "Claustromania",
+   "parent": "comics"
+  },
+  {
+   "slug": "comics",
+   "name": "Comics"
+  },
+  {
+   "slug": "covergallery",
+   "name": "Cover Gallery",
+   "parent": "comics"
+  },
+  {
+   "slug": "curiousurgency",
+   "name": "Curious Urgency",
+   "parent": "comics"
+  },
+  {
+   "slug": "eatshitanddie",
+   "name": "Eat Shit and Die",
+   "parent": "comics"
+  },
+  {
+   "slug": "fan-art",
+   "name": "Fan Art"
+  },
+  {
+   "slug": "imsureidontknow",
+   "name": "I'm sure I don't know",
+   "parent": "comics"
+  },
+  {
+   "slug": "linetool",
+   "name": "Line Tool",
+   "parent": "comics"
+  },
+  {
+   "slug": "mannssearchformeenie",
+   "name": "Manns search for Meenie",
+   "parent": "comics"
+  },
+  {
+   "slug": "my_boyfriend_smells",
+   "name": "My Boyfriend Smells",
+   "parent": "comics"
+  },
+  {
+   "slug": "news",
+   "name": "News"
+  },
+  {
+   "slug": "really_deep_down",
+   "name": "Really Deep Down",
+   "parent": "comics"
+  },
+  {
+   "slug": "secondcallback",
+   "name": "Second Call Back",
+   "parent": "comics"
+  },
+  {
+   "slug": "strangeadmission",
+   "name": "Strange Admission",
+   "parent": "comics"
+  },
+  {
+   "slug": "vivianblank",
+   "name": "Vivian Blank",
+   "parent": "comics"
+  },
+  {
+   "slug": "washday",
+   "name": "Wash Day",
+   "parent": "comics"
   }
  ],
- "listingPerPage": 10
+ "blogCategories": [
+  "news",
+  "fan-art"
+ ],
+ "tags": {
+  "alcohol": "Alcohol",
+  "allison-kelly": "allison kelly",
+  "anxiety": "Anxiety",
+  "bar": "Bar",
+  "breasts": "breasts",
+  "burly-guy": "burly guy",
+  "chloe": "Chloe",
+  "david": "David",
+  "funny-animals": "funny animals",
+  "happy-rabbit": "happy rabbit",
+  "jordi": "Jordi",
+  "lil-bastards": "lil bastards",
+  "onan": "onan",
+  "relationships": "Relationships",
+  "self-doubt": "Self-doubt",
+  "sex": "sex",
+  "shannon": "Shannon",
+  "tina-fey": "Tina Fey",
+  "trent": "Trent",
+  "withdrawal": "Withdrawal",
+  "zeno": "zeno"
+ },
+ "authors": {
+  "bpatrick": {
+   "avatar": "c088e8950f971823a1a7376d8da4d58c",
+   "registered": "2009-03-03",
+   "website": "/"
+  },
+  "emulsifier": {
+   "avatar": "cd7434b888539623dcbb7ea85f17b601",
+   "registered": "2009-03-03",
+   "website": "/"
+  }
+ }
 }

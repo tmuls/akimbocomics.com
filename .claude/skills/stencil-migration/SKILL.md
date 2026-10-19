@@ -5,10 +5,12 @@ description: Plan, decisions and progress log for turning akimbocomics.com's ~85
 
 # Stencil migration
 
-**Status (2026-10-18): all five milestones done on branch `stencil`.**
+**Status (2026-10-18): all five milestones done and merged to `main`.**
 Pages are generated from `content/` by `stencil/`; `tools/build-site.py`
-builds the served `dist/`; `site/` holds only static files. What's left is
-merging to `main` (and any later cleanups listed in the log).
+builds the served `dist/`; `site/` holds only static files. Now optimising,
+on branches: (a) content holds only data (done on `slim-content`), (b) then
+simplify the template HTML/CSS. Goal: looks roughly the same (not
+pixel-exact), every old link still works.
 
 ## Goal
 
@@ -121,6 +123,22 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
   "RSS"/"Subscribe: RSS" with no feed behind it, WordPress "N queries" debug
   line, hidden "Cancel reply") are dropped. The old JS/CSS files stay served
   for their known URLs. Ask the user before adding any script back.
+- 2026-10-18 (content slimming, supersedes the two milestone-1 schema
+  entries below): `content/` holds only data; its schema is in
+  `content/README.md`. A post stores title, author, ISO date, optional
+  categories (when not just its folder), tags, image files, hoverText,
+  body, comments (id, author, ISO date, url, gravatar hash, text) and
+  pingbacks. No URLs (the file path is the URL), no theme classes, no
+  formatted dates, no nav, no listings, no home pages: `bundle-content.mjs`
+  derives those (comic nav = neighbouring comics by date, First/Last = the
+  newest comic; blog nav = neighbours in the same blog category; listings
+  newest first, a category also listing its `parent`-children; home = the
+  newest comic + blog index 5 per page; 50 comments+pingbacks per comment
+  page), and the components format dates and add the theme markup.
+  Comments are all shown as closed one way. Avatars use
+  https://secure.gravatar.com from the hash. `extract-content.py` (old
+  schema) is gone; `compare-pages.py --site <exported-pages checkout>`
+  remains for checking pages against the original.
 - 2026-10-18 (milestone 1): Content lives in `content/` at the repo root,
   one pretty-printed JSON file per record so diffs stay readable:
   `content/<series>/<slug>.json` (posts), `content/pages/about.json`,
@@ -183,6 +201,24 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
+
+- 2026-10-18: **Merged to main (806c200); content slimmed on branch
+  `slim-content`.** `content/` went from 668 files / 59k lines / 3.6 MB to
+  621 files / 20k lines / 2.8 MB (listings and home.json are derived now).
+  Checks: verify.mjs and the known-URL check pass, Docker redirect test
+  3947/0, and compared with the exported pages 18 of 846 differ, all
+  expected: 3 pairs of posts with identical timestamps now get proper
+  previous/next (WordPress's nav skipped one of each pair) and sort by
+  path in listings; https gravatars; "I'm sure I don't know" loses its
+  curly apostrophes in its listing heading; the 2 news posts with the
+  other closed-comments variant now look like the rest (and get a home
+  "Comment" link). Fixed a milestone-1 extraction bug: a body link written
+  `href=" https:/www..."` (browsers read it as https://www...) had been
+  made relative; it now points at the real URL.
+  - Next: merge `slim-content` once CI is green, then the template phase:
+    trim component markup (wrapper divs, empty -head/-foot divs, unused
+    classes) together with akimbo.css so pages look roughly the same;
+    check with compare-pages.py (text/links) and a browser.
 
 - 2026-10-18: **Milestone 5 (swap) done.** Removed the 846 exported
   `index.html` pages and the committed `redirects.js`/`404.html` from

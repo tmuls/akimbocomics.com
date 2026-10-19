@@ -1,132 +1,80 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-225/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-225",
- "id": 840,
  "title": "eat shit & die 225",
  "author": "bpatrick",
- "date": "June 30, 2013",
- "time": "12:00 am",
- "datetime": "2013-06-30T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>A June update! Just under the wire. </p>",
- "postClass": "post-840 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2013-06-30T00:00",
  "images": [
-  {
-   "src": "2013-06-30-Eat_Shit_And_Die_225.jpg",
-   "alt": "eat shit & die 225",
-   "title": "eat shit & die 225"
-  }
+  "2013-06-30-Eat_Shit_And_Die_225.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-64/",
-  "next": "/eatshitanddie/eat-shit-and-die-226/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-64/",
-  "next": "/eatshitanddie/eat-shit-and-die-226/"
- },
- "commentCount": 9,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>A June update! Just under the wire. </p>",
  "comments": [
   {
    "id": 222791,
    "author": "popcultivation",
+   "date": "2013-07-01T03:54",
    "url": "http://www.popcultivation.com",
-   "avatar": "http://1.gravatar.com/avatar/4bc669eaf80b3463aec0d156824dbaa1?s=64&d=identicon&r=r",
-   "time": "July 1, 2013 at 3:54 am",
-   "timeTitle": "Monday, July 1st, 2013, 3:54 am",
-   "html": "<p>SHO &#8216;NUFF!</p>"
+   "avatar": "4bc669eaf80b3463aec0d156824dbaa1",
+   "text": "<p>SHO &#8216;NUFF!</p>"
   },
   {
    "id": 222926,
    "author": "Jeff Tse",
+   "date": "2013-07-01T23:19",
    "url": "http://www.pursuitofalifeworthliving.com",
-   "avatar": "http://2.gravatar.com/avatar/2e656113159cf612d1a866f3dcd51028?s=64&d=identicon&r=r",
-   "time": "July 1, 2013 at 11:19 pm",
-   "timeTitle": "Monday, July 1st, 2013, 11:19 pm",
-   "html": "<p>Wow awesome man! Seriously good shit! I want to grow up and be a cartoonist like you!</p>"
+   "avatar": "2e656113159cf612d1a866f3dcd51028",
+   "text": "<p>Wow awesome man! Seriously good shit! I want to grow up and be a cartoonist like you!</p>"
   },
   {
    "id": 223632,
    "author": "Ed Lu",
+   "date": "2013-07-05T22:10",
    "url": "http://inarticulateloquence.om",
-   "avatar": "http://0.gravatar.com/avatar/9c263fc8087f3c927899d57ce891710c?s=64&d=identicon&r=r",
-   "time": "July 5, 2013 at 10:10 pm",
-   "timeTitle": "Friday, July 5th, 2013, 10:10 pm",
-   "html": "<p>Ever read The Magicians, by Lev Grossman?<br />\nThis kind of reminds me of that.</p>"
+   "avatar": "9c263fc8087f3c927899d57ce891710c",
+   "text": "<p>Ever read The Magicians, by Lev Grossman?<br />\nThis kind of reminds me of that.</p>"
   },
   {
    "id": 224537,
    "author": "comic",
+   "date": "2013-07-12T15:34",
    "url": "http://comictrain.wordpress.com/",
-   "avatar": "http://0.gravatar.com/avatar/31cf208660b988f60a445e66a52b01e8?s=64&d=identicon&r=r",
-   "time": "July 12, 2013 at 3:34 pm",
-   "timeTitle": "Friday, July 12th, 2013, 3:34 pm",
-   "html": "<p>the graphics are just amazing. super cool blog. thanks for sharing.</p>"
+   "avatar": "31cf208660b988f60a445e66a52b01e8",
+   "text": "<p>the graphics are just amazing. super cool blog. thanks for sharing.</p>"
   },
   {
    "id": 232170,
    "author": "Maochael",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/defd5d75e769cdb624a9d497f6eb96ed?s=64&d=identicon&r=r",
-   "time": "August 13, 2013 at 7:53 pm",
-   "timeTitle": "Tuesday, August 13th, 2013, 7:53 pm",
-   "html": "<p>I loved it, but what does Jonny Paycheck think?</p>"
+   "date": "2013-08-13T19:53",
+   "avatar": "defd5d75e769cdb624a9d497f6eb96ed",
+   "text": "<p>I loved it, but what does Jonny Paycheck think?</p>"
   },
   {
    "id": 235134,
    "author": "bpatrick",
+   "date": "2013-08-25T00:45",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "August 25, 2013 at 12:45 am",
-   "timeTitle": "Sunday, August 25th, 2013, 12:45 am",
-   "html": "<p>That&#8217;s what I&#8217;d like to know, Maochael. Thanks!<br />\nEd Lu: No, I haven&#8217;t. Should I? Is it good?<br />\nThanks Jeff Tse and popcultivation!</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>That&#8217;s what I&#8217;d like to know, Maochael. Thanks!<br />\nEd Lu: No, I haven&#8217;t. Should I? Is it good?<br />\nThanks Jeff Tse and popcultivation!</p>"
   },
   {
    "id": 235670,
    "author": "Ed Lu",
+   "date": "2013-08-27T23:54",
    "url": "http://inarticulateloquence.com",
-   "avatar": "http://0.gravatar.com/avatar/9c263fc8087f3c927899d57ce891710c?s=64&d=identicon&r=r",
-   "time": "August 27, 2013 at 11:54 pm",
-   "timeTitle": "Tuesday, August 27th, 2013, 11:54 pm",
-   "html": "<p>Hey bpatrick! The Magicians is really interesting. The basic question it answers is: what would happen if a fantasy-novel reader actually managed to get into a magic school?</p>\n<p>As to whether it&#8217;s good, It&#8217;s definitely not for everyone; the main character is terrible and self-destructive, but I think you might appreciate it. Certainly resonated with me.</p>"
+   "avatar": "9c263fc8087f3c927899d57ce891710c",
+   "text": "<p>Hey bpatrick! The Magicians is really interesting. The basic question it answers is: what would happen if a fantasy-novel reader actually managed to get into a magic school?</p>\n<p>As to whether it&#8217;s good, It&#8217;s definitely not for everyone; the main character is terrible and self-destructive, but I think you might appreciate it. Certainly resonated with me.</p>"
   },
   {
    "id": 244257,
    "author": "Walter Sobchak",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1463a3dd39768ac4066756c9b547c1ff?s=64&d=identicon&r=r",
-   "time": "October 7, 2013 at 5:37 pm",
-   "timeTitle": "Monday, October 7th, 2013, 5:37 pm",
-   "html": "<p>She&#8217;s not bad looking.  If she works on smiling she could do all right waiting tables instead of being the dish pig.</p>"
+   "date": "2013-10-07T17:37",
+   "avatar": "1463a3dd39768ac4066756c9b547c1ff",
+   "text": "<p>She&#8217;s not bad looking.  If she works on smiling she could do all right waiting tables instead of being the dish pig.</p>"
   },
   {
    "id": 249701,
    "author": "Uncajo",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/26ac5843dd416e9f96bda51e5c2f3d40?s=64&d=identicon&r=r",
-   "time": "October 23, 2013 at 3:29 am",
-   "timeTitle": "Wednesday, October 23rd, 2013, 3:29 am",
-   "html": "<p>As Joey heard from the senile man that he walked by as the man was circling Lake Merrit for the tenth time in a row, &#8220;Life.  What a concept.&#8221;  Some of your comics can only be appreciated by a psychiatrist.</p>"
+   "date": "2013-10-23T03:29",
+   "avatar": "26ac5843dd416e9f96bda51e5c2f3d40",
+   "text": "<p>As Joey heard from the senile man that he walked by as the man was circling Lake Merrit for the tenth time in a row, &#8220;Life.  What a concept.&#8221;  Some of your comics can only be appreciated by a psychiatrist.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 225",
-  "bodyClass": "post-template-default single single-post postid-840 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 225",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2013-06-30-Eat_Shit_And_Die_225.jpg"
- }
+ ]
 }

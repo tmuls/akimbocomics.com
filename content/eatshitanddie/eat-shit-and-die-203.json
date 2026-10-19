@@ -1,164 +1,100 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-203/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-203",
- "id": 713,
  "title": "eat shit & die 203",
  "author": "bpatrick",
- "date": "February 5, 2012",
- "time": "12:00 am",
- "datetime": "2012-02-05T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2012-02-05T00:00",
  "tags": [
-  {
-   "title": "onan",
-   "href": "/tag/onan/"
-  }
+  "onan"
  ],
- "html": "<p>This is not the entire episode. But I since I have more than half left and won&#8217;t have it done for another week and this was a pretty typical Onan ending point I decided to post what I had. I hope that&#8217;s the right decision. </p>\n<p>I&#8217;m working on a way to make prints available as well as originals and updating the store (hopefully). </p>\n<p>In the course of scouring the internet I came across some awesome people nice enough to mention akimbo. Thanks to <a href=\"http://www.spandexless.com/2012/01/webcomics-wednesday-akimbo-comics-get-out-of-my-head-b-patrick/\">Spandexless.com</a> , <a href=\"http://www.comicsalliance.com/2011/11/17/webcomics-depression-comix/\">Comics Alliance</a> , <a href=\"http://theheadvsheart.wordpress.com/tag/comics/\">The Head Versus Heart</a> , and the splendid <a href=\"http://depressioncomix.tumblr.com/\">Depression Comix</a>. </p>\n<p>EDIT: Still not done but here&#8217;s a little more. How many Onan fans saw that coming? How predictable am I getting? Can anyone guess what happens next? </p>\n<p>EDIT 2: Finally done! Why do I make these so long? And what kind of person makes comics like this?</p>",
- "postClass": "post-713 post type-post status-publish format-standard hentry category-eatshitanddie tag-onan uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2012-02-05-Eat_Shit_And_Die-203.jpg",
-   "alt": "eat shit & die 203",
-   "title": "eat shit & die 203"
-  }
+  "2012-02-05-Eat_Shit_And_Die-203.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-202/",
-  "next": "/eatshitanddie/eat-shit-and-die-204/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-202/",
-  "next": "/eatshitanddie/eat-shit-and-die-204/"
- },
- "commentCount": 12,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>This is not the entire episode. But I since I have more than half left and won&#8217;t have it done for another week and this was a pretty typical Onan ending point I decided to post what I had. I hope that&#8217;s the right decision. </p>\n<p>I&#8217;m working on a way to make prints available as well as originals and updating the store (hopefully). </p>\n<p>In the course of scouring the internet I came across some awesome people nice enough to mention akimbo. Thanks to <a href=\"http://www.spandexless.com/2012/01/webcomics-wednesday-akimbo-comics-get-out-of-my-head-b-patrick/\">Spandexless.com</a> , <a href=\"http://www.comicsalliance.com/2011/11/17/webcomics-depression-comix/\">Comics Alliance</a> , <a href=\"http://theheadvsheart.wordpress.com/tag/comics/\">The Head Versus Heart</a> , and the splendid <a href=\"http://depressioncomix.tumblr.com/\">Depression Comix</a>. </p>\n<p>EDIT: Still not done but here&#8217;s a little more. How many Onan fans saw that coming? How predictable am I getting? Can anyone guess what happens next? </p>\n<p>EDIT 2: Finally done! Why do I make these so long? And what kind of person makes comics like this?</p>",
  "comments": [
   {
    "id": 58596,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "February 6, 2012 at 5:16 am",
-   "timeTitle": "Monday, February 6th, 2012, 5:16 am",
-   "html": "<p>Up until the last frame this was a scene from my childhood.  Except I could usually see my parents&#8217; faces.</p>"
+   "date": "2012-02-06T05:16",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>Up until the last frame this was a scene from my childhood.  Except I could usually see my parents&#8217; faces.</p>"
   },
   {
    "id": 59227,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "February 7, 2012 at 4:08 pm",
-   "timeTitle": "Tuesday, February 7th, 2012, 4:08 pm",
-   "html": "<p>Decapitation and nipples! I feel like a Roman emporer when I say, &#8220;This pleases me.&#8221;</p>"
+   "date": "2012-02-07T16:08",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Decapitation and nipples! I feel like a Roman emporer when I say, &#8220;This pleases me.&#8221;</p>"
   },
   {
    "id": 59317,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "February 7, 2012 at 8:55 pm",
-   "timeTitle": "Tuesday, February 7th, 2012, 8:55 pm",
-   "html": "<p>OK,so now that the second half is done, I will clarify that the first half was a scene from my childhood.  Fortunately my father was never decapitated.  But I think he is still disappointed that I  never played sports.</p>"
+   "date": "2012-02-07T20:55",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>OK,so now that the second half is done, I will clarify that the first half was a scene from my childhood.  Fortunately my father was never decapitated.  But I think he is still disappointed that I  never played sports.</p>"
   },
   {
    "id": 59969,
    "author": "Dee",
+   "date": "2012-02-09T04:27",
    "url": "http://www.webkomik.com",
-   "avatar": "http://0.gravatar.com/avatar/cbed63e6c0a03861c98ede0a2dbc3c2e?s=64&d=identicon&r=r",
-   "time": "February 9, 2012 at 4:27 am",
-   "timeTitle": "Thursday, February 9th, 2012, 4:27 am",
-   "html": "<p>Can&#8217;t wait til the next one! 😀</p>"
+   "avatar": "cbed63e6c0a03861c98ede0a2dbc3c2e",
+   "text": "<p>Can&#8217;t wait til the next one! 😀</p>"
   },
   {
    "id": 59974,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "February 9, 2012 at 4:39 am",
-   "timeTitle": "Thursday, February 9th, 2012, 4:39 am",
-   "html": "<p>and as far as I&#8217;m aware my mother never wore thigh-highs with garters.</p>"
+   "date": "2012-02-09T04:39",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>and as far as I&#8217;m aware my mother never wore thigh-highs with garters.</p>"
   },
   {
    "id": 60293,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "February 9, 2012 at 9:26 pm",
-   "timeTitle": "Thursday, February 9th, 2012, 9:26 pm",
-   "html": "<p>&#8220;what kind of person writes comics like this?&#8221; I don&#8217;t know the kind, but it makes the people that enjoy comics like this seem less strange in comparison.</p>"
+   "date": "2012-02-09T21:26",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>&#8220;what kind of person writes comics like this?&#8221; I don&#8217;t know the kind, but it makes the people that enjoy comics like this seem less strange in comparison.</p>"
   },
   {
    "id": 60953,
    "author": "Spideycow",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/99f313f19794f742cc94d60f0133c0f1?s=64&d=identicon&r=r",
-   "time": "February 11, 2012 at 10:21 pm",
-   "timeTitle": "Saturday, February 11th, 2012, 10:21 pm",
-   "html": "<p>Haha! I just noticed the placement of the lightbulb in the third and fourth panel. Brilliant, man.</p>"
+   "date": "2012-02-11T22:21",
+   "avatar": "99f313f19794f742cc94d60f0133c0f1",
+   "text": "<p>Haha! I just noticed the placement of the lightbulb in the third and fourth panel. Brilliant, man.</p>"
   },
   {
    "id": 61016,
    "author": "heidz",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/7d13bae4ac72330a1101e968265c0625?s=64&d=identicon&r=r",
-   "time": "February 12, 2012 at 3:51 am",
-   "timeTitle": "Sunday, February 12th, 2012, 3:51 am",
-   "html": "<p>I second Mr. Paycheck in his analysis of the type of person that pens a comic such as this.</p>\n<p>I add that a person would have to be very clever and very handsome to make a comic such as this.</p>"
+   "date": "2012-02-12T03:51",
+   "avatar": "7d13bae4ac72330a1101e968265c0625",
+   "text": "<p>I second Mr. Paycheck in his analysis of the type of person that pens a comic such as this.</p>\n<p>I add that a person would have to be very clever and very handsome to make a comic such as this.</p>"
   },
   {
    "id": 61203,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b25b206f41b5073dc26629fda793af60?s=64&d=identicon&r=r",
-   "time": "February 12, 2012 at 9:11 pm",
-   "timeTitle": "Sunday, February 12th, 2012, 9:11 pm",
-   "html": "<p>and able to the degree as to make somebody who is having her face smashed to bloody bits look sexy, too.</p>"
+   "date": "2012-02-12T21:11",
+   "avatar": "b25b206f41b5073dc26629fda793af60",
+   "text": "<p>and able to the degree as to make somebody who is having her face smashed to bloody bits look sexy, too.</p>"
   },
   {
    "id": 62084,
    "author": "BoboB",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0d8c8fc2beb94797c1d54275b37f5105?s=64&d=identicon&r=r",
-   "time": "February 17, 2012 at 7:57 pm",
-   "timeTitle": "Friday, February 17th, 2012, 7:57 pm",
-   "html": "<p>I just noticed all of his toys. My hat, it is off.</p>"
+   "date": "2012-02-17T19:57",
+   "avatar": "0d8c8fc2beb94797c1d54275b37f5105",
+   "text": "<p>I just noticed all of his toys. My hat, it is off.</p>"
   },
   {
    "id": 73729,
    "author": "spinakker",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c38a6f9cbcc95b81e1336bea62cf023b?s=64&d=identicon&r=r",
-   "time": "April 25, 2012 at 6:15 pm",
-   "timeTitle": "Wednesday, April 25th, 2012, 6:15 pm",
-   "html": "<p>why does his mother have to be that sexy? Giant breasts, nipples, stockings&#8230;?</p>"
+   "date": "2012-04-25T18:15",
+   "avatar": "c38a6f9cbcc95b81e1336bea62cf023b",
+   "text": "<p>why does his mother have to be that sexy? Giant breasts, nipples, stockings&#8230;?</p>"
   },
   {
    "id": 76911,
    "author": "bpatrick",
+   "date": "2012-05-10T00:46",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "May 10, 2012 at 12:46 am",
-   "timeTitle": "Thursday, May 10th, 2012, 12:46 am",
-   "html": "<p>I understand your misgivings, spinakker. Not wanting to give too much away I&#8217;ll just say that mom&#8217;s appearance is not (only) due to my childishness and poor taste.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>I understand your misgivings, spinakker. Not wanting to give too much away I&#8217;ll just say that mom&#8217;s appearance is not (only) due to my childishness and poor taste.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 203",
-  "bodyClass": "post-template-default single single-post postid-713 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 203",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-02-05-Eat_Shit_And_Die-203.jpg"
- }
+ ]
 }

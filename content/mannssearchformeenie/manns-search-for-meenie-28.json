@@ -1,78 +1,32 @@
 {
- "path": "/mannssearchformeenie/manns-search-for-meenie-28/",
- "series": "mannssearchformeenie",
- "slug": "manns-search-for-meenie-28",
- "id": 656,
  "title": "Manns Search For Meenie 28",
  "author": "bpatrick",
- "date": "May 26, 2011",
- "time": "12:00 am",
- "datetime": "2011-05-26T00:00:00",
- "categories": [
-  {
-   "title": "Manns search for Meenie",
-   "href": "/mannssearchformeenie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-656 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-05-26T00:00",
  "images": [
-  {
-   "src": "2011-05-26-Manns_Search_For_Meenie_28.jpg",
-   "alt": "Manns Search For Meenie 28",
-   "title": "Manns Search For Meenie 28"
-  }
+  "2011-05-26-Manns_Search_For_Meenie_28.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-184/",
-  "next": "/eatshitanddie/eat-shit-and-die-185/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-184/",
-  "next": "/eatshitanddie/eat-shit-and-die-185/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 7475,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "May 28, 2011 at 5:33 pm",
-   "timeTitle": "Saturday, May 28th, 2011, 5:33 pm",
-   "html": "<p>Yeah! Anyway, cheers for the summer of comics!</p>"
+   "date": "2011-05-28T17:33",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>Yeah! Anyway, cheers for the summer of comics!</p>"
   },
   {
    "id": 7668,
    "author": "AJ",
+   "date": "2011-06-03T01:04",
    "url": "http://na",
-   "avatar": "http://1.gravatar.com/avatar/49125e9b6f73d8403e848360af33565d?s=64&d=identicon&r=r",
-   "time": "June 3, 2011 at 1:04 am",
-   "timeTitle": "Friday, June 3rd, 2011, 1:04 am",
-   "html": "<p>My favourite i want more MSFM<br />\nalso more of the rest of them</p>"
+   "avatar": "49125e9b6f73d8403e848360af33565d",
+   "text": "<p>My favourite i want more MSFM<br />\nalso more of the rest of them</p>"
   },
   {
    "id": 116139,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "October 28, 2012 at 7:08 pm",
-   "timeTitle": "Sunday, October 28th, 2012, 7:08 pm",
-   "html": "<p>What&#8217;s scary is that this doesn&#8217;t sound too far from being really possible.</p>"
+   "date": "2012-10-28T19:08",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>What&#8217;s scary is that this doesn&#8217;t sound too far from being really possible.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 28",
-  "bodyClass": "post-template-default single single-post postid-656 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Manns Search For Meenie 28",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-05-26-Manns_Search_For_Meenie_28.jpg"
- }
+ ]
 }

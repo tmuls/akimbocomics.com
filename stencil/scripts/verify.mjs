@@ -60,8 +60,8 @@ for (const page of pages) {
   if (post) {
     const shownPage = m ? Number(m[2]) : post.commentPages;
     if (!html.includes(post.title.replace(/&/g, '&amp;'))) fail(page, 'post title missing');
-    for (const img of post.images) {
-      const url = img.src.startsWith('/') ? img.src : post.path + img.src;
+    for (const src of post.images) {
+      const url = src.startsWith('/') ? src : post.path + src;
       if (!existsSync(join(WWW, url))) fail(page, `comic image ${url} not copied`);
     }
     for (const c of [...post.comments, ...post.pingbacks]) {

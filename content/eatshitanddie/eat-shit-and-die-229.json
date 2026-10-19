@@ -1,96 +1,46 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-229/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-229",
- "id": 873,
  "title": "eat shit & die 229",
  "author": "bpatrick",
- "date": "November 30, 2013",
- "time": "12:00 am",
- "datetime": "2013-11-30T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I don&#8217;t know why I think this is so funny. I was building a whole short story around it but figured with my pace I&#8217;d never get to it. It seems like it&#8217;d be the subject of a song from some alt post-punk college band from the 80s: &#8220;Now that you&#8217;re gone, the world is ending (but only incidentally, baby)&#8221;.</p>",
- "postClass": "post-873 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2013-11-30T00:00",
  "images": [
-  {
-   "src": "2013-11-30-Eat_Shit_And_Die_229.jpg",
-   "alt": "eat shit & die 229",
-   "title": "eat shit & die 229"
-  }
+  "2013-11-30-Eat_Shit_And_Die_229.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-228/",
-  "next": "/eatshitanddie/eat-shit-and-die-230/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-228/",
-  "next": "/eatshitanddie/eat-shit-and-die-230/"
- },
- "commentCount": 5,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I don&#8217;t know why I think this is so funny. I was building a whole short story around it but figured with my pace I&#8217;d never get to it. It seems like it&#8217;d be the subject of a song from some alt post-punk college band from the 80s: &#8220;Now that you&#8217;re gone, the world is ending (but only incidentally, baby)&#8221;.</p>",
  "comments": [
   {
    "id": 269407,
    "author": "steve",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b43ced333b790d6f06b19dc18f7ace5c?s=64&d=identicon&r=r",
-   "time": "December 1, 2013 at 4:31 am",
-   "timeTitle": "Sunday, December 1st, 2013, 4:31 am",
-   "html": "<p>Good to see you&#8217;re still making comics, thanks! 😀</p>"
+   "date": "2013-12-01T04:31",
+   "avatar": "b43ced333b790d6f06b19dc18f7ace5c",
+   "text": "<p>Good to see you&#8217;re still making comics, thanks! 😀</p>"
   },
   {
    "id": 269709,
    "author": "undercoverbrother",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/cce937893f6fcd6f89932e644ef27b84?s=64&d=identicon&r=r",
-   "time": "December 1, 2013 at 11:49 am",
-   "timeTitle": "Sunday, December 1st, 2013, 11:49 am",
-   "html": "<p>finally!! life is complete once more</p>"
+   "date": "2013-12-01T11:49",
+   "avatar": "cce937893f6fcd6f89932e644ef27b84",
+   "text": "<p>finally!! life is complete once more</p>"
   },
   {
    "id": 270114,
    "author": "D",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9d0edbe88dbbf9ac41b7919706a8f61e?s=64&d=identicon&r=r",
-   "time": "December 1, 2013 at 9:18 pm",
-   "timeTitle": "Sunday, December 1st, 2013, 9:18 pm",
-   "html": "<p>Ah still alive, lovely!</p>\n<p>Hope you do have some time for yourself making comics (don&#8217;t mind the crowd).</p>"
+   "date": "2013-12-01T21:18",
+   "avatar": "9d0edbe88dbbf9ac41b7919706a8f61e",
+   "text": "<p>Ah still alive, lovely!</p>\n<p>Hope you do have some time for yourself making comics (don&#8217;t mind the crowd).</p>"
   },
   {
    "id": 270322,
    "author": "Particle Man",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/93022fc1956e3c6f02faa44d7905cd72?s=64&d=identicon&r=r",
-   "time": "December 2, 2013 at 2:23 am",
-   "timeTitle": "Monday, December 2nd, 2013, 2:23 am",
-   "html": "<p>only temporarily</p>"
+   "date": "2013-12-02T02:23",
+   "avatar": "93022fc1956e3c6f02faa44d7905cd72",
+   "text": "<p>only temporarily</p>"
   },
   {
    "id": 711256,
    "author": "vanderin",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bf35f2a773ff50aeaa80816c42aaf769?s=64&d=identicon&r=r",
-   "time": "September 18, 2014 at 9:16 pm",
-   "timeTitle": "Thursday, September 18th, 2014, 9:16 pm",
-   "html": "<p>I had a chuckle 😛</p>"
+   "date": "2014-09-18T21:16",
+   "avatar": "bf35f2a773ff50aeaa80816c42aaf769",
+   "text": "<p>I had a chuckle 😛</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 229",
-  "bodyClass": "post-template-default single single-post postid-873 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 229",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2013-11-30-Eat_Shit_And_Die_229.jpg"
- }
+ ]
 }

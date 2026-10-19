@@ -1,60 +1,17 @@
 {
- "path": "/covergallery/cover-gallery-9/",
- "series": "covergallery",
- "slug": "cover-gallery-9",
- "id": 45,
  "title": "Cover Gallery 9",
  "author": "emulsifier",
- "date": "May 20, 2008",
- "time": "12:00 am",
- "datetime": "2008-05-20T00:00:00",
- "categories": [
-  {
-   "title": "Cover Gallery",
-   "href": "/covergallery/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-45 post type-post status-publish format-standard hentry category-covergallery uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-05-20T00:00",
  "images": [
-  {
-   "src": "2008-05-20-Cover_Gallery_9.jpg",
-   "alt": "Cover Gallery 9",
-   "title": "Cover Gallery 9"
-  }
+  "2008-05-20-Cover_Gallery_9.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/covergallery/cover-gallery-8/",
-  "next": "/covergallery/cover-gallery-10/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/covergallery/cover-gallery-8/",
-  "next": "/covergallery/cover-gallery-10/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 27812,
    "author": "gian",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8440d6f827d505fea938bc5a100de61a?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 5:37 pm",
-   "timeTitle": "Tuesday, December 20th, 2011, 5:37 pm",
-   "html": "<p>Thank you for being so damn awesome!</p>"
+   "date": "2011-12-20T17:37",
+   "avatar": "8440d6f827d505fea938bc5a100de61a",
+   "text": "<p>Thank you for being so damn awesome!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Cover Gallery 9",
-  "bodyClass": "post-template-default single single-post postid-45 single-format-standard user-guest comic unknown single-category-covergallery single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Cover Gallery 9",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-05-20-Cover_Gallery_9.jpg"
- }
+ ]
 }

@@ -1,55 +1,9 @@
 {
- "path": "/comics/the-badness-6/",
- "series": "comics",
- "slug": "the-badness-6",
- "id": 1245,
  "title": "The Badness 6",
  "author": "bpatrick",
- "date": "February 2, 2000",
- "time": "3:21 am",
- "datetime": "2000-02-02T03:21:00",
- "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1245 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2000-02-02T03:21",
  "images": [
-  {
-   "src": "2000-02-02-The_Badness_6.jpg",
-   "alt": "The Badness 6",
-   "title": "The Badness 6"
-  },
-  {
-   "src": "2000-02-02-The_Badness_7.jpg",
-   "alt": "The Badness 6",
-   "title": "The Badness 6"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/comics/zeno-22/",
-  "next": "/comics/the-badness-7/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/comics/zeno-22/",
-  "next": "/comics/the-badness-7/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - The Badness 6",
-  "bodyClass": "post-template-default single single-post postid-1245 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "The Badness 6",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2000-02-02-The_Badness_6.jpg"
- }
+  "2000-02-02-The_Badness_6.jpg",
+  "2000-02-02-The_Badness_7.jpg"
+ ]
 }

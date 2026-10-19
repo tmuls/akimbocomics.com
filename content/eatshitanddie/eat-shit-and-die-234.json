@@ -1,240 +1,166 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-234/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-234",
- "id": 931,
  "title": "eat shit & die 234",
  "author": "bpatrick",
- "date": "April 5, 2014",
- "time": "12:00 am",
- "datetime": "2014-04-05T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>This is a true story. Draw your own conclusions.</p>\n<p>Edit: This was supposed to be funny but I think I blew it. It all worked out; I&#8217;m now married to the greatest woman ever.</p>",
- "postClass": "post-931 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2014-04-05T00:00",
  "images": [
-  {
-   "src": "2014-04-05-Eat_Shit_And_Die_234.jpg",
-   "alt": "The look I was going for was, I shit you not, Grendel Prime.",
-   "title": "The look I was going for was, I shit you not, Grendel Prime."
-  }
+  "2014-04-05-Eat_Shit_And_Die_234.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-233/",
-  "next": "/eatshitanddie/eat-shit-and-die-235/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-233/",
-  "next": "/eatshitanddie/eat-shit-and-die-235/"
- },
- "commentCount": 21,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "The look I was going for was, I shit you not, Grendel Prime.",
+ "body": "<p>This is a true story. Draw your own conclusions.</p>\n<p>Edit: This was supposed to be funny but I think I blew it. It all worked out; I&#8217;m now married to the greatest woman ever.</p>",
  "comments": [
   {
    "id": 525732,
    "author": "Erdosain",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/dfc3b2964efc6f152b4fcef98c94a4a9?s=64&d=identicon&r=r",
-   "time": "April 6, 2014 at 11:33 pm",
-   "timeTitle": "Sunday, April 6th, 2014, 11:33 pm",
-   "html": "<p>That&#8217;s rough, straight to the bone. I love your work, dude.</p>"
+   "date": "2014-04-06T23:33",
+   "avatar": "dfc3b2964efc6f152b4fcef98c94a4a9",
+   "text": "<p>That&#8217;s rough, straight to the bone. I love your work, dude.</p>"
   },
   {
    "id": 525826,
    "author": "David Collett",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "April 7, 2014 at 4:01 am",
-   "timeTitle": "Monday, April 7th, 2014, 4:01 am",
-   "html": "<p>Great comic. Captures life at it&#8217;s essence. The choices we make, the process of growing as a person, the disillusionment that comes with our dreams, but the paths this opens up for me. </p>\n<p>It reminds me of my time spent working to become an academic, until I realised it wasn&#8217;t the job I thought it was.</p>\n<p>Stupid Brian MB. I bet he feels trapped now, drawing a creation that is no longer his own, but is owned by his fans and the publisher. I bet he feels like he&#8217;s trapped in someone else&#8217;s job. (As someone very wise said &#8220;Just because he&#8217;s successful, doesn&#8217;t mean he&#8217;s happy.&#8221;)</p>\n<p>Do you ever talk about that time with your ex-wife? You&#8217;re older now, wiser and probably have a new perspective on it.</p>"
+   "date": "2014-04-07T04:01",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>Great comic. Captures life at it&#8217;s essence. The choices we make, the process of growing as a person, the disillusionment that comes with our dreams, but the paths this opens up for me. </p>\n<p>It reminds me of my time spent working to become an academic, until I realised it wasn&#8217;t the job I thought it was.</p>\n<p>Stupid Brian MB. I bet he feels trapped now, drawing a creation that is no longer his own, but is owned by his fans and the publisher. I bet he feels like he&#8217;s trapped in someone else&#8217;s job. (As someone very wise said &#8220;Just because he&#8217;s successful, doesn&#8217;t mean he&#8217;s happy.&#8221;)</p>\n<p>Do you ever talk about that time with your ex-wife? You&#8217;re older now, wiser and probably have a new perspective on it.</p>"
   },
   {
    "id": 526049,
    "author": "Tomixcomics",
+   "date": "2014-04-07T13:36",
    "url": "http://www.tomix-comics.com/english/",
-   "avatar": "http://2.gravatar.com/avatar/ec6ca585e90044c40f11fac4f8a7ae6f?s=64&d=identicon&r=r",
-   "time": "April 7, 2014 at 1:36 pm",
-   "timeTitle": "Monday, April 7th, 2014, 1:36 pm",
-   "html": "<p>Uhm&#8230; Wow&#8230;</p>\n<p>A strange way to motivate me to keep going!</p>"
+   "avatar": "ec6ca585e90044c40f11fac4f8a7ae6f",
+   "text": "<p>Uhm&#8230; Wow&#8230;</p>\n<p>A strange way to motivate me to keep going!</p>"
   },
   {
    "id": 526108,
    "author": "ltl",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0e3270890485865ab473da694d925aca?s=64&d=identicon&r=r",
-   "time": "April 7, 2014 at 4:50 pm",
-   "timeTitle": "Monday, April 7th, 2014, 4:50 pm",
-   "html": "<p>thanks for telling this story. i have nothing deep to say about it, but thank you.</p>"
+   "date": "2014-04-07T16:50",
+   "avatar": "0e3270890485865ab473da694d925aca",
+   "text": "<p>thanks for telling this story. i have nothing deep to say about it, but thank you.</p>"
   },
   {
    "id": 526190,
    "author": "bpatrick",
+   "date": "2014-04-07T23:05",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "April 7, 2014 at 11:05 pm",
-   "timeTitle": "Monday, April 7th, 2014, 11:05 pm",
-   "html": "<p>Thanks, everyone! This was meant to be funny but I might have misjudged it.<br />\nDavid Collett: I don&#8217;t ever talk to my ex-wife but it is funny now, looking back. And Brian Michael Bendis&#8217; career is still pretty enviable, though I must confess I&#8217;ve never read any of his stuff, just as it turns out. Not like I&#8217;ve avoided him or anything. I swear.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks, everyone! This was meant to be funny but I might have misjudged it.<br />\nDavid Collett: I don&#8217;t ever talk to my ex-wife but it is funny now, looking back. And Brian Michael Bendis&#8217; career is still pretty enviable, though I must confess I&#8217;ve never read any of his stuff, just as it turns out. Not like I&#8217;ve avoided him or anything. I swear.</p>"
   },
   {
    "id": 526200,
    "author": "Casey Weederman",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a55c20ea9339b00ecfc5512dcc49ef04?s=64&d=identicon&r=r",
-   "time": "April 7, 2014 at 11:25 pm",
-   "timeTitle": "Monday, April 7th, 2014, 11:25 pm",
-   "html": "<p>Kirby and Bendis are my two biggest names in the traditional comic form.</p>"
+   "date": "2014-04-07T23:25",
+   "avatar": "a55c20ea9339b00ecfc5512dcc49ef04",
+   "text": "<p>Kirby and Bendis are my two biggest names in the traditional comic form.</p>"
   },
   {
    "id": 526242,
    "author": "Marscaleb",
+   "date": "2014-04-08T01:49",
    "url": "http://maytiacomic.com/",
-   "avatar": "http://0.gravatar.com/avatar/f50b6c595e732ffd390b68cd9522179c?s=64&d=identicon&r=r",
-   "time": "April 8, 2014 at 1:49 am",
-   "timeTitle": "Tuesday, April 8th, 2014, 1:49 am",
-   "html": "<p>So you quit comics, and now you make comics.</p>\n<p>Riiiiiight.</p>"
+   "avatar": "f50b6c595e732ffd390b68cd9522179c",
+   "text": "<p>So you quit comics, and now you make comics.</p>\n<p>Riiiiiight.</p>"
   },
   {
    "id": 526646,
    "author": "Kevin",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/31b46b9e0c70314d83c7a68ae7389818?s=64&d=identicon&r=r",
-   "time": "April 8, 2014 at 8:50 pm",
-   "timeTitle": "Tuesday, April 8th, 2014, 8:50 pm",
-   "html": "<p>I hope med school is still going well ? You must be pretty far underway by this point. </p>\n<p>Does previously being a butcher even help? In the cutting up of things department ?</p>"
+   "date": "2014-04-08T20:50",
+   "avatar": "31b46b9e0c70314d83c7a68ae7389818",
+   "text": "<p>I hope med school is still going well ? You must be pretty far underway by this point. </p>\n<p>Does previously being a butcher even help? In the cutting up of things department ?</p>"
   },
   {
    "id": 526726,
    "author": "caricaturist",
+   "date": "2014-04-08T23:05",
    "url": "http://www.caricaturesbydave.com",
-   "avatar": "http://2.gravatar.com/avatar/2f91da9cc2a7e5b653917ccb4e824471?s=64&d=identicon&r=r",
-   "time": "April 8, 2014 at 11:05 pm",
-   "timeTitle": "Tuesday, April 8th, 2014, 11:05 pm",
-   "html": "<p>I came close to getting hired in 1992 by Marvel Comics, but I couldn&#8217;t see a way to survive on $35 a page&#8230; Perhaps I dodged a bullet, I dunno, but I love my little cartoon and caricature niche that my wife and I managed to create out of thin air and minimal business acumen. On a bad day at work, I have to draw funny pictures and on a good day, they are funnier still&#8230;</p>"
+   "avatar": "2f91da9cc2a7e5b653917ccb4e824471",
+   "text": "<p>I came close to getting hired in 1992 by Marvel Comics, but I couldn&#8217;t see a way to survive on $35 a page&#8230; Perhaps I dodged a bullet, I dunno, but I love my little cartoon and caricature niche that my wife and I managed to create out of thin air and minimal business acumen. On a bad day at work, I have to draw funny pictures and on a good day, they are funnier still&#8230;</p>"
   },
   {
    "id": 526914,
    "author": "marlon",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3a176bde4850bd2a03e9511f42913906?s=64&d=identicon&r=r",
-   "time": "April 9, 2014 at 9:17 am",
-   "timeTitle": "Wednesday, April 9th, 2014, 9:17 am",
-   "html": "<p>Accidentally clicked on the book mark for your website didn&#8217;t think i was gonna get a wake up call out of this happy accident</p>\n<p>this sort of shit happens to let you know your goals are not unobtainable</p>"
+   "date": "2014-04-09T09:17",
+   "avatar": "3a176bde4850bd2a03e9511f42913906",
+   "text": "<p>Accidentally clicked on the book mark for your website didn&#8217;t think i was gonna get a wake up call out of this happy accident</p>\n<p>this sort of shit happens to let you know your goals are not unobtainable</p>"
   },
   {
    "id": 527047,
    "author": "Joe5",
+   "date": "2014-04-09T15:34",
    "url": "http://joe5art.deviantart.com",
-   "avatar": "http://0.gravatar.com/avatar/372cbcedc899743b9b59bd90d6a53d06?s=64&d=identicon&r=r",
-   "time": "April 9, 2014 at 3:34 pm",
-   "timeTitle": "Wednesday, April 9th, 2014, 3:34 pm",
-   "html": "<p>Really enjoyed. I&#8217;m in the same basic boat. I learned graphic and production to work on my own work but I work for a group of newspapers instead. I&#8217;ve been doing a web strip based on the comic book I use to have distributed but wonder if there is a point where I will be making it. The Comic I&#8217;m working on is at Elsewhere.thecomicseries.com</p>"
+   "avatar": "372cbcedc899743b9b59bd90d6a53d06",
+   "text": "<p>Really enjoyed. I&#8217;m in the same basic boat. I learned graphic and production to work on my own work but I work for a group of newspapers instead. I&#8217;ve been doing a web strip based on the comic book I use to have distributed but wonder if there is a point where I will be making it. The Comic I&#8217;m working on is at Elsewhere.thecomicseries.com</p>"
   },
   {
    "id": 529362,
    "author": "David Collett",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "April 14, 2014 at 2:35 am",
-   "timeTitle": "Monday, April 14th, 2014, 2:35 am",
-   "html": "<p>I keep thinking about this comic. </p>\n<p>I don&#8217;t think you blew it. I think your funny = so deep and insightful it touches on our secret/painful parts. Hence, no one laughs, but we all go away a bit sadder and a bit wiser.</p>\n<p>It still does remind me of my time in academia. How I followed a dream until I saw it would no longer work. And your comic does give me a framework to explore that experience of it. A bit like this comic: <a href=\"/eatshitanddie/eat-shit-and-die-233/\" rel=\"nofollow\">/eatshitanddie/eat-shit-and-die-233/</a></p>\n<p>Anyways, I&#8217;ll leave you be. Thanks for the comic and good luck with the doctoring!</p>"
+   "date": "2014-04-14T02:35",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>I keep thinking about this comic. </p>\n<p>I don&#8217;t think you blew it. I think your funny = so deep and insightful it touches on our secret/painful parts. Hence, no one laughs, but we all go away a bit sadder and a bit wiser.</p>\n<p>It still does remind me of my time in academia. How I followed a dream until I saw it would no longer work. And your comic does give me a framework to explore that experience of it. A bit like this comic: <a href=\"/eatshitanddie/eat-shit-and-die-233/\" rel=\"nofollow\">/eatshitanddie/eat-shit-and-die-233/</a></p>\n<p>Anyways, I&#8217;ll leave you be. Thanks for the comic and good luck with the doctoring!</p>"
   },
   {
    "id": 535530,
    "author": "AT",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/98cbb39d5c48fa7200edb68719679f1d?s=64&d=identicon&r=r",
-   "time": "April 22, 2014 at 11:20 pm",
-   "timeTitle": "Tuesday, April 22nd, 2014, 11:20 pm",
-   "html": "<p>Nice to see you care, at least somewhat, about the representation of women in comics. I find Akimbo misogynistic at times.</p>"
+   "date": "2014-04-22T23:20",
+   "avatar": "98cbb39d5c48fa7200edb68719679f1d",
+   "text": "<p>Nice to see you care, at least somewhat, about the representation of women in comics. I find Akimbo misogynistic at times.</p>"
   },
   {
    "id": 539246,
    "author": "practik",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d77b6090cae5e15ffeb77911408a909b?s=64&d=identicon&r=r",
-   "time": "April 29, 2014 at 5:00 am",
-   "timeTitle": "Tuesday, April 29th, 2014, 5:00 am",
-   "html": "<p>All right, another new-reader Akimbo binge completed!  Except maybe &#8220;binge&#8221; isn&#8217;t the word since it took me three weeks.  That&#8217;s like, what, 20 pages a day?  That&#8217;s a lot of comics, B.  Thank you.</p>\n<p>A couple of things I haven&#8217;t seen anyone else praise:  The way you render dialogue is great.  Balloon placement, lettering, punctuation, words:  Everything works together to create a rhythm which – except when you overdo the verbal tics, like in ESAD 194 – feels very real.</p>\n<p>And the stylistic range of your drawing blows me away, especially since it&#8217;s always clearly chosen to fit the mood and the message.  Who else even does this?  Dan Clowes, Chris Ware &#8230; Matt Wagner used to a little, don&#8217;t know about now &#8230; that&#8217;s all I got.  And I don&#8217;t know that any of them takes it as far as you have.</p>\n<p>I&#8217;m sure strip suggestions are the last thing you need, but if the idea of either a Claire-Burly Guy hookup or Quentin getting Onan high during some deep-space downtime sounds like fun to draw, I&#8217;d love to see the results.  That, or whatever else you create.</p>"
+   "date": "2014-04-29T05:00",
+   "avatar": "d77b6090cae5e15ffeb77911408a909b",
+   "text": "<p>All right, another new-reader Akimbo binge completed!  Except maybe &#8220;binge&#8221; isn&#8217;t the word since it took me three weeks.  That&#8217;s like, what, 20 pages a day?  That&#8217;s a lot of comics, B.  Thank you.</p>\n<p>A couple of things I haven&#8217;t seen anyone else praise:  The way you render dialogue is great.  Balloon placement, lettering, punctuation, words:  Everything works together to create a rhythm which – except when you overdo the verbal tics, like in ESAD 194 – feels very real.</p>\n<p>And the stylistic range of your drawing blows me away, especially since it&#8217;s always clearly chosen to fit the mood and the message.  Who else even does this?  Dan Clowes, Chris Ware &#8230; Matt Wagner used to a little, don&#8217;t know about now &#8230; that&#8217;s all I got.  And I don&#8217;t know that any of them takes it as far as you have.</p>\n<p>I&#8217;m sure strip suggestions are the last thing you need, but if the idea of either a Claire-Burly Guy hookup or Quentin getting Onan high during some deep-space downtime sounds like fun to draw, I&#8217;d love to see the results.  That, or whatever else you create.</p>"
   },
   {
    "id": 554624,
    "author": "bpatrick",
+   "date": "2014-05-10T00:40",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "May 10, 2014 at 12:40 am",
-   "timeTitle": "Saturday, May 10th, 2014, 12:40 am",
-   "html": "<p>@practik: thank you so much! Dialogue and punctuation have been two of the biggest criticisms I&#8217;ve heard but I do try hard to get it right. And don&#8217;t wait &#8217;till the end of the binge (which thanks for toiling through) to comment. Comment on every comic. Thanks again!<br />\n@AT: All I can say is I do care and at times so do I.<br />\n@Kevin: Med school is going very well and I know everyone would feel better if I said, &#8220;no, being a butcher is in no way similar to surgery&#8221; but I can&#8217;t do that. It&#8217;s surprisingly similar.<br />\nThanks for all the support from fellow cartoonists! You guys are awesome. I wish I had more encouraging things to say but I&#8217;m a quitter. Keep us posted on all your works.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>@practik: thank you so much! Dialogue and punctuation have been two of the biggest criticisms I&#8217;ve heard but I do try hard to get it right. And don&#8217;t wait &#8217;till the end of the binge (which thanks for toiling through) to comment. Comment on every comic. Thanks again!<br />\n@AT: All I can say is I do care and at times so do I.<br />\n@Kevin: Med school is going very well and I know everyone would feel better if I said, &#8220;no, being a butcher is in no way similar to surgery&#8221; but I can&#8217;t do that. It&#8217;s surprisingly similar.<br />\nThanks for all the support from fellow cartoonists! You guys are awesome. I wish I had more encouraging things to say but I&#8217;m a quitter. Keep us posted on all your works.</p>"
   },
   {
    "id": 555482,
    "author": "PK",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a0d523c58b2e84814855a27b4497f34b?s=64&d=identicon&r=r",
-   "time": "May 10, 2014 at 11:20 pm",
-   "timeTitle": "Saturday, May 10th, 2014, 11:20 pm",
-   "html": "<p>This hit really close to home. I was in a very similar situation to the end of this comic a little over a year ago. Giving up on dreams, the wife leaving me, whole 9 yards. Your work is excellent, and a great inspiration. Thanks for continuing to put these up.</p>"
+   "date": "2014-05-10T23:20",
+   "avatar": "a0d523c58b2e84814855a27b4497f34b",
+   "text": "<p>This hit really close to home. I was in a very similar situation to the end of this comic a little over a year ago. Giving up on dreams, the wife leaving me, whole 9 yards. Your work is excellent, and a great inspiration. Thanks for continuing to put these up.</p>"
   },
   {
    "id": 556352,
    "author": "practik",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d77b6090cae5e15ffeb77911408a909b?s=64&d=identicon&r=r",
-   "time": "May 12, 2014 at 2:58 am",
-   "timeTitle": "Monday, May 12th, 2014, 2:58 am",
-   "html": "<p>&#8220;Toiling,&#8221; ha!</p>\n<p>(And if you knew how long it took my internal editor to greenlight just these few words right here, you&#8217;d understand why I saved up till the end.  Though I did sprinkle a couple other comments along the way&#8230;.)</p>"
+   "date": "2014-05-12T02:58",
+   "avatar": "d77b6090cae5e15ffeb77911408a909b",
+   "text": "<p>&#8220;Toiling,&#8221; ha!</p>\n<p>(And if you knew how long it took my internal editor to greenlight just these few words right here, you&#8217;d understand why I saved up till the end.  Though I did sprinkle a couple other comments along the way&#8230;.)</p>"
   },
   {
    "id": 614936,
    "author": "Bill",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebd748daa27734e971be1991d2c4825c?s=64&d=identicon&r=r",
-   "time": "August 10, 2014 at 2:57 pm",
-   "timeTitle": "Sunday, August 10th, 2014, 2:57 pm",
-   "html": "<p>Excellent BP. I&#8217;m a great admirer of your work. And no&#8230;I don&#8217;t own a comic book company sadly or you&#8217;d be hired.</p>"
+   "date": "2014-08-10T14:57",
+   "avatar": "ebd748daa27734e971be1991d2c4825c",
+   "text": "<p>Excellent BP. I&#8217;m a great admirer of your work. And no&#8230;I don&#8217;t own a comic book company sadly or you&#8217;d be hired.</p>"
   },
   {
    "id": 679412,
    "author": "JayJay",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/745f4f0fc751a1d0624de4f2fe68a2cd?s=64&d=identicon&r=r",
-   "time": "September 13, 2014 at 8:12 am",
-   "timeTitle": "Saturday, September 13th, 2014, 8:12 am",
-   "html": "<p>I enjoyed this. Thanks.</p>"
+   "date": "2014-09-13T08:12",
+   "avatar": "745f4f0fc751a1d0624de4f2fe68a2cd",
+   "text": "<p>I enjoyed this. Thanks.</p>"
   },
   {
    "id": 746860,
    "author": "coops",
+   "date": "2014-09-26T04:47",
    "url": "http://www.aringwald.com",
-   "avatar": "http://2.gravatar.com/avatar/55b0a4198c8b94946bd2e045932c8f4c?s=64&d=identicon&r=r",
-   "time": "September 26, 2014 at 4:47 am",
-   "timeTitle": "Friday, September 26th, 2014, 4:47 am",
-   "html": "<p>when your dreams don&#8217;t become reality, and others have invested in that same dream, it&#8217;s harshly eroding place to exist. I&#8217;m pretty much right there, right now. I&#8217;m on this cusp of taking a job that isn&#8217;t creative&#8230;to pay the bills and get on with &#8216;it&#8217;&#8230;and if it was just me, well then i&#8217;d just deal with it, come to terms with it on my own. But when another person&#8230;or many persons like your mom and dad and siblings and friends stating &#8216;wow you&#8217;re so good, you&#8217;re going to be great!&#8217;. Well&#8230;maybe im just ok, you know? And it&#8217;s a hard thing to come to terms with. My cat understands. Not.</p>"
+   "avatar": "55b0a4198c8b94946bd2e045932c8f4c",
+   "text": "<p>when your dreams don&#8217;t become reality, and others have invested in that same dream, it&#8217;s harshly eroding place to exist. I&#8217;m pretty much right there, right now. I&#8217;m on this cusp of taking a job that isn&#8217;t creative&#8230;to pay the bills and get on with &#8216;it&#8217;&#8230;and if it was just me, well then i&#8217;d just deal with it, come to terms with it on my own. But when another person&#8230;or many persons like your mom and dad and siblings and friends stating &#8216;wow you&#8217;re so good, you&#8217;re going to be great!&#8217;. Well&#8230;maybe im just ok, you know? And it&#8217;s a hard thing to come to terms with. My cat understands. Not.</p>"
   },
   {
    "id": 1072792,
    "author": "Leo W.",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/57c1d311d365b2c9060f33979d87088e?s=64&d=identicon&r=r",
-   "time": "August 31, 2015 at 2:17 pm",
-   "timeTitle": "Monday, August 31st, 2015, 2:17 pm",
-   "html": "<p>I didn&#8217;t find this funny the first time I read it, but looking back on it now I get it.<br />\nThe joke totally works (if you know who Bendis is).</p>"
+   "date": "2015-08-31T14:17",
+   "avatar": "57c1d311d365b2c9060f33979d87088e",
+   "text": "<p>I didn&#8217;t find this funny the first time I read it, but looking back on it now I get it.<br />\nThe joke totally works (if you know who Bendis is).</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 234",
-  "bodyClass": "post-template-default single single-post postid-931 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 234",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2014-04-05-Eat_Shit_And_Die_234.jpg"
- }
+ ]
 }

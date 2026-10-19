@@ -1,97 +1,47 @@
 {
- "path": "/linetool/line-tool-2/",
- "series": "linetool",
- "slug": "line-tool-2",
- "id": 619,
  "title": "Alternate ending to es&d #174",
  "author": "bpatrick",
- "date": "June 16, 2009",
- "time": "12:00 am",
- "datetime": "2009-06-16T00:00:00",
- "categories": [
-  {
-   "title": "Line Tool",
-   "href": "/linetool/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-619 post type-post status-publish format-standard hentry category-linetool uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-06-16T00:00",
  "images": [
-  {
-   "src": "2009-06-16-Line_Tool_2.jpg",
-   "alt": "Alternate ending to es&d #174",
-   "title": "Alternate ending to es&d #174"
-  }
+  "2009-06-16-Line_Tool_2.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-133/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-25/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-133/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-25/"
- },
- "commentCount": 5,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 6131,
    "author": "emulsifier",
+   "date": "2011-03-13T17:16",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
-   "time": "March 13, 2011 at 5:16 pm",
-   "timeTitle": "Sunday, March 13th, 2011, 5:16 pm",
-   "html": "<p>The other ending was better.</p>",
-   "byAuthor": "emulsifier"
+   "avatar": "cd7434b888539623dcbb7ea85f17b601",
+   "text": "<p>The other ending was better.</p>"
   },
   {
    "id": 6140,
    "author": "Eb0la",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3b17421ad77a592a8f4a301240f09d5d?s=64&d=identicon&r=r",
-   "time": "March 14, 2011 at 9:17 am",
-   "timeTitle": "Monday, March 14th, 2011, 9:17 am",
-   "html": "<p>You were right to choose the other one 🙂</p>"
+   "date": "2011-03-14T09:17",
+   "avatar": "3b17421ad77a592a8f4a301240f09d5d",
+   "text": "<p>You were right to choose the other one 🙂</p>"
   },
   {
    "id": 6141,
    "author": "b.patrick",
+   "date": "2011-03-14T11:28",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "March 14, 2011 at 11:28 am",
-   "timeTitle": "Monday, March 14th, 2011, 11:28 am",
-   "html": "<p>I think you guys are right. Which has me worried &#8211; what if all my comics have been two panels too long? It was seriously a last minute decision. I&#8217;ll have to watch out for this in the future.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>I think you guys are right. Which has me worried &#8211; what if all my comics have been two panels too long? It was seriously a last minute decision. I&#8217;ll have to watch out for this in the future.</p>"
   },
   {
    "id": 6154,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "March 15, 2011 at 4:00 am",
-   "timeTitle": "Tuesday, March 15th, 2011, 4:00 am",
-   "html": "<p>Dont panic dude, your comics seem to have just the right amount of punch and beat to it. Go with your gut imo.</p>"
+   "date": "2011-03-15T04:00",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>Dont panic dude, your comics seem to have just the right amount of punch and beat to it. Go with your gut imo.</p>"
   },
   {
    "id": 6193,
    "author": "Everybody",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b590084f530beaf124221a1dd434f75b?s=64&d=identicon&r=r",
-   "time": "March 17, 2011 at 11:51 am",
-   "timeTitle": "Thursday, March 17th, 2011, 11:51 am",
-   "html": "<p>I liked this punchline the best.<br />\nMostly because when I read the comic I thought &#8221; what about teacher?&#8221;.<br />\nBut I liked having 2 punchlines in 1 comic the best.</p>\n<p>Who told you, that you only can have 1 punch line in every comic ?<br />\nLook at this comic: <a href=\"http://www.amazingsuperpowers.com/\" rel=\"nofollow\">http://www.amazingsuperpowers.com/</a><br />\nOne punch line in the comic you see.<br />\nClick at the invisible question sign at top right at the strip, and you&#8217;ll find a secret panel/strip with a second punch line.<br />\nNow go back and hover your mouse over the first strip and you get a third punch line.</p>"
+   "date": "2011-03-17T11:51",
+   "avatar": "b590084f530beaf124221a1dd434f75b",
+   "text": "<p>I liked this punchline the best.<br />\nMostly because when I read the comic I thought &#8221; what about teacher?&#8221;.<br />\nBut I liked having 2 punchlines in 1 comic the best.</p>\n<p>Who told you, that you only can have 1 punch line in every comic ?<br />\nLook at this comic: <a href=\"http://www.amazingsuperpowers.com/\" rel=\"nofollow\">http://www.amazingsuperpowers.com/</a><br />\nOne punch line in the comic you see.<br />\nClick at the invisible question sign at top right at the strip, and you&#8217;ll find a secret panel/strip with a second punch line.<br />\nNow go back and hover your mouse over the first strip and you get a third punch line.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Alternate ending to es&d #174",
-  "bodyClass": "post-template-default single single-post postid-619 single-format-standard user-guest comic unknown single-category-linetool single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Alternate ending to es&d #174",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-06-16-Line_Tool_2.jpg"
- }
+ ]
 }

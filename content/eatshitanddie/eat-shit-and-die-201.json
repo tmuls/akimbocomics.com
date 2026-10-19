@@ -1,276 +1,197 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-201/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-201",
- "id": 709,
  "title": "eat shit & die 201",
  "author": "bpatrick",
- "date": "December 19, 2011",
- "time": "12:00 am",
- "datetime": "2011-12-19T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I wish I had a better comic to come back with but&#8230; I plan to be in a comic-making frenzy; maybe I&#8217;ll turn out something good.</p>",
- "postClass": "post-709 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-12-19T00:00",
  "images": [
-  {
-   "src": "2011-12-19-Eat_Shit_And_Die_201.jpg",
-   "alt": "eat shit & die 201",
-   "title": "eat shit & die 201"
-  }
+  "2011-12-19-Eat_Shit_And_Die_201.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-52/",
-  "next": "/eatshitanddie/eat-shit-and-die-202/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-52/",
-  "next": "/eatshitanddie/eat-shit-and-die-202/"
- },
- "commentCount": 25,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I wish I had a better comic to come back with but&#8230; I plan to be in a comic-making frenzy; maybe I&#8217;ll turn out something good.</p>",
  "comments": [
   {
    "id": 27220,
    "author": "ChevyRay",
+   "date": "2011-12-19T23:23",
    "url": "http://chevyray.com",
-   "avatar": "http://1.gravatar.com/avatar/1ae3bcc5e0f7d2055007b219ac7fdd19?s=64&d=identicon&r=r",
-   "time": "December 19, 2011 at 11:23 pm",
-   "timeTitle": "Monday, December 19th, 2011, 11:23 pm",
-   "html": "<p>Love it. &#8220;Yay&#8221; at the end is a perfect touch.</p>"
+   "avatar": "1ae3bcc5e0f7d2055007b219ac7fdd19",
+   "text": "<p>Love it. &#8220;Yay&#8221; at the end is a perfect touch.</p>"
   },
   {
    "id": 27245,
    "author": "Matan",
+   "date": "2011-12-20T00:28",
    "url": "http://www.cheerlesscomic.com",
-   "avatar": "http://1.gravatar.com/avatar/adabb87981163c60d2bf63e81b43cc13?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 12:28 am",
-   "timeTitle": "Tuesday, December 20th, 2011, 12:28 am",
-   "html": "<p>I agree, this was excellent.</p>"
+   "avatar": "adabb87981163c60d2bf63e81b43cc13",
+   "text": "<p>I agree, this was excellent.</p>"
   },
   {
    "id": 27274,
    "author": "Ben",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9e98f79e23f9d0fddbb575826fb6b17a?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 1:49 am",
-   "timeTitle": "Tuesday, December 20th, 2011, 1:49 am",
-   "html": "<p>Another excellent piece of art =)</p>"
+   "date": "2011-12-20T01:49",
+   "avatar": "9e98f79e23f9d0fddbb575826fb6b17a",
+   "text": "<p>Another excellent piece of art =)</p>"
   },
   {
    "id": 27297,
    "author": "Killt",
+   "date": "2011-12-20T03:00",
    "url": "http://renoob.com",
-   "avatar": "http://1.gravatar.com/avatar/dc7d63d1428b6e713483608f8d3d4f9e?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 3:00 am",
-   "timeTitle": "Tuesday, December 20th, 2011, 3:00 am",
-   "html": "<p>I love the amazingly huge boobs near the end.  So big they&#8217;re overlapping.</p>"
+   "avatar": "dc7d63d1428b6e713483608f8d3d4f9e",
+   "text": "<p>I love the amazingly huge boobs near the end.  So big they&#8217;re overlapping.</p>"
   },
   {
    "id": 27411,
    "author": "Bailey",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/39143311576ac9569aae88ee3a10561f?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 6:29 am",
-   "timeTitle": "Tuesday, December 20th, 2011, 6:29 am",
-   "html": "<p>Too unfortunately true.</p>"
+   "date": "2011-12-20T06:29",
+   "avatar": "39143311576ac9569aae88ee3a10561f",
+   "text": "<p>Too unfortunately true.</p>"
   },
   {
    "id": 27569,
    "author": "Grim",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1a23fa5a453406a6d76d27a1eca25dbb?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 11:06 am",
-   "timeTitle": "Tuesday, December 20th, 2011, 11:06 am",
-   "html": "<p>I&#8217;ve noticed you tend to be really hard on yourself when it comes to your comics but I wanted to let you know that you do a better job of explaining and expressing so many of the issues we all struggle with than just about anybody out there right now, and you do it poetically to boot.</p>"
+   "date": "2011-12-20T11:06",
+   "avatar": "1a23fa5a453406a6d76d27a1eca25dbb",
+   "text": "<p>I&#8217;ve noticed you tend to be really hard on yourself when it comes to your comics but I wanted to let you know that you do a better job of explaining and expressing so many of the issues we all struggle with than just about anybody out there right now, and you do it poetically to boot.</p>"
   },
   {
    "id": 27672,
    "author": "Leonardo Boiko",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/326f80eb7c95417e0ffb04cf538935dd?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 1:28 pm",
-   "timeTitle": "Tuesday, December 20th, 2011, 1:28 pm",
-   "html": "<p>Dude.  Been there.</p>"
+   "date": "2011-12-20T13:28",
+   "avatar": "326f80eb7c95417e0ffb04cf538935dd",
+   "text": "<p>Dude.  Been there.</p>"
   },
   {
    "id": 27787,
    "author": "dawn storrud",
+   "date": "2011-12-20T16:48",
    "url": "http://transsexualchildandTheGreatSpiral",
-   "avatar": "http://1.gravatar.com/avatar/762aceef2a8778dd72038177b5a82fd4?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 4:48 pm",
-   "timeTitle": "Tuesday, December 20th, 2011, 4:48 pm",
-   "html": "<p>Wonderful return</p>"
+   "avatar": "762aceef2a8778dd72038177b5a82fd4",
+   "text": "<p>Wonderful return</p>"
   },
   {
    "id": 27845,
    "author": "invertedquestionmark",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6dfce43cde7a7c0c1f853ae8a36e73b8?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 6:48 pm",
-   "timeTitle": "Tuesday, December 20th, 2011, 6:48 pm",
-   "html": "<p>Yet another brilliant ES&amp;D comic that b. patrick considers to be not good enough 🙂 I hope that he likes them at least a bit..</p>"
+   "date": "2011-12-20T18:48",
+   "avatar": "6dfce43cde7a7c0c1f853ae8a36e73b8",
+   "text": "<p>Yet another brilliant ES&amp;D comic that b. patrick considers to be not good enough 🙂 I hope that he likes them at least a bit..</p>"
   },
   {
    "id": 27872,
    "author": "Winston Rowntree",
+   "date": "2011-12-20T20:21",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "December 20, 2011 at 8:21 pm",
-   "timeTitle": "Tuesday, December 20th, 2011, 8:21 pm",
-   "html": "<p>Dude, i&#8217;m pretty sure this is good.</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>Dude, i&#8217;m pretty sure this is good.</p>"
   },
   {
    "id": 28717,
    "author": "AJ",
+   "date": "2011-12-22T07:22",
    "url": "http://na",
-   "avatar": "http://2.gravatar.com/avatar/e531e8c39d11fc5c30bc0c298a2a2992?s=64&d=identicon&r=r",
-   "time": "December 22, 2011 at 7:22 am",
-   "timeTitle": "Thursday, December 22nd, 2011, 7:22 am",
-   "html": "<p>that last panel reminded me of something<br />\ndoes anyone else ever have that sensation where you are controlling your body from afar about a metre behind/above your head, i mainly get it when im walking and thinking about something else but my hands suddenly feel far away<br />\nand the only thing i feel any visceral connection too is my head<br />\njust something i thought i might ask&#8230; its  rather difficult too google lol</p>\n<p>anyway another great comic captured the bromide-esque nature of such a comment perfectly<br />\nwhatever happend with that bob vs bob film i really want to see it</p>"
+   "avatar": "e531e8c39d11fc5c30bc0c298a2a2992",
+   "text": "<p>that last panel reminded me of something<br />\ndoes anyone else ever have that sensation where you are controlling your body from afar about a metre behind/above your head, i mainly get it when im walking and thinking about something else but my hands suddenly feel far away<br />\nand the only thing i feel any visceral connection too is my head<br />\njust something i thought i might ask&#8230; its  rather difficult too google lol</p>\n<p>anyway another great comic captured the bromide-esque nature of such a comment perfectly<br />\nwhatever happend with that bob vs bob film i really want to see it</p>"
   },
   {
    "id": 29814,
    "author": "KDR",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/f2e137ff0f0c5708f08ab5e70c7cc832?s=64&d=identicon&r=r",
-   "time": "December 23, 2011 at 3:35 pm",
-   "timeTitle": "Friday, December 23rd, 2011, 3:35 pm",
-   "html": "<p>@AJ: Out of Body Experience.</p>\n<p>Always glad for an update, man. Also fucking giddy to see that you resumed Curious Urgency.<br />\nTake care.</p>"
+   "date": "2011-12-23T15:35",
+   "avatar": "f2e137ff0f0c5708f08ab5e70c7cc832",
+   "text": "<p>@AJ: Out of Body Experience.</p>\n<p>Always glad for an update, man. Also fucking giddy to see that you resumed Curious Urgency.<br />\nTake care.</p>"
   },
   {
    "id": 29991,
    "author": "Doop doop",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/04b174bd51865f2916530417f1d03084?s=64&d=identicon&r=r",
-   "time": "December 23, 2011 at 7:18 pm",
-   "timeTitle": "Friday, December 23rd, 2011, 7:18 pm",
-   "html": "<p>@ AJ: Look up depersonalization and derealization.</p>"
+   "date": "2011-12-23T19:18",
+   "avatar": "04b174bd51865f2916530417f1d03084",
+   "text": "<p>@ AJ: Look up depersonalization and derealization.</p>"
   },
   {
    "id": 30980,
    "author": "Justin",
+   "date": "2011-12-24T23:02",
    "url": "http://www.riotfish.com",
-   "avatar": "http://1.gravatar.com/avatar/7aab39f603c28f5e93cd884c534b7223?s=64&d=identicon&r=r",
-   "time": "December 24, 2011 at 11:02 pm",
-   "timeTitle": "Saturday, December 24th, 2011, 11:02 pm",
-   "html": "<p>This didn&#8217;t quite CLICK until I had a few xmas pints. Now I get it. Not that it&#8217;s not sensible, but I immediately thought of Arch-nihilist Thomas Ligotti&#8217;s short story &#8220;The Clown Puppet&#8221;, and that got in the way (you might &#8220;enjoy&#8221; Ligotti&#8217;s stuff, AJ, as it is based on the premise that we&#8217;re basically automatons who, under rare good conditions, can feel happy and at home in an otherwise dead Universe). </p>\n<p>I like this strip. It&#8217;s an elegant little puzzle.</p>"
+   "avatar": "7aab39f603c28f5e93cd884c534b7223",
+   "text": "<p>This didn&#8217;t quite CLICK until I had a few xmas pints. Now I get it. Not that it&#8217;s not sensible, but I immediately thought of Arch-nihilist Thomas Ligotti&#8217;s short story &#8220;The Clown Puppet&#8221;, and that got in the way (you might &#8220;enjoy&#8221; Ligotti&#8217;s stuff, AJ, as it is based on the premise that we&#8217;re basically automatons who, under rare good conditions, can feel happy and at home in an otherwise dead Universe). </p>\n<p>I like this strip. It&#8217;s an elegant little puzzle.</p>"
   },
   {
    "id": 30981,
    "author": "Justin",
+   "date": "2011-12-24T23:03",
    "url": "http://www.riotfish.com",
-   "avatar": "http://1.gravatar.com/avatar/7aab39f603c28f5e93cd884c534b7223?s=64&d=identicon&r=r",
-   "time": "December 24, 2011 at 11:03 pm",
-   "timeTitle": "Saturday, December 24th, 2011, 11:03 pm",
-   "html": "<p>PS: <a href=\"http://boingboing.net/2010/09/26/philosophy-of-thomas.html\" rel=\"nofollow\">http://boingboing.net/2010/09/26/philosophy-of-thomas.html</a></p>"
+   "avatar": "7aab39f603c28f5e93cd884c534b7223",
+   "text": "<p>PS: <a href=\"http://boingboing.net/2010/09/26/philosophy-of-thomas.html\" rel=\"nofollow\">http://boingboing.net/2010/09/26/philosophy-of-thomas.html</a></p>"
   },
   {
    "id": 31659,
    "author": "Dennis Marshall",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3732d229676d1dd2692fb5e9faac72ea?s=64&d=identicon&r=r",
-   "time": "December 25, 2011 at 4:13 pm",
-   "timeTitle": "Sunday, December 25th, 2011, 4:13 pm",
-   "html": "<p>Ever since I found akimbocomics every one has been an understated masterpiece! So here&#8217;s to another, thank you very much!</p>"
+   "date": "2011-12-25T16:13",
+   "avatar": "3732d229676d1dd2692fb5e9faac72ea",
+   "text": "<p>Ever since I found akimbocomics every one has been an understated masterpiece! So here&#8217;s to another, thank you very much!</p>"
   },
   {
    "id": 33723,
    "author": "gian",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8440d6f827d505fea938bc5a100de61a?s=64&d=identicon&r=r",
-   "time": "December 27, 2011 at 8:30 pm",
-   "timeTitle": "Tuesday, December 27th, 2011, 8:30 pm",
-   "html": "<p>Totally &#8216;out of body&#8217;- you control the body to do what doesn&#8217;t feel right and it becomes the puppet, the thing that is not you but looks like you and is manipulated by you and you can litteraly feel how the mind and body nolonger feel as one.<br />\nMy favorite? Pretty damn close!<br />\nThanks for giving me a reason to come into work! (because I don&#8217;t have internet at home)</p>"
+   "date": "2011-12-27T20:30",
+   "avatar": "8440d6f827d505fea938bc5a100de61a",
+   "text": "<p>Totally &#8216;out of body&#8217;- you control the body to do what doesn&#8217;t feel right and it becomes the puppet, the thing that is not you but looks like you and is manipulated by you and you can litteraly feel how the mind and body nolonger feel as one.<br />\nMy favorite? Pretty damn close!<br />\nThanks for giving me a reason to come into work! (because I don&#8217;t have internet at home)</p>"
   },
   {
    "id": 36708,
    "author": "Zheka",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/67f751e160cb4d272513cda63dbf032f?s=64&d=identicon&r=r",
-   "time": "December 31, 2011 at 8:27 am",
-   "timeTitle": "Saturday, December 31st, 2011, 8:27 am",
-   "html": "<p>Start reminds me of Dorian Gray.<br />\nThis was great. Keep em&#8217; coming.</p>"
+   "date": "2011-12-31T08:27",
+   "avatar": "67f751e160cb4d272513cda63dbf032f",
+   "text": "<p>Start reminds me of Dorian Gray.<br />\nThis was great. Keep em&#8217; coming.</p>"
   },
   {
    "id": 36991,
    "author": "Gweb",
+   "date": "2011-12-31T17:18",
    "url": "http://hardlifeproject.blogspot.com/",
-   "avatar": "http://0.gravatar.com/avatar/03026f16bbe24b6270a2b4f79abb5c99?s=64&d=identicon&r=r",
-   "time": "December 31, 2011 at 5:18 pm",
-   "timeTitle": "Saturday, December 31st, 2011, 5:18 pm",
-   "html": "<p>Brilliant as always.</p>"
+   "avatar": "03026f16bbe24b6270a2b4f79abb5c99",
+   "text": "<p>Brilliant as always.</p>"
   },
   {
    "id": 60943,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "February 11, 2012 at 10:04 pm",
-   "timeTitle": "Saturday, February 11th, 2012, 10:04 pm",
-   "html": "<p>Just curious: was this comic the one that you &#8220;thought was shit&#8221; according to your site admin in the previous post? Because this one really speaks to people, including me. Excellent work.</p>"
+   "date": "2012-02-11T22:04",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>Just curious: was this comic the one that you &#8220;thought was shit&#8221; according to your site admin in the previous post? Because this one really speaks to people, including me. Excellent work.</p>"
   },
   {
    "id": 60974,
    "author": "bpatrick",
+   "date": "2012-02-11T23:43",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "February 11, 2012 at 11:43 pm",
-   "timeTitle": "Saturday, February 11th, 2012, 11:43 pm",
-   "html": "<p>It sure is, Jonny. It was so much better in my head and I got so discouraged drawing it as it just came out so shitty. By the end I guess it turned out OK. I&#8217;m glad people like it.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>It sure is, Jonny. It was so much better in my head and I got so discouraged drawing it as it just came out so shitty. By the end I guess it turned out OK. I&#8217;m glad people like it.</p>"
   },
   {
    "id": 62079,
    "author": "BoboB",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0d8c8fc2beb94797c1d54275b37f5105?s=64&d=identicon&r=r",
-   "time": "February 17, 2012 at 7:47 pm",
-   "timeTitle": "Friday, February 17th, 2012, 7:47 pm",
-   "html": "<p>Oh man, this one hurt in all the right places.</p>"
+   "date": "2012-02-17T19:47",
+   "avatar": "0d8c8fc2beb94797c1d54275b37f5105",
+   "text": "<p>Oh man, this one hurt in all the right places.</p>"
   },
   {
    "id": 79862,
    "author": "CalvinWalvin",
+   "date": "2012-05-17T21:16",
    "url": "http://olddyingkitty.com/William_Feist/",
-   "avatar": "http://0.gravatar.com/avatar/9cf67d689c5c41a6f70eae62f1b67998?s=64&d=identicon&r=r",
-   "time": "May 17, 2012 at 9:16 pm",
-   "timeTitle": "Thursday, May 17th, 2012, 9:16 pm",
-   "html": "<p>Found This on reddit will definitely be giving this a read through.</p>"
+   "avatar": "9cf67d689c5c41a6f70eae62f1b67998",
+   "text": "<p>Found This on reddit will definitely be giving this a read through.</p>"
   },
   {
    "id": 83438,
    "author": "John",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/42ee5fa55ff708b702e72f9262712425?s=64&d=identicon&r=r",
-   "time": "May 23, 2012 at 3:07 am",
-   "timeTitle": "Wednesday, May 23rd, 2012, 3:07 am",
-   "html": "<p>This is beautiful, I&#8217;m not sure what you wanted to make but this is really fantastic.</p>"
+   "date": "2012-05-23T03:07",
+   "avatar": "42ee5fa55ff708b702e72f9262712425",
+   "text": "<p>This is beautiful, I&#8217;m not sure what you wanted to make but this is really fantastic.</p>"
   },
   {
    "id": 94485,
    "author": "JenC",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3bd5592a8a6bef60ddc092ee8961bd43?s=64&d=identicon&r=r",
-   "time": "August 21, 2012 at 10:42 pm",
-   "timeTitle": "Tuesday, August 21st, 2012, 10:42 pm",
-   "html": "<p>This update reminds me very much of Louis (the show by the comedian of the same name). I kinda feel that women tend to hold onto anything they&#8217;re not sure will be accepted more than men do. Like, we test the waters for a longer period of time before opening up. Maybe it&#8217;s just me. When a man opens up to me, I&#8217;m usually just relieved &#8211; oh, good, you&#8217;re as depraved/insecure/irrational/dumb as I am. I may be able to share with you!</p>"
+   "date": "2012-08-21T22:42",
+   "avatar": "3bd5592a8a6bef60ddc092ee8961bd43",
+   "text": "<p>This update reminds me very much of Louis (the show by the comedian of the same name). I kinda feel that women tend to hold onto anything they&#8217;re not sure will be accepted more than men do. Like, we test the waters for a longer period of time before opening up. Maybe it&#8217;s just me. When a man opens up to me, I&#8217;m usually just relieved &#8211; oh, good, you&#8217;re as depraved/insecure/irrational/dumb as I am. I may be able to share with you!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 201",
-  "bodyClass": "post-template-default single single-post postid-709 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 201",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-12-19-Eat_Shit_And_Die_201.jpg"
- }
+ ]
 }

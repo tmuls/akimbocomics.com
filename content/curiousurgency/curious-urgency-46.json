@@ -1,142 +1,84 @@
 {
- "path": "/curiousurgency/curious-urgency-46/",
- "series": "curiousurgency",
- "slug": "curious-urgency-46",
- "id": 612,
  "title": "Curious Urgency 46",
  "author": "bpatrick",
- "date": "February 23, 2011",
- "time": "12:00 am",
- "datetime": "2011-02-23T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>New <em>Curious.</em></p>",
- "postClass": "post-612 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-02-23T00:00",
  "images": [
-  {
-   "src": "2011-02-23-Curious_Urgency_46.jpg",
-   "alt": "Curious Urgency 46",
-   "title": "Curious Urgency 46"
-  }
+  "2011-02-23-Curious_Urgency_46.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-173/",
-  "next": "/eatshitanddie/eat-shit-and-die-174/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-173/",
-  "next": "/eatshitanddie/eat-shit-and-die-174/"
- },
- "commentCount": 10,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>New <em>Curious.</em></p>",
  "comments": [
   {
    "id": 5835,
    "author": "randomjackass",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2835ff72500b04a4e87ee5e2c31d4647?s=64&d=identicon&r=r",
-   "time": "February 24, 2011 at 3:56 pm",
-   "timeTitle": "Thursday, February 24th, 2011, 3:56 pm",
-   "html": "<p>Reminds me of why I don&#8217;t do mushrooms or smoke  weed anymore. Great comic, already can&#8217;t wait until the next one.</p>"
+   "date": "2011-02-24T15:56",
+   "avatar": "2835ff72500b04a4e87ee5e2c31d4647",
+   "text": "<p>Reminds me of why I don&#8217;t do mushrooms or smoke  weed anymore. Great comic, already can&#8217;t wait until the next one.</p>"
   },
   {
    "id": 5845,
    "author": "Michal",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/060fa097179059275dff122f4839f467?s=64&d=identicon&r=r",
-   "time": "February 25, 2011 at 6:44 am",
-   "timeTitle": "Friday, February 25th, 2011, 6:44 am",
-   "html": "<p>Wo-hoo! A brace of updates! I love you man! Keep it going!</p>"
+   "date": "2011-02-25T06:44",
+   "avatar": "060fa097179059275dff122f4839f467",
+   "text": "<p>Wo-hoo! A brace of updates! I love you man! Keep it going!</p>"
   },
   {
    "id": 5875,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "February 27, 2011 at 1:54 am",
-   "timeTitle": "Sunday, February 27th, 2011, 1:54 am",
-   "html": "<p>THIS IS SO INTENSE</p>"
+   "date": "2011-02-27T01:54",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>THIS IS SO INTENSE</p>"
   },
   {
    "id": 5932,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b91b800ac9c95aa105e9a982494c241f?s=64&d=identicon&r=r",
-   "time": "March 1, 2011 at 11:21 pm",
-   "timeTitle": "Tuesday, March 1st, 2011, 11:21 pm",
-   "html": "<p>I love Sheriff Chuck&#8217;s expression, along with everything else about him.</p>"
+   "date": "2011-03-01T23:21",
+   "avatar": "b91b800ac9c95aa105e9a982494c241f",
+   "text": "<p>I love Sheriff Chuck&#8217;s expression, along with everything else about him.</p>"
   },
   {
    "id": 5942,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "March 2, 2011 at 6:27 am",
-   "timeTitle": "Wednesday, March 2nd, 2011, 6:27 am",
-   "html": "<p>My brother insists I am Sheriff Chuck (I suppose he fancies himself the protagonist). I don&#8217;t think I&#8217;m that goofy tho.</p>"
+   "date": "2011-03-02T06:27",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>My brother insists I am Sheriff Chuck (I suppose he fancies himself the protagonist). I don&#8217;t think I&#8217;m that goofy tho.</p>"
   },
   {
    "id": 5959,
    "author": "AJ",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/49125e9b6f73d8403e848360af33565d?s=64&d=identicon&r=r",
-   "time": "March 3, 2011 at 2:04 am",
-   "timeTitle": "Thursday, March 3rd, 2011, 2:04 am",
-   "html": "<p>I think the idea is that sheriff chuck doesnt think hes goofy either though</p>"
+   "date": "2011-03-03T02:04",
+   "avatar": "49125e9b6f73d8403e848360af33565d",
+   "text": "<p>I think the idea is that sheriff chuck doesnt think hes goofy either though</p>"
   },
   {
    "id": 6036,
    "author": "b.patrick",
+   "date": "2011-03-07T04:37",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "March 7, 2011 at 4:37 am",
-   "timeTitle": "Monday, March 7th, 2011, 4:37 am",
-   "html": "<p>He is a goofy bastard.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>He is a goofy bastard.</p>"
   },
   {
    "id": 6170,
    "author": "Josh",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1520408f0432b9dcd9d3e4af1c65b9ed?s=64&d=identicon&r=r",
-   "time": "March 16, 2011 at 1:08 am",
-   "timeTitle": "Wednesday, March 16th, 2011, 1:08 am",
-   "html": "<p>Hey, I wanted to say that this is a great comic arc. And, just to make sure, that was David Foster Wallace (or a DFW-based character) toward the beginning of the arc for two strips or so right?</p>"
+   "date": "2011-03-16T01:08",
+   "avatar": "1520408f0432b9dcd9d3e4af1c65b9ed",
+   "text": "<p>Hey, I wanted to say that this is a great comic arc. And, just to make sure, that was David Foster Wallace (or a DFW-based character) toward the beginning of the arc for two strips or so right?</p>"
   },
   {
    "id": 6171,
    "author": "b.patrick",
+   "date": "2011-03-16T01:26",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "March 16, 2011 at 1:26 am",
-   "timeTitle": "Wednesday, March 16th, 2011, 1:26 am",
-   "html": "<p>Thanks Josh! Yes that was DFW (or a DFW-character; whichever the reader prefers). When I made those pages I thought he&#8217;d be around forever. I&#8217;m planning on bringing him back later in the story. Any world I have control over has DFW in it.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks Josh! Yes that was DFW (or a DFW-character; whichever the reader prefers). When I made those pages I thought he&#8217;d be around forever. I&#8217;m planning on bringing him back later in the story. Any world I have control over has DFW in it.</p>"
   },
   {
    "id": 6172,
    "author": "emulsifier",
+   "date": "2011-03-16T02:50",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
-   "time": "March 16, 2011 at 2:50 am",
-   "timeTitle": "Wednesday, March 16th, 2011, 2:50 am",
-   "html": "<p>Good ol DFW, one of my favorite akimbo comics:  </p>\n<p><a href=\"/eatshitanddie/eat-shit-and-die-106/\" rel=\"nofollow\">/eatshitanddie/eat-shit-and-die-106/</a></p>\n<p>The last panel is incredible.</p>",
-   "byAuthor": "emulsifier"
+   "avatar": "cd7434b888539623dcbb7ea85f17b601",
+   "text": "<p>Good ol DFW, one of my favorite akimbo comics:  </p>\n<p><a href=\"/eatshitanddie/eat-shit-and-die-106/\" rel=\"nofollow\">/eatshitanddie/eat-shit-and-die-106/</a></p>\n<p>The last panel is incredible.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 46",
-  "bodyClass": "post-template-default single single-post postid-612 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 46",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-02-23-Curious_Urgency_46.jpg"
- }
+ ]
 }

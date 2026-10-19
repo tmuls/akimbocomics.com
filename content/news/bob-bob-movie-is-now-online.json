@@ -1,57 +1,22 @@
 {
- "path": "/news/bob-bob-movie-is-now-online/",
- "series": "news",
- "slug": "bob-bob-movie-is-now-online",
- "id": 737,
  "title": "Bob & Bob movie is now online!",
  "author": "bpatrick",
- "date": "May 10, 2012",
- "time": "2:17 pm",
- "datetime": "2012-05-10T14:17:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>Check it out. I think it&#8217;s amazing. Much gratitude and admiration for everyone involved. Be advised: NSFW with generous helpings of vulgar language, violence, sexual situations and full-frontal male nudity. <a href=\"http://andrewalonso.com\">andrewalonso.com</a></p>",
- "postClass": "post-737 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-bpatrick",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/still-not-dead/",
-  "next": "/news/summer-of-comics-flashback/"
- },
- "menuNav": {},
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
+ "date": "2012-05-10T14:17",
+ "body": "<p>Check it out. I think it&#8217;s amazing. Much gratitude and admiration for everyone involved. Be advised: NSFW with generous helpings of vulgar language, violence, sexual situations and full-frontal male nudity. <a href=\"http://andrewalonso.com\">andrewalonso.com</a></p>",
  "comments": [
   {
    "id": 77992,
    "author": "Ivarian",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8fe46616d648cde4b652fd23056d4ac3?s=64&d=identicon&r=r",
-   "time": "May 13, 2012 at 10:40 am",
-   "timeTitle": "Sunday, May 13th, 2012, 10:40 am",
-   "html": "<p>He did a great job adapting this into film. Really enjoyed it, glad its online and we all finally get to see it.</p>"
+   "date": "2012-05-13T10:40",
+   "avatar": "8fe46616d648cde4b652fd23056d4ac3",
+   "text": "<p>He did a great job adapting this into film. Really enjoyed it, glad its online and we all finally get to see it.</p>"
   },
   {
    "id": 85896,
    "author": "Jordy",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/caa3dd1a26ed7a7b91a5dcc46e4e52b2?s=64&d=identicon&r=r",
-   "time": "June 4, 2012 at 11:59 pm",
-   "timeTitle": "Monday, June 4th, 2012, 11:59 pm",
-   "html": "<p>God, this was sad. I can&#8217;t even muster any sympathy for Bob, because I hate him so much. It definitely made me think, though. The psychiatrist lady was exactly right&#8211;in some way or another, we ALL do this.</p>"
+   "date": "2012-06-04T23:59",
+   "avatar": "caa3dd1a26ed7a7b91a5dcc46e4e52b2",
+   "text": "<p>God, this was sad. I can&#8217;t even muster any sympathy for Bob, because I hate him so much. It definitely made me think, though. The psychiatrist lady was exactly right&#8211;in some way or another, we ALL do this.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob & Bob movie is now online!",
-  "bodyClass": "post-template-default single single-post postid-737 single-format-standard user-guest noncomic unknown single-category-news single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Bob & Bob movie is now online!",
-  "ogDescription": ""
- }
+ ]
 }

@@ -1,50 +1,8 @@
 {
- "path": "/curiousurgency/curious-urgency-72/",
- "series": "curiousurgency",
- "slug": "curious-urgency-72",
- "id": 1272,
  "title": "Curious Urgency 72",
  "author": "bpatrick",
- "date": "November 12, 2015",
- "time": "4:35 am",
- "datetime": "2015-11-12T04:35:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1272 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2015-11-12T04:35",
  "images": [
-  {
-   "src": "2015-11-12-Curious_Urgency_72.jpg",
-   "alt": "Curious Urgency 72",
-   "title": "Curious Urgency 72"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-71/",
-  "next": "/eatshitanddie/eat-shit-and-die-249/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-71/",
-  "next": "/eatshitanddie/eat-shit-and-die-249/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 72",
-  "bodyClass": "post-template-default single single-post postid-1272 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 72",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2015-11-12-Curious_Urgency_72.jpg"
- }
+  "2015-11-12-Curious_Urgency_72.jpg"
+ ]
 }

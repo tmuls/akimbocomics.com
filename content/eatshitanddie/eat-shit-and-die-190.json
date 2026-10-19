@@ -1,150 +1,92 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-190/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-190",
- "id": 668,
  "title": "eat shit & die 190",
  "author": "bpatrick",
- "date": "June 30, 2011",
- "time": "12:00 am",
- "datetime": "2011-06-30T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>This one is completely trivial. It makes me smile though. </p>",
- "postClass": "post-668 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-06-30T00:00",
  "images": [
-  {
-   "src": "2011-06-30-Eat_Shit_And_Die_190.jpg",
-   "alt": "empirically, this comic is shite",
-   "title": "empirically, this comic is shite"
-  }
+  "2011-06-30-Eat_Shit_And_Die_190.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-189/",
-  "next": "/curiousurgency/curious-urgency-49/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-189/",
-  "next": "/curiousurgency/curious-urgency-49/"
- },
- "commentCount": 11,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "empirically, this comic is shite",
+ "body": "<p>This one is completely trivial. It makes me smile though. </p>",
  "comments": [
   {
    "id": 8504,
    "author": "invertedquestionmark",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6dfce43cde7a7c0c1f853ae8a36e73b8?s=64&d=identicon&r=r",
-   "time": "June 30, 2011 at 3:30 pm",
-   "timeTitle": "Thursday, June 30th, 2011, 3:30 pm",
-   "html": "<p>😀 😀 😀</p>"
+   "date": "2011-06-30T15:30",
+   "avatar": "6dfce43cde7a7c0c1f853ae8a36e73b8",
+   "text": "<p>😀 😀 😀</p>"
   },
   {
    "id": 8507,
    "author": "Mike",
+   "date": "2011-06-30T17:24",
    "url": "http://corydoncafe.com",
-   "avatar": "http://1.gravatar.com/avatar/18ceaee6efbeeaf034d6cccab169dbfe?s=64&d=identicon&r=r",
-   "time": "June 30, 2011 at 5:24 pm",
-   "timeTitle": "Thursday, June 30th, 2011, 5:24 pm",
-   "html": "<p>And thus there never was another down vote on reddit.com/r/comics!!!!</p>"
+   "avatar": "18ceaee6efbeeaf034d6cccab169dbfe",
+   "text": "<p>And thus there never was another down vote on reddit.com/r/comics!!!!</p>"
   },
   {
    "id": 8512,
    "author": "erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "June 30, 2011 at 8:46 pm",
-   "timeTitle": "Thursday, June 30th, 2011, 8:46 pm",
-   "html": "<p>I&#8217;m totally loving summer comics so far!!</p>"
+   "date": "2011-06-30T20:46",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>I&#8217;m totally loving summer comics so far!!</p>"
   },
   {
    "id": 8515,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "June 30, 2011 at 10:47 pm",
-   "timeTitle": "Thursday, June 30th, 2011, 10:47 pm",
-   "html": "<p>Lovely!</p>"
+   "date": "2011-06-30T22:47",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>Lovely!</p>"
   },
   {
    "id": 8525,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "July 1, 2011 at 4:21 am",
-   "timeTitle": "Friday, July 1st, 2011, 4:21 am",
-   "html": "<p>I totally agree.  Saying you like a piece of art or don&#8217;t like a piece of art is certainly subjective, and that&#8217;s OK.  But that is different than good or bad art.  There are some things that are put out there as &#8220;art&#8221; that are just not well done, ie: bad.  And even if someone else likes it, it is still bad art.</p>"
+   "date": "2011-07-01T04:21",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>I totally agree.  Saying you like a piece of art or don&#8217;t like a piece of art is certainly subjective, and that&#8217;s OK.  But that is different than good or bad art.  There are some things that are put out there as &#8220;art&#8221; that are just not well done, ie: bad.  And even if someone else likes it, it is still bad art.</p>"
   },
   {
    "id": 8537,
    "author": "Phil C.",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c52325397493673acc10fc4ba8e48ae9?s=64&d=identicon&r=r",
-   "time": "July 1, 2011 at 2:20 pm",
-   "timeTitle": "Friday, July 1st, 2011, 2:20 pm",
-   "html": "<p>Oh, my God, how I hate people like this. You did a perfect job of portraying just how annoying they are. Particularly the smug smirk.</p>\n<p>cheers,<br />\nPhil</p>"
+   "date": "2011-07-01T14:20",
+   "avatar": "c52325397493673acc10fc4ba8e48ae9",
+   "text": "<p>Oh, my God, how I hate people like this. You did a perfect job of portraying just how annoying they are. Particularly the smug smirk.</p>\n<p>cheers,<br />\nPhil</p>"
   },
   {
    "id": 8540,
    "author": "Justin",
+   "date": "2011-07-01T15:11",
    "url": "http://www.riotfish.com",
-   "avatar": "http://1.gravatar.com/avatar/7aab39f603c28f5e93cd884c534b7223?s=64&d=identicon&r=r",
-   "time": "July 1, 2011 at 3:11 pm",
-   "timeTitle": "Friday, July 1st, 2011, 3:11 pm",
-   "html": "<p>Funny timing. I just listened to an interview with &#8220;Objectivist&#8221; Philosopher/Physicist David Harriman yesterday. He outlined a fairly interesting theory that the dominance of the Copenhagen Interpretation of Quantum Physics was influenced by a pre-existing  philosophical atmosphere of nihilism and insanity-inducing subjectivism, which he claimed set the stage for everything from Nazism to New Agers. While I knee jerk react against anything related to Ayn Rand, Harriman made me step back and go &#8220;Hrrmmm&#8221; about my own dismal predispositions. Anyways&#8230; Keep the comics coming, you beautiful bastard.</p>"
+   "avatar": "7aab39f603c28f5e93cd884c534b7223",
+   "text": "<p>Funny timing. I just listened to an interview with &#8220;Objectivist&#8221; Philosopher/Physicist David Harriman yesterday. He outlined a fairly interesting theory that the dominance of the Copenhagen Interpretation of Quantum Physics was influenced by a pre-existing  philosophical atmosphere of nihilism and insanity-inducing subjectivism, which he claimed set the stage for everything from Nazism to New Agers. While I knee jerk react against anything related to Ayn Rand, Harriman made me step back and go &#8220;Hrrmmm&#8221; about my own dismal predispositions. Anyways&#8230; Keep the comics coming, you beautiful bastard.</p>"
   },
   {
    "id": 8618,
    "author": "Heidi",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/7d13bae4ac72330a1101e968265c0625?s=64&d=identicon&r=r",
-   "time": "July 4, 2011 at 6:39 pm",
-   "timeTitle": "Monday, July 4th, 2011, 6:39 pm",
-   "html": "<p>The Art History major in me wants to murder those people in their sleep.</p>"
+   "date": "2011-07-04T18:39",
+   "avatar": "7d13bae4ac72330a1101e968265c0625",
+   "text": "<p>The Art History major in me wants to murder those people in their sleep.</p>"
   },
   {
    "id": 8689,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "July 6, 2011 at 5:16 pm",
-   "timeTitle": "Wednesday, July 6th, 2011, 5:16 pm",
-   "html": "<p>This specific Tool was never seen again, descending into a cocoon-like state in his parent&#8217;s basement, only to evolve into the elusive Internet Troll.</p>"
+   "date": "2011-07-06T17:16",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>This specific Tool was never seen again, descending into a cocoon-like state in his parent&#8217;s basement, only to evolve into the elusive Internet Troll.</p>"
   },
   {
    "id": 8704,
    "author": "b.patrick",
+   "date": "2011-07-08T03:05",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "July 8, 2011 at 3:05 am",
-   "timeTitle": "Friday, July 8th, 2011, 3:05 am",
-   "html": "<p>Thanks, guys! This one was so petty but it gets under my skin when someone acts like this isn&#8217;t a given and anyone cares.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks, guys! This one was so petty but it gets under my skin when someone acts like this isn&#8217;t a given and anyone cares.</p>"
   },
   {
    "id": 10096,
    "author": "Soe",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d104a95dc9ff7c066340dd24552822b4?s=64&d=identicon&r=r",
-   "time": "October 8, 2011 at 10:30 am",
-   "timeTitle": "Saturday, October 8th, 2011, 10:30 am",
-   "html": "<p>hahaha!! I was already laughing when I read the title!! Dope!</p>"
+   "date": "2011-10-08T10:30",
+   "avatar": "d104a95dc9ff7c066340dd24552822b4",
+   "text": "<p>hahaha!! I was already laughing when I read the title!! Dope!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 190",
-  "bodyClass": "post-template-default single single-post postid-668 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 190",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-06-30-Eat_Shit_And_Die_190.jpg"
- }
+ ]
 }

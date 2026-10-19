@@ -1,60 +1,18 @@
 {
- "path": "/mannssearchformeenie/manns-search-for-meenie-24/",
- "series": "mannssearchformeenie",
- "slug": "manns-search-for-meenie-24",
- "id": 352,
  "title": "Manns Search For Meenie 24",
  "author": "bpatrick",
- "date": "January 29, 2009",
- "time": "12:00 am",
- "datetime": "2009-01-29T00:00:00",
- "categories": [
-  {
-   "title": "Manns search for Meenie",
-   "href": "/mannssearchformeenie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-352 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-01-29T00:00",
  "images": [
-  {
-   "src": "2009-01-29-Manns_Search_For_Meenie_24.jpg",
-   "alt": "Manns Search For Meenie 24",
-   "title": "Manns Search For Meenie 24"
-  }
+  "2009-01-29-Manns_Search_For_Meenie_24.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-23/",
-  "next": "/camillabarnes/camilla-barnes-5/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/mannssearchformeenie/manns-search-for-meenie-23/",
-  "next": "/camillabarnes/camilla-barnes-5/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 89628,
    "author": "AJ",
+   "date": "2012-07-08T21:21",
    "url": "http://na",
-   "avatar": "http://2.gravatar.com/avatar/e531e8c39d11fc5c30bc0c298a2a2992?s=64&d=identicon&r=r",
-   "time": "July 8, 2012 at 9:21 pm",
-   "timeTitle": "Sunday, July 8th, 2012, 9:21 pm",
-   "html": "<p>last panel looks like the guy from curious urgency</p>"
+   "avatar": "e531e8c39d11fc5c30bc0c298a2a2992",
+   "text": "<p>last panel looks like the guy from curious urgency</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 24",
-  "bodyClass": "post-template-default single single-post postid-352 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Manns Search For Meenie 24",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-01-29-Manns_Search_For_Meenie_24.jpg"
- }
+ ]
 }

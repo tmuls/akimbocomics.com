@@ -1,150 +1,89 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-244/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-244",
- "id": 1024,
  "title": "eat shit & die 244",
  "author": "bpatrick",
- "date": "March 29, 2015",
- "time": "12:00 am",
- "datetime": "2015-03-29T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-1024 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2015-03-29T00:00",
  "images": [
-  {
-   "src": "2015-03-29-Eat_Shit_And_Die_244.jpg",
-   "alt": "eat shit & die 244",
-   "title": "eat shit & die 244"
-  }
+  "2015-03-29-Eat_Shit_And_Die_244.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-243-4/",
-  "next": "/eatshitanddie/eat-shit-and-die-245/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-243-4/",
-  "next": "/eatshitanddie/eat-shit-and-die-245/"
- },
- "commentCount": 11,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1044555,
    "author": "David Collett",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "March 30, 2015 at 8:13 am",
-   "timeTitle": "Monday, March 30th, 2015, 8:13 am",
-   "html": "<p>True. </p>\n<p>There is no objective meaning in the universe. As humans we create it.<br />\nWe are meaning creating beings. And we value this meaning, where non-human things &#8211; like universes and planets &#8211; do not. </p>\n<p>Because of this, you could say that we live in an illusion. And therefore, all is worthless.</p>\n<p>But I choose to say, although the meaning I find in the universe arises only because I am a human being who creates it in his own head &#8211; it is enough. I am what I am, and I can live with that. And I am content.</p>"
+   "date": "2015-03-30T08:13",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>True. </p>\n<p>There is no objective meaning in the universe. As humans we create it.<br />\nWe are meaning creating beings. And we value this meaning, where non-human things &#8211; like universes and planets &#8211; do not. </p>\n<p>Because of this, you could say that we live in an illusion. And therefore, all is worthless.</p>\n<p>But I choose to say, although the meaning I find in the universe arises only because I am a human being who creates it in his own head &#8211; it is enough. I am what I am, and I can live with that. And I am content.</p>"
   },
   {
    "id": 1044704,
    "author": "Anarcissie",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ffdf66b1ab3652d52be762a5288dbfb0?s=64&d=identicon&r=r",
-   "time": "March 30, 2015 at 5:01 pm",
-   "timeTitle": "Monday, March 30th, 2015, 5:01 pm",
-   "html": "<p>The universe did go to the trouble of producing human beings and all that they think and do.  So they are part of the universe deal, not something distinct and separate from it.</p>"
+   "date": "2015-03-30T17:01",
+   "avatar": "ffdf66b1ab3652d52be762a5288dbfb0",
+   "text": "<p>The universe did go to the trouble of producing human beings and all that they think and do.  So they are part of the universe deal, not something distinct and separate from it.</p>"
   },
   {
    "id": 1044815,
    "author": "David Collett",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "March 30, 2015 at 10:50 pm",
-   "timeTitle": "Monday, March 30th, 2015, 10:50 pm",
-   "html": "<p>In case it didn&#8217;t come across in my comment, I thought it was another brilliant comic. Very deep thinking behind it and very well executed. A complex idea made easier to digest.</p>\n<p>I&#8217;m not an artist (so I don&#8217;t have an eye for these things), but I also noticed there was something different about the colouring. I liked it.</p>"
+   "date": "2015-03-30T22:50",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>In case it didn&#8217;t come across in my comment, I thought it was another brilliant comic. Very deep thinking behind it and very well executed. A complex idea made easier to digest.</p>\n<p>I&#8217;m not an artist (so I don&#8217;t have an eye for these things), but I also noticed there was something different about the colouring. I liked it.</p>"
   },
   {
    "id": 1044830,
    "author": "ferrousaemyr",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/65f1f49d764e2d88d86ae686e2737676?s=64&d=identicon&r=r",
-   "time": "March 30, 2015 at 11:50 pm",
-   "timeTitle": "Monday, March 30th, 2015, 11:50 pm",
-   "html": "<p>but RISING COMPLEXITY BRO<br />\nIt&#8217;s kind of a cool and fairly unique thing in the universe.<br />\nBut the relative value of that is up to the chap, anyway~</p>"
+   "date": "2015-03-30T23:50",
+   "avatar": "65f1f49d764e2d88d86ae686e2737676",
+   "text": "<p>but RISING COMPLEXITY BRO<br />\nIt&#8217;s kind of a cool and fairly unique thing in the universe.<br />\nBut the relative value of that is up to the chap, anyway~</p>"
   },
   {
    "id": 1046002,
    "author": "Chad Parenteau",
+   "date": "2015-04-03T16:51",
    "url": "http://www.chadparenteaupoetforhire.com/",
-   "avatar": "http://0.gravatar.com/avatar/f1daf6ccbe5c655ac8f61c67dc18104e?s=64&d=identicon&r=r",
-   "time": "April 3, 2015 at 4:51 pm",
-   "timeTitle": "Friday, April 3rd, 2015, 4:51 pm",
-   "html": "<p>Love your stuff.</p>"
+   "avatar": "f1daf6ccbe5c655ac8f61c67dc18104e",
+   "text": "<p>Love your stuff.</p>"
   },
   {
    "id": 1049743,
    "author": "GQ",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0c506fa5df490cb116a6c7145a9238ce?s=64&d=identicon&r=r",
-   "time": "April 14, 2015 at 11:51 am",
-   "timeTitle": "Tuesday, April 14th, 2015, 11:51 am",
-   "html": "<p>I usually love ES&amp;D, so I&#8217;m real glad to see you do more of it! This one, whilst still cool, hit home a bit less for me. I&#8217;m not saying it sucks &#8211; it still stands out from the sea of crap you usually see with webcomics. It&#8217;s not that this one&#8217;s bad, it&#8217;s just less relatable. Perhaps it was in the delivery &#8211; though I suppose I see your point in the end.</p>\n<p>On another note. I love that you don&#8217;t stick to a static style. You keep experimenting, keep thinking of ways to improve, to change, to wow us. I fuckin love that dude. I always say that you&#8217;re one of my favorite comic artists because of the shit you think up.</p>"
+   "date": "2015-04-14T11:51",
+   "avatar": "0c506fa5df490cb116a6c7145a9238ce",
+   "text": "<p>I usually love ES&amp;D, so I&#8217;m real glad to see you do more of it! This one, whilst still cool, hit home a bit less for me. I&#8217;m not saying it sucks &#8211; it still stands out from the sea of crap you usually see with webcomics. It&#8217;s not that this one&#8217;s bad, it&#8217;s just less relatable. Perhaps it was in the delivery &#8211; though I suppose I see your point in the end.</p>\n<p>On another note. I love that you don&#8217;t stick to a static style. You keep experimenting, keep thinking of ways to improve, to change, to wow us. I fuckin love that dude. I always say that you&#8217;re one of my favorite comic artists because of the shit you think up.</p>"
   },
   {
    "id": 1061957,
    "author": "Kuranes",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d00598903d4d3ad0330796d3c103c415?s=64&d=identicon&r=r",
-   "time": "June 15, 2015 at 11:45 pm",
-   "timeTitle": "Monday, June 15th, 2015, 11:45 pm",
-   "html": "<p>This comic seems in tune with the sort of existential whirlpool that has been growing in my mind for a long while now. I think after so long constantly challenging the beliefs that others pressed on me, the desire to unravel any kind of fantasy or unreality was ingrained into me, and I took it beyond reasonable limits. </p>\n<p>When I finally got to the bottom, I had nothing, I had dismantled life right down to the last component, and couldn&#8217;t put it back together again. I&#8217;m still having trouble with that. The biggest obstacle is wondering if it&#8217;s even worth reassembling, even if I succeed I&#8217;ll still know how it works, that it&#8217;s all a lie, a densely woven web of illusion, and it will never be the same. </p>\n<p>But Trent here is right, once we try and impose upon ourselves an objective viewpoint, start to consider things from the perspective of this cold, indifferent reality, all we can do is end up lost; to finally see reality for what it really is, and end up locked outside of the reality that humanity built for itself. Alone and shivering in the cold, while everyone else is warm inside. </p>\n<p>b.patrick, your work is an inspiration to me. As fucked up as this world can be, it&#8217;s comforting to know that there are others with similar ideas and perspectives, and yet have an insight into life and the human condition that exceeds my own, who can see things that I just can&#8217;t quite see yet.</p>"
+   "date": "2015-06-15T23:45",
+   "avatar": "d00598903d4d3ad0330796d3c103c415",
+   "text": "<p>This comic seems in tune with the sort of existential whirlpool that has been growing in my mind for a long while now. I think after so long constantly challenging the beliefs that others pressed on me, the desire to unravel any kind of fantasy or unreality was ingrained into me, and I took it beyond reasonable limits. </p>\n<p>When I finally got to the bottom, I had nothing, I had dismantled life right down to the last component, and couldn&#8217;t put it back together again. I&#8217;m still having trouble with that. The biggest obstacle is wondering if it&#8217;s even worth reassembling, even if I succeed I&#8217;ll still know how it works, that it&#8217;s all a lie, a densely woven web of illusion, and it will never be the same. </p>\n<p>But Trent here is right, once we try and impose upon ourselves an objective viewpoint, start to consider things from the perspective of this cold, indifferent reality, all we can do is end up lost; to finally see reality for what it really is, and end up locked outside of the reality that humanity built for itself. Alone and shivering in the cold, while everyone else is warm inside. </p>\n<p>b.patrick, your work is an inspiration to me. As fucked up as this world can be, it&#8217;s comforting to know that there are others with similar ideas and perspectives, and yet have an insight into life and the human condition that exceeds my own, who can see things that I just can&#8217;t quite see yet.</p>"
   },
   {
    "id": 1067104,
    "author": "Yvonne",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c9a01a3bc0978581befabafd624bf929?s=64&d=identicon&r=r",
-   "time": "July 20, 2015 at 5:28 am",
-   "timeTitle": "Monday, July 20th, 2015, 5:28 am",
-   "html": "<p>This comic is fantastic and demonstrates what I strongly believe in. I&#8217;m not saying I&#8217;m Taoist but the Taoist term &#8220;wu wei&#8221; means to do nothing. This illustrates the fullness that can flow within emptiness. Therefore, nothing can be anything&#8230; Everything. That&#8217;s why we (humans) can make so much of the universe, because it&#8217;s essentially nothing&#8230; We just objectify it. Now this extends to psychoanalysis and other things&#8230; Because an ideal(s) can be articulated in so many ways, just like how articulations can explain multiple ideals.</p>"
+   "date": "2015-07-20T05:28",
+   "avatar": "c9a01a3bc0978581befabafd624bf929",
+   "text": "<p>This comic is fantastic and demonstrates what I strongly believe in. I&#8217;m not saying I&#8217;m Taoist but the Taoist term &#8220;wu wei&#8221; means to do nothing. This illustrates the fullness that can flow within emptiness. Therefore, nothing can be anything&#8230; Everything. That&#8217;s why we (humans) can make so much of the universe, because it&#8217;s essentially nothing&#8230; We just objectify it. Now this extends to psychoanalysis and other things&#8230; Because an ideal(s) can be articulated in so many ways, just like how articulations can explain multiple ideals.</p>"
   },
   {
    "id": 1067403,
    "author": "Mariachi",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/86b88c02801628b2695973e71d2135cd?s=64&d=identicon&r=r",
-   "time": "July 23, 2015 at 11:42 pm",
-   "timeTitle": "Thursday, July 23rd, 2015, 11:42 pm",
-   "html": "<p>There are seven other planets in our solar system.</p>"
+   "date": "2015-07-23T23:42",
+   "avatar": "86b88c02801628b2695973e71d2135cd",
+   "text": "<p>There are seven other planets in our solar system.</p>"
   },
   {
    "id": 1067875,
    "author": "Author",
+   "date": "2015-07-29T20:10",
    "url": "http://www.jesusandmo.net",
-   "avatar": "http://2.gravatar.com/avatar/eb6ed026a0af9b60b83c213502a1442e?s=64&d=identicon&r=r",
-   "time": "July 29, 2015 at 8:10 pm",
-   "timeTitle": "Wednesday, July 29th, 2015, 8:10 pm",
-   "html": "<p>Get thee to Patreon:</p>\n<p><a href=\"http://www.patreon.com\" rel=\"nofollow\">http://www.patreon.com</a></p>\n<p>It could work for you.</p>"
+   "avatar": "eb6ed026a0af9b60b83c213502a1442e",
+   "text": "<p>Get thee to Patreon:</p>\n<p><a href=\"http://www.patreon.com\" rel=\"nofollow\">http://www.patreon.com</a></p>\n<p>It could work for you.</p>"
   },
   {
    "id": 1071148,
    "author": "ADifferentRandomAsshole",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/a26d377da3aac4e10dbb70f32d62b6de?s=64&d=identicon&r=r",
-   "time": "August 23, 2015 at 1:12 am",
-   "timeTitle": "Sunday, August 23rd, 2015, 1:12 am",
-   "html": "<p>That first panel was the only time the words &#8220;fuck me now Trent&#8221; were ever used on the same baloon.</p>"
+   "date": "2015-08-23T01:12",
+   "avatar": "a26d377da3aac4e10dbb70f32d62b6de",
+   "text": "<p>That first panel was the only time the words &#8220;fuck me now Trent&#8221; were ever used on the same baloon.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 244",
-  "bodyClass": "post-template-default single single-post postid-1024 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 244",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2015-03-29-Eat_Shit_And_Die_244.jpg"
- }
+ ]
 }

@@ -1,78 +1,32 @@
 {
- "path": "/curiousurgency/curious-urgency-45/",
- "series": "curiousurgency",
- "slug": "curious-urgency-45",
- "id": 609,
  "title": "Curious Urgency 45",
  "author": "bpatrick",
- "date": "February 18, 2011",
- "time": "12:00 am",
- "datetime": "2011-02-18T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Catchin&#8217; up with <em>Curious</em>. </p>",
- "postClass": "post-609 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-02-18T00:00",
  "images": [
-  {
-   "src": "2011-02-18-Curious_Urgency_45.jpg",
-   "alt": "Curious Urgency 45",
-   "title": "Curious Urgency 45"
-  }
+  "2011-02-18-Curious_Urgency_45.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-172/",
-  "next": "/eatshitanddie/eat-shit-and-die-173/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-172/",
-  "next": "/eatshitanddie/eat-shit-and-die-173/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Catchin&#8217; up with <em>Curious</em>. </p>",
  "comments": [
   {
    "id": 5729,
    "author": "SoldierMD",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/87cbfdc8e8f38ea4b6fe0f17e9852776?s=64&d=identicon&r=r",
-   "time": "February 19, 2011 at 9:46 am",
-   "timeTitle": "Saturday, February 19th, 2011, 9:46 am",
-   "html": "<p>That chick has some nasty teeth.  So what&#8217;s with the background &#8211; at first I thought that it was a first person view, like his eyelids.   Are the outlines of his eyelids now clouded by the shadows of worms, or is the background more abstract.  Perhaps it&#8217;s a representation of the intrusive nature of his paranoia about worms? Maybe it&#8217;s a gradual lights out for our confused protagonist.  Are those chicks talking about what&#8217;s it&#8217;s like to be a sac head?  Maybe these people were all once sac heads and Sheriff Chuck saved them all.   crazy</p>"
+   "date": "2011-02-19T09:46",
+   "avatar": "87cbfdc8e8f38ea4b6fe0f17e9852776",
+   "text": "<p>That chick has some nasty teeth.  So what&#8217;s with the background &#8211; at first I thought that it was a first person view, like his eyelids.   Are the outlines of his eyelids now clouded by the shadows of worms, or is the background more abstract.  Perhaps it&#8217;s a representation of the intrusive nature of his paranoia about worms? Maybe it&#8217;s a gradual lights out for our confused protagonist.  Are those chicks talking about what&#8217;s it&#8217;s like to be a sac head?  Maybe these people were all once sac heads and Sheriff Chuck saved them all.   crazy</p>"
   },
   {
    "id": 5737,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "February 20, 2011 at 5:32 am",
-   "timeTitle": "Sunday, February 20th, 2011, 5:32 am",
-   "html": "<p>There must be something in the Zone weed. Yea, that&#8217;s it. I&#8217;m just really really high. The paranoia is normal when you&#8217;re this high, right? Now if only I could explain that to these demons that are scratching at my brain.</p>"
+   "date": "2011-02-20T05:32",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>There must be something in the Zone weed. Yea, that&#8217;s it. I&#8217;m just really really high. The paranoia is normal when you&#8217;re this high, right? Now if only I could explain that to these demons that are scratching at my brain.</p>"
   },
   {
    "id": 5762,
    "author": "Ed Dale",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/619b083b66eccf84c593803fa74e6c2f?s=64&d=identicon&r=r",
-   "time": "February 21, 2011 at 4:44 pm",
-   "timeTitle": "Monday, February 21st, 2011, 4:44 pm",
-   "html": "<p>I have this feeling all is not going to turn out well for our hero protagonist.</p>"
+   "date": "2011-02-21T16:44",
+   "avatar": "619b083b66eccf84c593803fa74e6c2f",
+   "text": "<p>I have this feeling all is not going to turn out well for our hero protagonist.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 45",
-  "bodyClass": "post-template-default single single-post postid-609 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 45",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-02-18-Curious_Urgency_45.jpg"
- }
+ ]
 }

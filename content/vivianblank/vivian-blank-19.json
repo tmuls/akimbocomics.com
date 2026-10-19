@@ -1,87 +1,43 @@
 {
- "path": "/vivianblank/vivian-blank-19/",
- "series": "vivianblank",
- "slug": "vivian-blank-19",
- "id": 461,
  "title": "Vivian Blank 19",
  "author": "bpatrick",
- "date": "September 9, 2009",
- "time": "12:00 am",
- "datetime": "2009-09-09T00:00:00",
- "categories": [
-  {
-   "title": "Vivian Blank",
-   "href": "/vivianblank/"
-  }
- ],
- "tags": [],
- "html": "<p>As Och said, don&#8217;t let the haircut fool you.</p>",
- "postClass": "post-461 post type-post status-publish format-standard hentry category-vivianblank uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-09-09T00:00",
  "images": [
-  {
-   "src": "2009-09-09-Vivian_Blank_19.jpg",
-   "alt": "Vivian Blank 19",
-   "title": "Vivian Blank 19"
-  }
+  "2009-09-09-Vivian_Blank_19.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-141/",
-  "next": "/eatshitanddie/eat-shit-and-die-142/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-141/",
-  "next": "/eatshitanddie/eat-shit-and-die-142/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>As Och said, don&#8217;t let the haircut fool you.</p>",
  "comments": [
   {
    "id": 421,
    "author": "randomjackass",
+   "date": "2009-09-10T00:48",
    "url": "http://illified.com",
-   "avatar": "http://2.gravatar.com/avatar/2835ff72500b04a4e87ee5e2c31d4647?s=64&d=identicon&r=r",
-   "time": "September 10, 2009 at 12:48 am",
-   "timeTitle": "Thursday, September 10th, 2009, 12:48 am",
-   "html": "<p>Your comic is awesome.</p>"
+   "avatar": "2835ff72500b04a4e87ee5e2c31d4647",
+   "text": "<p>Your comic is awesome.</p>"
   },
   {
    "id": 431,
    "author": "b.patrick",
+   "date": "2009-09-10T19:09",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "September 10, 2009 at 7:09 pm",
-   "timeTitle": "Thursday, September 10th, 2009, 7:09 pm",
-   "html": "<p>randomjackass: What a misnomer. Mind if I call you &#8220;greattasteincomicsguy&#8221; or &#8220;adeptatrecognizingawesomeness&#8221;? Seriously though, thank you!</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>randomjackass: What a misnomer. Mind if I call you &#8220;greattasteincomicsguy&#8221; or &#8220;adeptatrecognizingawesomeness&#8221;? Seriously though, thank you!</p>"
   },
   {
    "id": 453,
    "author": "RandomJackass",
+   "date": "2009-09-13T18:59",
    "url": "http://illified.com",
-   "avatar": "http://2.gravatar.com/avatar/2835ff72500b04a4e87ee5e2c31d4647?s=64&d=identicon&r=r",
-   "time": "September 13, 2009 at 6:59 pm",
-   "timeTitle": "Sunday, September 13th, 2009, 6:59 pm",
-   "html": "<p>Seriously though, it&#8217;s a bit quiet around here in the comments. But I check this site nearly daily, and I know a lot of other people who do too. Good luck with the comics, when is the next Curious Urgency coming out?</p>"
+   "avatar": "2835ff72500b04a4e87ee5e2c31d4647",
+   "text": "<p>Seriously though, it&#8217;s a bit quiet around here in the comments. But I check this site nearly daily, and I know a lot of other people who do too. Good luck with the comics, when is the next Curious Urgency coming out?</p>"
   },
   {
    "id": 544,
    "author": "b.patrick",
+   "date": "2009-09-19T04:00",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "September 19, 2009 at 4:00 am",
-   "timeTitle": "Saturday, September 19th, 2009, 4:00 am",
-   "html": "<p>It is really quiet in the comments &#8212; thanks for breaking the silence. And thanks for checking the site. It sounds like people want to see Vivian Blank updated for awhile but after that Curious Urgency is up next.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>It is really quiet in the comments &#8212; thanks for breaking the silence. And thanks for checking the site. It sounds like people want to see Vivian Blank updated for awhile but after that Curious Urgency is up next.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Vivian Blank 19",
-  "bodyClass": "post-template-default single single-post postid-461 single-format-standard user-guest comic unknown single-category-vivianblank single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Vivian Blank 19",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-09-09-Vivian_Blank_19.jpg"
- }
+ ]
 }

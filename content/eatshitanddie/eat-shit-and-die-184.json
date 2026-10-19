@@ -1,132 +1,74 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-184/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-184",
- "id": 651,
  "title": "eat shit & die 184",
  "author": "bpatrick",
- "date": "May 24, 2011",
- "time": "12:00 am",
- "datetime": "2011-05-24T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>I had a joke at the end of this one but I thought, &#8220;Why tack on a joke only tangentially related just to have a joke?&#8221; So here it is <em>sans</em> joke. Let me know if you hate it &#8211; putting a little humor at the end isn&#8217;t difficult but felt unnecessary here. </p>\n<p>I think I&#8217;ll do another <em>Onan</em> next (I&#8217;m looking at you Jonny Paycheck).</p>",
- "postClass": "post-651 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-05-24T00:00",
  "images": [
-  {
-   "src": "2011-05-24-Eat_Shit_And_Die_184.jpg",
-   "alt": "eat shit & die 184",
-   "title": "eat shit & die 184"
-  }
+  "2011-05-24-Eat_Shit_And_Die_184.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-183/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-28/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-183/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-28/"
- },
- "commentCount": 9,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I had a joke at the end of this one but I thought, &#8220;Why tack on a joke only tangentially related just to have a joke?&#8221; So here it is <em>sans</em> joke. Let me know if you hate it &#8211; putting a little humor at the end isn&#8217;t difficult but felt unnecessary here. </p>\n<p>I think I&#8217;ll do another <em>Onan</em> next (I&#8217;m looking at you Jonny Paycheck).</p>",
  "comments": [
   {
    "id": 7328,
    "author": "Heidi",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/7d13bae4ac72330a1101e968265c0625?s=64&d=identicon&r=r",
-   "time": "May 25, 2011 at 12:42 am",
-   "timeTitle": "Wednesday, May 25th, 2011, 12:42 am",
-   "html": "<p>I&#8217;m debating whether I prefer black and white to color. I&#8217;m leaning towards black and white. </p>\n<p>I love this sans humor. I agree that a joke for the sake of a joke is lame. (I&#8217;m a little curious what the joke was, of course, but that&#8217;s natural). </p>\n<p>Also, you have me really excited for the next update if it&#8217;s an Onan (or any update, of course, but Onan! Freaking love Onan.)</p>"
+   "date": "2011-05-25T00:42",
+   "avatar": "7d13bae4ac72330a1101e968265c0625",
+   "text": "<p>I&#8217;m debating whether I prefer black and white to color. I&#8217;m leaning towards black and white. </p>\n<p>I love this sans humor. I agree that a joke for the sake of a joke is lame. (I&#8217;m a little curious what the joke was, of course, but that&#8217;s natural). </p>\n<p>Also, you have me really excited for the next update if it&#8217;s an Onan (or any update, of course, but Onan! Freaking love Onan.)</p>"
   },
   {
    "id": 7333,
    "author": "cbobgo",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
-   "time": "May 25, 2011 at 3:09 am",
-   "timeTitle": "Wednesday, May 25th, 2011, 3:09 am",
-   "html": "<p>I don&#8217;t completely agree with this philosophy, but your comic is a good illustration of it.  For me, realizing that absolute freedom is not really possible is not the same as saying freedom=slavery, but I think that may just be because slavery is such a loaded word.</p>"
+   "date": "2011-05-25T03:09",
+   "avatar": "1972c44c9570423c8c8f6ed3ad42b0e1",
+   "text": "<p>I don&#8217;t completely agree with this philosophy, but your comic is a good illustration of it.  For me, realizing that absolute freedom is not really possible is not the same as saying freedom=slavery, but I think that may just be because slavery is such a loaded word.</p>"
   },
   {
    "id": 7343,
    "author": "invertedquestionmark",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6dfce43cde7a7c0c1f853ae8a36e73b8?s=64&d=identicon&r=r",
-   "time": "May 25, 2011 at 2:48 pm",
-   "timeTitle": "Wednesday, May 25th, 2011, 2:48 pm",
-   "html": "<p>You&#8217;ve done a good job at describing my whole life in 18 panels.</p>\n<p>Also, I think it&#8217;s much better without the joke at the end.</p>"
+   "date": "2011-05-25T14:48",
+   "avatar": "6dfce43cde7a7c0c1f853ae8a36e73b8",
+   "text": "<p>You&#8217;ve done a good job at describing my whole life in 18 panels.</p>\n<p>Also, I think it&#8217;s much better without the joke at the end.</p>"
   },
   {
    "id": 7347,
    "author": "Phil C.",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c52325397493673acc10fc4ba8e48ae9?s=64&d=identicon&r=r",
-   "time": "May 25, 2011 at 5:05 pm",
-   "timeTitle": "Wednesday, May 25th, 2011, 5:05 pm",
-   "html": "<p>This wouldn&#8217;t be half as good if it were done in, say, essay format. The comic strip makes the exploration of this concept a lot more interesting. As for the argument itself, I can&#8217;t really get behind that one. But hey, that&#8217;s what makes opinions and philosophical discussions fun. 🙂 </p>\n<p>Great to see more regular updates from you!</p>\n<p>cheers,<br />\nPhil</p>"
+   "date": "2011-05-25T17:05",
+   "avatar": "c52325397493673acc10fc4ba8e48ae9",
+   "text": "<p>This wouldn&#8217;t be half as good if it were done in, say, essay format. The comic strip makes the exploration of this concept a lot more interesting. As for the argument itself, I can&#8217;t really get behind that one. But hey, that&#8217;s what makes opinions and philosophical discussions fun. 🙂 </p>\n<p>Great to see more regular updates from you!</p>\n<p>cheers,<br />\nPhil</p>"
   },
   {
    "id": 7521,
    "author": "Erick",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
-   "time": "May 29, 2011 at 4:32 pm",
-   "timeTitle": "Sunday, May 29th, 2011, 4:32 pm",
-   "html": "<p>Its a bit horrifying without the joke (which is a great thing!) I&#8217;m glad there was no joke at the end, its a bit jarring, which work well with what i feel like you were going for. </p>\n<p>Though, I am curious what the joke was.</p>"
+   "date": "2011-05-29T16:32",
+   "avatar": "ccb5ed59e3d2bd234559119c4fae048d",
+   "text": "<p>Its a bit horrifying without the joke (which is a great thing!) I&#8217;m glad there was no joke at the end, its a bit jarring, which work well with what i feel like you were going for. </p>\n<p>Though, I am curious what the joke was.</p>"
   },
   {
    "id": 8184,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "June 19, 2011 at 11:47 am",
-   "timeTitle": "Sunday, June 19th, 2011, 11:47 am",
-   "html": "<p>I love your comic and it got me thinking about freedom.</p>\n<p>I think the key to understanding freedom is understanding that when people desire freedom they are actually desiring having freedom from something (like oppression) or freedom to something (like make choices). </p>\n<p>Having freedom (without the &#8220;of&#8221; or &#8220;to&#8221;) just doesn&#8217;t make sense. For me at least.</p>"
+   "date": "2011-06-19T11:47",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>I love your comic and it got me thinking about freedom.</p>\n<p>I think the key to understanding freedom is understanding that when people desire freedom they are actually desiring having freedom from something (like oppression) or freedom to something (like make choices). </p>\n<p>Having freedom (without the &#8220;of&#8221; or &#8220;to&#8221;) just doesn&#8217;t make sense. For me at least.</p>"
   },
   {
    "id": 8502,
    "author": "Ruben",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9c653b33a750f223e2a8df4b8e8c382b?s=64&d=identicon&r=r",
-   "time": "June 30, 2011 at 2:12 pm",
-   "timeTitle": "Thursday, June 30th, 2011, 2:12 pm",
-   "html": "<p>Love the strip&#8230; It&#8217;s the first one of yours I see so I can&#8217;t offer a comment about the lack of a joke. But David pretty much stole my comment! Freedom is not equal in its positivity, it should be specified to what it pertains, and thus, as David put it, having freedom without the &#8220;of&#8221; or &#8220;to&#8221; just doesn&#8217;t make that much sense to me&#8230;</p>"
+   "date": "2011-06-30T14:12",
+   "avatar": "9c653b33a750f223e2a8df4b8e8c382b",
+   "text": "<p>Love the strip&#8230; It&#8217;s the first one of yours I see so I can&#8217;t offer a comment about the lack of a joke. But David pretty much stole my comment! Freedom is not equal in its positivity, it should be specified to what it pertains, and thus, as David put it, having freedom without the &#8220;of&#8221; or &#8220;to&#8221; just doesn&#8217;t make that much sense to me&#8230;</p>"
   },
   {
    "id": 9181,
    "author": "T52",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/89a2e462c57daec8da3df98f3c614264?s=64&d=identicon&r=r",
-   "time": "August 24, 2011 at 6:20 pm",
-   "timeTitle": "Wednesday, August 24th, 2011, 6:20 pm",
-   "html": "<p>Much better without the joke at the end. The zoom-in effect kind of reminds me of SBaHJ in a good way.</p>"
+   "date": "2011-08-24T18:20",
+   "avatar": "89a2e462c57daec8da3df98f3c614264",
+   "text": "<p>Much better without the joke at the end. The zoom-in effect kind of reminds me of SBaHJ in a good way.</p>"
   },
   {
    "id": 43337,
    "author": "Skulder",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/02fba5c4ca33a61954decbf65781723f?s=64&d=identicon&r=r",
-   "time": "January 9, 2012 at 9:07 am",
-   "timeTitle": "Monday, January 9th, 2012, 9:07 am",
-   "html": "<p>Ending it with a punchline invalidates everything before the punchline.</p>"
+   "date": "2012-01-09T09:07",
+   "avatar": "02fba5c4ca33a61954decbf65781723f",
+   "text": "<p>Ending it with a punchline invalidates everything before the punchline.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 184",
-  "bodyClass": "post-template-default single single-post postid-651 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 184",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-05-24-Eat_Shit_And_Die_184.jpg"
- }
+ ]
 }

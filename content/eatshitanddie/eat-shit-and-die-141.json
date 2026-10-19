@@ -1,83 +1,38 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-141/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-141",
- "id": 455,
  "title": "Eat Shit And Die 141",
  "author": "bpatrick",
- "date": "August 31, 2009",
- "time": "12:00 am",
- "datetime": "2009-08-31T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2009-08-31T00:00",
  "tags": [
-  {
-   "title": "happy rabbit",
-   "href": "/tag/happy-rabbit/"
-  }
+  "happy-rabbit"
  ],
- "html": "<p>Happy Rabbit is back and he&#8217;s found that special someone. That&#8217;s nice. My wacom driver stopped working half way through coloring this comic and it&#8217;s not available online anymore. By the time I finished I was ready to put my head throught the screen. I added a link to my <a href=\"http://akimbocomics.blogspot.com/\">sketch blog </a>if anyone wants to check that out. I also added some new links to comics I enjoy. I hope to add many more artists to the list when I have a minute. One can also look at my <a href=\"http://akimbocomics.deviantart.com/\">deviant art gallery </a>for alot of the comics you find here plus some stuff you don&#8217;t</p>",
- "postClass": "post-455 post type-post status-publish format-standard hentry category-eatshitanddie tag-happy-rabbit uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2009-08-31-Eat_Shit_And_Die_141.jpg",
-   "alt": "suicidefap.com",
-   "title": "suicidefap.com"
-  }
+  "2009-08-31-Eat_Shit_And_Die_141.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/vivianblank/vivian-blank-18/",
-  "next": "/vivianblank/vivian-blank-19/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/vivianblank/vivian-blank-18/",
-  "next": "/vivianblank/vivian-blank-19/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
+ "hoverText": "suicidefap.com",
+ "body": "<p>Happy Rabbit is back and he&#8217;s found that special someone. That&#8217;s nice. My wacom driver stopped working half way through coloring this comic and it&#8217;s not available online anymore. By the time I finished I was ready to put my head throught the screen. I added a link to my <a href=\"http://akimbocomics.blogspot.com/\">sketch blog </a>if anyone wants to check that out. I also added some new links to comics I enjoy. I hope to add many more artists to the list when I have a minute. One can also look at my <a href=\"http://akimbocomics.deviantart.com/\">deviant art gallery </a>for alot of the comics you find here plus some stuff you don&#8217;t</p>",
  "comments": [
   {
    "id": 379,
    "author": "Winston Rowntree",
+   "date": "2009-09-04T01:13",
    "url": "http://www.viruscomix.com",
-   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
-   "time": "September 4, 2009 at 1:13 am",
-   "timeTitle": "Friday, September 4th, 2009, 1:13 am",
-   "html": "<p>That second-last panel is, like, perfect. His expression is like &#8220;so this is death..!&#8221; Loved it.</p>"
+   "avatar": "2aa941a26d1905164304c2586ecb0dcd",
+   "text": "<p>That second-last panel is, like, perfect. His expression is like &#8220;so this is death..!&#8221; Loved it.</p>"
   },
   {
    "id": 384,
    "author": "Hazy Jeffrey",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c8851476eae33ee2c24e49ce4da3d75e?s=64&d=identicon&r=r",
-   "time": "September 4, 2009 at 7:38 am",
-   "timeTitle": "Friday, September 4th, 2009, 7:38 am",
-   "html": "<p>Does your wife (or your boss) read your comics? Not that I&#8217;m suggesting Happy Rabbit is autobiographical.</p>\n<p>Thanks for showing the sketch gallery by the way, fantastic to see. You are very talented.</p>"
+   "date": "2009-09-04T07:38",
+   "avatar": "c8851476eae33ee2c24e49ce4da3d75e",
+   "text": "<p>Does your wife (or your boss) read your comics? Not that I&#8217;m suggesting Happy Rabbit is autobiographical.</p>\n<p>Thanks for showing the sketch gallery by the way, fantastic to see. You are very talented.</p>"
   },
   {
    "id": 387,
    "author": "b.patrick",
+   "date": "2009-09-04T16:52",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "September 4, 2009 at 4:52 pm",
-   "timeTitle": "Friday, September 4th, 2009, 4:52 pm",
-   "html": "<p>Thanks, Winston!<br />\nHazy Jeffrey, that&#8217;s a good question. My wife is aware of my comics but I wouldn&#8217;t say she reads them. If she saw this one she might take it personally but as you said, it&#8217;s not necessarily autobiographical. And my boss has a boss too &#8211; she knows what it&#8217;s like. Thanks for checking out the sketch blog! It&#8217;s pretty fun.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks, Winston!<br />\nHazy Jeffrey, that&#8217;s a good question. My wife is aware of my comics but I wouldn&#8217;t say she reads them. If she saw this one she might take it personally but as you said, it&#8217;s not necessarily autobiographical. And my boss has a boss too &#8211; she knows what it&#8217;s like. Thanks for checking out the sketch blog! It&#8217;s pretty fun.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 141",
-  "bodyClass": "post-template-default single single-post postid-455 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 141",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-08-31-Eat_Shit_And_Die_141.jpg"
- }
+ ]
 }

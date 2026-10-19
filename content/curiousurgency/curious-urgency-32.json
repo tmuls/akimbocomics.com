@@ -1,91 +1,45 @@
 {
- "path": "/curiousurgency/curious-urgency-32/",
- "series": "curiousurgency",
- "slug": "curious-urgency-32",
- "id": 436,
  "title": "Curious Urgency 32",
  "author": "bpatrick",
- "date": "July 27, 2009",
- "time": "12:00 am",
- "datetime": "2009-07-27T00:00:00",
+ "date": "2009-07-27T00:00",
  "categories": [
-  {
-   "title": "Comics",
-   "href": "/comics/"
-  },
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
+  "comics",
+  "curiousurgency"
  ],
- "tags": [],
- "html": "<p>Once again!</p>",
- "postClass": "post-436 post type-post status-publish format-standard hentry category-comics category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
  "images": [
-  {
-   "src": "2009-07-27-Curious_Urgency_32.jpg",
-   "alt": "Curious Urgency 32",
-   "title": "Curious Urgency 32"
-  }
+  "2009-07-27-Curious_Urgency_32.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-31/",
-  "next": "/linetool/line-tool-1/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-31/",
-  "next": "/linetool/line-tool-1/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Once again!</p>",
  "comments": [
   {
    "id": 160,
    "author": "Rhys",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/4262d353e48b4e6987b0a5fa0c47e7db?s=64&d=identicon&r=r",
-   "time": "August 2, 2009 at 8:55 pm",
-   "timeTitle": "Sunday, August 2nd, 2009, 8:55 pm",
-   "html": "<p>Gotta say i love your whole damn thing, man. Just read through the archives and i wish they kept going, but i&#8217;m glad i got another comic to check back on now.</p>\n<p>All three of your current storylines are amazing, too.</p>"
+   "date": "2009-08-02T20:55",
+   "avatar": "4262d353e48b4e6987b0a5fa0c47e7db",
+   "text": "<p>Gotta say i love your whole damn thing, man. Just read through the archives and i wish they kept going, but i&#8217;m glad i got another comic to check back on now.</p>\n<p>All three of your current storylines are amazing, too.</p>"
   },
   {
    "id": 174,
    "author": "b.patrick",
+   "date": "2009-08-04T17:25",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "August 4, 2009 at 5:25 pm",
-   "timeTitle": "Tuesday, August 4th, 2009, 5:25 pm",
-   "html": "<p>Thanks, Rhys! I&#8217;m going to try and figure out a way to update in the next few days, hopefully.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks, Rhys! I&#8217;m going to try and figure out a way to update in the next few days, hopefully.</p>"
   },
   {
    "id": 1173,
    "author": "msr",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3cab8805b79974f967e06d6a5b7887d5?s=64&d=identicon&r=r",
-   "time": "November 25, 2009 at 5:38 am",
-   "timeTitle": "Wednesday, November 25th, 2009, 5:38 am",
-   "html": "<p>I want more!</p>"
+   "date": "2009-11-25T05:38",
+   "avatar": "3cab8805b79974f967e06d6a5b7887d5",
+   "text": "<p>I want more!</p>"
   },
   {
    "id": 1178,
    "author": "b.patrick",
+   "date": "2009-11-27T04:19",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "November 27, 2009 at 4:19 am",
-   "timeTitle": "Friday, November 27th, 2009, 4:19 am",
-   "html": "<p>More is on the way!</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>More is on the way!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 32",
-  "bodyClass": "post-template-default single single-post postid-436 single-format-standard user-guest comic unknown single-category-comics single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 32",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-07-27-Curious_Urgency_32.jpg"
- }
+ ]
 }

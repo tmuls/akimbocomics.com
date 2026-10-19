@@ -7,7 +7,7 @@ export class EmulsifierGallery {
   render() {
     return [
       <p>{emulsifierOnline.intro}</p>,
-      emulsifierOnline.images.map(i => [<h4>{i.caption}</h4>, <img src={emulsifierOnline.path + i.file} />, <br />, <br />]),
+      emulsifierOnline.images.map(file => [<h4>{file}</h4>, <img src={emulsifierOnline.path + file} />, <br />, <br />]),
     ];
   }
 }

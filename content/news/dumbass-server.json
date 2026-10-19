@@ -1,75 +1,38 @@
 {
- "path": "/news/dumbass-server/",
- "series": "news",
- "slug": "dumbass-server",
- "id": 583,
  "title": "Dumbass server",
  "author": "emulsifier",
- "date": "November 23, 2010",
- "time": "6:24 pm",
- "datetime": "2010-11-23T18:24:00",
- "categories": [
-  {
-   "title": "News",
-   "href": "/news/"
-  }
- ],
- "tags": [],
- "html": "<p>So we were down for a bit.  The main reason being I had recently changed my email passwords and my piece of shit phone stopped getting e-mails and also didn&#8217;t care to remind me that my password needed to be changed there as well. So basically I wasn&#8217;t notified about the problem until we had been down for what I estimate to be 16 hours.  Sorry about that.  </p>\n<p>In order to fix this I&#8217;ve increased the amount of memory available to the database, in addition to that the number of concurrent connections the database will allow has been doubled.  This should save us from reddit for the short term, but the site has been blowing up lately and I am currently looking for longer term solutions as well as a better notification system and automatic recovery.  As a result these types of problems should be sharply reduced.  Hopefully the next time we hit it big on reddit we&#8217;ll be ready to deal with it.  But the only way to find out is if you guys submit even more of our links.  Get on it.</p>",
- "postClass": "post-583 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
- "type": "news",
- "images": [],
- "nav": {
-  "previous": "/news/playing-games-to-heal-kids/",
-  "next": "/news/some-maintenance/"
- },
- "menuNav": {},
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "date": "2010-11-23T18:24",
+ "body": "<p>So we were down for a bit.  The main reason being I had recently changed my email passwords and my piece of shit phone stopped getting e-mails and also didn&#8217;t care to remind me that my password needed to be changed there as well. So basically I wasn&#8217;t notified about the problem until we had been down for what I estimate to be 16 hours.  Sorry about that.  </p>\n<p>In order to fix this I&#8217;ve increased the amount of memory available to the database, in addition to that the number of concurrent connections the database will allow has been doubled.  This should save us from reddit for the short term, but the site has been blowing up lately and I am currently looking for longer term solutions as well as a better notification system and automatic recovery.  As a result these types of problems should be sharply reduced.  Hopefully the next time we hit it big on reddit we&#8217;ll be ready to deal with it.  But the only way to find out is if you guys submit even more of our links.  Get on it.</p>",
  "comments": [
   {
    "id": 4734,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "November 24, 2010 at 2:30 am",
-   "timeTitle": "Wednesday, November 24th, 2010, 2:30 am",
-   "html": "<p>O, I see the downtime wasn&#8217;t scheduled. Hopefully your fix helps out. I never been to reddit before, so maybe you tell me what you mean by &#8220;submit even more of our links&#8221; and I will do.</p>"
+   "date": "2010-11-24T02:30",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>O, I see the downtime wasn&#8217;t scheduled. Hopefully your fix helps out. I never been to reddit before, so maybe you tell me what you mean by &#8220;submit even more of our links&#8221; and I will do.</p>"
   },
   {
    "id": 4736,
    "author": "b.patrick",
+   "date": "2010-11-24T02:51",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "November 24, 2010 at 2:51 am",
-   "timeTitle": "Wednesday, November 24th, 2010, 2:51 am",
-   "html": "<p>Thanks emulsifier! You kick a varied and diverse cross-section of ass!</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Thanks emulsifier! You kick a varied and diverse cross-section of ass!</p>"
   },
   {
    "id": 5529,
    "author": "Eight",
+   "date": "2011-02-01T01:13",
    "url": "http://eightland.com",
-   "avatar": "http://0.gravatar.com/avatar/0ef52a2172a26b1d1afa6f240b25b540?s=64&d=identicon&r=r",
-   "time": "February 1, 2011 at 1:13 am",
-   "timeTitle": "Tuesday, February 1st, 2011, 1:13 am",
-   "html": "<p>fairly analogous of my current philosophical situation versus the capitalist product world we live in. I&#8217;m kind of sad that I&#8217;m more like Trent in that I don&#8217;t give a shit and solve my problems with alcohol and have not actually taken any social steps to circumvent my unique set of problems and vices and get &#8216;in&#8217; with some crazy group of people who are all for living in an enclosed cell society in the wilderness hundreds of miles from civilization&#8230; awwwwwww fuck. I am my own undoing, aren&#8217;t I.</p>"
+   "avatar": "0ef52a2172a26b1d1afa6f240b25b540",
+   "text": "<p>fairly analogous of my current philosophical situation versus the capitalist product world we live in. I&#8217;m kind of sad that I&#8217;m more like Trent in that I don&#8217;t give a shit and solve my problems with alcohol and have not actually taken any social steps to circumvent my unique set of problems and vices and get &#8216;in&#8217; with some crazy group of people who are all for living in an enclosed cell society in the wilderness hundreds of miles from civilization&#8230; awwwwwww fuck. I am my own undoing, aren&#8217;t I.</p>"
   },
   {
    "id": 7473,
    "author": "Sigmonsay",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d04077a699b058a9e98ff2e3c9dc17d4?s=64&d=identicon&r=r",
-   "time": "May 28, 2011 at 4:13 pm",
-   "timeTitle": "Saturday, May 28th, 2011, 4:13 pm",
-   "html": "<p>You can speed wordpress up to rediculously fast speeds with a piece of software called varnish. Thought i&#8217;d share that piece, even though it may not fit your site exactly. Cheers.</p>"
+   "date": "2011-05-28T16:13",
+   "avatar": "d04077a699b058a9e98ff2e3c9dc17d4",
+   "text": "<p>You can speed wordpress up to rediculously fast speeds with a piece of software called varnish. Thought i&#8217;d share that piece, even though it may not fit your site exactly. Cheers.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Dumbass server",
-  "bodyClass": "post-template-default single single-post postid-583 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Dumbass server",
-  "ogDescription": ""
- }
+ ]
 }

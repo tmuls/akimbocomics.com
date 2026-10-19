@@ -1,69 +1,26 @@
 {
- "path": "/mannssearchformeenie/manns-search-for-meenie-25/",
- "series": "mannssearchformeenie",
- "slug": "manns-search-for-meenie-25",
- "id": 386,
  "title": "Manns Search For Meenie 25",
  "author": "bpatrick",
- "date": "June 17, 2009",
- "time": "12:00 am",
- "datetime": "2009-06-17T00:00:00",
- "categories": [
-  {
-   "title": "Manns search for Meenie",
-   "href": "/mannssearchformeenie/"
-  }
- ],
- "tags": [],
- "html": "<p>Man, this shit&#8217;s action packed! Shots be poppin&#8217; off like crazy, son! And you guys thought it was going to be all sex. I guess you&#8217;re pretty disappointed. When we see how this little scene turns out I think I&#8217;m going to put Mann on hold for a while. So far it looks like Vivian Blank&#8217;s up next with one vote. Any other suggestions, let me know. </p>",
- "postClass": "post-386 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2009-06-17T00:00",
  "images": [
-  {
-   "src": "2009-06-17-Manns_Search_For_Meenie_25.jpg",
-   "alt": "Manns Search For Meenie 25",
-   "title": "Manns Search For Meenie 25"
-  }
+  "2009-06-17-Manns_Search_For_Meenie_25.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/linetool/line-tool-2/",
-  "next": "/eatshitanddie/eat-shit-and-die-134/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/linetool/line-tool-2/",
-  "next": "/eatshitanddie/eat-shit-and-die-134/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Man, this shit&#8217;s action packed! Shots be poppin&#8217; off like crazy, son! And you guys thought it was going to be all sex. I guess you&#8217;re pretty disappointed. When we see how this little scene turns out I think I&#8217;m going to put Mann on hold for a while. So far it looks like Vivian Blank&#8217;s up next with one vote. Any other suggestions, let me know. </p>",
  "comments": [
   {
    "id": 20,
    "author": "Och",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/d8c16399b0305a69eda176db6b5f71c0?s=64&d=identicon&r=r",
-   "time": "June 19, 2009 at 9:13 pm",
-   "timeTitle": "Friday, June 19th, 2009, 9:13 pm",
-   "html": "<p>I&#8217;m pretty thrilled about more Vivian Blank as well!</p>"
+   "date": "2009-06-19T21:13",
+   "avatar": "d8c16399b0305a69eda176db6b5f71c0",
+   "text": "<p>I&#8217;m pretty thrilled about more Vivian Blank as well!</p>"
   },
   {
    "id": 21,
    "author": "b.patrick",
+   "date": "2009-06-19T21:53",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "June 19, 2009 at 9:53 pm",
-   "timeTitle": "Friday, June 19th, 2009, 9:53 pm",
-   "html": "<p>Yay! I better get on it then. I&#8217;m thinking this segment of MSFM only has a page or two left.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Yay! I better get on it then. I&#8217;m thinking this segment of MSFM only has a page or two left.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 25",
-  "bodyClass": "post-template-default single single-post postid-386 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Manns Search For Meenie 25",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-06-17-Manns_Search_For_Meenie_25.jpg"
- }
+ ]
 }

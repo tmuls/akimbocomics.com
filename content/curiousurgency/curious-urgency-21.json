@@ -1,60 +1,17 @@
 {
- "path": "/curiousurgency/curious-urgency-21/",
- "series": "curiousurgency",
- "slug": "curious-urgency-21",
- "id": 73,
  "title": "Curious Urgency 21",
  "author": "emulsifier",
- "date": "June 14, 2008",
- "time": "12:00 am",
- "datetime": "2008-06-14T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-73 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-06-14T00:00",
  "images": [
-  {
-   "src": "2008-06-14-Curious_Urgency_21.jpg",
-   "alt": "Curious Urgency 21",
-   "title": "Curious Urgency 21"
-  }
+  "2008-06-14-Curious_Urgency_21.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-20-2/",
-  "next": "/curiousurgency/curious-urgency-22/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-20-2/",
-  "next": "/curiousurgency/curious-urgency-22/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 92195,
    "author": "Haemoglobin Juniour",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9d253303b2ae7552c1aa74d7dbbbdf06?s=64&d=identicon&r=r",
-   "time": "July 28, 2012 at 2:32 pm",
-   "timeTitle": "Saturday, July 28th, 2012, 2:32 pm",
-   "html": "<p>The giant head reminds me of Prometheus.</p>"
+   "date": "2012-07-28T14:32",
+   "avatar": "9d253303b2ae7552c1aa74d7dbbbdf06",
+   "text": "<p>The giant head reminds me of Prometheus.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 21",
-  "bodyClass": "post-template-default single single-post postid-73 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 21",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-06-14-Curious_Urgency_21.jpg"
- }
+ ]
 }

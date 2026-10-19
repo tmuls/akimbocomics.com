@@ -1,87 +1,40 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-192/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-192",
- "id": 680,
  "title": "eat shit & die 192",
  "author": "bpatrick",
- "date": "July 18, 2011",
- "time": "12:00 am",
- "datetime": "2011-07-18T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>Thanks for the congratulations, everyone. I plan on continuing to make comics (I can&#8217;t help myself) but I do want to get as much into the summer of comics as possible. </p>",
- "postClass": "post-680 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-07-18T00:00",
  "images": [
-  {
-   "src": "2011-07-18-Eat_Shit_And_Die_192.jpg",
-   "alt": "eat shit & die 192",
-   "title": "eat shit & die 192"
-  }
+  "2011-07-18-Eat_Shit_And_Die_192.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/curiousurgency/curious-urgency-50/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-29/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/curiousurgency/curious-urgency-50/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-29/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Thanks for the congratulations, everyone. I plan on continuing to make comics (I can&#8217;t help myself) but I do want to get as much into the summer of comics as possible. </p>",
  "comments": [
   {
    "id": 8843,
    "author": "invertedquestionmark",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6dfce43cde7a7c0c1f853ae8a36e73b8?s=64&d=identicon&r=r",
-   "time": "July 18, 2011 at 5:40 pm",
-   "timeTitle": "Monday, July 18th, 2011, 5:40 pm",
-   "html": "<p>Had to read it three times to understand the idea and then I was like &#8220;Ooooh, that&#8217;s me again&#8221; 😀</p>"
+   "date": "2011-07-18T17:40",
+   "avatar": "6dfce43cde7a7c0c1f853ae8a36e73b8",
+   "text": "<p>Had to read it three times to understand the idea and then I was like &#8220;Ooooh, that&#8217;s me again&#8221; 😀</p>"
   },
   {
    "id": 8844,
    "author": "dawn storrud",
+   "date": "2011-07-18T23:19",
    "url": "http://transsexualchildandTheGreatSpiral",
-   "avatar": "http://1.gravatar.com/avatar/762aceef2a8778dd72038177b5a82fd4?s=64&d=identicon&r=r",
-   "time": "July 18, 2011 at 11:19 pm",
-   "timeTitle": "Monday, July 18th, 2011, 11:19 pm",
-   "html": "<p>Good, no even better than good work</p>"
+   "avatar": "762aceef2a8778dd72038177b5a82fd4",
+   "text": "<p>Good, no even better than good work</p>"
   },
   {
    "id": 8990,
    "author": "David",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
-   "time": "August 5, 2011 at 7:19 am",
-   "timeTitle": "Friday, August 5th, 2011, 7:19 am",
-   "html": "<p>Very nice! You&#8217;ve captured something really complex here which I&#8217;ve recognised in myself as well.</p>"
+   "date": "2011-08-05T07:19",
+   "avatar": "8a65df25df1ffe98f37cc62fff607d3a",
+   "text": "<p>Very nice! You&#8217;ve captured something really complex here which I&#8217;ve recognised in myself as well.</p>"
   },
   {
    "id": 115751,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "October 27, 2012 at 10:29 pm",
-   "timeTitle": "Saturday, October 27th, 2012, 10:29 pm",
-   "html": "<p>hmmm&#8230; good stuff. We should be careful not to let acts of love or kindness become all about other people seeing how good we are.</p>"
+   "date": "2012-10-27T22:29",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>hmmm&#8230; good stuff. We should be careful not to let acts of love or kindness become all about other people seeing how good we are.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 192",
-  "bodyClass": "post-template-default single single-post postid-680 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 192",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-07-18-Eat_Shit_And_Die_192.jpg"
- }
+ ]
 }

@@ -1,268 +1,184 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-93/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-93",
- "id": 194,
  "title": "Eat Shit And Die 93",
  "author": "emulsifier",
- "date": "September 24, 2008",
- "time": "12:00 am",
- "datetime": "2008-09-24T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-194 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-09-24T00:00",
  "images": [
-  {
-   "src": "2008-09-24-Eat_Shit_And_Die_93.jpg",
-   "alt": "Eat Shit And Die 93",
-   "title": "Eat Shit And Die 93"
-  }
+  "2008-09-24-Eat_Shit_And_Die_93.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-92/",
-  "next": "/eatshitanddie/eat-shit-and-die-94/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-92/",
-  "next": "/eatshitanddie/eat-shit-and-die-94/"
- },
- "commentCount": 24,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 317,
    "author": "Kat!",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/5c74d78c3126e66d1fa91f88295349ce?s=64&d=identicon&r=r",
-   "time": "August 26, 2009 at 3:58 am",
-   "timeTitle": "Wednesday, August 26th, 2009, 3:58 am",
-   "html": "<p>I&#8217;m here!<br />\nDon&#8217;t drown in your silence!</p>"
+   "date": "2009-08-26T03:58",
+   "avatar": "5c74d78c3126e66d1fa91f88295349ce",
+   "text": "<p>I&#8217;m here!<br />\nDon&#8217;t drown in your silence!</p>"
   },
   {
    "id": 1021,
    "author": "lev",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e9d26e4f197d9e71dc90399f34c23795?s=64&d=identicon&r=r",
-   "time": "October 25, 2009 at 10:47 am",
-   "timeTitle": "Sunday, October 25th, 2009, 10:47 am",
-   "html": "<p>Within the past few hours I&#8217;ve read every comic since #1.  That parasite-addiction was some morbid shit.  Why&#8217;d you kill it?  I should be studying for my midterm tomorrow&#8230;</p>"
+   "date": "2009-10-25T10:47",
+   "avatar": "e9d26e4f197d9e71dc90399f34c23795",
+   "text": "<p>Within the past few hours I&#8217;ve read every comic since #1.  That parasite-addiction was some morbid shit.  Why&#8217;d you kill it?  I should be studying for my midterm tomorrow&#8230;</p>"
   },
   {
    "id": 1434,
    "author": "Nate",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b3e359668f2369fe1b576ce4d25014d9?s=64&d=identicon&r=r",
-   "time": "February 2, 2010 at 7:04 pm",
-   "timeTitle": "Tuesday, February 2nd, 2010, 7:04 pm",
-   "html": "<p>Hey!  I&#8217;ve been reading here for the past hour.  Keep up the good work!</p>"
+   "date": "2010-02-02T19:04",
+   "avatar": "b3e359668f2369fe1b576ce4d25014d9",
+   "text": "<p>Hey!  I&#8217;ve been reading here for the past hour.  Keep up the good work!</p>"
   },
   {
    "id": 4437,
    "author": "Beatriz",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/65124729e7e597988acd75612413c0de?s=64&d=identicon&r=r",
-   "time": "October 3, 2010 at 7:16 pm",
-   "timeTitle": "Sunday, October 3rd, 2010, 7:16 pm",
-   "html": "<p>brilliant.</p>"
+   "date": "2010-10-03T19:16",
+   "avatar": "65124729e7e597988acd75612413c0de",
+   "text": "<p>brilliant.</p>"
   },
   {
    "id": 4586,
    "author": "tony trov",
+   "date": "2010-11-02T22:57",
    "url": "http://www.southfellini.com",
-   "avatar": "http://0.gravatar.com/avatar/c47226789121d6519579a2f9ff815e80?s=64&d=identicon&r=r",
-   "time": "November 2, 2010 at 10:57 pm",
-   "timeTitle": "Tuesday, November 2nd, 2010, 10:57 pm",
-   "html": "<p>this is perfect.</p>"
+   "avatar": "c47226789121d6519579a2f9ff815e80",
+   "text": "<p>this is perfect.</p>"
   },
   {
    "id": 4589,
    "author": "chris",
+   "date": "2010-11-03T08:37",
    "url": "http://www.mummycomics.com",
-   "avatar": "http://2.gravatar.com/avatar/8f1a2f6557d9b6557f056c88ddeb73d6?s=64&d=identicon&r=r",
-   "time": "November 3, 2010 at 8:37 am",
-   "timeTitle": "Wednesday, November 3rd, 2010, 8:37 am",
-   "html": "<p>oh god. this is horribly true. second-to-last panel? that&#8217;s the creeping self-doubt panel.</p>"
+   "avatar": "8f1a2f6557d9b6557f056c88ddeb73d6",
+   "text": "<p>oh god. this is horribly true. second-to-last panel? that&#8217;s the creeping self-doubt panel.</p>"
   },
   {
    "id": 6123,
    "author": "nibby",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/59cf92e6719c63f49c7a688ed2c76891?s=64&d=identicon&r=r",
-   "time": "March 12, 2011 at 11:21 am",
-   "timeTitle": "Saturday, March 12th, 2011, 11:21 am",
-   "html": "<p>Still reading and I love your work. 🙂</p>"
+   "date": "2011-03-12T11:21",
+   "avatar": "59cf92e6719c63f49c7a688ed2c76891",
+   "text": "<p>Still reading and I love your work. 🙂</p>"
   },
   {
    "id": 6205,
    "author": "Dylan",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e086f391f20b345dc9500986e1c04d31?s=64&d=identicon&r=r",
-   "time": "March 17, 2011 at 11:46 pm",
-   "timeTitle": "Thursday, March 17th, 2011, 11:46 pm",
-   "html": "<p>yeah joining in with all these fellows. Though you might have a small audience, making the quality you do is better than, well, most other webcomics. Someone compared you to Subnormality and I completely agree.</p>\n<p>you&#8217;re darker</p>"
+   "date": "2011-03-17T23:46",
+   "avatar": "e086f391f20b345dc9500986e1c04d31",
+   "text": "<p>yeah joining in with all these fellows. Though you might have a small audience, making the quality you do is better than, well, most other webcomics. Someone compared you to Subnormality and I completely agree.</p>\n<p>you&#8217;re darker</p>"
   },
   {
    "id": 6495,
    "author": "bill",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/af309bbe0be8181f48a02823262b60d4?s=64&d=identicon&r=r",
-   "time": "April 5, 2011 at 8:43 pm",
-   "timeTitle": "Tuesday, April 5th, 2011, 8:43 pm",
-   "html": "<p>we&#8217;re reading!  been reading since #1 the last couple o hours, and bob &amp; bob. great stuff!</p>"
+   "date": "2011-04-05T20:43",
+   "avatar": "af309bbe0be8181f48a02823262b60d4",
+   "text": "<p>we&#8217;re reading!  been reading since #1 the last couple o hours, and bob &amp; bob. great stuff!</p>"
   },
   {
    "id": 6612,
    "author": "henkkaj",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bc616a3f9c901af857b994746936974d?s=64&d=identicon&r=r",
-   "time": "April 13, 2011 at 11:36 am",
-   "timeTitle": "Wednesday, April 13th, 2011, 11:36 am",
-   "html": "<p>We&#8217;re all here and we love your work. Thank you!</p>"
+   "date": "2011-04-13T11:36",
+   "avatar": "bc616a3f9c901af857b994746936974d",
+   "text": "<p>We&#8217;re all here and we love your work. Thank you!</p>"
   },
   {
    "id": 8834,
    "author": "leorising",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8fbba5dcc7f128e14f75012975cae64b?s=64&d=identicon&r=r",
-   "time": "July 17, 2011 at 5:05 pm",
-   "timeTitle": "Sunday, July 17th, 2011, 5:05 pm",
-   "html": "<p>Been reading since #1, enjoying very much! Sorry we&#8217;re such silent masses sometimes.</p>"
+   "date": "2011-07-17T17:05",
+   "avatar": "8fbba5dcc7f128e14f75012975cae64b",
+   "text": "<p>Been reading since #1, enjoying very much! Sorry we&#8217;re such silent masses sometimes.</p>"
   },
   {
    "id": 9192,
    "author": "iaoth",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/435c856ae156028166e43065bf6285cf?s=64&d=identicon&r=r",
-   "time": "August 25, 2011 at 8:31 am",
-   "timeTitle": "Thursday, August 25th, 2011, 8:31 am",
-   "html": "<p>Love it.</p>"
+   "date": "2011-08-25T08:31",
+   "avatar": "435c856ae156028166e43065bf6285cf",
+   "text": "<p>Love it.</p>"
   },
   {
    "id": 10118,
    "author": "Shane",
+   "date": "2011-10-09T21:17",
    "url": "http://thesilentarmy.tumblr.com",
-   "avatar": "http://2.gravatar.com/avatar/edfc031b91b0565cb2f4998575df3ec1?s=64&d=identicon&r=r",
-   "time": "October 9, 2011 at 9:17 pm",
-   "timeTitle": "Sunday, October 9th, 2011, 9:17 pm",
-   "html": "<p>Aw.</p>"
+   "avatar": "edfc031b91b0565cb2f4998575df3ec1",
+   "text": "<p>Aw.</p>"
   },
   {
    "id": 12354,
    "author": "Evan B.",
+   "date": "2011-11-11T06:02",
    "url": "http://infiniteblank.com",
-   "avatar": "http://0.gravatar.com/avatar/3193cfc4d639b105d590d3b7d22ace54?s=64&d=identicon&r=r",
-   "time": "November 11, 2011 at 6:02 am",
-   "timeTitle": "Friday, November 11th, 2011, 6:02 am",
-   "html": "<p>Definitely appreciating this in much the same way as subnormality.  (And don&#8217;t get comparison-insecurity; it&#8217;s a compliment.)  A bit more vulgar and random, but in classy ways.  Keep it up.</p>"
+   "avatar": "3193cfc4d639b105d590d3b7d22ace54",
+   "text": "<p>Definitely appreciating this in much the same way as subnormality.  (And don&#8217;t get comparison-insecurity; it&#8217;s a compliment.)  A bit more vulgar and random, but in classy ways.  Keep it up.</p>"
   },
   {
    "id": 21315,
    "author": "paukst",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/694df79f030ae8c8ac01d33479d52c8e?s=64&d=identicon&r=r",
-   "time": "December 7, 2011 at 8:06 pm",
-   "timeTitle": "Wednesday, December 7th, 2011, 8:06 pm",
-   "html": "<p>you&#8217;re bigger than you think.</p>"
+   "date": "2011-12-07T20:06",
+   "avatar": "694df79f030ae8c8ac01d33479d52c8e",
+   "text": "<p>you&#8217;re bigger than you think.</p>"
   },
   {
    "id": 40986,
    "author": "KarKar",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/bef83921c33339a805581028251f35ca?s=64&d=identicon&r=r",
-   "time": "January 6, 2012 at 7:33 am",
-   "timeTitle": "Friday, January 6th, 2012, 7:33 am",
-   "html": "<p>Don&#8217;t worry I caught the bottle!</p>"
+   "date": "2012-01-06T07:33",
+   "avatar": "bef83921c33339a805581028251f35ca",
+   "text": "<p>Don&#8217;t worry I caught the bottle!</p>"
   },
   {
    "id": 61843,
    "author": "BoboB",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0d8c8fc2beb94797c1d54275b37f5105?s=64&d=identicon&r=r",
-   "time": "February 16, 2012 at 6:29 am",
-   "timeTitle": "Thursday, February 16th, 2012, 6:29 am",
-   "html": "<p>Your comics are incredible, you don&#8217;t hold any punches, and you&#8217;ve inspired me to keep drawing, even if I think I&#8217;ll never get anywhere with it. You&#8217;re a credit to the medium the same way Watterson is.</p>"
+   "date": "2012-02-16T06:29",
+   "avatar": "0d8c8fc2beb94797c1d54275b37f5105",
+   "text": "<p>Your comics are incredible, you don&#8217;t hold any punches, and you&#8217;ve inspired me to keep drawing, even if I think I&#8217;ll never get anywhere with it. You&#8217;re a credit to the medium the same way Watterson is.</p>"
   },
   {
    "id": 63154,
    "author": "Rian",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0638fe8dbc94d18e6c2f7862159b4fff?s=64&d=identicon&r=r",
-   "time": "February 24, 2012 at 2:13 am",
-   "timeTitle": "Friday, February 24th, 2012, 2:13 am",
-   "html": "<p>Your bottle hit me. I&#8217;m scared.</p>"
+   "date": "2012-02-24T02:13",
+   "avatar": "0638fe8dbc94d18e6c2f7862159b4fff",
+   "text": "<p>Your bottle hit me. I&#8217;m scared.</p>"
   },
   {
    "id": 94236,
    "author": "Sunny",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3bd5592a8a6bef60ddc092ee8961bd43?s=64&d=identicon&r=r",
-   "time": "August 20, 2012 at 6:53 am",
-   "timeTitle": "Monday, August 20th, 2012, 6:53 am",
-   "html": "<p>Someone passed me that bottle. I passed it through</p>"
+   "date": "2012-08-20T06:53",
+   "avatar": "3bd5592a8a6bef60ddc092ee8961bd43",
+   "text": "<p>Someone passed me that bottle. I passed it through</p>"
   },
   {
    "id": 97665,
    "author": "DanteMXII",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/225f77f788d923732e46431ed113c1ab?s=64&d=identicon&r=r",
-   "time": "September 11, 2012 at 9:52 pm",
-   "timeTitle": "Tuesday, September 11th, 2012, 9:52 pm",
-   "html": "<p>These comics are really great</p>"
+   "date": "2012-09-11T21:52",
+   "avatar": "225f77f788d923732e46431ed113c1ab",
+   "text": "<p>These comics are really great</p>"
   },
   {
    "id": 125076,
    "author": "MADLOVEKID",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/8b396381b169388154e6750f8238fb2a?s=64&d=identicon&r=r",
-   "time": "November 12, 2012 at 3:01 pm",
-   "timeTitle": "Monday, November 12th, 2012, 3:01 pm",
-   "html": "<p>Keep it up holmes</p>"
+   "date": "2012-11-12T15:01",
+   "avatar": "8b396381b169388154e6750f8238fb2a",
+   "text": "<p>Keep it up holmes</p>"
   },
   {
    "id": 152330,
    "author": "marlon fontanez",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3f57bea0d1d6ff73d89c012e1cfc8f59?s=64&d=identicon&r=r",
-   "time": "December 14, 2012 at 6:07 am",
-   "timeTitle": "Friday, December 14th, 2012, 6:07 am",
-   "html": "<p>shit i started reading this at 10:25 its now 2:07  what have you done to me man</p>"
+   "date": "2012-12-14T06:07",
+   "avatar": "3f57bea0d1d6ff73d89c012e1cfc8f59",
+   "text": "<p>shit i started reading this at 10:25 its now 2:07  what have you done to me man</p>"
   },
   {
    "id": 228985,
    "author": "WilliamFeist",
+   "date": "2013-08-03T15:47",
    "url": "http://WFPIcomic.com",
-   "avatar": "http://0.gravatar.com/avatar/31596aaf8e813307851a9c015b1ff2c7?s=64&d=identicon&r=r",
-   "time": "August 3, 2013 at 3:47 pm",
-   "timeTitle": "Saturday, August 3rd, 2013, 3:47 pm",
-   "html": "<p>So true&#8230;.Black actors.</p>"
+   "avatar": "31596aaf8e813307851a9c015b1ff2c7",
+   "text": "<p>So true&#8230;.Black actors.</p>"
   }
  ],
  "pingbacks": [
   {
    "id": 4603,
-   "author": "Spy6teen - BLOG@16: Teams and Time",
+   "title": "Spy6teen - BLOG@16: Teams and Time",
    "url": "http://www.spy6teen.com/?p=218",
-   "avatar": null,
-   "time": "November 4, 2010 at 9:11 pm",
-   "timeTitle": "Thursday, November 4th, 2010, 9:11 pm",
-   "html": ""
+   "date": "2010-11-04T21:11"
   }
- ],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 93",
-  "bodyClass": "post-template-default single single-post postid-194 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 93",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-09-24-Eat_Shit_And_Die_93.jpg"
- }
+ ]
 }

@@ -1,83 +1,34 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-119/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-119",
- "id": 220,
  "title": "Eat Shit And Die 119",
  "author": "emulsifier",
- "date": "October 20, 2008",
- "time": "12:00 am",
- "datetime": "2008-10-20T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
+ "date": "2008-10-20T00:00",
  "tags": [
-  {
-   "title": "burly guy",
-   "href": "/tag/burly-guy/"
-  }
+  "burly-guy"
  ],
- "html": "",
- "postClass": "post-220 post type-post status-publish format-standard hentry category-eatshitanddie tag-burly-guy uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
  "images": [
-  {
-   "src": "2008-10-20-Eat_Shit_And_Die_119.jpg",
-   "alt": "Eat Shit And Die 119",
-   "title": "Eat Shit And Die 119"
-  }
+  "2008-10-20-Eat_Shit_And_Die_119.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-118/",
-  "next": "/eatshitanddie/eat-shit-and-die-120/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-118/",
-  "next": "/eatshitanddie/eat-shit-and-die-120/"
- },
- "commentCount": 3,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 318,
    "author": "Kat!",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/5c74d78c3126e66d1fa91f88295349ce?s=64&d=identicon&r=r",
-   "time": "August 26, 2009 at 4:11 am",
-   "timeTitle": "Wednesday, August 26th, 2009, 4:11 am",
-   "html": "<p>Truly Hilarious.</p>"
+   "date": "2009-08-26T04:11",
+   "avatar": "5c74d78c3126e66d1fa91f88295349ce",
+   "text": "<p>Truly Hilarious.</p>"
   },
   {
    "id": 5608,
    "author": "Matteus",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/61ebba493161b81a51edcdefeaede2f2?s=64&d=identicon&r=r",
-   "time": "February 7, 2011 at 6:13 am",
-   "timeTitle": "Monday, February 7th, 2011, 6:13 am",
-   "html": "<p>Or is it hilariously true?</p>"
+   "date": "2011-02-07T06:13",
+   "avatar": "61ebba493161b81a51edcdefeaede2f2",
+   "text": "<p>Or is it hilariously true?</p>"
   },
   {
    "id": 6397,
    "author": "Standard",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/3ea99478f2902acb33c2dfc73c346ee5?s=64&d=identicon&r=r",
-   "time": "March 30, 2011 at 11:38 am",
-   "timeTitle": "Wednesday, March 30th, 2011, 11:38 am",
-   "html": "<p>Man is was so simple in high school when this was true. Now we have indie kids. They just took this an put a spin on it.</p>"
+   "date": "2011-03-30T11:38",
+   "avatar": "3ea99478f2902acb33c2dfc73c346ee5",
+   "text": "<p>Man is was so simple in high school when this was true. Now we have indie kids. They just took this an put a spin on it.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 119",
-  "bodyClass": "post-template-default single single-post postid-220 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 119",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-10-20-Eat_Shit_And_Die_119.jpg"
- }
+ ]
 }

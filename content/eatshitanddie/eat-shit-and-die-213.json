@@ -1,124 +1,70 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-213/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-213",
- "id": 764,
  "title": "eat shit & die 213",
  "author": "bpatrick",
- "date": "July 12, 2012",
- "time": "12:00 am",
- "datetime": "2012-07-12T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "<p>Trent&#8217;s boss is actually named after one my favorite bosses. It&#8217;s not much of an homage, I&#8217;m afraid. </p>",
- "postClass": "post-764 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2012-07-12T00:00",
  "images": [
-  {
-   "src": "2012-07-12-Eat_Shit_And_Die_213.jpg",
-   "alt": "eat shit & die 213",
-   "title": "eat shit & die 213"
-  }
+  "2012-07-12-Eat_Shit_And_Die_213.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-212/",
-  "next": "/curiousurgency/curious-urgency-61/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-212/",
-  "next": "/curiousurgency/curious-urgency-61/"
- },
- "commentCount": 8,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Trent&#8217;s boss is actually named after one my favorite bosses. It&#8217;s not much of an homage, I&#8217;m afraid. </p>",
  "comments": [
   {
    "id": 90150,
    "author": "guy",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e21949a78bc73d80b580489f5536a4d6?s=64&d=identicon&r=r",
-   "time": "July 12, 2012 at 12:27 pm",
-   "timeTitle": "Thursday, July 12th, 2012, 12:27 pm",
-   "html": "<p>shit just got real</p>"
+   "date": "2012-07-12T12:27",
+   "avatar": "e21949a78bc73d80b580489f5536a4d6",
+   "text": "<p>shit just got real</p>"
   },
   {
    "id": 90173,
    "author": "AJ",
+   "date": "2012-07-12T15:48",
    "url": "http://na",
-   "avatar": "http://2.gravatar.com/avatar/e531e8c39d11fc5c30bc0c298a2a2992?s=64&d=identicon&r=r",
-   "time": "July 12, 2012 at 3:48 pm",
-   "timeTitle": "Thursday, July 12th, 2012, 3:48 pm",
-   "html": "<p>i thought the point of eat, shit and die was that you missed out the fuck?</p>"
+   "avatar": "e531e8c39d11fc5c30bc0c298a2a2992",
+   "text": "<p>i thought the point of eat, shit and die was that you missed out the fuck?</p>"
   },
   {
    "id": 90189,
    "author": "johhnydollar",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/820955a2509b131d073e3dd9854e0664?s=64&d=identicon&r=r",
-   "time": "July 12, 2012 at 5:27 pm",
-   "timeTitle": "Thursday, July 12th, 2012, 5:27 pm",
-   "html": "<p>I never thought of it that way&#8230;man, I thought porn was pretty boring, but now it&#8217;s much hotter to think of the girls as desperate, helpless and reluctant.  Thanks, man!</p>"
+   "date": "2012-07-12T17:27",
+   "avatar": "820955a2509b131d073e3dd9854e0664",
+   "text": "<p>I never thought of it that way&#8230;man, I thought porn was pretty boring, but now it&#8217;s much hotter to think of the girls as desperate, helpless and reluctant.  Thanks, man!</p>"
   },
   {
    "id": 90212,
    "author": "bpatrick",
+   "date": "2012-07-12T22:14",
    "url": "/",
-   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
-   "time": "July 12, 2012 at 10:14 pm",
-   "timeTitle": "Thursday, July 12th, 2012, 10:14 pm",
-   "html": "<p>Classic johhnydollar. Reprehensible.</p>"
+   "avatar": "509f1bc9ef479945bcfeccef09df4904",
+   "text": "<p>Classic johhnydollar. Reprehensible.</p>"
   },
   {
    "id": 90217,
    "author": "johhnydollar",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/820955a2509b131d073e3dd9854e0664?s=64&d=identicon&r=r",
-   "time": "July 12, 2012 at 11:34 pm",
-   "timeTitle": "Thursday, July 12th, 2012, 11:34 pm",
-   "html": "<p>haha!  I kid, I kid&#8230;kinda.</p>"
+   "date": "2012-07-12T23:34",
+   "avatar": "820955a2509b131d073e3dd9854e0664",
+   "text": "<p>haha!  I kid, I kid&#8230;kinda.</p>"
   },
   {
    "id": 90222,
    "author": "RatB",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/88b872d2e6607ef153dda332c13f18a1?s=64&d=identicon&r=r",
-   "time": "July 13, 2012 at 12:08 am",
-   "timeTitle": "Friday, July 13th, 2012, 12:08 am",
-   "html": "<p>@AJ You may not fuck, but it wouldn&#8217;t feel like ESAD if you couldn&#8217;t get fucked.</p>"
+   "date": "2012-07-13T00:08",
+   "avatar": "88b872d2e6607ef153dda332c13f18a1",
+   "text": "<p>@AJ You may not fuck, but it wouldn&#8217;t feel like ESAD if you couldn&#8217;t get fucked.</p>"
   },
   {
    "id": 115788,
    "author": "WolffBrosef2",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
-   "time": "October 28, 2012 at 12:18 am",
-   "timeTitle": "Sunday, October 28th, 2012, 12:18 am",
-   "html": "<p>The difference between Trent&#8217;s situation and porn is that Trent was expecting his job to be only pizza-related (as well he should), whereas people working in the porn industry, helpless as they might be at times, surely realize from the start that their &#8216;job&#8217; is sex-related.</p>"
+   "date": "2012-10-28T00:18",
+   "avatar": "ebc4fde01a42d71c2e751e6db1960f3f",
+   "text": "<p>The difference between Trent&#8217;s situation and porn is that Trent was expecting his job to be only pizza-related (as well he should), whereas people working in the porn industry, helpless as they might be at times, surely realize from the start that their &#8216;job&#8217; is sex-related.</p>"
   }
  ],
  "pingbacks": [
   {
    "id": 222182,
-   "author": "From Akimbo Comics: “It’s not prostitution, we’ll be filming the whole thing!” | The Prime Directive",
+   "title": "From Akimbo Comics: “It’s not prostitution, we’ll be filming the whole thing!” | The Prime Directive",
    "url": "http://francoistremblay.wordpress.com/2013/06/26/from-akimbo-comics-its-not-prostitution-well-be-filming-the-whole-thing/",
-   "avatar": null,
-   "time": "June 27, 2013 at 3:43 am",
-   "timeTitle": "Thursday, June 27th, 2013, 3:43 am",
-   "html": ""
+   "date": "2013-06-27T03:43"
   }
- ],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 213",
-  "bodyClass": "post-template-default single single-post postid-764 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "eat shit & die 213",
-  "ogDescription": "",
-  "ogImage": "//comic/2012-07-12-Eat_Shit_And_Die_213.jpg"
- }
+ ]
 }

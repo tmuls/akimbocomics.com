@@ -1,60 +1,17 @@
 {
- "path": "/mannssearchformeenie/manns-search-for-meenie-32/",
- "series": "mannssearchformeenie",
- "slug": "manns-search-for-meenie-32",
- "id": 994,
  "title": "Mann’s Search For Meenie 32",
  "author": "bpatrick",
- "date": "February 4, 2015",
- "time": "12:00 am",
- "datetime": "2015-02-04T00:00:00",
- "categories": [
-  {
-   "title": "Manns search for Meenie",
-   "href": "/mannssearchformeenie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-994 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2015-02-04T00:00",
  "images": [
-  {
-   "src": "2015-02-04-Manns_Search_For_Meenie_32.jpg",
-   "alt": "Mann’s Search For Meenie 32",
-   "title": "Mann’s Search For Meenie 32"
-  }
+  "2015-02-04-Manns_Search_For_Meenie_32.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-241-2/",
-  "next": "/eatshitanddie/eat-shit-and-die-242/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-241-2/",
-  "next": "/eatshitanddie/eat-shit-and-die-242/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 1028849,
    "author": "imtrappedinabox",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/5de1cccd72bbad1fdb732c571068a3b3?s=64&d=identicon&r=r",
-   "time": "February 15, 2015 at 3:20 pm",
-   "timeTitle": "Sunday, February 15th, 2015, 3:20 pm",
-   "html": "<p>We&#8217;re coming up on 9 years of this comic in particular. How close does it follow the storyline you initially planned on?</p>"
+   "date": "2015-02-15T15:20",
+   "avatar": "5de1cccd72bbad1fdb732c571068a3b3",
+   "text": "<p>We&#8217;re coming up on 9 years of this comic in particular. How close does it follow the storyline you initially planned on?</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Mann’s Search For Meenie 32",
-  "bodyClass": "post-template-default single single-post postid-994 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Mann’s Search For Meenie 32",
-  "ogDescription": "",
-  "ogImage": "/comics-mini/2015-02-04-Manns_Search_For_Meenie_32.jpg"
- }
+ ]
 }

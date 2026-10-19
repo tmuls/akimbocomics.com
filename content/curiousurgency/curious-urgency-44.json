@@ -1,69 +1,25 @@
 {
- "path": "/curiousurgency/curious-urgency-44/",
- "series": "curiousurgency",
- "slug": "curious-urgency-44",
- "id": 604,
  "title": "Curious Urgency 44",
  "author": "bpatrick",
- "date": "February 1, 2011",
- "time": "12:00 am",
- "datetime": "2011-02-01T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>I took advantage of the snow-day and made a comic.</p>",
- "postClass": "post-604 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-02-01T00:00",
  "images": [
-  {
-   "src": "2011-02-01-Curious_Urgency_44.jpg",
-   "alt": "Curious Urgency 44",
-   "title": "Curious Urgency 44"
-  }
+  "2011-02-01-Curious_Urgency_44.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-171/",
-  "next": "/eatshitanddie/eat-shit-and-die-172/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-171/",
-  "next": "/eatshitanddie/eat-shit-and-die-172/"
- },
- "commentCount": 2,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>I took advantage of the snow-day and made a comic.</p>",
  "comments": [
   {
    "id": 5582,
    "author": "Ed Dale",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/619b083b66eccf84c593803fa74e6c2f?s=64&d=identicon&r=r",
-   "time": "February 4, 2011 at 3:44 pm",
-   "timeTitle": "Friday, February 4th, 2011, 3:44 pm",
-   "html": "<p>I love the feeling of paranoia and disorientation in Curious Urgency.</p>"
+   "date": "2011-02-04T15:44",
+   "avatar": "619b083b66eccf84c593803fa74e6c2f",
+   "text": "<p>I love the feeling of paranoia and disorientation in Curious Urgency.</p>"
   },
   {
    "id": 6222,
    "author": "cooper",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/49ce5d7aeebbea7553ebdf243905a52f?s=64&d=identicon&r=r",
-   "time": "March 19, 2011 at 5:32 pm",
-   "timeTitle": "Saturday, March 19th, 2011, 5:32 pm",
-   "html": "<p>Gawd, I&#8217;ve felt exactly this paranoid at a party before.  I think I&#8217;ma panic just reading it.</p>"
+   "date": "2011-03-19T17:32",
+   "avatar": "49ce5d7aeebbea7553ebdf243905a52f",
+   "text": "<p>Gawd, I&#8217;ve felt exactly this paranoid at a party before.  I think I&#8217;ma panic just reading it.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 44",
-  "bodyClass": "post-template-default single single-post postid-604 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 44",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-02-01-Curious_Urgency_44.jpg"
- }
+ ]
 }

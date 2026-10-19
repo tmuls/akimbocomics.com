@@ -1,106 +1,54 @@
 {
- "path": "/washday/wash-day-18/",
- "series": "washday",
- "slug": "wash-day-18",
- "id": 316,
  "title": "Wash Day 18",
  "author": "emulsifier",
- "date": "January 20, 2009",
- "time": "12:00 am",
- "datetime": "2009-01-20T00:00:00",
- "categories": [
-  {
-   "title": "Wash Day",
-   "href": "/washday/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-316 post type-post status-publish format-standard hentry category-washday uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2009-01-20T00:00",
  "images": [
-  {
-   "src": "2009-01-20-Wash_Day_18.jpg",
-   "alt": "Wash Day 18",
-   "title": "Wash Day 18"
-  }
+  "2009-01-20-Wash_Day_18.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/washday/wash-day-17/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-23/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/washday/wash-day-17/",
-  "next": "/mannssearchformeenie/manns-search-for-meenie-23/"
- },
- "commentCount": 6,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 2,
    "author": "emulsifier",
+   "date": "2009-05-28T23:18",
    "url": "/",
-   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
-   "time": "May 28, 2009 at 11:18 pm",
-   "timeTitle": "Thursday, May 28th, 2009, 11:18 pm",
-   "html": "<p>Wash day has always been one of my favorites, Brian rules.</p>",
-   "byAuthor": "emulsifier"
+   "avatar": "cd7434b888539623dcbb7ea85f17b601",
+   "text": "<p>Wash day has always been one of my favorites, Brian rules.</p>"
   },
   {
    "id": 5234,
    "author": "Soe",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/6f8efbf5b9f22efa679128db99c36d0f?s=64&d=identicon&r=r",
-   "time": "January 10, 2011 at 12:52 am",
-   "timeTitle": "Monday, January 10th, 2011, 12:52 am",
-   "html": "<p>sick!</p>"
+   "date": "2011-01-10T00:52",
+   "avatar": "6f8efbf5b9f22efa679128db99c36d0f",
+   "text": "<p>sick!</p>"
   },
   {
    "id": 5467,
    "author": "Hakim",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/58818eb8b4e87c8b7ea9daafe0afa2a7?s=64&d=identicon&r=r",
-   "time": "January 25, 2011 at 3:01 pm",
-   "timeTitle": "Tuesday, January 25th, 2011, 3:01 pm",
-   "html": "<p>GREAT!</p>"
+   "date": "2011-01-25T15:01",
+   "avatar": "58818eb8b4e87c8b7ea9daafe0afa2a7",
+   "text": "<p>GREAT!</p>"
   },
   {
    "id": 6451,
    "author": "Dylan",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e086f391f20b345dc9500986e1c04d31?s=64&d=identicon&r=r",
-   "time": "April 3, 2011 at 2:22 am",
-   "timeTitle": "Sunday, April 3rd, 2011, 2:22 am",
-   "html": "<p>nice. veeeery nice.</p>"
+   "date": "2011-04-03T02:22",
+   "avatar": "e086f391f20b345dc9500986e1c04d31",
+   "text": "<p>nice. veeeery nice.</p>"
   },
   {
    "id": 8822,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "July 16, 2011 at 8:03 pm",
-   "timeTitle": "Saturday, July 16th, 2011, 8:03 pm",
-   "html": "<p>I love this story, as far as it can be loved &#8230;. well you know what I mean.</p>"
+   "date": "2011-07-16T20:03",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>I love this story, as far as it can be loved &#8230;. well you know what I mean.</p>"
   },
   {
    "id": 44285,
    "author": "Contraculto",
+   "date": "2012-01-10T12:45",
    "url": "http://contraculto.com",
-   "avatar": "http://2.gravatar.com/avatar/ea743a8837988364b10058daf32a00da?s=64&d=identicon&r=r",
-   "time": "January 10, 2012 at 12:45 pm",
-   "timeTitle": "Tuesday, January 10th, 2012, 12:45 pm",
-   "html": "<p>Amazing work, like everything in here. Really great.</p>"
+   "avatar": "ea743a8837988364b10058daf32a00da",
+   "text": "<p>Amazing work, like everything in here. Really great.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Wash Day 18",
-  "bodyClass": "post-template-default single single-post postid-316 single-format-standard user-guest comic unknown single-category-washday single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Wash Day 18",
-  "ogDescription": "",
-  "ogImage": "//comic/2009-01-20-Wash_Day_18.jpg"
- }
+ ]
 }

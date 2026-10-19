@@ -1,96 +1,47 @@
 {
- "path": "/curiousurgency/curious-urgency-51/",
- "series": "curiousurgency",
- "slug": "curious-urgency-51",
- "id": 692,
  "title": "Curious Urgency 51",
  "author": "bpatrick",
- "date": "August 15, 2011",
- "time": "12:00 am",
- "datetime": "2011-08-15T00:00:00",
- "categories": [
-  {
-   "title": "Curious Urgency",
-   "href": "/curiousurgency/"
-  }
- ],
- "tags": [],
- "html": "<p>Summer of comics comes to a close. We&#8217;ll see how my schedule pans out but I plan on updating at least once a week. Meanwhile, here&#8217;s some more Sheriff Chuck!</p>",
- "postClass": "post-692 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
- "type": "comic",
+ "date": "2011-08-15T00:00",
  "images": [
-  {
-   "src": "2011-08-15-Curious_Urgency_51.jpg",
-   "alt": "Curious Urgency 51",
-   "title": "Curious Urgency 51"
-  }
+  "2011-08-15-Curious_Urgency_51.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-195/",
-  "next": "/eatshitanddie/eat-shit-and-die-196/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-195/",
-  "next": "/eatshitanddie/eat-shit-and-die-196/"
- },
- "commentCount": 5,
- "commentsOpen": true,
- "commentPages": 1,
+ "body": "<p>Summer of comics comes to a close. We&#8217;ll see how my schedule pans out but I plan on updating at least once a week. Meanwhile, here&#8217;s some more Sheriff Chuck!</p>",
  "comments": [
   {
    "id": 9116,
    "author": "steve",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/b43ced333b790d6f06b19dc18f7ace5c?s=64&d=identicon&r=r",
-   "time": "August 18, 2011 at 9:39 pm",
-   "timeTitle": "Thursday, August 18th, 2011, 9:39 pm",
-   "html": "<p>I can&#8217;t wait to see what you have in store for this comic.  Thanks for keeping them coming!</p>"
+   "date": "2011-08-18T21:39",
+   "avatar": "b43ced333b790d6f06b19dc18f7ace5c",
+   "text": "<p>I can&#8217;t wait to see what you have in store for this comic.  Thanks for keeping them coming!</p>"
   },
   {
    "id": 9133,
    "author": "T52",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/89a2e462c57daec8da3df98f3c614264?s=64&d=identicon&r=r",
-   "time": "August 20, 2011 at 7:37 pm",
-   "timeTitle": "Saturday, August 20th, 2011, 7:37 pm",
-   "html": "<p>Yay! Curious Urgency is my favorite! (Also, what&#8217;s going on with the guy in the bottom left of panel 7? Being savaged by a giant clam? Impractical radio helmet?) Love the amount of detail you put into your backgrounds.</p>"
+   "date": "2011-08-20T19:37",
+   "avatar": "89a2e462c57daec8da3df98f3c614264",
+   "text": "<p>Yay! Curious Urgency is my favorite! (Also, what&#8217;s going on with the guy in the bottom left of panel 7? Being savaged by a giant clam? Impractical radio helmet?) Love the amount of detail you put into your backgrounds.</p>"
   },
   {
    "id": 9173,
    "author": "krystalversion",
+   "date": "2011-08-24T11:49",
    "url": "http://krystalversion.tumblr.com",
-   "avatar": "http://2.gravatar.com/avatar/8538463510fd90ca7b5f2a5e0729d169?s=64&d=identicon&r=r",
-   "time": "August 24, 2011 at 11:49 am",
-   "timeTitle": "Wednesday, August 24th, 2011, 11:49 am",
-   "html": "<p>I just found your site today and it&#8217;s wonderful. I&#8217;m going through and reading all your comics.</p>"
+   "avatar": "8538463510fd90ca7b5f2a5e0729d169",
+   "text": "<p>I just found your site today and it&#8217;s wonderful. I&#8217;m going through and reading all your comics.</p>"
   },
   {
    "id": 9203,
    "author": "Jonny Paycheck",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
-   "time": "August 25, 2011 at 4:06 pm",
-   "timeTitle": "Thursday, August 25th, 2011, 4:06 pm",
-   "html": "<p>You should let us know what your favorite comic is. It&#8217;s rather dull while b hasn&#8217;t been uploading new ones, so I&#8217;ll take your favorite as a recommended re-read. Welcome to akimbocomics krystal.</p>"
+   "date": "2011-08-25T16:06",
+   "avatar": "9768d6e8daa6f7abb27f4dc8b21df34e",
+   "text": "<p>You should let us know what your favorite comic is. It&#8217;s rather dull while b hasn&#8217;t been uploading new ones, so I&#8217;ll take your favorite as a recommended re-read. Welcome to akimbocomics krystal.</p>"
   },
   {
    "id": 9531,
    "author": "Joshua",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/c2ee896d0722d6355909e1d6cda01488?s=64&d=identicon&r=r",
-   "time": "September 19, 2011 at 8:20 pm",
-   "timeTitle": "Monday, September 19th, 2011, 8:20 pm",
-   "html": "<p>I got linked through Subnormality, and I&#8217;m glad I was! I like a lot of your comics on here, especially ES&amp;D and this one! I&#8217;ll be checking back on here to see how some of your unfinished work gets tied up. Keep up the good work!</p>"
+   "date": "2011-09-19T20:20",
+   "avatar": "c2ee896d0722d6355909e1d6cda01488",
+   "text": "<p>I got linked through Subnormality, and I&#8217;m glad I was! I like a lot of your comics on here, especially ES&amp;D and this one! I&#8217;ll be checking back on here to see how some of your unfinished work gets tied up. Keep up the good work!</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 51",
-  "bodyClass": "post-template-default single single-post postid-692 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
-  "ogTitle": "Curious Urgency 51",
-  "ogDescription": "",
-  "ogImage": "//comic/2011-08-15-Curious_Urgency_51.jpg"
- }
+ ]
 }

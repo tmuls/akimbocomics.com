@@ -1,50 +1,8 @@
 {
- "path": "/bobandbob/bob-and-bob-3/",
- "series": "bobandbob",
- "slug": "bob-and-bob-3",
- "id": 11,
  "title": "Bob And Bob 3",
  "author": "emulsifier",
- "date": "April 20, 2008",
- "time": "12:00 am",
- "datetime": "2008-04-20T00:00:00",
- "categories": [
-  {
-   "title": "Bob and Bob",
-   "href": "/bobandbob/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-11 post type-post status-publish format-standard hentry category-bobandbob uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-04-20T00:00",
  "images": [
-  {
-   "src": "2008-04-20-Bob_And_Bob_3.jpg",
-   "alt": "Bob And Bob 3",
-   "title": "Bob And Bob 3"
-  }
- ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/bobandbob/bob-and-bob-2/",
-  "next": "/bobandbob/bob-and-bob-4/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/bobandbob/bob-and-bob-2/",
-  "next": "/bobandbob/bob-and-bob-4/"
- },
- "commentCount": null,
- "commentsOpen": true,
- "commentPages": 1,
- "comments": [],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob And Bob 3",
-  "bodyClass": "post-template-default single single-post postid-11 single-format-standard user-guest comic unknown single-category-bobandbob single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Bob And Bob 3",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-04-20-Bob_And_Bob_3.jpg"
- }
+  "2008-04-20-Bob_And_Bob_3.jpg"
+ ]
 }

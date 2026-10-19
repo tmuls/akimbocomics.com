@@ -1,87 +1,38 @@
 {
- "path": "/imsureidontknow/im-sure-i-dont-know-10/",
- "series": "imsureidontknow",
- "slug": "im-sure-i-dont-know-10",
- "id": 234,
  "title": "Im Sure I Dont Know 10",
  "author": "emulsifier",
- "date": "November 3, 2008",
- "time": "12:00 am",
- "datetime": "2008-11-03T00:00:00",
- "categories": [
-  {
-   "title": "I'm sure I don't know",
-   "href": "/imsureidontknow/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-234 post type-post status-publish format-standard hentry category-imsureidontknow uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-11-03T00:00",
  "images": [
-  {
-   "src": "2008-11-03-Im_Sure_I_Dont_Know_10.jpg",
-   "alt": "Im Sure I Dont Know 10",
-   "title": "Im Sure I Dont Know 10"
-  }
+  "2008-11-03-Im_Sure_I_Dont_Know_10.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/imsureidontknow/im-sure-i-dont-know-9/",
-  "next": "/imsureidontknow/im-sure-i-dont-know-11/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/imsureidontknow/im-sure-i-dont-know-9/",
-  "next": "/imsureidontknow/im-sure-i-dont-know-11/"
- },
- "commentCount": 4,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 319,
    "author": "Kat!",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/5c74d78c3126e66d1fa91f88295349ce?s=64&d=identicon&r=r",
-   "time": "August 26, 2009 at 4:16 am",
-   "timeTitle": "Wednesday, August 26th, 2009, 4:16 am",
-   "html": "<p>I stopped reading &#8220;Im Sure I Dont Know&#8221; around five.</p>\n<p>It was just boring.</p>"
+   "date": "2009-08-26T04:16",
+   "avatar": "5c74d78c3126e66d1fa91f88295349ce",
+   "text": "<p>I stopped reading &#8220;Im Sure I Dont Know&#8221; around five.</p>\n<p>It was just boring.</p>"
   },
   {
    "id": 1023,
    "author": "lev",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/e9d26e4f197d9e71dc90399f34c23795?s=64&d=identicon&r=r",
-   "time": "October 25, 2009 at 11:22 am",
-   "timeTitle": "Sunday, October 25th, 2009, 11:22 am",
-   "html": "<p>I disagree.  I&#8217;m interested; I&#8217;m still trying to figure out if he&#8217;s being self-deprecatory (comparing his comics to some sot taking a dump) or defending graphic novels in general.  It&#8217;s a fairly rare argument to defend one&#8217;s medium by observing that a medium further down the &#8220;scale&#8221; is also art.  Typically, snobbery is the only way to go.</p>"
+   "date": "2009-10-25T11:22",
+   "avatar": "e9d26e4f197d9e71dc90399f34c23795",
+   "text": "<p>I disagree.  I&#8217;m interested; I&#8217;m still trying to figure out if he&#8217;s being self-deprecatory (comparing his comics to some sot taking a dump) or defending graphic novels in general.  It&#8217;s a fairly rare argument to defend one&#8217;s medium by observing that a medium further down the &#8220;scale&#8221; is also art.  Typically, snobbery is the only way to go.</p>"
   },
   {
    "id": 8321,
    "author": "D",
-   "url": null,
-   "avatar": "http://2.gravatar.com/avatar/2d82038f6a23f0a483ffe27c5d1d0482?s=64&d=identicon&r=r",
-   "time": "June 23, 2011 at 9:11 pm",
-   "timeTitle": "Thursday, June 23rd, 2011, 9:11 pm",
-   "html": "<p>I disagree, too. This story is a really radical statement, plus the continuous switching of contexts and dialogue partners gives it a lot of forward spin. I find it gripping.</p>"
+   "date": "2011-06-23T21:11",
+   "avatar": "2d82038f6a23f0a483ffe27c5d1d0482",
+   "text": "<p>I disagree, too. This story is a really radical statement, plus the continuous switching of contexts and dialogue partners gives it a lot of forward spin. I find it gripping.</p>"
   },
   {
    "id": 102138,
    "author": "clockwerkman",
-   "url": null,
-   "avatar": "http://1.gravatar.com/avatar/109381ce8000803a3007e8a96300b0ce?s=64&d=identicon&r=r",
-   "time": "September 20, 2012 at 8:31 pm",
-   "timeTitle": "Thursday, September 20th, 2012, 8:31 pm",
-   "html": "<p>I prefer prose myself.  Anything else&#8230; I just couldn&#8217;t give a shit.</p>"
+   "date": "2012-09-20T20:31",
+   "avatar": "109381ce8000803a3007e8a96300b0ce",
+   "text": "<p>I prefer prose myself.  Anything else&#8230; I just couldn&#8217;t give a shit.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Im Sure I Dont Know 10",
-  "bodyClass": "post-template-default single single-post postid-234 single-format-standard user-guest comic unknown single-category-imsureidontknow single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Im Sure I Dont Know 10",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-11-03-Im_Sure_I_Dont_Know_10.jpg"
- }
+ ]
 }

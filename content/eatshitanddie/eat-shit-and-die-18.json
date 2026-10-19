@@ -1,60 +1,17 @@
 {
- "path": "/eatshitanddie/eat-shit-and-die-18/",
- "series": "eatshitanddie",
- "slug": "eat-shit-and-die-18",
- "id": 98,
  "title": "Eat Shit And Die 18",
  "author": "emulsifier",
- "date": "July 10, 2008",
- "time": "12:00 am",
- "datetime": "2008-07-10T00:00:00",
- "categories": [
-  {
-   "title": "Eat Shit and Die",
-   "href": "/eatshitanddie/"
-  }
- ],
- "tags": [],
- "html": "",
- "postClass": "post-98 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
- "type": "comic",
+ "date": "2008-07-10T00:00",
  "images": [
-  {
-   "src": "2008-07-10-Eat_Shit_And_Die_18.jpg",
-   "alt": "Eat Shit And Die 18",
-   "title": "Eat Shit And Die 18"
-  }
+  "2008-07-10-Eat_Shit_And_Die_18.jpg"
  ],
- "nav": {
-  "first": "/eatshitanddie/eat-shit-die-309/",
-  "previous": "/eatshitanddie/eat-shit-and-die-17/",
-  "next": "/eatshitanddie/eat-shit-and-die-19/",
-  "last": "/eatshitanddie/eat-shit-die-309/"
- },
- "menuNav": {
-  "previous": "/eatshitanddie/eat-shit-and-die-17/",
-  "next": "/eatshitanddie/eat-shit-and-die-19/"
- },
- "commentCount": 1,
- "commentsOpen": true,
- "commentPages": 1,
  "comments": [
   {
    "id": 10509,
    "author": "Vi",
-   "url": null,
-   "avatar": "http://0.gravatar.com/avatar/0edfd51f2730d7839367438b65fd20bc?s=64&d=identicon&r=r",
-   "time": "October 22, 2011 at 11:35 am",
-   "timeTitle": "Saturday, October 22nd, 2011, 11:35 am",
-   "html": "<p>&#8230; I wasn&#8217;t aware of that either. Huh.</p>"
+   "date": "2011-10-22T11:35",
+   "avatar": "0edfd51f2730d7839367438b65fd20bc",
+   "text": "<p>&#8230; I wasn&#8217;t aware of that either. Huh.</p>"
   }
- ],
- "pingbacks": [],
- "head": {
-  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 18",
-  "bodyClass": "post-template-default single single-post postid-98 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
-  "ogTitle": "Eat Shit And Die 18",
-  "ogDescription": "",
-  "ogImage": "//comic/2008-07-10-Eat_Shit_And_Die_18.jpg"
- }
+ ]
 }
