@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-53/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-53",
+ "id": 152,
+ "title": "Eat Shit And Die 53",
+ "author": "emulsifier",
+ "date": "August 15, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-08-15T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-152 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-08-15-Eat_Shit_And_Die_53.jpg",
+   "alt": "Eat Shit And Die 53",
+   "title": "Eat Shit And Die 53"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-52/",
+  "next": "/eatshitanddie/eat-shit-and-die-54/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-52/",
+  "next": "/eatshitanddie/eat-shit-and-die-54/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 125344,
+   "author": "Adam S",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/93022fc1956e3c6f02faa44d7905cd72?s=64&d=identicon&r=r",
+   "time": "November 13, 2012 at 12:23 am",
+   "timeTitle": "Tuesday, November 13th, 2012, 12:23 am",
+   "html": "<p>hilarious</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 53",
+  "bodyClass": "post-template-default single single-post postid-152 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 53",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-08-15-Eat_Shit_And_Die_53.jpg"
+ }
+}

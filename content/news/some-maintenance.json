@@ -1,0 +1,38 @@
+{
+ "path": "/news/some-maintenance/",
+ "series": "news",
+ "slug": "some-maintenance",
+ "id": 607,
+ "title": "Some maintenance",
+ "author": "emulsifier",
+ "date": "February 16, 2011",
+ "time": "4:17 pm",
+ "datetime": "2011-02-16T16:17:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Site will be up and down over the next hour or so.</p>",
+ "postClass": "post-607 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/dumbass-server/",
+  "next": "/news/alternate-ending-to-esd-174/"
+ },
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Some maintenance",
+  "bodyClass": "post-template-default single single-post postid-607 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Some maintenance",
+  "ogDescription": ""
+ }
+}

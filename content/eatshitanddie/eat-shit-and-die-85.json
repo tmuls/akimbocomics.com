@@ -1,0 +1,83 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-85/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-85",
+ "id": 185,
+ "title": "Eat Shit And Die 85",
+ "author": "emulsifier",
+ "date": "September 16, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-09-16T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "lil bastards",
+   "href": "/tag/lil-bastards/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-185 post type-post status-publish format-standard hentry category-eatshitanddie tag-lil-bastards uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-09-16-Eat_Shit_And_Die_85.jpg",
+   "alt": "Eat Shit And Die 85",
+   "title": "Eat Shit And Die 85"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-84/",
+  "next": "/eatshitanddie/eat-shit-and-die-86/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-84/",
+  "next": "/eatshitanddie/eat-shit-and-die-86/"
+ },
+ "commentCount": 3,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1020,
+   "author": "lev",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/e9d26e4f197d9e71dc90399f34c23795?s=64&d=identicon&r=r",
+   "time": "October 25, 2009 at 10:43 am",
+   "timeTitle": "Sunday, October 25th, 2009, 10:43 am",
+   "html": "<p>YEAH!</p>"
+  },
+  {
+   "id": 9483,
+   "author": "TentacledBeast",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/d84b801cf777a9326682fb905d59a81f?s=64&d=identicon&r=r",
+   "time": "September 17, 2011 at 4:13 pm",
+   "timeTitle": "Saturday, September 17th, 2011, 4:13 pm",
+   "html": "<p>The dollhouse suddenly disappeared&#8230;</p>"
+  },
+  {
+   "id": 28986,
+   "author": "gian",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/8440d6f827d505fea938bc5a100de61a?s=64&d=identicon&r=r",
+   "time": "December 22, 2011 at 4:10 pm",
+   "timeTitle": "Thursday, December 22nd, 2011, 4:10 pm",
+   "html": "<p>Of course the dollhouse suddenly disappeared- its disappearance is a metaphor for unnecessary attention to detail.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 85",
+  "bodyClass": "post-template-default single single-post postid-185 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 85",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-09-16-Eat_Shit_And_Die_85.jpg"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "path": "/mannssearchformeenie/manns-search-for-meenie-22/",
+ "series": "mannssearchformeenie",
+ "slug": "manns-search-for-meenie-22",
+ "id": 260,
+ "title": "Manns Search For Meenie 22",
+ "author": "emulsifier",
+ "date": "November 27, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-11-27T00:00:00",
+ "categories": [
+  {
+   "title": "Manns search for Meenie",
+   "href": "/mannssearchformeenie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-260 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-11-27-Manns_Search_For_Meenie_22.jpg",
+   "alt": "Manns Search For Meenie 22",
+   "title": "Manns Search For Meenie 22"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/mannssearchformeenie/manns-search-for-meenie-21/",
+  "next": "/my_boyfriend_smells/my-boyfriend-smells-1/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/mannssearchformeenie/manns-search-for-meenie-21/",
+  "next": "/my_boyfriend_smells/my-boyfriend-smells-1/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1026,
+   "author": "lev",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/e9d26e4f197d9e71dc90399f34c23795?s=64&d=identicon&r=r",
+   "time": "October 25, 2009 at 12:41 pm",
+   "timeTitle": "Sunday, October 25th, 2009, 12:41 pm",
+   "html": "<p>Well, that changed direction rather abruptly.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 22",
+  "bodyClass": "post-template-default single single-post postid-260 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Manns Search For Meenie 22",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-11-27-Manns_Search_For_Meenie_22.jpg"
+ }
+}

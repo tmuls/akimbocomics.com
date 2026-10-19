@@ -1,0 +1,69 @@
+{
+ "path": "/curiousurgency/curious-urgency-31/",
+ "series": "curiousurgency",
+ "slug": "curious-urgency-31",
+ "id": 435,
+ "title": "Curious Urgency 31",
+ "author": "bpatrick",
+ "date": "July 25, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-07-25T00:00:00",
+ "categories": [
+  {
+   "title": "Curious Urgency",
+   "href": "/curiousurgency/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>I hate to say it but if I never did any color comics I could almost maintain a daily update schedule.</p>",
+ "postClass": "post-435 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-07-25-Curious_Urgency_31.jpg",
+   "alt": "Curious Urgency 31",
+   "title": "Curious Urgency 31"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-139/",
+  "next": "/curiousurgency/curious-urgency-32/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-139/",
+  "next": "/curiousurgency/curious-urgency-32/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 129,
+   "author": "b.patrick",
+   "url": "/",
+   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
+   "time": "July 25, 2009 at 7:58 am",
+   "timeTitle": "Saturday, July 25th, 2009, 7:58 am",
+   "html": "<p>This one&#8217;s for you, MyBoggy.</p>"
+  },
+  {
+   "id": 132,
+   "author": "MyBoggy",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/e79a0e3553cfc901271eadb0f243f9f0?s=64&d=identicon&r=r",
+   "time": "July 25, 2009 at 3:34 pm",
+   "timeTitle": "Saturday, July 25th, 2009, 3:34 pm",
+   "html": "<p>I&#8217;m so happy &#8212; he has bugs in his brain!</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 31",
+  "bodyClass": "post-template-default single single-post postid-435 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Curious Urgency 31",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-07-25-Curious_Urgency_31.jpg"
+ }
+}

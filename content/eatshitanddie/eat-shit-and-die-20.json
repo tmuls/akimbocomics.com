@@ -1,0 +1,74 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-20/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-20",
+ "id": 109,
+ "title": "Eat Shit And Die 20",
+ "author": "emulsifier",
+ "date": "July 12, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-07-12T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "lil bastards",
+   "href": "/tag/lil-bastards/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-109 post type-post status-publish format-standard hentry category-eatshitanddie tag-lil-bastards uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-07-12-Eat_Shit_And_Die_20.jpg",
+   "alt": "Eat Shit And Die 20",
+   "title": "Eat Shit And Die 20"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-19/",
+  "next": "/eatshitanddie/eat-shit-and-die-21/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-19/",
+  "next": "/eatshitanddie/eat-shit-and-die-21/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 3524,
+   "author": "MrSmith",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/455f1faceb6a5b72b126dad3a2d405c2?s=64&d=identicon&r=r",
+   "time": "July 26, 2010 at 5:03 am",
+   "timeTitle": "Monday, July 26th, 2010, 5:03 am",
+   "html": "<p>That&#8217;s not funny, that&#8217;s my life.</p>"
+  },
+  {
+   "id": 3525,
+   "author": "MrSmith",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/455f1faceb6a5b72b126dad3a2d405c2?s=64&d=identicon&r=r",
+   "time": "July 26, 2010 at 5:03 am",
+   "timeTitle": "Monday, July 26th, 2010, 5:03 am",
+   "html": "<p>(just kidding i love it)</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 20",
+  "bodyClass": "post-template-default single single-post postid-109 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 20",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-07-12-Eat_Shit_And_Die_20.jpg"
+ }
+}

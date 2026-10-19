@@ -1,0 +1,50 @@
+{
+ "path": "/strangeadmission/strange-admission-8/",
+ "series": "strangeadmission",
+ "slug": "strange-admission-8",
+ "id": 280,
+ "title": "Strange Admission 8",
+ "author": "emulsifier",
+ "date": "December 15, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-12-15T00:00:00",
+ "categories": [
+  {
+   "title": "Strange Admission",
+   "href": "/strangeadmission/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-280 post type-post status-publish format-standard hentry category-strangeadmission uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-12-15-Strange_Admission_8.jpg",
+   "alt": "Strange Admission 8",
+   "title": "Strange Admission 8"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/strangeadmission/strange-admission-7/",
+  "next": "/strangeadmission/strange-admission-9/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/strangeadmission/strange-admission-7/",
+  "next": "/strangeadmission/strange-admission-9/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Strange Admission 8",
+  "bodyClass": "post-template-default single single-post postid-280 single-format-standard user-guest comic unknown single-category-strangeadmission single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Strange Admission 8",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-12-15-Strange_Admission_8.jpg"
+ }
+}

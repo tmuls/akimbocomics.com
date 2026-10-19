@@ -1,0 +1,38 @@
+{
+ "path": "/news/follow-us-on-twitter/",
+ "series": "news",
+ "slug": "follow-us-on-twitter",
+ "id": 373,
+ "title": "Follow us on twitter",
+ "author": "emulsifier",
+ "date": "June 4, 2009",
+ "time": "6:30 pm",
+ "datetime": "2009-06-04T18:30:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Make sure you check us out on twitter, use the link in the navigation above, or just go <a href=\"http://www.twitter.com/akimbocomics\" target=\"_blank\">here</a></p>",
+ "postClass": "post-373 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/old-links/",
+  "next": "/news/downtime/"
+ },
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Follow us on twitter",
+  "bodyClass": "post-template-default single single-post postid-373 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Follow us on twitter",
+  "ogDescription": ""
+ }
+}

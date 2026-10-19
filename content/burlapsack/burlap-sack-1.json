@@ -1,0 +1,60 @@
+{
+ "path": "/burlapsack/burlap-sack-1/",
+ "series": "burlapsack",
+ "slug": "burlap-sack-1",
+ "id": 31,
+ "title": "Burlap Sack 1",
+ "author": "emulsifier",
+ "date": "May 6, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-05-06T00:00:00",
+ "categories": [
+  {
+   "title": "Burlap Sack",
+   "href": "/burlapsack/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-31 post type-post status-publish format-standard hentry category-burlapsack uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-05-06-Burlap_Sack_1.jpg",
+   "alt": "Burlap Sack 1",
+   "title": "Burlap Sack 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/bobandbob/bob-and-bob-18/",
+  "next": "/camillabarnes/camilla-barnes-1/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/bobandbob/bob-and-bob-18/",
+  "next": "/camillabarnes/camilla-barnes-1/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 5282,
+   "author": "D",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/bd871834f9fab6d8a7feb8674ad42785?s=64&d=identicon&r=r",
+   "time": "January 14, 2011 at 11:50 pm",
+   "timeTitle": "Friday, January 14th, 2011, 11:50 pm",
+   "html": "<p>fucking gonzo comics yeah!</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Burlap Sack 1",
+  "bodyClass": "post-template-default single single-post postid-31 single-format-standard user-guest comic unknown single-category-burlapsack single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Burlap Sack 1",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-05-06-Burlap_Sack_1.jpg"
+ }
+}

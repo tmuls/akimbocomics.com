@@ -1,0 +1,50 @@
+{
+ "path": "/curiousurgency/curious-urgency-35/",
+ "series": "curiousurgency",
+ "slug": "curious-urgency-35",
+ "id": 519,
+ "title": "Curious Urgency 35",
+ "author": "bpatrick",
+ "date": "February 10, 2010",
+ "time": "12:00 am",
+ "datetime": "2010-02-10T00:00:00",
+ "categories": [
+  {
+   "title": "Curious Urgency",
+   "href": "/curiousurgency/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>A little mid-week Curious Urgency.</p>",
+ "postClass": "post-519 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2010-02-10-Curious_Urgency_35.jpg",
+   "alt": "Curious Urgency 35",
+   "title": "Curious Urgency 35"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-153/",
+  "next": "/curiousurgency/curious-urgency-36/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-153/",
+  "next": "/curiousurgency/curious-urgency-36/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 35",
+  "bodyClass": "post-template-default single single-post postid-519 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Curious Urgency 35",
+  "ogDescription": "",
+  "ogImage": "//comic/2010-02-10-Curious_Urgency_35.jpg"
+ }
+}

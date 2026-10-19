@@ -1,0 +1,69 @@
+{
+ "path": "/badhairday/bad-hair-day-2/",
+ "series": "badhairday",
+ "slug": "bad-hair-day-2",
+ "id": 5,
+ "title": "Bad Hair Day 2",
+ "author": "emulsifier",
+ "date": "April 16, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-04-16T00:00:00",
+ "categories": [
+  {
+   "title": "Bad Hair Day",
+   "href": "/badhairday/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Bad Hair Day #2</p>",
+ "postClass": "post-5 post type-post status-publish format-standard hentry category-badhairday uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-04-16-Bad_Hair_Day_2.jpg",
+   "alt": "Bad Hair Day 2",
+   "title": "Bad Hair Day 2"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/badhairday/bad-hair-day-1/",
+  "next": "/bellyofthefish/belly-of-the-fish-1/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/badhairday/bad-hair-day-1/",
+  "next": "/bellyofthefish/belly-of-the-fish-1/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 52,
+   "author": "Aphex",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/7e59c630d8561dca1f943d9a8d59855d?s=64&d=identicon&r=r",
+   "time": "July 12, 2009 at 6:59 pm",
+   "timeTitle": "Sunday, July 12th, 2009, 6:59 pm",
+   "html": "<p>One of my fav comics. &lt;3 the atmosphere and colors in it.</p>\n<p>Has some kind of detective feel to it. Don&#8217;t know why.</p>"
+  },
+  {
+   "id": 679260,
+   "author": "JayJay",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/745f4f0fc751a1d0624de4f2fe68a2cd?s=64&d=identicon&r=r",
+   "time": "September 13, 2014 at 7:54 am",
+   "timeTitle": "Saturday, September 13th, 2014, 7:54 am",
+   "html": "<p>Very good comic.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bad Hair Day 2",
+  "bodyClass": "post-template-default single single-post postid-5 single-format-standard user-guest comic unknown single-category-badhairday single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Bad Hair Day 2",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-04-16-Bad_Hair_Day_2.jpg"
+ }
+}

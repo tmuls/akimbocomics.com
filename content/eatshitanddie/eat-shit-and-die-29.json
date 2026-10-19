@@ -1,0 +1,69 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-29/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-29",
+ "id": 111,
+ "title": "Eat Shit And Die 29",
+ "author": "emulsifier",
+ "date": "July 21, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-07-21T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-111 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-07-21-Eat_Shit_And_Die_29.jpg",
+   "alt": "Eat Shit And Die 29",
+   "title": "Eat Shit And Die 29"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-28/",
+  "next": "/eatshitanddie/eat-shit-and-die-30/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-28/",
+  "next": "/eatshitanddie/eat-shit-and-die-30/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 90754,
+   "author": "tempeanthalia",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/6f65a84b563ef16aaefdd695dcef395c?s=64&d=identicon&r=r",
+   "time": "July 17, 2012 at 3:30 pm",
+   "timeTitle": "Tuesday, July 17th, 2012, 3:30 pm",
+   "html": "<p>Haha, I think everyone has days where this seems totally rational.</p>\n<p>Also, what does his book say? I can&#8217;t quite make it out.</p>"
+  },
+  {
+   "id": 188111,
+   "author": "Dead Man",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/0c58f771fea62352e2eee498c0b2c4ec?s=64&d=identicon&r=r",
+   "time": "February 13, 2013 at 12:31 pm",
+   "timeTitle": "Wednesday, February 13th, 2013, 12:31 pm",
+   "html": "<p>I struggled, but I&#8217;m pretty sure the book is Against the Day by Thomas Pynchon.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 29",
+  "bodyClass": "post-template-default single single-post postid-111 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 29",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-07-21-Eat_Shit_And_Die_29.jpg"
+ }
+}

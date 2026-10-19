@@ -1,0 +1,60 @@
+{
+ "path": "/covergallery/cover-gallery-12/",
+ "series": "covergallery",
+ "slug": "cover-gallery-12",
+ "id": 48,
+ "title": "Cover Gallery 12",
+ "author": "emulsifier",
+ "date": "May 23, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-05-23T00:00:00",
+ "categories": [
+  {
+   "title": "Cover Gallery",
+   "href": "/covergallery/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-48 post type-post status-publish format-standard hentry category-covergallery uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-05-23-Cover_Gallery_12.jpg",
+   "alt": "Cover Gallery 12",
+   "title": "Cover Gallery 12"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/covergallery/cover-gallery-11/",
+  "next": "/covergallery/cover-gallery-13/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/covergallery/cover-gallery-11/",
+  "next": "/covergallery/cover-gallery-13/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 615576,
+   "author": "Zimriel",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/3ae5810c0497429e93ec67398dcb8556?s=64&d=identicon&r=r",
+   "time": "August 12, 2014 at 3:04 am",
+   "timeTitle": "Tuesday, August 12th, 2014, 3:04 am",
+   "html": "<p>YES. Moar Morrissey</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Cover Gallery 12",
+  "bodyClass": "post-template-default single single-post postid-48 single-format-standard user-guest comic unknown single-category-covergallery single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Cover Gallery 12",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-05-23-Cover_Gallery_12.jpg"
+ }
+}

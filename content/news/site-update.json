@@ -1,0 +1,38 @@
+{
+ "path": "/news/site-update/",
+ "series": "news",
+ "slug": "site-update",
+ "id": 447,
+ "title": "Site update",
+ "author": "emulsifier",
+ "date": "August 12, 2009",
+ "time": "4:27 pm",
+ "datetime": "2009-08-12T16:27:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>The recent downtime (about 10 minutes worth) was intentional for site updates.  Site is back up and going strong.  Please report any issues by commenting in this thread.</p>",
+ "postClass": "post-447 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/reddited/",
+  "next": "/news/redditted/"
+ },
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Site update",
+  "bodyClass": "post-template-default single single-post postid-447 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Site update",
+  "ogDescription": ""
+ }
+}

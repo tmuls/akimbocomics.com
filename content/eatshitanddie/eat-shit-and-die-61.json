@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-61/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-61",
+ "id": 160,
+ "title": "Eat Shit And Die 61",
+ "author": "emulsifier",
+ "date": "August 23, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-08-23T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-160 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-08-23-Eat_Shit_And_Die_61.jpg",
+   "alt": "Eat Shit And Die 61",
+   "title": "Eat Shit And Die 61"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-60/",
+  "next": "/eatshitanddie/eat-shit-and-die-62/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-60/",
+  "next": "/eatshitanddie/eat-shit-and-die-62/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 93145,
+   "author": "Maximilian",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/4ccbb295857a43ee3d94a2c58bcd2b74?s=64&d=identicon&r=r",
+   "time": "August 10, 2012 at 2:48 pm",
+   "timeTitle": "Friday, August 10th, 2012, 2:48 pm",
+   "html": "<p>awesome, awesome, awesome!</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 61",
+  "bodyClass": "post-template-default single single-post postid-160 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 61",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-08-23-Eat_Shit_And_Die_61.jpg"
+ }
+}

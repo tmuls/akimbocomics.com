@@ -1,0 +1,55 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-11/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-11",
+ "id": 133,
+ "title": "Eat Shit And Die 11",
+ "author": "emulsifier",
+ "date": "July 3, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-07-03T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "burly guy",
+   "href": "/tag/burly-guy/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-133 post type-post status-publish format-standard hentry category-eatshitanddie tag-burly-guy uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-07-03-Eat_Shit_And_Die_11.jpg",
+   "alt": "Eat Shit And Die 11",
+   "title": "Eat Shit And Die 11"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-10/",
+  "next": "/eatshitanddie/eat-shit-and-die-12/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-10/",
+  "next": "/eatshitanddie/eat-shit-and-die-12/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 11",
+  "bodyClass": "post-template-default single single-post postid-133 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 11",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-07-03-Eat_Shit_And_Die_11.jpg"
+ }
+}

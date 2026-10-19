@@ -1,0 +1,37 @@
+{
+ "path": "/news/you-should-totally-write-me/",
+ "series": "news",
+ "slug": "you-should-totally-write-me",
+ "id": 1208,
+ "title": "You Should Totally Write Me",
+ "author": "bpatrick",
+ "date": "January 7, 2018",
+ "time": "12:17 am",
+ "datetime": "2018-01-07T00:17:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>I am terrible at replying but I love getting messages, which makes me a terrible person. Nevertheless&#8230;<br />\nakimbocomix@hotmail.com (I know, hotmail.)</p>",
+ "postClass": "post-1208 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-bpatrick",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/i-have-a-patreon-if-youre-interested/"
+ },
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - You Should Totally Write Me",
+  "bodyClass": "post-template-default single single-post postid-1208 single-format-standard user-guest noncomic unknown single-category-news single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "You Should Totally Write Me",
+  "ogDescription": ""
+ }
+}

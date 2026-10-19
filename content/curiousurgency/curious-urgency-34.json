@@ -1,0 +1,50 @@
+{
+ "path": "/curiousurgency/curious-urgency-34/",
+ "series": "curiousurgency",
+ "slug": "curious-urgency-34",
+ "id": 479,
+ "title": "Curious Urgency 34",
+ "author": "bpatrick",
+ "date": "December 22, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-12-22T00:00:00",
+ "categories": [
+  {
+   "title": "Curious Urgency",
+   "href": "/curiousurgency/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>New comic before Christmas. I should have time to crank a few while on a break from school.</p>",
+ "postClass": "post-479 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-12-22-Curious_Urgency_34.jpg",
+   "alt": "Curious Urgency 34",
+   "title": "Curious Urgency 34"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/curiousurgency/curious-urgency-33/",
+  "next": "/eatshitanddie/eat-shit-and-die-147/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/curiousurgency/curious-urgency-33/",
+  "next": "/eatshitanddie/eat-shit-and-die-147/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 34",
+  "bodyClass": "post-template-default single single-post postid-479 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Curious Urgency 34",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-12-22-Curious_Urgency_34.jpg"
+ }
+}

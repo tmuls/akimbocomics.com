@@ -1,0 +1,78 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-241/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-241",
+ "id": 986,
+ "title": "eat shit & die 241",
+ "author": "bpatrick",
+ "date": "January 17, 2015",
+ "time": "12:00 am",
+ "datetime": "2015-01-17T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-986 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2015-01-17-Eat_Shit_And_Die_241.jpg",
+   "alt": "eat shit & die 241",
+   "title": "eat shit & die 241"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-240/",
+  "next": "/eatshitanddie/eat-shit-and-die-241-2/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-240/",
+  "next": "/eatshitanddie/eat-shit-and-die-241-2/"
+ },
+ "commentCount": 3,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1005792,
+   "author": "Pascal",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/3797896545e6ba982d68351614015239?s=64&d=identicon&r=r",
+   "time": "January 19, 2015 at 11:13 am",
+   "timeTitle": "Monday, January 19th, 2015, 11:13 am",
+   "html": "<p>I like that new cartoony style !</p>"
+  },
+  {
+   "id": 1005923,
+   "author": "kevin",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/31b46b9e0c70314d83c7a68ae7389818?s=64&d=identicon&r=r",
+   "time": "January 19, 2015 at 2:10 pm",
+   "timeTitle": "Monday, January 19th, 2015, 2:10 pm",
+   "html": "<p>Those who can&#8217;t do, teach. Those who can&#8217;t teach, criticize. (or something).</p>\n<p>Therefore, I&#8217;m the perfect expert to critique this comic.</p>"
+  },
+  {
+   "id": 1009825,
+   "author": "Chuck Roast",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/abe7843b78ed07da37c44a52b885429a?s=64&d=identicon&r=r",
+   "time": "January 23, 2015 at 5:29 am",
+   "timeTitle": "Friday, January 23rd, 2015, 5:29 am",
+   "html": "<p>Looks like a couple of tweakers to me, but no piercings?</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 241",
+  "bodyClass": "post-template-default single single-post postid-986 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "eat shit & die 241",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2015-01-17-Eat_Shit_And_Die_241.jpg"
+ }
+}

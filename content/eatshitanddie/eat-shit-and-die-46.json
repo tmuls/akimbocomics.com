@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-46/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-46",
+ "id": 145,
+ "title": "Eat Shit And Die 46",
+ "author": "emulsifier",
+ "date": "August 8, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-08-08T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-145 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-08-08-Eat_Shit_And_Die_46.jpg",
+   "alt": "Eat Shit And Die 46",
+   "title": "Eat Shit And Die 46"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-45/",
+  "next": "/eatshitanddie/eat-shit-and-die-47/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-45/",
+  "next": "/eatshitanddie/eat-shit-and-die-47/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 17061,
+   "author": "volta",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/5268138c0595b28cac93a7757c3d5ceb?s=64&d=identicon&r=r",
+   "time": "November 27, 2011 at 3:46 pm",
+   "timeTitle": "Sunday, November 27th, 2011, 3:46 pm",
+   "html": "<p>Brilliant.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 46",
+  "bodyClass": "post-template-default single single-post postid-145 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 46",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-08-08-Eat_Shit_And_Die_46.jpg"
+ }
+}

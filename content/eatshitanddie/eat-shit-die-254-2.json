@@ -1,0 +1,54 @@
+{
+ "path": "/eatshitanddie/eat-shit-die-254-2/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-die-254-2",
+ "id": 1071,
+ "title": "eat, shit & die 254",
+ "author": "bpatrick",
+ "date": "May 27, 2017",
+ "time": "6:16 pm",
+ "datetime": "2017-05-27T18:16:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  },
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1071 post type-post status-publish format-standard hentry category-comics category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2017-05-27-Eat_Shit_And_Die_254.jpg",
+   "alt": "eat, shit & die 254",
+   "title": "eat, shit & die 254"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-die-254/",
+  "next": "/eatshitanddie/eat-shit-die-255/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-die-254/",
+  "next": "/eatshitanddie/eat-shit-die-255/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - eat, shit & die 254",
+  "bodyClass": "post-template-default single single-post postid-1071 single-format-standard user-guest comic unknown single-category-comics single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "eat, shit & die 254",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2017-05-27-Eat_Shit_And_Die_254.jpg"
+ }
+}

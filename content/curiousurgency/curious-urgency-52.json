@@ -1,0 +1,87 @@
+{
+ "path": "/curiousurgency/curious-urgency-52/",
+ "series": "curiousurgency",
+ "slug": "curious-urgency-52",
+ "id": 708,
+ "title": "Curious Urgency 52",
+ "author": "bpatrick",
+ "date": "December 4, 2011",
+ "time": "12:00 am",
+ "datetime": "2011-12-04T00:00:00",
+ "categories": [
+  {
+   "title": "Curious Urgency",
+   "href": "/curiousurgency/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-708 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2011-12-04-Curious_Urgency_52.jpg",
+   "alt": "Curious Urgency 52",
+   "title": "Curious Urgency 52"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-200/",
+  "next": "/eatshitanddie/eat-shit-and-die-201/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-200/",
+  "next": "/eatshitanddie/eat-shit-and-die-201/"
+ },
+ "commentCount": 4,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 20674,
+   "author": "Ben",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/9e98f79e23f9d0fddbb575826fb6b17a?s=64&d=identicon&r=r",
+   "time": "December 5, 2011 at 8:24 pm",
+   "timeTitle": "Monday, December 5th, 2011, 8:24 pm",
+   "html": "<p>New comic! =D</p>"
+  },
+  {
+   "id": 20710,
+   "author": "Jonny Paycheck",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/9768d6e8daa6f7abb27f4dc8b21df34e?s=64&d=identicon&r=r",
+   "time": "December 5, 2011 at 10:35 pm",
+   "timeTitle": "Monday, December 5th, 2011, 10:35 pm",
+   "html": "<p>Magnificent! Good to have you back b!</p>"
+  },
+  {
+   "id": 44421,
+   "author": "Contraculto",
+   "url": "http://contraculto.com",
+   "avatar": "http://2.gravatar.com/avatar/ea743a8837988364b10058daf32a00da?s=64&d=identicon&r=r",
+   "time": "January 10, 2012 at 3:56 pm",
+   "timeTitle": "Tuesday, January 10th, 2012, 3:56 pm",
+   "html": "<p>We need more of this, please. Lots more.</p>"
+  },
+  {
+   "id": 62940,
+   "author": "BoboB",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/0d8c8fc2beb94797c1d54275b37f5105?s=64&d=identicon&r=r",
+   "time": "February 22, 2012 at 5:26 pm",
+   "timeTitle": "Wednesday, February 22nd, 2012, 5:26 pm",
+   "html": "<p>I guffawed pretty heartily; the whole Betty and Veronica thing reminded me of Dan DeCarlo&#8217;s stuff on Humorama. Please finish the story one day, pleasepleaseplease.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 52",
+  "bodyClass": "post-template-default single single-post postid-708 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Curious Urgency 52",
+  "ogDescription": "",
+  "ogImage": "//comic/2011-12-04-Curious_Urgency_52.jpg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "path": "/comics/bonus-15-the-badness-1/",
+ "series": "comics",
+ "slug": "bonus-15-the-badness-1",
+ "id": 1142,
+ "title": "Bonus 15: The Badness 1",
+ "author": "bpatrick",
+ "date": "January 15, 2000",
+ "time": "3:21 pm",
+ "datetime": "2000-01-15T15:21:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1142 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2000-01-15-Badness_1.jpg",
+   "alt": "Bonus 15: The Badness 1",
+   "title": "Bonus 15: The Badness 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/comics/bonus-14-zeno-10/",
+  "next": "/comics/bonus-16-the-badness-2/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/comics/bonus-14-zeno-10/",
+  "next": "/comics/bonus-16-the-badness-2/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bonus 15: The Badness 1",
+  "bodyClass": "post-template-default single single-post postid-1142 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Bonus 15: The Badness 1",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2000-01-15-Badness_1.jpg"
+ }
+}

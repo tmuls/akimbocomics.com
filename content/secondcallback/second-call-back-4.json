@@ -1,0 +1,50 @@
+{
+ "path": "/secondcallback/second-call-back-4/",
+ "series": "secondcallback",
+ "slug": "second-call-back-4",
+ "id": 268,
+ "title": "Second Call Back 4",
+ "author": "emulsifier",
+ "date": "December 3, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-12-03T00:00:00",
+ "categories": [
+  {
+   "title": "Second Call Back",
+   "href": "/secondcallback/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-268 post type-post status-publish format-standard hentry category-secondcallback uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-12-03-Second_Call_Back_4.jpg",
+   "alt": "Second Call Back 4",
+   "title": "Second Call Back 4"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/secondcallback/second-call-back-3/",
+  "next": "/secondcallback/second-call-back-5/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/secondcallback/second-call-back-3/",
+  "next": "/secondcallback/second-call-back-5/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Second Call Back 4",
+  "bodyClass": "post-template-default single single-post postid-268 single-format-standard user-guest comic unknown single-category-secondcallback single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Second Call Back 4",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-12-03-Second_Call_Back_4.jpg"
+ }
+}

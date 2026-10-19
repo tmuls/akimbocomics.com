@@ -1,0 +1,50 @@
+{
+ "path": "/bobandbob/bob-and-bob-9/",
+ "series": "bobandbob",
+ "slug": "bob-and-bob-9",
+ "id": 19,
+ "title": "Bob And Bob 9",
+ "author": "emulsifier",
+ "date": "April 26, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-04-26T00:00:00",
+ "categories": [
+  {
+   "title": "Bob and Bob",
+   "href": "/bobandbob/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-19 post type-post status-publish format-standard hentry category-bobandbob uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-04-26-Bob_And_Bob_9.jpg",
+   "alt": "Bob And Bob 9",
+   "title": "Bob And Bob 9"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/bobandbob/bob-and-bob-8/",
+  "next": "/bobandbob/bob-and-bob-10/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/bobandbob/bob-and-bob-8/",
+  "next": "/bobandbob/bob-and-bob-10/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob And Bob 9",
+  "bodyClass": "post-template-default single single-post postid-19 single-format-standard user-guest comic unknown single-category-bobandbob single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Bob And Bob 9",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-04-26-Bob_And_Bob_9.jpg"
+ }
+}

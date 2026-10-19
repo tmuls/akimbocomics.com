@@ -1,0 +1,60 @@
+{
+ "path": "/washday/wash-day-11/",
+ "series": "washday",
+ "slug": "wash-day-11",
+ "id": 309,
+ "title": "Wash Day 11",
+ "author": "emulsifier",
+ "date": "January 13, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-01-13T00:00:00",
+ "categories": [
+  {
+   "title": "Wash Day",
+   "href": "/washday/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-309 post type-post status-publish format-standard hentry category-washday uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-01-13-Wash_Day_11.jpg",
+   "alt": "Wash Day 11",
+   "title": "Wash Day 11"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/washday/wash-day-10/",
+  "next": "/washday/wash-day-12/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/washday/wash-day-10/",
+  "next": "/washday/wash-day-12/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 108963,
+   "author": "Ambrosia",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/0833d8e37f94c98b039abb319763b279?s=64&d=identicon&r=r",
+   "time": "October 11, 2012 at 9:03 pm",
+   "timeTitle": "Thursday, October 11th, 2012, 9:03 pm",
+   "html": "<p>Tom is repulsive&#8230;.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Wash Day 11",
+  "bodyClass": "post-template-default single single-post postid-309 single-format-standard user-guest comic unknown single-category-washday single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Wash Day 11",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-01-13-Wash_Day_11.jpg"
+ }
+}

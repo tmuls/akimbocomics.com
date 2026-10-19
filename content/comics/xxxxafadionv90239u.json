@@ -1,0 +1,50 @@
+{
+ "path": "/comics/xxxxafadionv90239u/",
+ "series": "comics",
+ "slug": "xxxxafadionv90239u",
+ "id": 1386,
+ "title": "xxXXafadionv90239u",
+ "author": "bpatrick",
+ "date": "September 3, 2020",
+ "time": "6:49 pm",
+ "datetime": "2020-09-03T18:49:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Thanks to everyone still checking in and especially to those who&#8217;ve written asking how I am. I&#8217;m good! I&#8217;ve been busy and I&#8217;ve been meaning to get a new computer and keep thinking &#8220;I&#8217;ll update when I get the new computer&#8221; but then never do either. I always have stuff I&#8217;m working on but with enough time they all look like garbage and lost causes. In the meantime, here&#8217;s an crusty old <em>Curious</em>.</p>",
+ "postClass": "post-1386 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2020-09-03-Curious_Urgency_74.jpg",
+   "alt": "xxXXafadionv90239u",
+   "title": "xxXXafadionv90239u"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-die-308/",
+  "next": "/eatshitanddie/eat-shit-die-309/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-die-308/",
+  "next": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - xxXXafadionv90239u",
+  "bodyClass": "post-template-default single single-post postid-1386 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "xxXXafadionv90239u",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2020-09-03-Curious_Urgency_74.jpg"
+ }
+}

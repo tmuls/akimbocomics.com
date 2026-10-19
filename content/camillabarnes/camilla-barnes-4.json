@@ -1,0 +1,50 @@
+{
+ "path": "/camillabarnes/camilla-barnes-4/",
+ "series": "camillabarnes",
+ "slug": "camilla-barnes-4",
+ "id": 35,
+ "title": "Camilla Barnes 4",
+ "author": "emulsifier",
+ "date": "May 10, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-05-10T00:00:00",
+ "categories": [
+  {
+   "title": "Camilla Barnes",
+   "href": "/camillabarnes/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-35 post type-post status-publish format-standard hentry category-camillabarnes uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-05-10-Camilla_Barnes_4.jpg",
+   "alt": "Camilla Barnes 4",
+   "title": "Camilla Barnes 4"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/camillabarnes/camilla-barnes-3/",
+  "next": "/claustromania/claustromania-1/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/camillabarnes/camilla-barnes-3/",
+  "next": "/claustromania/claustromania-1/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Camilla Barnes 4",
+  "bodyClass": "post-template-default single single-post postid-35 single-format-standard user-guest comic unknown single-category-camillabarnes single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Camilla Barnes 4",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-05-10-Camilla_Barnes_4.jpg"
+ }
+}

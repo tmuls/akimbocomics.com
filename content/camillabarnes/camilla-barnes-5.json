@@ -1,0 +1,69 @@
+{
+ "path": "/camillabarnes/camilla-barnes-5/",
+ "series": "camillabarnes",
+ "slug": "camilla-barnes-5",
+ "id": 355,
+ "title": "Camilla Barnes 5",
+ "author": "bpatrick",
+ "date": "January 31, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-01-31T00:00:00",
+ "categories": [
+  {
+   "title": "Camilla Barnes",
+   "href": "/camillabarnes/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-355 post type-post status-publish format-standard hentry category-camillabarnes uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-01-31-Camilla_Barnes_5.jpg",
+   "alt": "Camilla Barnes 5",
+   "title": "Camilla Barnes 5"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/mannssearchformeenie/manns-search-for-meenie-24/",
+  "next": "/eatshitanddie/eat-shit-and-die-124/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/mannssearchformeenie/manns-search-for-meenie-24/",
+  "next": "/eatshitanddie/eat-shit-and-die-124/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 15,
+   "author": "Kelly Brown",
+   "url": "http://www.google.com",
+   "avatar": "http://0.gravatar.com/avatar/3a86b5a11f33b47c6facac307b8929c1?s=64&d=identicon&r=r",
+   "time": "June 13, 2009 at 3:12 am",
+   "timeTitle": "Saturday, June 13th, 2009, 3:12 am",
+   "html": "<p>Hi, great post thanks for posting. Information is useful!</p>"
+  },
+  {
+   "id": 8716,
+   "author": "David",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/8a65df25df1ffe98f37cc62fff607d3a?s=64&d=identicon&r=r",
+   "time": "July 8, 2011 at 11:36 pm",
+   "timeTitle": "Friday, July 8th, 2011, 11:36 pm",
+   "html": "<p>BAHAHAHAHAHAHAHA!</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Camilla Barnes 5",
+  "bodyClass": "post-template-default single single-post postid-355 single-format-standard user-guest comic unknown single-category-camillabarnes single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Camilla Barnes 5",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-01-31-Camilla_Barnes_5.jpg"
+ }
+}

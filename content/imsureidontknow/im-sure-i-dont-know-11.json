@@ -1,0 +1,69 @@
+{
+ "path": "/imsureidontknow/im-sure-i-dont-know-11/",
+ "series": "imsureidontknow",
+ "slug": "im-sure-i-dont-know-11",
+ "id": 236,
+ "title": "Im Sure I Dont Know 11",
+ "author": "emulsifier",
+ "date": "November 4, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-11-04T00:00:00",
+ "categories": [
+  {
+   "title": "I'm sure I don't know",
+   "href": "/imsureidontknow/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-236 post type-post status-publish format-standard hentry category-imsureidontknow uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-11-04-Im_Sure_I_Dont_Know_11.jpg",
+   "alt": "Im Sure I Dont Know 11",
+   "title": "Im Sure I Dont Know 11"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/imsureidontknow/im-sure-i-dont-know-10/",
+  "next": "/imsureidontknow/im-sure-i-dont-know-12/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/imsureidontknow/im-sure-i-dont-know-10/",
+  "next": "/imsureidontknow/im-sure-i-dont-know-12/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1024,
+   "author": "lev",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/e9d26e4f197d9e71dc90399f34c23795?s=64&d=identicon&r=r",
+   "time": "October 25, 2009 at 11:24 am",
+   "timeTitle": "Sunday, October 25th, 2009, 11:24 am",
+   "html": "<p>I guess he&#8217;s no slouch with prose, either.</p>"
+  },
+  {
+   "id": 173314,
+   "author": "jx167320",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/724e8fc8c2a1e5530404f7362569a971?s=64&d=identicon&r=r",
+   "time": "January 13, 2013 at 6:03 am",
+   "timeTitle": "Sunday, January 13th, 2013, 6:03 am",
+   "html": "<p>*your<br />\nDo I get a mixtape too?</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Im Sure I Dont Know 11",
+  "bodyClass": "post-template-default single single-post postid-236 single-format-standard user-guest comic unknown single-category-imsureidontknow single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Im Sure I Dont Know 11",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-11-04-Im_Sure_I_Dont_Know_11.jpg"
+ }
+}

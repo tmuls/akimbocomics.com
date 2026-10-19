@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-1/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-1",
+ "id": 81,
+ "title": "Eat Shit And Die 1",
+ "author": "emulsifier",
+ "date": "June 23, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-06-23T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-81 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-06-23-Eat_Shit_And_Die_1.jpg",
+   "alt": "Eat Shit And Die 1",
+   "title": "Eat Shit And Die 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/curiousurgency/curious-urgency-29/",
+  "next": "/eatshitanddie/eat-shit-and-die-2/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/curiousurgency/curious-urgency-29/",
+  "next": "/eatshitanddie/eat-shit-and-die-2/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 9089,
+   "author": "invertedquestionmark",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/6dfce43cde7a7c0c1f853ae8a36e73b8?s=64&d=identicon&r=r",
+   "time": "August 16, 2011 at 12:37 pm",
+   "timeTitle": "Tuesday, August 16th, 2011, 12:37 pm",
+   "html": "<p>For the record, today&#8217;s punks are becoming more and more involved with social and political issues instead of being apathetic and nihilistic.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 1",
+  "bodyClass": "post-template-default single single-post postid-81 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 1",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-06-23-Eat_Shit_And_Die_1.jpg"
+ }
+}

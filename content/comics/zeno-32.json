@@ -1,0 +1,50 @@
+{
+ "path": "/comics/zeno-32/",
+ "series": "comics",
+ "slug": "zeno-32",
+ "id": 1362,
+ "title": "Zeno 32",
+ "author": "bpatrick",
+ "date": "March 13, 2000",
+ "time": "6:29 pm",
+ "datetime": "2000-03-13T18:29:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1362 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2000-03-13-Zeno_32.jpg",
+   "alt": "Zeno 32",
+   "title": "Zeno 32"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/comics/zeno-31/",
+  "next": "/bobandbob/bob-and-bob-1-2/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/comics/zeno-31/",
+  "next": "/bobandbob/bob-and-bob-1-2/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Zeno 32",
+  "bodyClass": "post-template-default single single-post postid-1362 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Zeno 32",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2000-03-13-Zeno_32.jpg"
+ }
+}

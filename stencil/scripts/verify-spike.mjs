@@ -52,7 +52,10 @@ for (const page of pages) {
   const post = content.posts[page];
   if (post) {
     if (!html.includes(post.title.replace(/&/g, '&amp;'))) fail(page, 'post title missing');
-    if (post.image && !existsSync(join(WWW, post.image))) fail(page, `comic image ${post.image} not beside index.html`);
+    for (const img of post.images) {
+      const url = img.src.startsWith('/') ? img.src : page + img.src;
+      if (!existsSync(join(WWW, url))) fail(page, `comic image ${url} not copied`);
+    }
     for (const c of post.comments) if (!html.includes(`comment-${c.id}`)) fail(page, `comment ${c.id} missing`);
   }
 }

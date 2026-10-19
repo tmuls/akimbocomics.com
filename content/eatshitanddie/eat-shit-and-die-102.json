@@ -1,0 +1,50 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-102/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-102",
+ "id": 203,
+ "title": "Eat Shit And Die 102",
+ "author": "emulsifier",
+ "date": "October 3, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-10-03T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-203 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-10-03-Eat_Shit_And_Die_102.jpg",
+   "alt": "Eat Shit And Die 102",
+   "title": "Eat Shit And Die 102"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-101/",
+  "next": "/eatshitanddie/eat-shit-and-die-103/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-101/",
+  "next": "/eatshitanddie/eat-shit-and-die-103/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 102",
+  "bodyClass": "post-template-default single single-post postid-203 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 102",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-10-03-Eat_Shit_And_Die_102.jpg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "path": "/comics/the-badness-7/",
+ "series": "comics",
+ "slug": "the-badness-7",
+ "id": 1247,
+ "title": "The Badness 7",
+ "author": "bpatrick",
+ "date": "February 3, 2000",
+ "time": "3:23 am",
+ "datetime": "2000-02-03T03:23:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1247 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2000-02-03-The_Badness_7.jpg",
+   "alt": "The Badness 7",
+   "title": "The Badness 7"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/comics/the-badness-6/",
+  "next": "/comics/zeno-23/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/comics/the-badness-6/",
+  "next": "/comics/zeno-23/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - The Badness 7",
+  "bodyClass": "post-template-default single single-post postid-1247 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "The Badness 7",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2000-02-03-The_Badness_7.jpg"
+ }
+}

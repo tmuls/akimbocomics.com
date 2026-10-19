@@ -1,0 +1,50 @@
+{
+ "path": "/washday/wash-day-9/",
+ "series": "washday",
+ "slug": "wash-day-9",
+ "id": 307,
+ "title": "Wash Day 9",
+ "author": "emulsifier",
+ "date": "January 11, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-01-11T00:00:00",
+ "categories": [
+  {
+   "title": "Wash Day",
+   "href": "/washday/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-307 post type-post status-publish format-standard hentry category-washday uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-01-11-Wash_Day_9.jpg",
+   "alt": "Wash Day 9",
+   "title": "Wash Day 9"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/washday/wash-day-8/",
+  "next": "/washday/wash-day-10/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/washday/wash-day-8/",
+  "next": "/washday/wash-day-10/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Wash Day 9",
+  "bodyClass": "post-template-default single single-post postid-307 single-format-standard user-guest comic unknown single-category-washday single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Wash Day 9",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-01-11-Wash_Day_9.jpg"
+ }
+}

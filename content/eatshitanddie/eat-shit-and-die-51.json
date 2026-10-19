@@ -1,0 +1,78 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-51/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-51",
+ "id": 150,
+ "title": "Eat Shit And Die 51",
+ "author": "emulsifier",
+ "date": "August 13, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-08-13T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-150 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-08-13-Eat_Shit_And_Die_51.jpg",
+   "alt": "Eat Shit And Die 51",
+   "title": "Eat Shit And Die 51"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-50/",
+  "next": "/eatshitanddie/eat-shit-and-die-52/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-50/",
+  "next": "/eatshitanddie/eat-shit-and-die-52/"
+ },
+ "commentCount": 3,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 3530,
+   "author": "MrSmith",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/455f1faceb6a5b72b126dad3a2d405c2?s=64&d=identicon&r=r",
+   "time": "July 26, 2010 at 9:26 am",
+   "timeTitle": "Monday, July 26th, 2010, 9:26 am",
+   "html": "<p>GOBO&#8217;s fundamental flaw: he only capable of helping one person at a time.</p>"
+  },
+  {
+   "id": 102997,
+   "author": "Chappinhas",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/5506a3764e939f53859ad9e7eb811165?s=64&d=identicon&r=r",
+   "time": "September 24, 2012 at 12:05 am",
+   "timeTitle": "Monday, September 24th, 2012, 12:05 am",
+   "html": "<p>You got to take sides in life.</p>"
+  },
+  {
+   "id": 679781,
+   "author": "JayJay",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/745f4f0fc751a1d0624de4f2fe68a2cd?s=64&d=identicon&r=r",
+   "time": "September 13, 2014 at 9:01 am",
+   "timeTitle": "Saturday, September 13th, 2014, 9:01 am",
+   "html": "<p>This is brilliant.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 51",
+  "bodyClass": "post-template-default single single-post postid-150 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 51",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-08-13-Eat_Shit_And_Die_51.jpg"
+ }
+}

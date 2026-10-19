@@ -1,0 +1,69 @@
+{
+ "path": "/bobandbob/bob-and-bob-5/",
+ "series": "bobandbob",
+ "slug": "bob-and-bob-5",
+ "id": 15,
+ "title": "Bob And Bob 5",
+ "author": "emulsifier",
+ "date": "April 22, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-04-22T00:00:00",
+ "categories": [
+  {
+   "title": "Bob and Bob",
+   "href": "/bobandbob/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-15 post type-post status-publish format-standard hentry category-bobandbob uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-04-22-Bob_And_Bob_5.jpg",
+   "alt": "Bob And Bob 5",
+   "title": "Bob And Bob 5"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/bobandbob/bob-and-bob-4/",
+  "next": "/bobandbob/bob-and-bob-6/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/bobandbob/bob-and-bob-4/",
+  "next": "/bobandbob/bob-and-bob-6/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1831,
+   "author": "Ben",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/bf57ba269f2fa24ce35533547371256c?s=64&d=identicon&r=r",
+   "time": "March 22, 2010 at 4:13 pm",
+   "timeTitle": "Monday, March 22nd, 2010, 4:13 pm",
+   "html": "<p>Are these true? I&#8217;ve experienced something similar to this but never saw anyone about it.. hmm&#8230;</p>"
+  },
+  {
+   "id": 102142,
+   "author": "WolffBrosef2",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/ebc4fde01a42d71c2e751e6db1960f3f?s=64&d=identicon&r=r",
+   "time": "September 20, 2012 at 8:49 pm",
+   "timeTitle": "Thursday, September 20th, 2012, 8:49 pm",
+   "html": "<p>Really starting to remind me of Memento&#8230;.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob And Bob 5",
+  "bodyClass": "post-template-default single single-post postid-15 single-format-standard user-guest comic unknown single-category-bobandbob single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Bob And Bob 5",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-04-22-Bob_And_Bob_5.jpg"
+ }
+}

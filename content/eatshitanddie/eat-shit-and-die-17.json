@@ -1,0 +1,65 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-17/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-17",
+ "id": 97,
+ "title": "Eat Shit And Die 17",
+ "author": "emulsifier",
+ "date": "July 9, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-07-09T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "funny animals",
+   "href": "/tag/funny-animals/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-97 post type-post status-publish format-standard hentry category-eatshitanddie tag-funny-animals uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-07-09-Eat_Shit_And_Die_17.jpg",
+   "alt": "Eat Shit And Die 17",
+   "title": "Eat Shit And Die 17"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-16/",
+  "next": "/eatshitanddie/eat-shit-and-die-18/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-16/",
+  "next": "/eatshitanddie/eat-shit-and-die-18/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 6244,
+   "author": "Gabe",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/e25bbf6b062ecbe8a5db32de3ad94f5b?s=64&d=identicon&r=r",
+   "time": "March 21, 2011 at 8:30 am",
+   "timeTitle": "Monday, March 21st, 2011, 8:30 am",
+   "html": "<p>After having gotten used to your type of humor, I expected nothing less than the last two panels.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 17",
+  "bodyClass": "post-template-default single single-post postid-97 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 17",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-07-09-Eat_Shit_And_Die_17.jpg"
+ }
+}

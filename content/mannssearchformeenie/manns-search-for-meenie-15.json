@@ -1,0 +1,60 @@
+{
+ "path": "/mannssearchformeenie/manns-search-for-meenie-15/",
+ "series": "mannssearchformeenie",
+ "slug": "manns-search-for-meenie-15",
+ "id": 253,
+ "title": "Manns Search For Meenie 15",
+ "author": "emulsifier",
+ "date": "November 20, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-11-20T00:00:00",
+ "categories": [
+  {
+   "title": "Manns search for Meenie",
+   "href": "/mannssearchformeenie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-253 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-11-20-Manns_Search_For_Meenie_15.jpg",
+   "alt": "Manns Search For Meenie 15",
+   "title": "Manns Search For Meenie 15"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/mannssearchformeenie/manns-search-for-meenie-14/",
+  "next": "/mannssearchformeenie/manns-search-for-meenie-16/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/mannssearchformeenie/manns-search-for-meenie-14/",
+  "next": "/mannssearchformeenie/manns-search-for-meenie-16/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 321,
+   "author": "Kat!",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/5c74d78c3126e66d1fa91f88295349ce?s=64&d=identicon&r=r",
+   "time": "August 26, 2009 at 4:25 am",
+   "timeTitle": "Wednesday, August 26th, 2009, 4:25 am",
+   "html": "<p>&gt;.&gt;<br />\n&lt;.&lt;</p>\n<p>😀</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 15",
+  "bodyClass": "post-template-default single single-post postid-253 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Manns Search For Meenie 15",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-11-20-Manns_Search_For_Meenie_15.jpg"
+ }
+}

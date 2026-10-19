@@ -1,0 +1,78 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-240/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-240",
+ "id": 982,
+ "title": "eat shit & die 240",
+ "author": "bpatrick",
+ "date": "January 16, 2015",
+ "time": "12:00 am",
+ "datetime": "2015-01-16T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-982 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2015-01-16-Eat_Shit_And_Die_240.jpg",
+   "alt": "eat shit & die 240",
+   "title": "eat shit & die 240"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-239/",
+  "next": "/eatshitanddie/eat-shit-and-die-241/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-239/",
+  "next": "/eatshitanddie/eat-shit-and-die-241/"
+ },
+ "commentCount": 3,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1003429,
+   "author": "box",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/724f95667e2fbe903ee1b4cffcae3b25?s=64&d=identicon&r=r",
+   "time": "January 17, 2015 at 2:07 am",
+   "timeTitle": "Saturday, January 17th, 2015, 2:07 am",
+   "html": "<p>same</p>"
+  },
+  {
+   "id": 1003891,
+   "author": "B",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/c98adfe85728f37cb99b1a2e96614a18?s=64&d=identicon&r=r",
+   "time": "January 17, 2015 at 12:57 pm",
+   "timeTitle": "Saturday, January 17th, 2015, 12:57 pm",
+   "html": "<p>Love the tee-shirt.</p>"
+  },
+  {
+   "id": 1005431,
+   "author": "Anarcissie",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/ffdf66b1ab3652d52be762a5288dbfb0?s=64&d=identicon&r=r",
+   "time": "January 19, 2015 at 3:10 am",
+   "timeTitle": "Monday, January 19th, 2015, 3:10 am",
+   "html": "<p>On the other hand, what <i>has</i> changed the world?</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 240",
+  "bodyClass": "post-template-default single single-post postid-982 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "eat shit & die 240",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2015-01-16-Eat_Shit_And_Die_240.jpg"
+ }
+}

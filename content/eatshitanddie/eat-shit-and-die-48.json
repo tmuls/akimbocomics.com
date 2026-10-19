@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-48/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-48",
+ "id": 147,
+ "title": "Eat Shit And Die 48",
+ "author": "emulsifier",
+ "date": "August 10, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-08-10T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-147 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-08-10-Eat_Shit_And_Die_48.jpg",
+   "alt": "Eat Shit And Die 48",
+   "title": "Eat Shit And Die 48"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-47/",
+  "next": "/eatshitanddie/eat-shit-and-die-49/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-47/",
+  "next": "/eatshitanddie/eat-shit-and-die-49/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 3529,
+   "author": "MrSmith",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/455f1faceb6a5b72b126dad3a2d405c2?s=64&d=identicon&r=r",
+   "time": "July 26, 2010 at 9:24 am",
+   "timeTitle": "Monday, July 26th, 2010, 9:24 am",
+   "html": "<p>These are mostly all genius. Love it.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 48",
+  "bodyClass": "post-template-default single single-post postid-147 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 48",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-08-10-Eat_Shit_And_Die_48.jpg"
+ }
+}

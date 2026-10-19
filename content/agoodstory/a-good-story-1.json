@@ -1,0 +1,60 @@
+{
+ "path": "/agoodstory/a-good-story-1/",
+ "series": "agoodstory",
+ "slug": "a-good-story-1",
+ "id": 3,
+ "title": "A Good Story 1",
+ "author": "emulsifier",
+ "date": "April 14, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-04-14T00:00:00",
+ "categories": [
+  {
+   "title": "A Good Story",
+   "href": "/agoodstory/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>A good story # 1</p>",
+ "postClass": "post-3 post type-post status-publish format-standard hentry category-agoodstory uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-04-14-A_Good_Story_1.jpg",
+   "alt": "A Good Story 1",
+   "title": "A Good Story 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/bobandbob/bob-and-bob-1-2/",
+  "next": "/badhairday/bad-hair-day-1/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/bobandbob/bob-and-bob-1-2/",
+  "next": "/badhairday/bad-hair-day-1/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 4828,
+   "author": "Joe bob",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/365cba06d9552387c1a6e208a5bea1a5?s=64&d=identicon&r=r",
+   "time": "December 6, 2010 at 1:47 pm",
+   "timeTitle": "Monday, December 6th, 2010, 1:47 pm",
+   "html": "<p>Nice comic very funny because it&#8217;s true &#8230;lol</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - A Good Story 1",
+  "bodyClass": "post-template-default single single-post postid-3 single-format-standard user-guest comic unknown single-category-agoodstory single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "A Good Story 1",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-04-14-A_Good_Story_1.jpg"
+ }
+}

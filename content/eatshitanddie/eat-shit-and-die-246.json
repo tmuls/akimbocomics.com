@@ -1,0 +1,69 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-246/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-246",
+ "id": 1033,
+ "title": "eat shit & die 246",
+ "author": "bpatrick",
+ "date": "September 19, 2015",
+ "time": "12:00 am",
+ "datetime": "2015-09-19T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1033 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2015-09-19-Eat_Shit_And_Die_246.jpg",
+   "alt": "eat shit & die 246",
+   "title": "eat shit & die 246"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-245/",
+  "next": "/curiousurgency/curious-urgency-66/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-245/",
+  "next": "/curiousurgency/curious-urgency-66/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1076312,
+   "author": "ADifferentRandomAsshole",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/cc20b531e36aaa22ab4f09ff44a22bf6?s=64&d=identicon&r=r",
+   "time": "September 22, 2015 at 11:06 pm",
+   "timeTitle": "Tuesday, September 22nd, 2015, 11:06 pm",
+   "html": "<p>Looks a lot like your comic about depression<br />\nGlad to see you&#8217;re back making comics, I was begging to fear I was going to die without knowing how Curious Urgency ends.</p>"
+  },
+  {
+   "id": 1076331,
+   "author": "DSchotts",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/c8bb7f30e31512982fe5c5c160d01cad?s=64&d=identicon&r=r",
+   "time": "September 23, 2015 at 12:43 am",
+   "timeTitle": "Wednesday, September 23rd, 2015, 12:43 am",
+   "html": "<p>Love these guys! Glad you&#8217;re back in the drawing business.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 246",
+  "bodyClass": "post-template-default single single-post postid-1033 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "eat shit & die 246",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2015-09-19-Eat_Shit_And_Die_246.jpg"
+ }
+}

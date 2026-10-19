@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-13/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-13",
+ "id": 135,
+ "title": "Eat Shit And Die 13",
+ "author": "emulsifier",
+ "date": "July 5, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-07-05T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-135 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-07-05-Eat_Shit_And_Die_13.jpg",
+   "alt": "Eat Shit And Die 13",
+   "title": "Eat Shit And Die 13"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-12/",
+  "next": "/eatshitanddie/eat-shit-and-die-14/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-12/",
+  "next": "/eatshitanddie/eat-shit-and-die-14/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 12,
+   "author": "Chris Downes",
+   "url": "http://sirwdchosen.blogspot.com",
+   "avatar": "http://2.gravatar.com/avatar/b177b8e28c15f867caf89a989e5ddc58?s=64&d=identicon&r=r",
+   "time": "June 12, 2009 at 3:26 am",
+   "timeTitle": "Friday, June 12th, 2009, 3:26 am",
+   "html": "<p>Ha HAAAA. This makes me incredibly happy.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 13",
+  "bodyClass": "post-template-default single single-post postid-135 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 13",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-07-05-Eat_Shit_And_Die_13.jpg"
+ }
+}

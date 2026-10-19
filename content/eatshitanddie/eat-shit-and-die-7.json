@@ -1,0 +1,50 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-7/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-7",
+ "id": 87,
+ "title": "Eat Shit And Die 7",
+ "author": "emulsifier",
+ "date": "June 29, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-06-29T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-87 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-06-29-Eat_Shit_And_Die_7.jpg",
+   "alt": "Eat Shit And Die 7",
+   "title": "Eat Shit And Die 7"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-6/",
+  "next": "/eatshitanddie/eat-shit-and-die-8/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-6/",
+  "next": "/eatshitanddie/eat-shit-and-die-8/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 7",
+  "bodyClass": "post-template-default single single-post postid-87 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 7",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-06-29-Eat_Shit_And_Die_7.jpg"
+ }
+}

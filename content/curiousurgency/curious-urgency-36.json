@@ -1,0 +1,69 @@
+{
+ "path": "/curiousurgency/curious-urgency-36/",
+ "series": "curiousurgency",
+ "slug": "curious-urgency-36",
+ "id": 520,
+ "title": "Curious Urgency 36",
+ "author": "bpatrick",
+ "date": "February 17, 2010",
+ "time": "12:00 am",
+ "datetime": "2010-02-17T00:00:00",
+ "categories": [
+  {
+   "title": "Curious Urgency",
+   "href": "/curiousurgency/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Some more Curious.</p>",
+ "postClass": "post-520 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2010-02-17-Curious_Urgency_36.jpg",
+   "alt": "Curious Urgency 36",
+   "title": "Curious Urgency 36"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/curiousurgency/curious-urgency-35/",
+  "next": "/curiousurgency/curious-urgency-37/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/curiousurgency/curious-urgency-35/",
+  "next": "/curiousurgency/curious-urgency-37/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1740,
+   "author": "Och",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/d8c16399b0305a69eda176db6b5f71c0?s=64&d=identicon&r=r",
+   "time": "March 11, 2010 at 2:21 pm",
+   "timeTitle": "Thursday, March 11th, 2010, 2:21 pm",
+   "html": "<p>I like how her reward is actually a large bag with a money sign on it. Unobtrusive, that. 😀</p>"
+  },
+  {
+   "id": 1744,
+   "author": "b.patrick",
+   "url": "/",
+   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
+   "time": "March 11, 2010 at 6:21 pm",
+   "timeTitle": "Thursday, March 11th, 2010, 6:21 pm",
+   "html": "<p>Paranoia&#8217;s sense of subtlety kind of broke down at the end there.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 36",
+  "bodyClass": "post-template-default single single-post postid-520 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Curious Urgency 36",
+  "ogDescription": "",
+  "ogImage": "//comic/2010-02-17-Curious_Urgency_36.jpg"
+ }
+}

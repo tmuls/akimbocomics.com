@@ -1,0 +1,60 @@
+{
+ "path": "/really_deep_down/really-deep-down-1/",
+ "series": "really_deep_down",
+ "slug": "really-deep-down-1",
+ "id": 264,
+ "title": "Really Deep Down 1",
+ "author": "emulsifier",
+ "date": "November 29, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-11-29T00:00:00",
+ "categories": [
+  {
+   "title": "Really Deep Down",
+   "href": "/really_deep_down/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-264 post type-post status-publish format-standard hentry category-really_deep_down uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-11-29-Really_Deep_Down_1.jpg",
+   "alt": "Really Deep Down 1",
+   "title": "Really Deep Down 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/my_boyfriend_smells/my-boyfriend-smells-1/",
+  "next": "/secondcallback/second-call-back-1/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/my_boyfriend_smells/my-boyfriend-smells-1/",
+  "next": "/secondcallback/second-call-back-1/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 872214,
+   "author": "Dude",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/0cf8fd165b8d330def920f294665f804?s=64&d=identicon&r=r",
+   "time": "November 3, 2014 at 12:08 am",
+   "timeTitle": "Monday, November 3rd, 2014, 12:08 am",
+   "html": "<p>I think I just shat myself. This looks like it could be the beginning to a fightclub-esque movie. Major props.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Really Deep Down 1",
+  "bodyClass": "post-template-default single single-post postid-264 single-format-standard user-guest comic unknown single-category-really_deep_down single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Really Deep Down 1",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-11-29-Really_Deep_Down_1.jpg"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-148/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-148",
+ "id": 483,
+ "title": "eat shit & die 148",
+ "author": "bpatrick",
+ "date": "January 1, 2010",
+ "time": "12:00 am",
+ "datetime": "2010-01-01T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>The first comic of 2010 is from 2008. I was digging through old comics and found this one that never got posted. It made me chuckle so I thought, &#8220;What the hell.&#8221;</p>",
+ "postClass": "post-483 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2010-01-01-Eat_Shit_And_DIe_148.jpg",
+   "alt": "eat shit & die 148",
+   "title": "eat shit & die 148"
+  },
+  {
+   "src": "/linetool/line-tool-4/2010-01-01_Line_Tool_4.jpg",
+   "alt": "eat shit & die 148",
+   "title": "eat shit & die 148"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-147/",
+  "next": "/eatshitanddie/eat-shit-and-die-149/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-147/",
+  "next": "/eatshitanddie/eat-shit-and-die-149/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - eat shit & die 148",
+  "bodyClass": "post-template-default single single-post postid-483 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "eat shit & die 148",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2010-01-01_Line_Tool_4.jpg"
+ }
+}

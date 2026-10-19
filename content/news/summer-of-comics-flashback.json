@@ -1,0 +1,57 @@
+{
+ "path": "/news/summer-of-comics-flashback/",
+ "series": "news",
+ "slug": "summer-of-comics-flashback",
+ "id": 745,
+ "title": "Summer of comics flashback",
+ "author": "emulsifier",
+ "date": "June 13, 2012",
+ "time": "6:01 pm",
+ "datetime": "2012-06-13T18:01:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Since summer of comics is now in full swing, I figured I&#8217;d let everyone see some of the first comics Brian ever posted on the web:</p>\n<p><a href=\"/emulsifier/\">/emulsifier/</a></p>\n<p>Some of you may have seen these already, but I am guessing that most of you have not.  I did some of the writing on these, so the shitty ones are most likely my fault.</p>\n<p>Lots of characters from ES&#038;D made their first appearances here, enjoy!</p>",
+ "postClass": "post-745 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/bob-bob-movie-is-now-online/",
+  "next": "/news/akimbo-comics-fun-club/"
+ },
+ "menuNav": {},
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 86196,
+   "author": "bpatrick",
+   "url": "/",
+   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
+   "time": "June 13, 2012 at 9:45 pm",
+   "timeTitle": "Wednesday, June 13th, 2012, 9:45 pm",
+   "html": "<p>Those were not all 100% terrible. I had forgotten about a lot of them. Nice, thanks for posting these! I think I got your likeness nailed!</p>"
+  },
+  {
+   "id": 90124,
+   "author": "Joshua",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/c2ee896d0722d6355909e1d6cda01488?s=64&d=identicon&r=r",
+   "time": "July 12, 2012 at 7:50 am",
+   "timeTitle": "Thursday, July 12th, 2012, 7:50 am",
+   "html": "<p>I think you should write more comics with your characters as children.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Summer of comics flashback",
+  "bodyClass": "post-template-default single single-post postid-745 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Summer of comics flashback",
+  "ogDescription": ""
+ }
+}

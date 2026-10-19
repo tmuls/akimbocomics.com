@@ -1,0 +1,96 @@
+{
+ "path": "/really_deep_down/really-deep-down-3/",
+ "series": "really_deep_down",
+ "slug": "really-deep-down-3",
+ "id": 382,
+ "title": "Really Deep Down 3",
+ "author": "bpatrick",
+ "date": "June 10, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-06-10T00:00:00",
+ "categories": [
+  {
+   "title": "Really Deep Down",
+   "href": "/really_deep_down/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Wednesday update! Yay for me. I&#8217;m trying for three updates this week. We&#8217;ll see what happens. </p>",
+ "postClass": "post-382 post type-post status-publish format-standard hentry category-really_deep_down uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-06-10-Really_Deep_Down_3.jpg",
+   "alt": "Really Deep Down 3",
+   "title": "Really Deep Down 3"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-132/",
+  "next": "/eatshitanddie/eat-shit-and-die-133/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-132/",
+  "next": "/eatshitanddie/eat-shit-and-die-133/"
+ },
+ "commentCount": 5,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 11,
+   "author": "Chris Downes",
+   "url": "http://sirwdchosen.blogspot.com",
+   "avatar": "http://2.gravatar.com/avatar/b177b8e28c15f867caf89a989e5ddc58?s=64&d=identicon&r=r",
+   "time": "June 12, 2009 at 3:20 am",
+   "timeTitle": "Friday, June 12th, 2009, 3:20 am",
+   "html": "<p>Wow. Great comic. I know exactly where you&#8217;re coming from on this one.</p>"
+  },
+  {
+   "id": 13,
+   "author": "b.patrick",
+   "url": "/",
+   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
+   "time": "June 12, 2009 at 6:25 am",
+   "timeTitle": "Friday, June 12th, 2009, 6:25 am",
+   "html": "<p>Thanks, Chris! It gets good (I hope) but comics take so long to make. I feel like I&#8217;ll never get there.</p>"
+  },
+  {
+   "id": 7081,
+   "author": "cbobgo",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/1972c44c9570423c8c8f6ed3ad42b0e1?s=64&d=identicon&r=r",
+   "time": "May 13, 2011 at 11:49 pm",
+   "timeTitle": "Friday, May 13th, 2011, 11:49 pm",
+   "html": "<p>Is this the end?  It&#8217;s been almost a year since you updated this one.  It seems like a really good intro, I&#8217;m curious about the rest of the story.</p>"
+  },
+  {
+   "id": 33774,
+   "author": "gian",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/8440d6f827d505fea938bc5a100de61a?s=64&d=identicon&r=r",
+   "time": "December 27, 2011 at 9:50 pm",
+   "timeTitle": "Tuesday, December 27th, 2011, 9:50 pm",
+   "html": "<p>WE BELIEVE IN YOU B!</p>"
+  },
+  {
+   "id": 433606,
+   "author": "VanillaDice",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/69f2d6e370053f10051782e3635c4a95?s=64&d=identicon&r=r",
+   "time": "February 1, 2014 at 7:36 pm",
+   "timeTitle": "Saturday, February 1st, 2014, 7:36 pm",
+   "html": "<p>This one gets right to where it needs to, absolutely amazing. &#8230; Just like everything on here.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Really Deep Down 3",
+  "bodyClass": "post-template-default single single-post postid-382 single-format-standard user-guest comic unknown single-category-really_deep_down single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Really Deep Down 3",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-06-10-Really_Deep_Down_3.jpg"
+ }
+}

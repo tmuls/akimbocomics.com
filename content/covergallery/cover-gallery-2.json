@@ -1,0 +1,69 @@
+{
+ "path": "/covergallery/cover-gallery-2/",
+ "series": "covergallery",
+ "slug": "cover-gallery-2",
+ "id": 38,
+ "title": "Cover Gallery 2",
+ "author": "emulsifier",
+ "date": "May 13, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-05-13T00:00:00",
+ "categories": [
+  {
+   "title": "Cover Gallery",
+   "href": "/covergallery/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-38 post type-post status-publish format-standard hentry category-covergallery uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-05-13-Cover_Gallery_2.jpg",
+   "alt": "Cover Gallery 2",
+   "title": "Cover Gallery 2"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/covergallery/cover-gallery-1/",
+  "next": "/covergallery/cover-gallery-3/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/covergallery/cover-gallery-1/",
+  "next": "/covergallery/cover-gallery-3/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 142,
+   "author": "Jcanny",
+   "url": "http://www.cannyart.blogspot.com",
+   "avatar": "http://1.gravatar.com/avatar/afe3944f43b77707389b32abaa976b48?s=64&d=identicon&r=r",
+   "time": "July 27, 2009 at 6:22 pm",
+   "timeTitle": "Monday, July 27th, 2009, 6:22 pm",
+   "html": "<p>Dude&#8230;.this is incredible. Beautiful composition. I&#8217;ve been reading through fromthe beginning. The Bobs was a great story too.</p>"
+  },
+  {
+   "id": 294,
+   "author": "b.patrick",
+   "url": "/",
+   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
+   "time": "August 20, 2009 at 11:55 pm",
+   "timeTitle": "Thursday, August 20th, 2009, 11:55 pm",
+   "html": "<p>Thanks, Jcanny!</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Cover Gallery 2",
+  "bodyClass": "post-template-default single single-post postid-38 single-format-standard user-guest comic unknown single-category-covergallery single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Cover Gallery 2",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-05-13-Cover_Gallery_2.jpg"
+ }
+}

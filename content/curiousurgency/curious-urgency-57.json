@@ -1,0 +1,50 @@
+{
+ "path": "/curiousurgency/curious-urgency-57/",
+ "series": "curiousurgency",
+ "slug": "curious-urgency-57",
+ "id": 741,
+ "title": "Curious Urgency 57",
+ "author": "bpatrick",
+ "date": "May 31, 2012",
+ "time": "12:00 am",
+ "datetime": "2012-05-31T00:00:00",
+ "categories": [
+  {
+   "title": "Curious Urgency",
+   "href": "/curiousurgency/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>New <em>Curious</em>. And so begins the Summer of Comics!</p>",
+ "postClass": "post-741 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2012-05-31-Curious_Urgency_57.jpg",
+   "alt": "Curious Urgency 57",
+   "title": "Curious Urgency 57"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-207/",
+  "next": "/eatshitanddie/eat-shit-and-die-208/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-207/",
+  "next": "/eatshitanddie/eat-shit-and-die-208/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 57",
+  "bodyClass": "post-template-default single single-post postid-741 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Curious Urgency 57",
+  "ogDescription": "",
+  "ogImage": "//comic/2012-05-31-Curious_Urgency_57.jpg"
+ }
+}

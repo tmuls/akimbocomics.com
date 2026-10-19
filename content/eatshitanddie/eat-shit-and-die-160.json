@@ -1,0 +1,78 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-160/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-160",
+ "id": 551,
+ "title": "Eat Shit And Die 160",
+ "author": "bpatrick",
+ "date": "July 3, 2010",
+ "time": "12:00 am",
+ "datetime": "2010-07-03T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Not quite Stan Drake. Oh well&#8230;</p>",
+ "postClass": "post-551 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2010-07-03-Eat_Shit_And_Die_160.jpg",
+   "alt": "Eat Shit And Die 160",
+   "title": "Eat Shit And Die 160"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-159/",
+  "next": "/eatshitanddie/eat-shit-and-die-161/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-159/",
+  "next": "/eatshitanddie/eat-shit-and-die-161/"
+ },
+ "commentCount": 3,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 3573,
+   "author": "bryan",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/691e417e63592be292b8fa3a510add21?s=64&d=identicon&r=r",
+   "time": "July 29, 2010 at 1:12 pm",
+   "timeTitle": "Thursday, July 29th, 2010, 1:12 pm",
+   "html": "<p>man, i love your comic but you never update!</p>"
+  },
+  {
+   "id": 3617,
+   "author": "b.patrick",
+   "url": "/",
+   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
+   "time": "July 31, 2010 at 8:28 pm",
+   "timeTitle": "Saturday, July 31st, 2010, 8:28 pm",
+   "html": "<p>I know! I&#8217;m sorry, I thought this summer was going to be all about comics but it turns out a master&#8217;s thesis takes more time than I anticipated. New comics soon!!</p>"
+  },
+  {
+   "id": 7126,
+   "author": "Orrange",
+   "url": "http://www.sidequests.org",
+   "avatar": "http://0.gravatar.com/avatar/0fbc328f23e2745d6728f38fec92cadb?s=64&d=identicon&r=r",
+   "time": "May 16, 2011 at 7:39 am",
+   "timeTitle": "Monday, May 16th, 2011, 7:39 am",
+   "html": "<p>Brutal.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 160",
+  "bodyClass": "post-template-default single single-post postid-551 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 160",
+  "ogDescription": "",
+  "ogImage": "//comic/2010-07-03-Eat_Shit_And_Die_160.jpg"
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-120/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-120",
+ "id": 221,
+ "title": "Eat Shit And Die 120",
+ "author": "emulsifier",
+ "date": "October 21, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-10-21T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-221 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-10-21-Eat_Shit_And_Die_120.jpg",
+   "alt": "Eat Shit And Die 120",
+   "title": "Eat Shit And Die 120"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-119/",
+  "next": "/eatshitanddie/eat-shit-and-die-121/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-119/",
+  "next": "/eatshitanddie/eat-shit-and-die-121/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 3536,
+   "author": "MrSmith",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/455f1faceb6a5b72b126dad3a2d405c2?s=64&d=identicon&r=r",
+   "time": "July 26, 2010 at 7:32 pm",
+   "timeTitle": "Monday, July 26th, 2010, 7:32 pm",
+   "html": "<p>Great art, cute comic.</p>"
+  },
+  {
+   "id": 7193,
+   "author": "Wyrmsworth",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/0c277b9525eb474269a5f293d6e319a0?s=64&d=identicon&r=r",
+   "time": "May 18, 2011 at 10:34 pm",
+   "timeTitle": "Wednesday, May 18th, 2011, 10:34 pm",
+   "html": "<p>This has a very Calvin and Hobbes feel to it, but I like it none the less.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 120",
+  "bodyClass": "post-template-default single single-post postid-221 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 120",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-10-21-Eat_Shit_And_Die_120.jpg"
+ }
+}

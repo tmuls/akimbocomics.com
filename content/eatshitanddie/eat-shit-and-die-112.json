@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-112/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-112",
+ "id": 213,
+ "title": "Eat Shit And Die 112",
+ "author": "emulsifier",
+ "date": "October 13, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-10-13T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-213 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-10-13-Eat_Shit_And_Die_112.jpg",
+   "alt": "Eat Shit And Die 112",
+   "title": "Eat Shit And Die 112"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-111/",
+  "next": "/eatshitanddie/eat-shit-and-die-113/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-111/",
+  "next": "/eatshitanddie/eat-shit-and-die-113/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 69005,
+   "author": "Peter",
+   "url": "http://petercat.tumblr.com",
+   "avatar": "http://2.gravatar.com/avatar/ecd9e74fc0183fad63562e1f91f505d8?s=64&d=identicon&r=r",
+   "time": "March 20, 2012 at 5:49 am",
+   "timeTitle": "Tuesday, March 20th, 2012, 5:49 am",
+   "html": "<p>Reading this comic is the second best thing that happened to me all day.<br />\nThe best thing was smoking afterword.<br />\nCheers~~</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 112",
+  "bodyClass": "post-template-default single single-post postid-213 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 112",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-10-13-Eat_Shit_And_Die_112.jpg"
+ }
+}

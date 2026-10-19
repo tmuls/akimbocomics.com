@@ -1,0 +1,38 @@
+{
+ "path": "/news/looks-like-everything-worked/",
+ "series": "news",
+ "slug": "looks-like-everything-worked",
+ "id": 1056,
+ "title": "Looks like everything worked",
+ "author": "emulsifier",
+ "date": "April 29, 2017",
+ "time": "3:31 pm",
+ "datetime": "2017-04-29T15:31:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Looks like everything worked, Brian is going to be re-uploading the missing comics too, so we are officially back in action.</p>",
+ "postClass": "post-1056 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/review-approved/",
+  "next": "/news/i-have-a-patreon-if-youre-interested/"
+ },
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Looks like everything worked",
+  "bodyClass": "post-template-default single single-post postid-1056 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Looks like everything worked",
+  "ogDescription": ""
+ }
+}

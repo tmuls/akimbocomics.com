@@ -1,0 +1,55 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-41/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-41",
+ "id": 140,
+ "title": "Eat Shit And Die 41",
+ "author": "emulsifier",
+ "date": "August 3, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-08-03T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "lil bastards",
+   "href": "/tag/lil-bastards/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-140 post type-post status-publish format-standard hentry category-eatshitanddie tag-lil-bastards uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-08-03-Eat_Shit_And_Die_41.jpg",
+   "alt": "Eat Shit And Die 41",
+   "title": "Eat Shit And Die 41"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-40/",
+  "next": "/eatshitanddie/eat-shit-and-die-42/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-40/",
+  "next": "/eatshitanddie/eat-shit-and-die-42/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 41",
+  "bodyClass": "post-template-default single single-post postid-140 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 41",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-08-03-Eat_Shit_And_Die_41.jpg"
+ }
+}

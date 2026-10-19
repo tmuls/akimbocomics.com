@@ -1,0 +1,69 @@
+{
+ "path": "/curiousurgency/curious-urgency-62/",
+ "series": "curiousurgency",
+ "slug": "curious-urgency-62",
+ "id": 780,
+ "title": "Curious Urgency 62",
+ "author": "bpatrick",
+ "date": "July 27, 2012",
+ "time": "12:00 am",
+ "datetime": "2012-07-27T00:00:00",
+ "categories": [
+  {
+   "title": "Curious Urgency",
+   "href": "/curiousurgency/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Managed some <em>Curious</em>.</p>",
+ "postClass": "post-780 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2012-07-27-Curious_Urgency_62.jpg",
+   "alt": "Curious Urgency 62",
+   "title": "Curious Urgency 62"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-216/",
+  "next": "/eatshitanddie/eat-shit-and-die-217/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-216/",
+  "next": "/eatshitanddie/eat-shit-and-die-217/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 92221,
+   "author": "D",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/f6769424990f38bd86bc9719e3c4ac7e?s=64&d=identicon&r=r",
+   "time": "July 28, 2012 at 7:38 pm",
+   "timeTitle": "Saturday, July 28th, 2012, 7:38 pm",
+   "html": "<p>Jiminy jumping jockstrap, this is a great month for akimbocomics! I almost missed the Vivian Blank one because it was already buried under a *new* ES&amp;D! And then we had some Mann&#8217;s search for Meenie recently. Plus the fun club. Good times.</p>"
+  },
+  {
+   "id": 100120,
+   "author": "Jonny",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/e1325d7362da477dc1c64cd4770ba7d7?s=64&d=identicon&r=r",
+   "time": "September 16, 2012 at 9:01 pm",
+   "timeTitle": "Sunday, September 16th, 2012, 9:01 pm",
+   "html": "<p>Oh my god, this is so good, I can&#8217;t wait for the next one!</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 62",
+  "bodyClass": "post-template-default single single-post postid-780 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Curious Urgency 62",
+  "ogDescription": "",
+  "ogImage": "//comic/2012-07-27-Curious_Urgency_62.jpg"
+ }
+}

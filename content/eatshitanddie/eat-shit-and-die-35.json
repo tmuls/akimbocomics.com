@@ -1,0 +1,65 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-35/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-35",
+ "id": 117,
+ "title": "Eat Shit And Die 35",
+ "author": "emulsifier",
+ "date": "July 27, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-07-27T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "funny animals",
+   "href": "/tag/funny-animals/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-117 post type-post status-publish format-standard hentry category-eatshitanddie tag-funny-animals uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-07-27-Eat_Shit_And_Die_35.jpg",
+   "alt": "Eat Shit And Die 35",
+   "title": "Eat Shit And Die 35"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-34/",
+  "next": "/eatshitanddie/eat-shit-and-die-36/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-34/",
+  "next": "/eatshitanddie/eat-shit-and-die-36/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 103118,
+   "author": "vombi",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/c8226cc3b0102ec85ea8dbc21b936acd?s=64&d=identicon&r=r",
+   "time": "September 24, 2012 at 8:48 pm",
+   "timeTitle": "Monday, September 24th, 2012, 8:48 pm",
+   "html": "<p>Fucking great! :DD</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 35",
+  "bodyClass": "post-template-default single single-post postid-117 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 35",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-07-27-Eat_Shit_And_Die_35.jpg"
+ }
+}

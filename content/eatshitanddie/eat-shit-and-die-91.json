@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-91/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-91",
+ "id": 192,
+ "title": "Eat Shit And Die 91",
+ "author": "emulsifier",
+ "date": "September 22, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-09-22T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-192 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-09-22-Eat_Shit_And_Die_91.jpg",
+   "alt": "Eat Shit And Die 91",
+   "title": "Eat Shit And Die 91"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-90/",
+  "next": "/eatshitanddie/eat-shit-and-die-92/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-90/",
+  "next": "/eatshitanddie/eat-shit-and-die-92/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 10378,
+   "author": "~",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/5bb3785fe33604aa640e694e402a897e?s=64&d=identicon&r=r",
+   "time": "October 17, 2011 at 11:01 pm",
+   "timeTitle": "Monday, October 17th, 2011, 11:01 pm",
+   "html": "<p>Nazis banned vivisection and sponsored nudity. Your job had to be worse than that.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 91",
+  "bodyClass": "post-template-default single single-post postid-192 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 91",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-09-22-Eat_Shit_And_Die_91.jpg"
+ }
+}

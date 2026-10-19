@@ -1,0 +1,35 @@
+{
+ "path": "/fan-art/fan-art/",
+ "series": "fan-art",
+ "slug": "fan-art",
+ "id": 998,
+ "title": "Fan Art!",
+ "author": "bpatrick",
+ "date": "March 7, 2015",
+ "time": "5:59 pm",
+ "datetime": "2015-03-07T17:59:00",
+ "categories": [
+  {
+   "title": "Fan Art",
+   "href": "/fan-art/"
+  }
+ ],
+ "tags": [],
+ "html": "<p><a href=\"/fan-art/fan-art/2001-05-14_Fan_Art_2.jpg\"><img class=\"aligncenter size-full wp-image-1005\" alt=\"2001-05-14_Fan_Art_2\" src=\"/fan-art/fan-art/2001-05-14_Fan_Art_2.jpg\" width=\"400\" height=\"400\" /></a>Because Yvonne, an akimbo comics reader, is so awesome I get to make a fan art section!Look at how amazing this picture is! What a cool idea! And it turned out great!</p>\n<p>If anyone else wants to send me art I will for sure post it and it will for sure make my month.</p>",
+ "postClass": "post-998 post type-post status-publish format-standard hentry category-fan-art uentry post-blog postonpage-1 odd post-author-bpatrick",
+ "type": "news",
+ "images": [],
+ "nav": {},
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Fan Art!",
+  "bodyClass": "post-template-default single single-post postid-998 single-format-standard user-guest noncomic unknown single-category-fan-art single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Fan Art!",
+  "ogDescription": ""
+ }
+}

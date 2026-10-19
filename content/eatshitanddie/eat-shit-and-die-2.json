@@ -1,0 +1,83 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-2/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-2",
+ "id": 82,
+ "title": "Eat Shit And Die 2",
+ "author": "emulsifier",
+ "date": "June 24, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-06-24T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "lil bastards",
+   "href": "/tag/lil-bastards/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-82 post type-post status-publish format-standard hentry category-eatshitanddie tag-lil-bastards uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-06-24-Eat_Shit_And_Die_2.jpg",
+   "alt": "Eat Shit And Die 2",
+   "title": "Eat Shit And Die 2"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-1/",
+  "next": "/eatshitanddie/eat-shit-and-die-3/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-1/",
+  "next": "/eatshitanddie/eat-shit-and-die-3/"
+ },
+ "commentCount": 3,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 9212,
+   "author": "frenchie",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/b8db864b774a060aaa8c6413f0bfd458?s=64&d=identicon&r=r",
+   "time": "August 26, 2011 at 3:54 am",
+   "timeTitle": "Friday, August 26th, 2011, 3:54 am",
+   "html": "<p>calvin and hobbes rip</p>"
+  },
+  {
+   "id": 9242,
+   "author": "b.patrick",
+   "url": "/",
+   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
+   "time": "August 28, 2011 at 11:03 pm",
+   "timeTitle": "Sunday, August 28th, 2011, 11:03 pm",
+   "html": "<p>frenchie, I can&#8217;t tell if that&#8217;s an epitaph or an accusation.</p>"
+  },
+  {
+   "id": 11177,
+   "author": "Hallie",
+   "url": "http://www.bing.com/",
+   "avatar": "http://0.gravatar.com/avatar/98cda8e3692bd7df7c08313e89c0eb5a?s=64&d=identicon&r=r",
+   "time": "November 2, 2011 at 12:18 pm",
+   "timeTitle": "Wednesday, November 2nd, 2011, 12:18 pm",
+   "html": "<p>I\\&#8217;m out of league here. Too much brain power on dsipaly!</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 2",
+  "bodyClass": "post-template-default single single-post postid-82 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 2",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-06-24-Eat_Shit_And_Die_2.jpg"
+ }
+}

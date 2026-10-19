@@ -1,0 +1,85 @@
+{
+ "path": "/bobandbob/bob-and-bob-1-2/",
+ "series": "bobandbob",
+ "slug": "bob-and-bob-1-2",
+ "id": 354,
+ "title": "Bob And Bob 1",
+ "author": "bpatrick",
+ "date": "April 18, 2007",
+ "time": "11:59 pm",
+ "datetime": "2007-04-18T23:59:00",
+ "categories": [
+  {
+   "title": "Bob and Bob",
+   "href": "/bobandbob/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-354 post type-post status-publish format-standard hentry category-bobandbob uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2007-04-18-Belly_Of_The_Fish_2.jpg",
+   "alt": "Bob And Bob 1",
+   "title": "Bob And Bob 1"
+  },
+  {
+   "src": "2007-04-18-Vivian_Blank_15.jpg",
+   "alt": "Bob And Bob 1",
+   "title": "Bob And Bob 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/comics/zeno-32/",
+  "next": "/agoodstory/a-good-story-1/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/comics/zeno-32/",
+  "next": "/agoodstory/a-good-story-1/"
+ },
+ "commentCount": 3,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 4583,
+   "author": "Witness",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/f51501bdfe99fca1f362942f1b252bea?s=64&d=identicon&r=r",
+   "time": "November 2, 2010 at 8:09 pm",
+   "timeTitle": "Tuesday, November 2nd, 2010, 8:09 pm",
+   "html": "<p>Loving this.  The art style has the feel of those old Mad magazines from the 70s.  I know the content is completely at odds with it, but there&#8217;s just something about the faces&#8230;</p>"
+  },
+  {
+   "id": 4584,
+   "author": "emulsifier",
+   "url": "/",
+   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
+   "time": "November 2, 2010 at 8:11 pm",
+   "timeTitle": "Tuesday, November 2nd, 2010, 8:11 pm",
+   "html": "<p>You will probably appreciate this recent announcement then:</p>\n<p><a href=\"/eatshitanddie/eat-shit-and-die-163-2/\" rel=\"nofollow\">/eatshitanddie/eat-shit-and-die-163-2/</a></p>",
+   "byAuthor": "emulsifier"
+  }
+ ],
+ "pingbacks": [
+  {
+   "id": 220436,
+   "author": "The Five Best Webcomics You Should Already Be Reading – Christopher Ruz - Author & Designer",
+   "url": "http://www.ruzkin.com/?p=1812",
+   "avatar": null,
+   "time": "June 18, 2013 at 4:29 am",
+   "timeTitle": "Tuesday, June 18th, 2013, 4:29 am",
+   "html": ""
+  }
+ ],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob And Bob 1",
+  "bodyClass": "post-template-default single single-post postid-354 single-format-standard user-guest comic unknown single-category-bobandbob single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Bob And Bob 1",
+  "ogDescription": "",
+  "ogImage": "//comic/2007-04-18-Belly_Of_The_Fish_2.jpg"
+ }
+}

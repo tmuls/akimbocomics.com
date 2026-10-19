@@ -1,0 +1,60 @@
+{
+ "path": "/secondcallback/second-call-back-6/",
+ "series": "secondcallback",
+ "slug": "second-call-back-6",
+ "id": 270,
+ "title": "Second Call Back 6",
+ "author": "emulsifier",
+ "date": "December 5, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-12-05T00:00:00",
+ "categories": [
+  {
+   "title": "Second Call Back",
+   "href": "/secondcallback/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-270 post type-post status-publish format-standard hentry category-secondcallback uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-12-05-Second_Call_Back_6.jpg",
+   "alt": "Second Call Back 6",
+   "title": "Second Call Back 6"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/secondcallback/second-call-back-5/",
+  "next": "/secondcallback/second-call-back-7/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/secondcallback/second-call-back-5/",
+  "next": "/secondcallback/second-call-back-7/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 102388,
+   "author": "clockwerkman",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/109381ce8000803a3007e8a96300b0ce?s=64&d=identicon&r=r",
+   "time": "September 21, 2012 at 5:46 pm",
+   "timeTitle": "Friday, September 21st, 2012, 5:46 pm",
+   "html": "<p>it&#8217;s &#8220;a lot&#8221; not alot 😛</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Second Call Back 6",
+  "bodyClass": "post-template-default single single-post postid-270 single-format-standard user-guest comic unknown single-category-secondcallback single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Second Call Back 6",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-12-05-Second_Call_Back_6.jpg"
+ }
+}

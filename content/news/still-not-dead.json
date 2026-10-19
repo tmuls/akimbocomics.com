@@ -1,0 +1,93 @@
+{
+ "path": "/news/still-not-dead/",
+ "series": "news",
+ "slug": "still-not-dead",
+ "id": 705,
+ "title": "Still not dead",
+ "author": "emulsifier",
+ "date": "November 26, 2011",
+ "time": "5:30 pm",
+ "datetime": "2011-11-26T17:30:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Site has been having some issues lately, I just got done migrating to a new server so hopefully things should stabilize a bit now.  Also B. is working on some updates, he even had a comic finished but decided it was shit and didn&#8217;t post it (even though shit from B. is solid gold for most other web comics).  Don&#8217;t worry though, we aren&#8217;t going anywhere.  Database connection errors be damned.</p>",
+ "postClass": "post-705 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/alternate-ending-to-esd-174/",
+  "next": "/news/bob-bob-movie-is-now-online/"
+ },
+ "menuNav": {},
+ "commentCount": 6,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 16725,
+   "author": "erick",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/ccb5ed59e3d2bd234559119c4fae048d?s=64&d=identicon&r=r",
+   "time": "November 26, 2011 at 8:09 pm",
+   "timeTitle": "Saturday, November 26th, 2011, 8:09 pm",
+   "html": "<p>Thanks for the update bros. I would like to see that comic though 🙁 ah well!</p>"
+  },
+  {
+   "id": 16832,
+   "author": "dawn storrud",
+   "url": "http://transsexualchildandTheGreatSpiral",
+   "avatar": "http://1.gravatar.com/avatar/762aceef2a8778dd72038177b5a82fd4?s=64&d=identicon&r=r",
+   "time": "November 27, 2011 at 12:50 am",
+   "timeTitle": "Sunday, November 27th, 2011, 12:50 am",
+   "html": "<p>Hoping you&#8217;ll be back soon. We eagerly await reconnection.</p>"
+  },
+  {
+   "id": 16864,
+   "author": "Ben",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/9e98f79e23f9d0fddbb575826fb6b17a?s=64&d=identicon&r=r",
+   "time": "November 27, 2011 at 2:52 am",
+   "timeTitle": "Sunday, November 27th, 2011, 2:52 am",
+   "html": "<p>I&#8217;ve not once seen him make anything bad&#8230;it&#8217;d be nice to see that comic.</p>"
+  },
+  {
+   "id": 17888,
+   "author": "Hard Life Project",
+   "url": "http://hardlifeproject.blogspot.com/",
+   "avatar": "http://0.gravatar.com/avatar/03026f16bbe24b6270a2b4f79abb5c99?s=64&d=identicon&r=r",
+   "time": "November 30, 2011 at 5:54 am",
+   "timeTitle": "Wednesday, November 30th, 2011, 5:54 am",
+   "html": "<p>Eagerly awaiting the next installment of your amazing work&#8230;</p>"
+  },
+  {
+   "id": 18008,
+   "author": "invertedquestionmark",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/6dfce43cde7a7c0c1f853ae8a36e73b8?s=64&d=identicon&r=r",
+   "time": "November 30, 2011 at 9:50 am",
+   "timeTitle": "Wednesday, November 30th, 2011, 9:50 am",
+   "html": "<p>I have a great idea: post everything mr. Patrick considers not good enough into a new section called &#8220;shit&#8221;.</p>"
+  },
+  {
+   "id": 18067,
+   "author": "Kelsi",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/38265ca6fcc312559d7edbbdefca1fec?s=64&d=identicon&r=r",
+   "time": "November 30, 2011 at 12:04 pm",
+   "timeTitle": "Wednesday, November 30th, 2011, 12:04 pm",
+   "html": "<p>All I can say is I&#8217;m glad you&#8217;re still around, still creating and that I eagerly await new posts.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Still not dead",
+  "bodyClass": "post-template-default single single-post postid-705 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Still not dead",
+  "ogDescription": ""
+ }
+}

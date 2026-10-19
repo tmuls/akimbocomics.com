@@ -1,0 +1,69 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-28/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-28",
+ "id": 108,
+ "title": "Eat Shit And Die 28",
+ "author": "emulsifier",
+ "date": "July 20, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-07-20T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-108 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-07-20-Eat_Shit_And_Die_28.jpg",
+   "alt": "Eat Shit And Die 28",
+   "title": "Eat Shit And Die 28"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-27/",
+  "next": "/eatshitanddie/eat-shit-and-die-29/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-27/",
+  "next": "/eatshitanddie/eat-shit-and-die-29/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 103101,
+   "author": "vombi",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/c8226cc3b0102ec85ea8dbc21b936acd?s=64&d=identicon&r=r",
+   "time": "September 24, 2012 at 4:43 pm",
+   "timeTitle": "Monday, September 24th, 2012, 4:43 pm",
+   "html": "<p>Great 😀</p>"
+  },
+  {
+   "id": 1041835,
+   "author": "BenDover",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/633ada55ad6d9831e08a6ae23270baf4?s=64&d=identicon&r=r",
+   "time": "March 23, 2015 at 5:49 am",
+   "timeTitle": "Monday, March 23rd, 2015, 5:49 am",
+   "html": "<p>This is very relatable to the situation I currently find myself in. Thanks for the perspective.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 28",
+  "bodyClass": "post-template-default single single-post postid-108 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 28",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-07-20-Eat_Shit_And_Die_28.jpg"
+ }
+}

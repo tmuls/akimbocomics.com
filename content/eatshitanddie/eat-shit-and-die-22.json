@@ -1,0 +1,65 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-22/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-22",
+ "id": 102,
+ "title": "Eat Shit And Die 22",
+ "author": "emulsifier",
+ "date": "July 14, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-07-14T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "funny animals",
+   "href": "/tag/funny-animals/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-102 post type-post status-publish format-standard hentry category-eatshitanddie tag-funny-animals uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-07-14-Eat_Shit_And_Die_22.jpg",
+   "alt": "Eat Shit And Die 22",
+   "title": "Eat Shit And Die 22"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-21/",
+  "next": "/eatshitanddie/eat-shit-and-die-23/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-21/",
+  "next": "/eatshitanddie/eat-shit-and-die-23/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 10417,
+   "author": "Anonymous",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/46fb01a49e598195bffb6ca53e8a0585?s=64&d=identicon&r=r",
+   "time": "October 19, 2011 at 5:02 pm",
+   "timeTitle": "Wednesday, October 19th, 2011, 5:02 pm",
+   "html": "<p>I love this. I know the next time I&#8217;m about to eat something at a strangers house I&#8217;ll be thinking of doing this, making the situation even more awkward for me.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 22",
+  "bodyClass": "post-template-default single single-post postid-102 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 22",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-07-14-Eat_Shit_And_Die_22.jpg"
+ }
+}

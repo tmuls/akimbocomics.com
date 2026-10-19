@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-8/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-8",
+ "id": 88,
+ "title": "Eat Shit And Die 8",
+ "author": "emulsifier",
+ "date": "June 30, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-06-30T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-88 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-06-30-Eat_Shit_And_Die_8.jpg",
+   "alt": "Eat Shit And Die 8",
+   "title": "Eat Shit And Die 8"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-7/",
+  "next": "/eatshitanddie/eat-shit-and-die-9/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-7/",
+  "next": "/eatshitanddie/eat-shit-and-die-9/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 10411,
+   "author": "dan",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/bd56efa1439ee1249b1b30890e876ea1?s=64&d=identicon&r=r",
+   "time": "October 19, 2011 at 2:50 pm",
+   "timeTitle": "Wednesday, October 19th, 2011, 2:50 pm",
+   "html": "<p>have the same thought process about a girl i know,<br />\nreally depressing</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 8",
+  "bodyClass": "post-template-default single single-post postid-88 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 8",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-06-30-Eat_Shit_And_Die_8.jpg"
+ }
+}

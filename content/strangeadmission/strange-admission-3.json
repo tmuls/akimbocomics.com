@@ -1,0 +1,69 @@
+{
+ "path": "/strangeadmission/strange-admission-3/",
+ "series": "strangeadmission",
+ "slug": "strange-admission-3",
+ "id": 275,
+ "title": "Strange Admission 3",
+ "author": "emulsifier",
+ "date": "December 10, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-12-10T00:00:00",
+ "categories": [
+  {
+   "title": "Strange Admission",
+   "href": "/strangeadmission/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-275 post type-post status-publish format-standard hentry category-strangeadmission uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-12-10-Strange_Admission_3.jpg",
+   "alt": "Strange Admission 3",
+   "title": "Strange Admission 3"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/strangeadmission/strange-admission-2/",
+  "next": "/strangeadmission/strange-admission-4/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/strangeadmission/strange-admission-2/",
+  "next": "/strangeadmission/strange-admission-4/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 327,
+   "author": "Kat!",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/5c74d78c3126e66d1fa91f88295349ce?s=64&d=identicon&r=r",
+   "time": "August 26, 2009 at 7:52 pm",
+   "timeTitle": "Wednesday, August 26th, 2009, 7:52 pm",
+   "html": "<p>I love the writing in this one.</p>"
+  },
+  {
+   "id": 1041852,
+   "author": "Smiles",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/633ada55ad6d9831e08a6ae23270baf4?s=64&d=identicon&r=r",
+   "time": "March 23, 2015 at 6:46 am",
+   "timeTitle": "Monday, March 23rd, 2015, 6:46 am",
+   "html": "<p>You must lead a very interesting life, to write so eloquently representative of a semi-sociopathic look at relationships. And especially later in this series to so wonderfully express people&#8217;s hidden realities, you must be an incredible read of people and you show very insightful window into understanding how people function (even if that&#8217;s in a screwed up way).</p>\n<p>Mad respect. Love your work.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Strange Admission 3",
+  "bodyClass": "post-template-default single single-post postid-275 single-format-standard user-guest comic unknown single-category-strangeadmission single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Strange Admission 3",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-12-10-Strange_Admission_3.jpg"
+ }
+}

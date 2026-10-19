@@ -1,0 +1,50 @@
+{
+ "path": "/comics/bonus-16-the-badness-2/",
+ "series": "comics",
+ "slug": "bonus-16-the-badness-2",
+ "id": 1144,
+ "title": "Bonus 16: The Badness 2",
+ "author": "bpatrick",
+ "date": "January 16, 2000",
+ "time": "3:24 pm",
+ "datetime": "2000-01-16T15:24:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1144 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2000-01-16-Badness_2.jpg",
+   "alt": "Bonus 16: The Badness 2",
+   "title": "Bonus 16: The Badness 2"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/comics/bonus-15-the-badness-1/",
+  "next": "/comics/bonus-17-the-badness-3/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/comics/bonus-15-the-badness-1/",
+  "next": "/comics/bonus-17-the-badness-3/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bonus 16: The Badness 2",
+  "bodyClass": "post-template-default single single-post postid-1144 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Bonus 16: The Badness 2",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2000-01-16-Badness_2.jpg"
+ }
+}

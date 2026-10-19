@@ -1,0 +1,60 @@
+{
+ "path": "/bellyofthefish/belly-of-the-fish-1/",
+ "series": "bellyofthefish",
+ "slug": "belly-of-the-fish-1",
+ "id": 7,
+ "title": "Belly Of The Fish 1",
+ "author": "emulsifier",
+ "date": "April 17, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-04-17T00:00:00",
+ "categories": [
+  {
+   "title": "Belly of the Fish",
+   "href": "/bellyofthefish/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-7 post type-post status-publish format-standard hentry category-bellyofthefish uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-04-17-Belly_Of_The_Fish_1.jpg",
+   "alt": "Belly Of The Fish 1",
+   "title": "Belly Of The Fish 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/badhairday/bad-hair-day-2/",
+  "next": "/bellyofthefish/belly-of-the-fish-2/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/badhairday/bad-hair-day-2/",
+  "next": "/bellyofthefish/belly-of-the-fish-2/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 23234,
+   "author": "Char",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/a95be91ed99775d295c94517bee10b12?s=64&d=identicon&r=r",
+   "time": "December 12, 2011 at 3:42 pm",
+   "timeTitle": "Monday, December 12th, 2011, 3:42 pm",
+   "html": "<p>Another top quality webcomic hobbled by an unbelievably annoying archive system&#8230; Oh well for me it&#8217;s still worth it. I will edit the URL bar one page at a time! Power through, baby!</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Belly Of The Fish 1",
+  "bodyClass": "post-template-default single single-post postid-7 single-format-standard user-guest comic unknown single-category-bellyofthefish single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Belly Of The Fish 1",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-04-17-Belly_Of_The_Fish_1.jpg"
+ }
+}

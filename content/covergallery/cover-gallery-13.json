@@ -1,0 +1,60 @@
+{
+ "path": "/covergallery/cover-gallery-13/",
+ "series": "covergallery",
+ "slug": "cover-gallery-13",
+ "id": 49,
+ "title": "Cover Gallery 13",
+ "author": "emulsifier",
+ "date": "May 24, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-05-24T00:00:00",
+ "categories": [
+  {
+   "title": "Cover Gallery",
+   "href": "/covergallery/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-49 post type-post status-publish format-standard hentry category-covergallery uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-05-24-Cover_Gallery_13.jpg",
+   "alt": "Cover Gallery 13",
+   "title": "Cover Gallery 13"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/covergallery/cover-gallery-12/",
+  "next": "/curiousurgency/curious-urgency-1/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/covergallery/cover-gallery-12/",
+  "next": "/curiousurgency/curious-urgency-1/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 3522,
+   "author": "MrSmith",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/455f1faceb6a5b72b126dad3a2d405c2?s=64&d=identicon&r=r",
+   "time": "July 26, 2010 at 12:39 am",
+   "timeTitle": "Monday, July 26th, 2010, 12:39 am",
+   "html": "<p>This convinced me to get a copy of Akimbo Comics.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Cover Gallery 13",
+  "bodyClass": "post-template-default single single-post postid-49 single-format-standard user-guest comic unknown single-category-covergallery single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Cover Gallery 13",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-05-24-Cover_Gallery_13.jpg"
+ }
+}

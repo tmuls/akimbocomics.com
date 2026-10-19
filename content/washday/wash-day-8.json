@@ -1,0 +1,60 @@
+{
+ "path": "/washday/wash-day-8/",
+ "series": "washday",
+ "slug": "wash-day-8",
+ "id": 306,
+ "title": "Wash Day 8",
+ "author": "emulsifier",
+ "date": "January 10, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-01-10T00:00:00",
+ "categories": [
+  {
+   "title": "Wash Day",
+   "href": "/washday/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-306 post type-post status-publish format-standard hentry category-washday uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-01-10-Wash_Day_8.jpg",
+   "alt": "Wash Day 8",
+   "title": "Wash Day 8"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/washday/wash-day-7/",
+  "next": "/washday/wash-day-9/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/washday/wash-day-7/",
+  "next": "/washday/wash-day-9/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 33870,
+   "author": "gian",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/8440d6f827d505fea938bc5a100de61a?s=64&d=identicon&r=r",
+   "time": "December 28, 2011 at 12:34 am",
+   "timeTitle": "Wednesday, December 28th, 2011, 12:34 am",
+   "html": "<p>&#8220;The more energy you expend- the more you further entropy&#8221;  Just AWESOME!<br />\nIt&#8217;s like someone bothered to make concrete my life&#8217;s philosophy because I was too lazy to finish formulating it into a formal&#8230; oh ill just finish this post later</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Wash Day 8",
+  "bodyClass": "post-template-default single single-post postid-306 single-format-standard user-guest comic unknown single-category-washday single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Wash Day 8",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-01-10-Wash_Day_8.jpg"
+ }
+}

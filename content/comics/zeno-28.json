@@ -1,0 +1,50 @@
+{
+ "path": "/comics/zeno-28/",
+ "series": "comics",
+ "slug": "zeno-28",
+ "id": 1334,
+ "title": "Zeno 28",
+ "author": "bpatrick",
+ "date": "March 8, 2000",
+ "time": "4:57 am",
+ "datetime": "2000-03-08T04:57:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1334 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2000-03-08-Zeno_28.jpg",
+   "alt": "Zeno 28",
+   "title": "Zeno 28"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/comics/zeno-27/",
+  "next": "/comics/zeno-29/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/comics/zeno-27/",
+  "next": "/comics/zeno-29/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Zeno 28",
+  "bodyClass": "post-template-default single single-post postid-1334 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Zeno 28",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2000-03-08-Zeno_28.jpg"
+ }
+}

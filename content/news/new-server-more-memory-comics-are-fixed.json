@@ -1,0 +1,76 @@
+{
+ "path": "/news/new-server-more-memory-comics-are-fixed/",
+ "series": "news",
+ "slug": "new-server-more-memory-comics-are-fixed",
+ "id": 892,
+ "title": "New server, more memory, comics are fixed",
+ "author": "emulsifier",
+ "date": "January 6, 2014",
+ "time": "7:07 pm",
+ "datetime": "2014-01-06T19:07:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>It will still probably crash when reddit shines it&#8217;s deathray in our direction, but hey comments are back at least.</p>",
+ "postClass": "post-892 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/fun-club-stuff/",
+  "next": "/news/old-site/"
+ },
+ "menuNav": {},
+ "commentCount": 4,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 363734,
+   "author": "tr8",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/c17b38d9caf2ef67ada86897027fa3d5?s=64&d=identicon&r=r",
+   "time": "January 6, 2014 at 9:43 pm",
+   "timeTitle": "Monday, January 6th, 2014, 9:43 pm",
+   "html": "<p>I&#8217;d guess that you need a CDN and caching much more than you need a beefier server. Even something free like CloudFlare and a simple nginx cache directive would probably make a massive difference. </p>\n<p>/unsolicited advice</p>"
+  },
+  {
+   "id": 366728,
+   "author": "emulsifier",
+   "url": "/",
+   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
+   "time": "January 7, 2014 at 6:27 pm",
+   "timeTitle": "Tuesday, January 7th, 2014, 6:27 pm",
+   "html": "<p>Oh hey thanks, I had no idea that there were free CDN providers.  Setting up now, thanks.</p>",
+   "byAuthor": "emulsifier"
+  },
+  {
+   "id": 785835,
+   "author": "Katze",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/16cd0f6b228bd6615b5982319f4369ae?s=64&d=identicon&r=r",
+   "time": "October 9, 2014 at 12:08 pm",
+   "timeTitle": "Thursday, October 9th, 2014, 12:08 pm",
+   "html": "<p>Hey, Emulsifier, I don&#8217;t know if you handle everything about the website.. but I wanted to mention to someone; the link to the &#8220;first&#8221; comic is identical to the link to the current/latest comic! There is no easy way to get to the first one to read the comics in order.. even in changing the URL, the very beginning isn&#8217;t ?p=1. I clicked through hundreds and eventually made it there, but it was very frustrating and might put new viewers off!</p>"
+  },
+  {
+   "id": 1009426,
+   "author": "The Lurker",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/0930ad3d1e5b15cf80ae45dd90f49789?s=64&d=identicon&r=r",
+   "time": "January 22, 2015 at 9:32 pm",
+   "timeTitle": "Thursday, January 22nd, 2015, 9:32 pm",
+   "html": "<p>Sorry for linking to the site on reddit. Someone posted one of your comics without crediting you so I just mentioned akimbocomics in the comments.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - New server, more memory, comics are fixed",
+  "bodyClass": "post-template-default single single-post postid-892 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "New server, more memory, comics are fixed",
+  "ogDescription": ""
+ }
+}

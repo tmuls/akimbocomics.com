@@ -1,0 +1,38 @@
+{
+ "path": "/news/redditted/",
+ "series": "news",
+ "slug": "redditted",
+ "id": 473,
+ "title": "Redditted",
+ "author": "emulsifier",
+ "date": "November 17, 2009",
+ "time": "5:29 pm",
+ "datetime": "2009-11-17T17:29:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Looks like we got reddited&#8230; sorry.</p>",
+ "postClass": "post-473 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/site-update/",
+  "next": "/news/server-updates/"
+ },
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Redditted",
+  "bodyClass": "post-template-default single single-post postid-473 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Redditted",
+  "ogDescription": ""
+ }
+}

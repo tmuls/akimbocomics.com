@@ -1,0 +1,54 @@
+{
+ "path": "/curiousurgency/curious-urgency-68/",
+ "series": "curiousurgency",
+ "slug": "curious-urgency-68",
+ "id": 1194,
+ "title": "Curious Urgency 68",
+ "author": "bpatrick",
+ "date": "November 3, 2015",
+ "time": "6:30 am",
+ "datetime": "2015-11-03T06:30:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  },
+  {
+   "title": "Curious Urgency",
+   "href": "/curiousurgency/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1194 post type-post status-publish format-standard hentry category-comics category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2015-11-03-Curious_Urgency_68.jpg",
+   "alt": "Curious Urgency 68",
+   "title": "Curious Urgency 68"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/curiousurgency/curious-urgency-67/",
+  "next": "/vivianblank/vivian-blank-23/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/curiousurgency/curious-urgency-67/",
+  "next": "/vivianblank/vivian-blank-23/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 68",
+  "bodyClass": "post-template-default single single-post postid-1194 single-format-standard user-guest comic unknown single-category-comics single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Curious Urgency 68",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2015-11-03-Curious_Urgency_68.jpg"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "path": "/comics/bonus-1/",
+ "series": "comics",
+ "slug": "bonus-1",
+ "id": 1111,
+ "title": "bonus 1",
+ "author": "bpatrick",
+ "date": "January 1, 2000",
+ "time": "4:19 pm",
+ "datetime": "2000-01-01T16:19:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>This is the bonus section! If you just stumbled here then congratulations and thanks for being so thorough! </p>",
+ "postClass": "post-1111 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2000-01-01-Bonus_Material_1.jpg",
+   "alt": "bonus 1",
+   "title": "bonus 1"
+  },
+  {
+   "src": "/linetool/line-tool-4-2/2000-01-01_Line_Tool_4.jpg",
+   "alt": "bonus 1",
+   "title": "bonus 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/linetool/line-tool-4-2/",
+  "next": "/comics/bonus-2/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/linetool/line-tool-4-2/",
+  "next": "/comics/bonus-2/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1085659,
+   "author": "bpatrick",
+   "url": "/",
+   "avatar": "http://0.gravatar.com/avatar/c088e8950f971823a1a7376d8da4d58c?s=64&d=identicon&r=r",
+   "time": "August 24, 2017 at 4:24 pm",
+   "timeTitle": "Thursday, August 24th, 2017, 4:24 pm",
+   "html": "<p>That racist ad is a bonus alternative racist ad from a comic. It&#8217;s not just some racism lying around. I&#8217;m not sure why it&#8217;s here and not somewhere else but&#8230;</p>",
+   "byAuthor": "bpatrick"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - bonus 1",
+  "bodyClass": "post-template-default single single-post postid-1111 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "bonus 1",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2000-01-01_Line_Tool_4.jpg"
+ }
+}

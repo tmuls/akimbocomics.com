@@ -1,5 +1,5 @@
 import { h } from '@stencil/core';
-import { Post } from '../../data/content';
+import { imageUrl, Post } from '../../data/content';
 
 /**
  * One post's title block, entry and tags, as the ComicPress theme laid it
@@ -54,15 +54,17 @@ export const PostBody = ({ post, link, commentLink }: { post: Post; link?: boole
   </div>
 );
 
-/** The comic image, in the theme's comic-wrap frame. */
+/** The comic image(s), in the theme's comic-wrap frame. */
 export const ComicImage = ({ post }: { post: Post }) => (
   <div id="comic-wrap" class={`comic-id-${post.id}`}>
     <div id="comic-head"></div>
     <div class="clear"></div>
     <div id="comic">
-      <div id="comic-1" class="comicpane">
-        <img src={post.image} alt={post.title} title={post.title} />
-      </div>
+      {post.images.map((img, i) => (
+        <div id={`comic-${i + 1}`} class="comicpane">
+          <img src={imageUrl(post, img)} alt={img.alt} title={img.title} />
+        </div>
+      ))}
     </div>
     <div class="clear"></div>
     <div id="comic-foot"></div>

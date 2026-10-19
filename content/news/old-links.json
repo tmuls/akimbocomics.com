@@ -1,0 +1,37 @@
+{
+ "path": "/news/old-links/",
+ "series": "news",
+ "slug": "old-links",
+ "id": 368,
+ "title": "Old links",
+ "author": "emulsifier",
+ "date": "June 2, 2009",
+ "time": "4:02 am",
+ "datetime": "2009-06-02T04:02:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>I was worried that all of the old links from reddit, digg, stumpleupon, etc.  Would not be available anymore.  I have made it so they still are (with some tradeoffs).  I am working on getting a widget in here for easy sharing, until then the good ol&#8217; copy + paste will work out just fine.</p>",
+ "postClass": "post-368 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "next": "/news/follow-us-on-twitter/"
+ },
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Old links",
+  "bodyClass": "post-template-default single single-post postid-368 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Old links",
+  "ogDescription": ""
+ }
+}

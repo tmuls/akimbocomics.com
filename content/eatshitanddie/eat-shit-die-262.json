@@ -1,0 +1,80 @@
+{
+ "path": "/eatshitanddie/eat-shit-die-262/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-die-262",
+ "id": 1092,
+ "title": "eat, shit & die 262",
+ "author": "bpatrick",
+ "date": "June 5, 2017",
+ "time": "2:21 am",
+ "datetime": "2017-06-05T02:21:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  },
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "sex",
+   "href": "/tag/sex/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-1092 post type-post status-publish format-standard hentry category-comics category-eatshitanddie tag-sex uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2017-06-05-Eat_Shit_And_Die_262.jpg",
+   "alt": "eat, shit & die 262",
+   "title": "eat, shit & die 262"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-die-261/",
+  "next": "/eatshitanddie/eat-shit-die-263/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-die-261/",
+  "next": "/eatshitanddie/eat-shit-die-263/"
+ },
+ "commentCount": 2,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1085657,
+   "author": "bpatrick",
+   "url": "/",
+   "avatar": "http://0.gravatar.com/avatar/c088e8950f971823a1a7376d8da4d58c?s=64&d=identicon&r=r",
+   "time": "June 5, 2017 at 2:29 am",
+   "timeTitle": "Monday, June 5th, 2017, 2:29 am",
+   "html": "<p>Sorry about all the dicks.</p>",
+   "byAuthor": "bpatrick"
+  },
+  {
+   "id": 1085658,
+   "author": "bpatrick",
+   "url": "/",
+   "avatar": "http://0.gravatar.com/avatar/c088e8950f971823a1a7376d8da4d58c?s=64&d=identicon&r=r",
+   "time": "June 5, 2017 at 8:41 pm",
+   "timeTitle": "Monday, June 5th, 2017, 8:41 pm",
+   "html": "<p>Apologies to J. for casting Burly Guy in his role.</p>",
+   "byAuthor": "bpatrick"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - eat, shit & die 262",
+  "bodyClass": "post-template-default single single-post postid-1092 single-format-standard user-guest comic unknown single-category-comics single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "eat, shit & die 262",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2017-06-05-Eat_Shit_And_Die_262.jpg"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "path": "/mannssearchformeenie/manns-search-for-meenie-7/",
+ "series": "mannssearchformeenie",
+ "slug": "manns-search-for-meenie-7",
+ "id": 245,
+ "title": "Manns Search For Meenie 7",
+ "author": "emulsifier",
+ "date": "November 12, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-11-12T00:00:00",
+ "categories": [
+  {
+   "title": "Manns search for Meenie",
+   "href": "/mannssearchformeenie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-245 post type-post status-publish format-standard hentry category-mannssearchformeenie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-11-12-Manns_Search_For_Meenie_7.jpg",
+   "alt": "Manns Search For Meenie 7",
+   "title": "Manns Search For Meenie 7"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/mannssearchformeenie/manns-search-for-meenie-6/",
+  "next": "/mannssearchformeenie/manns-search-for-meenie-8/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/mannssearchformeenie/manns-search-for-meenie-6/",
+  "next": "/mannssearchformeenie/manns-search-for-meenie-8/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Manns Search For Meenie 7",
+  "bodyClass": "post-template-default single single-post postid-245 single-format-standard user-guest comic unknown single-category-mannssearchformeenie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Manns Search For Meenie 7",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-11-12-Manns_Search_For_Meenie_7.jpg"
+ }
+}

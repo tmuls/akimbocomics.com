@@ -1,0 +1,65 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-116/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-116",
+ "id": 217,
+ "title": "Eat Shit And Die 116",
+ "author": "emulsifier",
+ "date": "October 17, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-10-17T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "funny animals",
+   "href": "/tag/funny-animals/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-217 post type-post status-publish format-standard hentry category-eatshitanddie tag-funny-animals uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-10-17-Eat_Shit_And_Die_116.jpg",
+   "alt": "Eat Shit And Die 116",
+   "title": "Eat Shit And Die 116"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-115/",
+  "next": "/eatshitanddie/eat-shit-and-die-117/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-115/",
+  "next": "/eatshitanddie/eat-shit-and-die-117/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 6363,
+   "author": "Dylan",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/e086f391f20b345dc9500986e1c04d31?s=64&d=identicon&r=r",
+   "time": "March 27, 2011 at 6:07 am",
+   "timeTitle": "Sunday, March 27th, 2011, 6:07 am",
+   "html": "<p>I&#8217;ve known people like that.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 116",
+  "bodyClass": "post-template-default single single-post postid-217 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 116",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-10-17-Eat_Shit_And_Die_116.jpg"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "path": "/bobandbob/bob-and-bob-7/",
+ "series": "bobandbob",
+ "slug": "bob-and-bob-7",
+ "id": 17,
+ "title": "Bob And Bob 7",
+ "author": "emulsifier",
+ "date": "April 24, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-04-24T00:00:00",
+ "categories": [
+  {
+   "title": "Bob and Bob",
+   "href": "/bobandbob/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-17 post type-post status-publish format-standard hentry category-bobandbob uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-04-24-Bob_And_Bob_7.jpg",
+   "alt": "Bob And Bob 7",
+   "title": "Bob And Bob 7"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/bobandbob/bob-and-bob-6/",
+  "next": "/bobandbob/bob-and-bob-8/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/bobandbob/bob-and-bob-6/",
+  "next": "/bobandbob/bob-and-bob-8/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 2595,
+   "author": "exevil",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/b1f32c2e135a96b6563afaf0de2fb0c9?s=64&d=identicon&r=r",
+   "time": "June 5, 2010 at 9:59 pm",
+   "timeTitle": "Saturday, June 5th, 2010, 9:59 pm",
+   "html": "<p>Sonny Bono shirt with a tree, classic</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bob And Bob 7",
+  "bodyClass": "post-template-default single single-post postid-17 single-format-standard user-guest comic unknown single-category-bobandbob single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Bob And Bob 7",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-04-24-Bob_And_Bob_7.jpg"
+ }
+}

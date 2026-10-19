@@ -1,0 +1,50 @@
+{
+ "path": "/comics/bonus-18-the-badness-4/",
+ "series": "comics",
+ "slug": "bonus-18-the-badness-4",
+ "id": 1148,
+ "title": "Bonus 18: The Badness 4",
+ "author": "bpatrick",
+ "date": "January 18, 2000",
+ "time": "3:28 pm",
+ "datetime": "2000-01-18T15:28:00",
+ "categories": [
+  {
+   "title": "Comics",
+   "href": "/comics/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1148 post type-post status-publish format-standard hentry category-comics uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2000-01-18-Badness_4.jpg",
+   "alt": "Bonus 18: The Badness 4",
+   "title": "Bonus 18: The Badness 4"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/comics/bonus-17-the-badness-3/",
+  "next": "/comics/bonus-19-the-badness-5/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/comics/bonus-17-the-badness-3/",
+  "next": "/comics/bonus-19-the-badness-5/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bonus 18: The Badness 4",
+  "bodyClass": "post-template-default single single-post postid-1148 single-format-standard user-guest comic unknown single-category-comics single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Bonus 18: The Badness 4",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2000-01-18-Badness_4.jpg"
+ }
+}

@@ -6,7 +6,7 @@ Nothing here is served yet: production still serves `../site/`.
 
 ```
 npm ci
-npm run build     # extract content from ../site, then stencil build --prerender -> www/
+npm run build     # bundle ../content into src/data, then stencil build --prerender -> www/
 npm run verify    # pages at known URLs, no <script>, every local link resolves
 ```
 
@@ -17,8 +17,15 @@ Milestone 0 (spike) renders the home page, three Eat Shit and Die posts,
 the series listing with all its pages, and the five news posts on the home
 page. Other links point at pages only `../site/` has for now.
 
-- `scripts/spike-extract.py`: throwaway extractor that writes
-  `src/data/content.json` from `../site/` (milestone 1 replaces it).
+- `../content/`: the site's content as committed data, one JSON file per
+  post (`<series>/<slug>.json`), page, listing, plus `home.json`/`site.json`.
+- `scripts/extract-content.py`: wrote `../content/` from `../site/` and
+  checks the round-trip totals (`npm run extract`, or `-- --check` to
+  confirm the data still matches `../site/`). One-time: once generated
+  pages replace `../site/`, `../content/` is edited directly.
+- `scripts/bundle-content.mjs`: gathers `../content/` into
+  `src/data/content.json` (gitignored) for the components and configs, and
+  picks which URLs to prerender.
 - `src/components/akimbo-app`: the router (one component per path).
 - `src/components/site-shell`: header image, menu bar, sidebar, footer.
 - `src/css/akimbo.css`: the one shared stylesheet, served at `/css/akimbo.css`.

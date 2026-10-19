@@ -1,0 +1,60 @@
+{
+ "path": "/linetool/line-tool-1/",
+ "series": "linetool",
+ "slug": "line-tool-1",
+ "id": 444,
+ "title": "Line Tool 1",
+ "author": "emulsifier",
+ "date": "August 12, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-08-12T00:00:00",
+ "categories": [
+  {
+   "title": "Line Tool",
+   "href": "/linetool/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Brian is still in the processing of moving into his new place, he is also getting ready for grad school and presumably has a ton of shit to get done.  He STUPIDLY gave me permission to post a comic of some sort, and I have ZERO artistic ability.  Hopefully I can fill in ok.  This comic is based on my observations of Akimbo and Brian&#8217;s art and storytelling over the last few years.</p>\n<p>I figured since most webcomics these days contain copious amounts of stick figures, most people will forgive me for this one.  I don&#8217;t have photoshop, and if I did I would SUCK at it.  So here are my Akimbo observations done entirely in paint.net</p>",
+ "postClass": "post-444 post type-post status-publish format-standard hentry category-linetool uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-08-12-Line_Tool_1.jpg",
+   "alt": "Line Tool 1",
+   "title": "Line Tool 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/curiousurgency/curious-urgency-32/",
+  "next": "/eatshitanddie/eat-shit-and-die-140/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/curiousurgency/curious-urgency-32/",
+  "next": "/eatshitanddie/eat-shit-and-die-140/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 235,
+   "author": "b.patrick",
+   "url": "/",
+   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
+   "time": "August 12, 2009 at 4:47 pm",
+   "timeTitle": "Wednesday, August 12th, 2009, 4:47 pm",
+   "html": "<p>Man, that is bleak! Hilarious! Thanks for filling in, Rex. I found a place and should be back up and running very soon.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Line Tool 1",
+  "bodyClass": "post-template-default single single-post postid-444 single-format-standard user-guest comic unknown single-category-linetool single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Line Tool 1",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-08-12-Line_Tool_1.jpg"
+ }
+}

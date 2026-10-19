@@ -72,7 +72,7 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
    beside them, and produce pages that render fully with JS disabled. If it
    can't do this cleanly, stop and discuss alternatives with the user before
    building on it.
-1. **Extract content**: script that parses `site/**/index.html` into data
+1. **Extract content** (done 2026-10-18): script that parses `site/**/index.html` into data
    (e.g. `content/<series>/<slug>.json`), including comments and image
    names. Commit the data; verify round-trip counts (618 posts, 1 page,
    all comments, all images).
@@ -115,6 +115,27 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
   "RSS"/"Subscribe: RSS" with no feed behind it, WordPress "N queries" debug
   line, hidden "Cancel reply") are dropped. The old JS/CSS files stay served
   for their known URLs. Ask the user before adding any script back.
+- 2026-10-18 (milestone 1): Content lives in `content/` at the repo root,
+  one pretty-printed JSON file per record so diffs stay readable:
+  `content/<series>/<slug>.json` (posts), `content/pages/about.json`,
+  `content/listings/<path>.json` (category/tag/author listings with all
+  their `page/N/` entries merged), `content/home.json`, `content/site.json`
+  (title, menu, sidebar widgets), `content/emulsifier-online.json`.
+  `stencil/scripts/extract-content.py` wrote it (stdlib only, via the small
+  `htmltree.py` parser) and `--check` re-extracts and fails if it's stale.
+  `stencil/scripts/bundle-content.mjs` gathers it into the gitignored
+  `src/data/content.json` at build time; components import that through
+  `src/data/content.ts`.
+- 2026-10-18 (milestone 1): Entry, comment and profile HTML is kept byte for
+  byte as WordPress wrote it, except href/src/srcset made root-relative and
+  the Facebook like box dropped. A post's comic images are
+  `images: [{src, alt, title}]`, `src` a URL relative to the post's folder
+  (just the file name; root-relative for the 2 posts reusing another
+  post's image). Comments and pingbacks are separate lists (the theme shows
+  pingbacks under "Pings & Trackbacks"); `commentCount` is the
+  "Discussion (N)" number (null when there was no heading). Each page's
+  `<title>`, body class, og: meta and post class are kept in `head` /
+  `postClass` for parity work. Commenters' microid hashes are not kept.
 - 2026-10-18: Changes are previewed on stage.akimbocomics.com (the `stage`
   branch, built by hand with the "Build stage image" workflow) before
   merging to `main`.
@@ -123,6 +144,39 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
+
+- 2026-10-18: **Milestone 1 (extract content) done.** `content/` (668 JSON
+  files, 3.5 MB) holds every page of `site/`; `extract-content.py` replaced
+  the spike's regex prototype and verifies on every run: 618 posts (587
+  comic, 31 news), 1 page, all 1893 comment/pingback ids in `site/` exactly
+  once (each post's "Discussion (N)" matches), all 601 image files in post
+  folders named by their post, 34 emulsifier-online images, 46 listings
+  (every entry is a known post with the same title, totals match "N
+  results"), 7 home pages (no home excerpts: blog index shows full bodies),
+  one identical sidebar and menu on every page. The spike build reads the
+  new data and still passes `npm run verify` (41 pages); its output is
+  unchanged except comment authors without a website, which the spike
+  wrongly linked to the post itself.
+  - Surprises: 12 posts have two comic panes (`comic-1`, `comic-2`); 2
+    posts reuse another post's image (e.g. `/comics/bonus-1/`); 2 posts
+    (`eat-shit-and-die-164`, `-202`) have paged comments at
+    `/comment-page-1/`, `/comment-page-2/` (post URL shows the last page;
+    each comment has `page`); pingbacks sit in their own "Pings &
+    Trackbacks" list and a post with only pingbacks has no "Discussion"
+    heading; "Discussion" without a number means 1. Author pages aren't
+    plain listings: avatar, "Registered on ..." bio, then "Posts by X (N)"
+    (kept as `profile` + `heading`). Every comment is closed: 621 pages
+    show the login-only box saying "Comments are closed.", 2 news posts the
+    plain `nocomments` line (`commentsOpen` distinguishes them). The home
+    page's nav "Previous" goes to `/comics/xxxxafadionv90239u/`, the
+    newest post, not the newest comic's previous. No threaded comments.
+  - `www/build/*.js` now embeds all the data (~1.9 MB) though pages load
+    none of it; decide in milestone 4 whether to strip `build/`.
+  - Next: milestone 2 (shared CSS), then milestone 3 renders every post,
+    page, listing, comment page, tag/author page and home `/page/N/` from
+    `content/` (`render` in `bundle-content.mjs` still lists only the
+    spike's pages). Until `site/` is replaced, run
+    `npm run extract -- --check` after any `site/` edit (or re-extract).
 
 - 2026-10-18: **Milestone 0 (spike) done: Stencil works for this.** On
   branch `stencil`, `stencil/` prerenders 41 pages: `/`, three posts

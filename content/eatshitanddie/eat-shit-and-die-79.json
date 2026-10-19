@@ -1,0 +1,65 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-79/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-79",
+ "id": 179,
+ "title": "Eat Shit And Die 79",
+ "author": "emulsifier",
+ "date": "September 10, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-09-10T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [
+  {
+   "title": "funny animals",
+   "href": "/tag/funny-animals/"
+  }
+ ],
+ "html": "",
+ "postClass": "post-179 post type-post status-publish format-standard hentry category-eatshitanddie tag-funny-animals uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-09-10-Eat_Shit_And_Die_79.jpg",
+   "alt": "Eat Shit And Die 79",
+   "title": "Eat Shit And Die 79"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-78-2/",
+  "next": "/eatshitanddie/eat-shit-and-die-80/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-78-2/",
+  "next": "/eatshitanddie/eat-shit-and-die-80/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 6204,
+   "author": "Dylan",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/e086f391f20b345dc9500986e1c04d31?s=64&d=identicon&r=r",
+   "time": "March 17, 2011 at 11:40 pm",
+   "timeTitle": "Thursday, March 17th, 2011, 11:40 pm",
+   "html": "<p>I think I enjoy these funny animals more than I should</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 79",
+  "bodyClass": "post-template-default single single-post postid-179 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 79",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-09-10-Eat_Shit_And_Die_79.jpg"
+ }
+}

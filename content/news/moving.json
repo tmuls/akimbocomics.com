@@ -1,0 +1,38 @@
+{
+ "path": "/news/moving/",
+ "series": "news",
+ "slug": "moving",
+ "id": 437,
+ "title": "Moving",
+ "author": "bpatrick",
+ "date": "July 27, 2009",
+ "time": "6:30 am",
+ "datetime": "2009-07-27T06:30:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>That&#8217;s it. I&#8217;ll be off-line &#8217;til I get a new place. See you soon.</p>",
+ "postClass": "post-437 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-bpatrick",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/heroes-of-newerth/",
+  "next": "/news/reddited/"
+ },
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Moving",
+  "bodyClass": "post-template-default single single-post postid-437 single-format-standard user-guest noncomic unknown single-category-news single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Moving",
+  "ogDescription": ""
+ }
+}

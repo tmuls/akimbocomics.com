@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-60/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-60",
+ "id": 159,
+ "title": "Eat Shit And Die 60",
+ "author": "emulsifier",
+ "date": "August 22, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-08-22T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-159 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-08-22-Eat_Shit_And_Die_60.jpg",
+   "alt": "Eat Shit And Die 60",
+   "title": "Eat Shit And Die 60"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-59/",
+  "next": "/eatshitanddie/eat-shit-and-die-61/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-59/",
+  "next": "/eatshitanddie/eat-shit-and-die-61/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 97661,
+   "author": "DanteMXII",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/225f77f788d923732e46431ed113c1ab?s=64&d=identicon&r=r",
+   "time": "September 11, 2012 at 9:32 pm",
+   "timeTitle": "Tuesday, September 11th, 2012, 9:32 pm",
+   "html": "<p>haha</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 60",
+  "bodyClass": "post-template-default single single-post postid-159 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 60",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-08-22-Eat_Shit_And_Die_60.jpg"
+ }
+}

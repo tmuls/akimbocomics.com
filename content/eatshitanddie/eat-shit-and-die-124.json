@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-124/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-124",
+ "id": 341,
+ "title": "Eat Shit And Die 124",
+ "author": "bpatrick",
+ "date": "February 2, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-02-02T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-341 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-02-02-Eat_Shit_And_Die_124.jpg",
+   "alt": "Eat Shit And Die 124",
+   "title": "Eat Shit And Die 124"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/camillabarnes/camilla-barnes-5/",
+  "next": "/eatshitanddie/eat-shit-and-die-125/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/camillabarnes/camilla-barnes-5/",
+  "next": "/eatshitanddie/eat-shit-and-die-125/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 5596,
+   "author": "Matteus",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/61ebba493161b81a51edcdefeaede2f2?s=64&d=identicon&r=r",
+   "time": "February 6, 2011 at 8:57 am",
+   "timeTitle": "Sunday, February 6th, 2011, 8:57 am",
+   "html": "<p>Captain Obvious strikes again!</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 124",
+  "bodyClass": "post-template-default single single-post postid-341 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 124",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-02-02-Eat_Shit_And_Die_124.jpg"
+ }
+}

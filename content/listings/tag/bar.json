@@ -1,0 +1,18 @@
+{
+ "path": "/tag/bar/",
+ "kind": "tag",
+ "heading": "Posts Tagged ‘Bar’",
+ "title": "Bar",
+ "pages": 1,
+ "entries": [
+  {
+   "date": "Mar 08, 2018",
+   "href": "/eatshitanddie/eat-shit-die-276/",
+   "title": "eat, shit & die 276"
+  }
+ ],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bar",
+  "bodyClass": "archive tag tag-bar tag-53 user-guest unknown pm night evening sun layout-2cvr"
+ }
+}

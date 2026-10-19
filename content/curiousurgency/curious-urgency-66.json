@@ -1,0 +1,60 @@
+{
+ "path": "/curiousurgency/curious-urgency-66/",
+ "series": "curiousurgency",
+ "slug": "curious-urgency-66",
+ "id": 1045,
+ "title": "Curious Urgency 66",
+ "author": "bpatrick",
+ "date": "November 1, 2015",
+ "time": "12:00 am",
+ "datetime": "2015-11-01T00:00:00",
+ "categories": [
+  {
+   "title": "Curious Urgency",
+   "href": "/curiousurgency/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-1045 post type-post status-publish format-standard hentry category-curiousurgency uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2015-11-01-Curious_Urgency_66.jpg",
+   "alt": "Curious Urgency 66",
+   "title": "Curious Urgency 66"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-246/",
+  "next": "/curiousurgency/curious-urgency-67/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-246/",
+  "next": "/curiousurgency/curious-urgency-67/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 1085002,
+   "author": "Robert",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/69f2d6e370053f10051782e3635c4a95?s=64&d=identicon&r=r",
+   "time": "January 8, 2016 at 3:51 pm",
+   "timeTitle": "Friday, January 8th, 2016, 3:51 pm",
+   "html": "<p>How did you sneak a Curious Urgency in there&#8230;<br />\nI have been missing your updates. Thank you.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Curious Urgency 66",
+  "bodyClass": "post-template-default single single-post postid-1045 single-format-standard user-guest comic unknown single-category-curiousurgency single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Curious Urgency 66",
+  "ogDescription": "",
+  "ogImage": "/comics-mini/2015-11-01-Curious_Urgency_66.jpg"
+ }
+}

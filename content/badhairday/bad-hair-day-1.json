@@ -1,0 +1,50 @@
+{
+ "path": "/badhairday/bad-hair-day-1/",
+ "series": "badhairday",
+ "slug": "bad-hair-day-1",
+ "id": 4,
+ "title": "Bad Hair Day 1",
+ "author": "emulsifier",
+ "date": "April 15, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-04-15T00:00:00",
+ "categories": [
+  {
+   "title": "Bad Hair Day",
+   "href": "/badhairday/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Bad Hair Day #1</p>",
+ "postClass": "post-4 post type-post status-publish format-standard hentry category-badhairday uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-04-15-Bad_Hair_Day_1.jpg",
+   "alt": "Bad Hair Day 1",
+   "title": "Bad Hair Day 1"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/agoodstory/a-good-story-1/",
+  "next": "/badhairday/bad-hair-day-2/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/agoodstory/a-good-story-1/",
+  "next": "/badhairday/bad-hair-day-2/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Bad Hair Day 1",
+  "bodyClass": "post-template-default single single-post postid-4 single-format-standard user-guest comic unknown single-category-badhairday single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Bad Hair Day 1",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-04-15-Bad_Hair_Day_1.jpg"
+ }
+}

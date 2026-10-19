@@ -1,0 +1,50 @@
+{
+ "path": "/covergallery/cover-gallery-3/",
+ "series": "covergallery",
+ "slug": "cover-gallery-3",
+ "id": 39,
+ "title": "Cover Gallery 3",
+ "author": "emulsifier",
+ "date": "May 14, 2008",
+ "time": "12:00 am",
+ "datetime": "2008-05-14T00:00:00",
+ "categories": [
+  {
+   "title": "Cover Gallery",
+   "href": "/covergallery/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-39 post type-post status-publish format-standard hentry category-covergallery uentry post-comic postonpage-1 odd post-author-emulsifier",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2008-05-14-Cover_Gallery_3.jpg",
+   "alt": "Cover Gallery 3",
+   "title": "Cover Gallery 3"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/covergallery/cover-gallery-2/",
+  "next": "/covergallery/cover-gallery-4/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/covergallery/cover-gallery-2/",
+  "next": "/covergallery/cover-gallery-4/"
+ },
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Cover Gallery 3",
+  "bodyClass": "post-template-default single single-post postid-39 single-format-standard user-guest comic unknown single-category-covergallery single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Cover Gallery 3",
+  "ogDescription": "",
+  "ogImage": "//comic/2008-05-14-Cover_Gallery_3.jpg"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-127/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-127",
+ "id": 344,
+ "title": "Eat Shit And Die 127",
+ "author": "bpatrick",
+ "date": "February 5, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-02-05T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "",
+ "postClass": "post-344 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-02-05-Eat_Shit_And_Die_127.jpg",
+   "alt": "Eat Shit And Die 127",
+   "title": "Eat Shit And Die 127"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/eatshitanddie/eat-shit-and-die-126/",
+  "next": "/eatshitanddie/eat-shit-and-die-128/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/eatshitanddie/eat-shit-and-die-126/",
+  "next": "/eatshitanddie/eat-shit-and-die-128/"
+ },
+ "commentCount": 1,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 93393,
+   "author": "Laura Z",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/6ae4642742140451d7749ec4660ef6e5?s=64&d=identicon&r=r",
+   "time": "August 13, 2012 at 5:05 am",
+   "timeTitle": "Monday, August 13th, 2012, 5:05 am",
+   "html": "<p>I love how you kept their color schemes pretty much the same throughout the switch.</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 127",
+  "bodyClass": "post-template-default single single-post postid-344 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 127",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-02-05-Eat_Shit_And_Die_127.jpg"
+ }
+}

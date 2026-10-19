@@ -1,0 +1,162 @@
+{
+ "title": "Akimbo Comics – Comics Everyone Can Hate",
+ "menu": [
+  {
+   "title": "About",
+   "href": "/about/"
+  }
+ ],
+ "sidebar": [
+  {
+   "class": "comicpress_latest_comics_widget",
+   "id": "comicpress_latest_comics_widget-2",
+   "items": [
+    {
+     "href": "/eatshitanddie/eat-shit-die-309/",
+     "title": "eat, shit & die 309"
+    },
+    {
+     "href": "/comics/xxxxafadionv90239u/",
+     "title": "xxXXafadionv90239u"
+    },
+    {
+     "href": "/eatshitanddie/eat-shit-die-308/",
+     "title": "eat, shit & die 308"
+    },
+    {
+     "href": "/eatshitanddie/eat-shit-and-die-307/",
+     "title": "eat, shit and die 307"
+    },
+    {
+     "href": "/eatshitanddie/eat-shit-die-306/",
+     "title": "eat, shit & die 306"
+    }
+   ],
+   "title": "Latest Comics"
+  },
+  {
+   "class": "widget_categories",
+   "id": "categories-447715191",
+   "items": [
+    {
+     "href": "/agoodstory/",
+     "id": 6,
+     "title": "A Good Story"
+    },
+    {
+     "href": "/badhairday/",
+     "id": 7,
+     "title": "Bad Hair Day"
+    },
+    {
+     "href": "/bellyofthefish/",
+     "id": 8,
+     "title": "Belly of the Fish"
+    },
+    {
+     "href": "/bobandbob/",
+     "id": 9,
+     "title": "Bob and Bob"
+    },
+    {
+     "href": "/burlapsack/",
+     "id": 10,
+     "title": "Burlap Sack"
+    },
+    {
+     "href": "/camillabarnes/",
+     "id": 11,
+     "title": "Camilla Barnes"
+    },
+    {
+     "href": "/camillabarnes2/",
+     "id": 40,
+     "title": "Camilla Barnes 2"
+    },
+    {
+     "href": "/claustromania/",
+     "id": 12,
+     "title": "Claustromania"
+    },
+    {
+     "href": "/comics/",
+     "id": 3,
+     "title": "Comics"
+    },
+    {
+     "href": "/covergallery/",
+     "id": 13,
+     "title": "Cover Gallery"
+    },
+    {
+     "href": "/curiousurgency/",
+     "id": 22,
+     "title": "Curious Urgency"
+    },
+    {
+     "href": "/eatshitanddie/",
+     "id": 4,
+     "title": "Eat Shit and Die"
+    },
+    {
+     "href": "/fan-art/",
+     "id": 46,
+     "title": "Fan Art"
+    },
+    {
+     "href": "/imsureidontknow/",
+     "id": 15,
+     "title": "I'm sure I don't know"
+    },
+    {
+     "description": "For when Brian is taking his sweet ass time moving to Ohio...",
+     "href": "/linetool/",
+     "id": 34,
+     "title": "Line Tool"
+    },
+    {
+     "href": "/mannssearchformeenie/",
+     "id": 16,
+     "title": "Manns search for Meenie"
+    },
+    {
+     "href": "/my_boyfriend_smells/",
+     "id": 23,
+     "title": "My Boyfriend Smells"
+    },
+    {
+     "href": "/news/",
+     "id": 1,
+     "title": "News"
+    },
+    {
+     "href": "/really_deep_down/",
+     "id": 24,
+     "title": "Really Deep Down"
+    },
+    {
+     "href": "/secondcallback/",
+     "id": 17,
+     "title": "Second Call Back"
+    },
+    {
+     "href": "/strangeadmission/",
+     "id": 18,
+     "title": "Strange Admission"
+    },
+    {
+     "href": "/vivianblank/",
+     "id": 19,
+     "title": "Vivian Blank"
+    },
+    {
+     "href": "/washday/",
+     "id": 20,
+     "title": "Wash Day"
+    }
+   ],
+   "title": "Categories"
+  }
+ ],
+ "listingPerPage": 10
+}

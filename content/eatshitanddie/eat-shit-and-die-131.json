@@ -1,0 +1,106 @@
+{
+ "path": "/eatshitanddie/eat-shit-and-die-131/",
+ "series": "eatshitanddie",
+ "slug": "eat-shit-and-die-131",
+ "id": 356,
+ "title": "Eat Shit And Die 131",
+ "author": "bpatrick",
+ "date": "May 31, 2009",
+ "time": "12:00 am",
+ "datetime": "2009-05-31T00:00:00",
+ "categories": [
+  {
+   "title": "Eat Shit and Die",
+   "href": "/eatshitanddie/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>Welcome to the new site! We have Emulsifier to thank for this awesomeness. He kicks ass. We now have a &#8220;comments&#8221; feature which I welcome (implore) you to use. There may be a few wrinkles to iron out yet but enjoy! Today&#8217;s comic shows a softer side of the usually tough-as-nails Shannon.</p>",
+ "postClass": "post-356 post type-post status-publish format-standard hentry category-eatshitanddie uentry post-comic postonpage-1 odd post-author-bpatrick",
+ "type": "comic",
+ "images": [
+  {
+   "src": "2009-05-31-Eat_Shit_And_Die-131.jpg",
+   "alt": "Eat Shit And Die 131",
+   "title": "Eat Shit And Die 131"
+  }
+ ],
+ "nav": {
+  "first": "/eatshitanddie/eat-shit-die-309/",
+  "previous": "/really_deep_down/really-deep-down-2/",
+  "next": "/eatshitanddie/eat-shit-and-die-132/",
+  "last": "/eatshitanddie/eat-shit-die-309/"
+ },
+ "menuNav": {
+  "previous": "/really_deep_down/really-deep-down-2/",
+  "next": "/eatshitanddie/eat-shit-and-die-132/"
+ },
+ "commentCount": 6,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 3,
+   "author": "emulsifier",
+   "url": "/",
+   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
+   "time": "June 1, 2009 at 1:33 pm",
+   "timeTitle": "Monday, June 1st, 2009, 1:33 pm",
+   "html": "<p>Hey guys, we are now using comicpress to power the site instead of the stuff I wrote.  The old site is still available (for now) at <a href=\"/\" rel=\"nofollow\">akimbocomics.com</a>.  I am also working on figuring out how to configure apache to still have the old comic links available so that bookmarks etc. don&#8217;t go away.  Please subscribe to the RSS feed with the link above, more changes will be on the way.</p>",
+   "byAuthor": "emulsifier"
+  },
+  {
+   "id": 4,
+   "author": "Winston Rowntree",
+   "url": "http://www.viruscomix.com",
+   "avatar": "http://2.gravatar.com/avatar/2aa941a26d1905164304c2586ecb0dcd?s=64&d=identicon&r=r",
+   "time": "June 1, 2009 at 5:16 pm",
+   "timeTitle": "Monday, June 1st, 2009, 5:16 pm",
+   "html": "<p>Wicked, man! Finally a comments feature, plus the comic ain&#8217;t bad neither.</p>"
+  },
+  {
+   "id": 5,
+   "author": "b.patrick",
+   "url": "/",
+   "avatar": "http://2.gravatar.com/avatar/509f1bc9ef479945bcfeccef09df4904?s=64&d=identicon&r=r",
+   "time": "June 1, 2009 at 6:41 pm",
+   "timeTitle": "Monday, June 1st, 2009, 6:41 pm",
+   "html": "<p>Thanks, Winston! I&#8217;m excited about the comments feature &#8211; you have the honors of being the first!</p>"
+  },
+  {
+   "id": 6,
+   "author": "speearr",
+   "url": "http://tijuana.tntcomic.net",
+   "avatar": "http://0.gravatar.com/avatar/f444e0c7b3dfa21fde03ea73f3d42bb5?s=64&d=identicon&r=r",
+   "time": "June 1, 2009 at 11:09 pm",
+   "timeTitle": "Monday, June 1st, 2009, 11:09 pm",
+   "html": "<p>Finally, dude! Congrats on the comment feature.</p>"
+  },
+  {
+   "id": 7,
+   "author": "Aphex",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/7e59c630d8561dca1f943d9a8d59855d?s=64&d=identicon&r=r",
+   "time": "June 6, 2009 at 9:43 am",
+   "timeTitle": "Saturday, June 6th, 2009, 9:43 am",
+   "html": "<p>Nice layout + everything is accessible and well organized. Very nice. Gonna subscribe to RSS right now.<br />\nCheers</p>"
+  },
+  {
+   "id": 923,
+   "author": "Renee",
+   "url": null,
+   "avatar": "http://1.gravatar.com/avatar/a384eaa61d229c7577663f82193e9383?s=64&d=identicon&r=r",
+   "time": "October 11, 2009 at 9:15 am",
+   "timeTitle": "Sunday, October 11th, 2009, 9:15 am",
+   "html": "<p>I have to say I really liked this one. 🙂</p>"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Eat Shit And Die 131",
+  "bodyClass": "post-template-default single single-post postid-356 single-format-standard user-guest comic unknown single-category-eatshitanddie single-author-bpatrick pm night evening sun layout-2cvr",
+  "ogTitle": "Eat Shit And Die 131",
+  "ogDescription": "",
+  "ogImage": "//comic/2009-05-31-Eat_Shit_And_Die-131.jpg"
+ }
+}

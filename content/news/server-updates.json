@@ -1,0 +1,38 @@
+{
+ "path": "/news/server-updates/",
+ "series": "news",
+ "slug": "server-updates",
+ "id": 477,
+ "title": "Server updates",
+ "author": "emulsifier",
+ "date": "December 4, 2009",
+ "time": "5:39 am",
+ "datetime": "2009-12-04T05:39:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>I fixed a bunch of stuff on the server, it should be more stable now.  Which means keep submitting us to reddit and stumbleupon.  Thanks guys!</p>",
+ "postClass": "post-477 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/redditted/",
+  "next": "/news/new-server/"
+ },
+ "menuNav": {},
+ "commentCount": null,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Server updates",
+  "bodyClass": "post-template-default single single-post postid-477 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Server updates",
+  "ogDescription": ""
+ }
+}

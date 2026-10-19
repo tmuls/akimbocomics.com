@@ -1,0 +1,86 @@
+{
+ "path": "/news/heroes-of-newerth/",
+ "series": "news",
+ "slug": "heroes-of-newerth",
+ "id": 429,
+ "title": "Heroes of Newerth",
+ "author": "emulsifier",
+ "date": "July 23, 2009",
+ "time": "5:02 am",
+ "datetime": "2009-07-23T05:02:00",
+ "categories": [
+  {
+   "title": "News",
+   "href": "/news/"
+  }
+ ],
+ "tags": [],
+ "html": "<p>I know this isn&#8217;t a webcomic about gaming, but I play a lot of games, and I&#8217;ve got 3 beta keys for HoN available.  Reply to this thread and give us some feedback on what you&#8217;d like to see done with the site and which comic you want to see updated next (and possibly why) if you are interested in one.  Once you get the key, be sure to find me in game.  My handle is, of course, emulsifier.</p>",
+ "postClass": "post-429 post type-post status-publish format-standard hentry category-news uentry post-blog postonpage-1 odd post-author-emulsifier",
+ "type": "news",
+ "images": [],
+ "nav": {
+  "previous": "/news/downtime/",
+  "next": "/news/moving/"
+ },
+ "menuNav": {},
+ "commentCount": 5,
+ "commentsOpen": true,
+ "commentPages": 1,
+ "comments": [
+  {
+   "id": 120,
+   "author": "MyBoggy",
+   "url": null,
+   "avatar": "http://2.gravatar.com/avatar/e79a0e3553cfc901271eadb0f243f9f0?s=64&d=identicon&r=r",
+   "time": "July 23, 2009 at 3:42 pm",
+   "timeTitle": "Thursday, July 23rd, 2009, 3:42 pm",
+   "html": "<p>The one about the guy who stuffs bugs up his nose! The one about the guy who stuffs bugs up his nose!</p>"
+  },
+  {
+   "id": 169,
+   "author": "emulsifier",
+   "url": "/",
+   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
+   "time": "August 4, 2009 at 4:51 am",
+   "timeTitle": "Tuesday, August 4th, 2009, 4:51 am",
+   "html": "<p>MyBoggy: Enjoy your invite!</p>",
+   "byAuthor": "emulsifier"
+  },
+  {
+   "id": 1150,
+   "author": "noshoesnoshirt",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/600102651bc2864529724b5560b1d0a4?s=64&d=identicon&r=r",
+   "time": "November 20, 2009 at 12:15 am",
+   "timeTitle": "Friday, November 20th, 2009, 12:15 am",
+   "html": "<p>Curious Urgency, absolutely.  Gotta know where it&#8217;s going.</p>"
+  },
+  {
+   "id": 1190,
+   "author": "baslisks",
+   "url": null,
+   "avatar": "http://0.gravatar.com/avatar/cd54407fc9a7122e60ba8bbb6b5e69e7?s=64&d=identicon&r=r",
+   "time": "December 2, 2009 at 11:08 am",
+   "timeTitle": "Wednesday, December 2nd, 2009, 11:08 am",
+   "html": "<p>can&#8217;t stand that game&#8230;.. the dota crowd pisses me off to no end.</p>"
+  },
+  {
+   "id": 1192,
+   "author": "emulsifier",
+   "url": "/",
+   "avatar": "http://0.gravatar.com/avatar/cd7434b888539623dcbb7ea85f17b601?s=64&d=identicon&r=r",
+   "time": "December 2, 2009 at 2:37 pm",
+   "timeTitle": "Wednesday, December 2nd, 2009, 2:37 pm",
+   "html": "<p>Yeah, I&#8217;ve switched to League of Legends for my fix, community is much better and it has MATCHMAKING.</p>",
+   "byAuthor": "emulsifier"
+  }
+ ],
+ "pingbacks": [],
+ "head": {
+  "title": "Akimbo Comics – Comics Everyone Can Hate - Heroes of Newerth",
+  "bodyClass": "post-template-default single single-post postid-429 single-format-standard user-guest noncomic unknown single-category-news single-author-emulsifier pm night evening sun layout-2cvr",
+  "ogTitle": "Heroes of Newerth",
+  "ogDescription": ""
+ }
+}
