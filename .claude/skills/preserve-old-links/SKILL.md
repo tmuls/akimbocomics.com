@@ -1,6 +1,6 @@
 ---
 name: preserve-old-links
-description: Keep every old akimbocomics.com URL working. Use for ANY change that moves, renames, merges, deletes or regenerates pages, images, CSS/JS or folders in site/ (or a generated build output), changes URL structure, or touches url-map.csv, known-urls.txt, nginx redirects or the build. Covers updating url-map.csv, regenerating redirects, and verifying nothing broke.
+description: Keep every old akimbocomics.com URL working. Use for ANY change that moves, renames, merges, deletes or regenerates pages, images, CSS/JS or folders in site/ (or a generated build output), changes URL structure, or touches url-map.csv, known-urls.txt, nginx redirects or the build. Also how to preview a change on stage.akimbocomics.com (the stage branch) before merging to main. Covers updating url-map.csv, regenerating redirects, and verifying nothing broke.
 ---
 
 # Preserve old links
@@ -56,6 +56,36 @@ path that is itself redirected.
    `python3 tools/check-known-urls.py --update`
 8. Commit `url-map.csv`, `known-urls.txt`, the regenerated redirect files and
    the site changes **together**. CI (`check-links.yml`) re-runs all of this.
+
+## Previewing on stage
+
+stage.akimbocomics.com runs the `stage` branch so a change can be seen on
+the real Pi setup before it reaches `main` (production).
+
+1. Point `stage` at the work to preview. It's a throwaway preview branch,
+   so overwriting it is fine; ask the user before pushing:
+   ```
+   git push --force-with-lease origin HEAD:stage
+   ```
+2. Building is manual on purpose; nothing deploys on push. The user (or
+   `gh workflow run build-stage-image.yml`, with their OK) runs Actions →
+   "Build stage image". It always builds the `stage` branch into
+   `ghcr.io/tmuls/akimbocomics.com:stage` (+ `stage-<commit>`).
+3. On the Pi it runs in Docker, not k3s (homelab repo,
+   `akimbocomics-stage/docker-compose.yml`, port 8084). After a build:
+   ```
+   docker compose -f ~/homelab/akimbocomics-stage/docker-compose.yml pull
+   docker compose -f ~/homelab/akimbocomics-stage/docker-compose.yml up -d
+   ```
+4. Check links against it like any server:
+   `python3 tools/check-redirects.py https://stage.akimbocomics.com`
+   (skip if the user put Cloudflare Access in front; use
+   `http://192.168.20.2:8084` from the LAN instead).
+
+The stage build writes a `robots.txt` that blocks all crawlers. It exists
+only in the stage image: never commit it to `site/`, and it isn't a known
+URL. Stage passing is not a substitute for CI; `check-links.yml` still has
+to be green on the branch that goes to `main`.
 
 ## Switching to a generated build (e.g. Stencil)
 

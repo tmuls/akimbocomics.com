@@ -37,6 +37,9 @@ footer) around its unique content. Replace that with:
    paging, and existing comments (read-only; no comment form).
 5. No secrets or commenter emails in the repo (it's public).
 6. Do it on a branch; merge to `main` only with CI (`check-links.yml`) green.
+   Preview it first on stage.akimbocomics.com (see `preserve-old-links`,
+   "Previewing on stage"): it's the only place to see the real site
+   running on the Pi before it replaces production.
 
 ## Page anatomy (from the current HTML)
 
@@ -86,6 +89,9 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 - 2026-10-18: Stencil chosen by the user. Output must be prerendered static
   HTML at the current paths.
+- 2026-10-18: Changes are previewed on stage.akimbocomics.com (the `stage`
+  branch, built by hand with the "Build stage image" workflow) before
+  merging to `main`.
 
 ## Progress log
 

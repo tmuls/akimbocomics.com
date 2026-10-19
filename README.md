@@ -31,6 +31,14 @@ docker run -d -p 80:8080 ghcr.io/tmuls/akimbocomics.com:latest
 In the homelab k3s cluster it's deployed by `akimbocomics/akimbocomics.yaml`
 in the `homelab` repo.
 
+### Stage (stage.akimbocomics.com)
+
+To preview changes before merging to `main`, push them to the `stage`
+branch, then run Actions → **Build stage image** by hand. It builds `stage`
+into `ghcr.io/tmuls/akimbocomics.com:stage` (with a `robots.txt` that keeps
+search engines off), which the Pi runs in Docker from
+`akimbocomics-stage/docker-compose.yml` in the `homelab` repo.
+
 ## Layout
 
 | Path | What |
@@ -50,6 +58,7 @@ in the `homelab` repo.
 | `conversion/` | How `site/` was made from the WordPress backup; see `conversion/README.md`. |
 | `Dockerfile` | `nginx-unprivileged` (runs as a normal user) with the config and `site/` baked in. |
 | `.github/workflows/build-image.yml` | Builds and pushes `ghcr.io/tmuls/akimbocomics.com` (`latest` and `sha-<commit>`). |
+| `.github/workflows/build-stage-image.yml` | Run by hand: builds the `stage` branch into `ghcr.io/tmuls/akimbocomics.com:stage`. |
 
 Comments, search and RSS feeds were WordPress features and don't exist here;
 existing comments are preserved on each post.
