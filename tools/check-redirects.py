@@ -28,7 +28,11 @@ def request(base, path):
         conn = getattr(_local, 'conn', None)
         if conn is None:
             u = urlsplit(base)
-            conn = _local.conn = http.client.HTTPConnection(u.hostname, u.port or 80, timeout=20)
+            if u.scheme == 'https':  # e.g. stage.akimbocomics.com behind Cloudflare
+                conn = http.client.HTTPSConnection(u.hostname, u.port or 443, timeout=20)
+            else:
+                conn = http.client.HTTPConnection(u.hostname, u.port or 80, timeout=20)
+            _local.conn = conn
         try:
             conn.request('HEAD', quote(path, safe="/?=&%:@+,;~!$'()*"))
             r = conn.getresponse()
