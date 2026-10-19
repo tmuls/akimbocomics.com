@@ -52,8 +52,8 @@ never weaken these checks to make them pass.
   `kubectl -n akimbocomics rollout restart deploy/akimbocomics`.
 - Do bigger restructures on a branch; merge to `main` only when CI is green.
 - To preview on stage.akimbocomics.com: push to the `stage` branch, then run
-  the "Build stage image" workflow by hand (it builds `:stage`; the Pi runs
-  it in Docker from the homelab repo's `akimbocomics-stage/`).
+  the "Build stage image" workflow by hand (it builds `:stage`), then
+  `kubectl -n akimbocomics rollout restart deploy/akimbocomics-stage`.
 - The repo is public: no secrets, no commenter email addresses (the site's
   own `akimbocomix@hotmail.com` is fine).
 

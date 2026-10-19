@@ -36,8 +36,8 @@ in the `homelab` repo.
 To preview changes before merging to `main`, push them to the `stage`
 branch, then run Actions → **Build stage image** by hand. It builds `stage`
 into `ghcr.io/tmuls/akimbocomics.com:stage` (with a `robots.txt` that keeps
-search engines off), which the Pi runs in Docker from
-`akimbocomics-stage/docker-compose.yml` in the `homelab` repo.
+search engines off), which the k3s cluster runs from
+`akimbocomics/akimbocomics-stage.yaml` in the `homelab` repo.
 
 ## Layout
 
