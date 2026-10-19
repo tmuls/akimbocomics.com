@@ -34,9 +34,10 @@ the old WordPress ids: `#comment-638` links depend on them.
 
 Derived by the build: a post in a `blogCategories` category (news, fan art)
 is a blog post (blog layout, previous/next within its category, listed on
-the home page); any other post is a comic (comic navigation by date,
-"Latest Comics"). Series, tag and author listings, home pages and comment
-pages (50 per page) follow from the posts.
+the home page); any other post is a comic (comic navigation by date
+within its series, "Latest Comics"). Series listings (one page each), tag
+and author listings (paged), home pages and comment pages (50 per page)
+follow from the posts.
 
 ## `<slug>/page.json`
 

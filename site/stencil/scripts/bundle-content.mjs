@@ -61,12 +61,17 @@ const newestFirst = [...byDate].reverse();
 const comics = byDate.filter(p => !p.blog);
 const newestComic = comics[comics.length - 1];
 
-// Comic nav: previous/next comic by date; ComicPress's "First" and "Last"
-// both went to the newest comic.
-comics.forEach((p, i) => {
-  p.nav = { previous: comics[i - 1]?.path, next: comics[i + 1]?.path };
-  if (p !== newestComic) Object.assign(p.nav, { first: newestComic.path, last: newestComic.path });
-});
+// Comic nav stays inside the comic's series (its folder): previous/next by
+// date, First/Last the series' oldest/newest, each only when there's
+// somewhere to go (a one-comic series gets no nav).
+for (const series of new Set(comics.map(p => p.series))) {
+  const list = comics.filter(p => p.series === series);
+  list.forEach((p, i) => {
+    const previous = list[i - 1]?.path;
+    const next = list[i + 1]?.path;
+    p.nav = { first: previous && list[0].path, previous, next, last: next && list[list.length - 1].path };
+  });
+}
 // Blog nav: previous/next post in the same category.
 for (const cat of blogCategories) {
   const list = byDate.filter(p => p.series === cat);
@@ -114,7 +119,8 @@ data.render = [
     ...(p.commentPages > 1 ? Array.from({ length: p.commentPages }, (_, i) => `${p.path}comment-page-${i + 1}/`) : []),
   ]),
   ...Object.keys(pages),
-  ...Object.values(listings).flatMap(l => paged(l.path, Math.ceil(l.entries.length / PER_PAGE))),
+  // Category listings are one page; tag and author listings are paged.
+  ...Object.values(listings).flatMap(l => (l.kind === 'category' ? [l.path] : paged(l.path, Math.ceil(l.entries.length / PER_PAGE)))),
   data.emulsifierOnline.path,
 ];
 

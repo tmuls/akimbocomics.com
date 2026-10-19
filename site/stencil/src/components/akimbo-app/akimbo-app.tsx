@@ -4,7 +4,7 @@ import { emulsifierOnline, homePages, listings, Nav, pages, PER_PAGE, posts, SIT
 /**
  * Picks the page for the current path. The prerenderer loads every URL into
  * this one component, so this is the whole router; the output is plain HTML
- * at the same path (/<series>/<slug>/index.html, /<series>/page/N/, ...).
+ * at the same path (/<series>/<slug>/index.html, /tag/<t>/page/N/, ...).
  */
 @Component({ tag: 'akimbo-app', shadow: false })
 export class AkimboApp {
@@ -34,7 +34,8 @@ export class AkimboApp {
     m = path.match(/^(\/(?:[^/]+\/)?[^/]+\/)(?:page\/(\d+)\/)?$/);
     const listing = m && listings[m[1]];
     const n = m && m[2] ? Number(m[2]) : 1;
-    if (listing && n <= Math.max(1, Math.ceil(listing.entries.length / PER_PAGE))) {
+    const listingPages = listing && (listing.kind === 'category' ? 1 : Math.max(1, Math.ceil(listing.entries.length / PER_PAGE)));
+    if (listing && n <= listingPages) {
       return {
         title: `${SITE_TITLE} - ${listing.title}`,
         body: listing.kind === 'author' ? <author-list listing={listing} page={n} /> : <post-list listing={listing} page={n} />,
