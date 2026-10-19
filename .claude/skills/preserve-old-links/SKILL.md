@@ -71,11 +71,12 @@ the real Pi setup before it reaches `main` (production).
    `gh workflow run build-stage-image.yml`, with their OK) runs Actions →
    "Build stage image". It always builds the `stage` branch into
    `ghcr.io/tmuls/akimbocomics.com:stage` (+ `stage-<commit>`).
-3. On the Pi it runs in Docker, not k3s (homelab repo,
-   `akimbocomics-stage/docker-compose.yml`, port 8084). After a build:
+3. On the Pi it runs in k3s next to production (homelab repo,
+   `akimbocomics/akimbocomics-stage.yaml`, deploy `akimbocomics-stage`,
+   port 8084; cloudflared routes to
+   `akimbocomics-stage.akimbocomics.svc.cluster.local:8084`). After a build:
    ```
-   docker compose -f ~/homelab/akimbocomics-stage/docker-compose.yml pull
-   docker compose -f ~/homelab/akimbocomics-stage/docker-compose.yml up -d
+   kubectl -n akimbocomics rollout restart deploy/akimbocomics-stage
    ```
 4. Check links against it like any server:
    `python3 tools/check-redirects.py https://stage.akimbocomics.com`
