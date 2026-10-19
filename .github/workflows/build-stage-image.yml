@@ -24,7 +24,7 @@ jobs:
       # The preview is a copy of the real site; keep search engines off it.
       - name: Block search engines
         run: |
-          printf 'User-agent: *\nDisallow: /\n' > site/robots.txt
+          printf 'User-agent: *\nDisallow: /\n' > site/static/robots.txt
 
       # Tags: "stage", plus "stage-<short commit>" of the stage branch (not
       # of the branch the run was started from) so you can tell what's up.

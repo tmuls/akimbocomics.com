@@ -6,10 +6,13 @@ description: Plan, decisions and progress log for turning akimbocomics.com's ~85
 # Stencil migration
 
 **Status (2026-10-18): all five milestones done and merged to `main`.**
-Pages are generated from `content/` by `stencil/`; `tools/build-site.py`
-builds the served `dist/`; `site/` holds only static files. Now optimising,
-on branches: (a) content holds only data (done on `slim-content`), (b) then
-simplify the template HTML/CSS. Goal: looks roughly the same (not
+Everything the site is made of is in `site/`: `site/content/` (a folder
+per page mirroring its URL: post.json + its images), `site/stencil/` (the
+app), `site/static/` (files served as they are). `tools/build-site.py`
+builds the served `dist/`. Log entries before 2026-10-18 "site/ folder"
+use the older paths (`content/`, `stencil/`, images in `site/<series>/`).
+Optimising, on branches: (a) content holds only data (done), (b) the
+repo layout above (done), (c) next: simplify the template HTML/CSS. Goal: looks roughly the same (not
 pixel-exact), every old link still works.
 
 ## Goal
@@ -123,6 +126,15 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
   "RSS"/"Subscribe: RSS" with no feed behind it, WordPress "N queries" debug
   line, hidden "Cancel reply") are dropped. The old JS/CSS files stay served
   for their known URLs. Ask the user before adding any script back.
+- 2026-10-18 (site/ folder): All site source lives under `site/`. Each
+  post's folder `site/content/<series>/<slug>/` holds its `post.json` and
+  its images together; the Stencil config copies every non-JSON file in
+  `site/content/` to the same path in the output, so images keep their
+  URLs. Pages: `site/content/<slug>/page.json`; gallery:
+  `site/content/emulsifier-online/gallery.json`. Served-as-is files:
+  `site/static/`. The build output `dist/` stays at the repo root
+  (gitignored), next to `tools/`, `nginx/`, `url-map.csv`,
+  `known-urls.txt`.
 - 2026-10-18 (content slimming, supersedes the two milestone-1 schema
   entries below): `content/` holds only data; its schema is in
   `content/README.md`. A post stores title, author, ISO date, optional
@@ -201,6 +213,15 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
+
+- 2026-10-18: **Moved everything into `site/` (branch `site-folder`).**
+  `git mv` only (history follows): post JSON + images now share a folder,
+  stencil/ → site/stencil/, wp-content/wp-includes/unpublished →
+  site/static/. Paths updated in bundle-content.mjs, stencil.config.ts,
+  verify.mjs, build-site.py, Dockerfile, .dockerignore, CI, the stage
+  workflow (robots.txt now goes to site/static/) and the docs. `dist/` is
+  byte-identical to main's; Docker redirect test 3947/0.
+  - Next: template HTML/CSS simplification.
 
 - 2026-10-18: **Merged to main (806c200); content slimmed on branch
   `slim-content`.** `content/` went from 668 files / 59k lines / 3.6 MB to

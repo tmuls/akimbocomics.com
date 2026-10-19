@@ -1,5 +1,5 @@
 # Two stages: Node builds the site (Stencil prerenders every page from
-# content/, tools/build-site.py adds site/'s static files and the redirect
+# site/content/, tools/build-site.py adds site/static/ and the redirect
 # files and checks every known URL still works), then nginx serves the
 # result, plain static files. nginx-unprivileged runs as a normal user and
 # listens on 8080.
@@ -9,8 +9,8 @@
 FROM --platform=$BUILDPLATFORM node:22.20.0-alpine AS build
 RUN apk add --no-cache python3
 WORKDIR /src
-COPY stencil/package.json stencil/package-lock.json stencil/
-RUN cd stencil && npm ci --no-audit --no-fund
+COPY site/stencil/package.json site/stencil/package-lock.json site/stencil/
+RUN cd site/stencil && npm ci --no-audit --no-fund
 COPY . .
 RUN python3 tools/build-site.py
 

@@ -6,9 +6,9 @@ README.md
 CLAUDE.md
 docker-compose.yml
 dist
-stencil/node_modules
-stencil/www
-stencil/.stencil
-stencil/src/components.d.ts
-stencil/src/data/content.json
+site/stencil/node_modules
+site/stencil/www
+site/stencil/.stencil
+site/stencil/src/components.d.ts
+site/stencil/src/data/content.json
 **/__pycache__

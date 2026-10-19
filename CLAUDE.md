@@ -15,7 +15,7 @@ served today. People, search engines and other sites link to all of them.
 Any change that moves, renames, merges or removes a page or file **must**
 update `url-map.csv` in the same commit. Use the `preserve-old-links` skill
 (`.claude/skills/preserve-old-links/SKILL.md`) for the exact steps. Before
-committing, always run (once: `cd stencil && npm ci`):
+committing, always run (once: `cd site/stencil && npm ci`):
 
 ```
 python3 tools/build-site.py   # build dist/, regenerate redirects, check every known URL
@@ -30,18 +30,20 @@ never weaken these checks to make them pass.
 
 ## Layout
 
-- `content/`: every post, page and listing as JSON
-  (`content/<series>/<slug>.json`, ...). **Pages are generated from it**:
-  edit content here (`site/` has no pages).
-- `stencil/`: the Stencil app that prerenders every page from `content/`
-  as plain HTML at its current URL (`stencil/www/`).
-- `site/`: the static files served as they are: comic images beside each
-  post at `site/<series>/<post-slug>/`, `wp-content/`, `wp-includes/`,
-  `unpublished/`, emulsifier-online images. The original exported pages are
-  in git at the tag `exported-pages`.
+- `site/`: everything the site is made of.
+  - `site/content/`: the content, one folder per page mirroring its URL.
+    `site/content/<series>/<post-slug>/` holds `post.json` and that post's
+    images (served at `/<series>/<post-slug>/<file>`); `about/page.json`,
+    `emulsifier-online/` (gallery), `site.json`. **Pages are generated from
+    it**: edit content here. Schema: `site/content/README.md`.
+  - `site/stencil/`: the Stencil app that prerenders every page as plain
+    HTML at its current URL (`site/stencil/www/`).
+  - `site/static/`: files served as they are at their current URLs
+    (`wp-content/`, `wp-includes/`, `unpublished/`).
+  The original exported pages are in git at the tag `exported-pages`.
 - `dist/` (gitignored): what's served. `python3 tools/build-site.py` builds
-  it: generated pages + `site/`'s non-page files + redirect files, then checks
-  every known URL against it. The Dockerfile runs this.
+  it: generated pages and content images + `site/static/` + redirect files,
+  then checks every known URL against it. The Dockerfile runs this.
 - `url-map.csv`: old URL → current URL (`old_url,new_url,kind,wp_id,title`).
   Source of truth for redirects. `new_url` must always be a path that exists.
 - `known-urls.txt`: every URL ever served; only grows.
@@ -60,7 +62,7 @@ never weaken these checks to make them pass.
 - Run locally: `docker compose up -d --build` → http://localhost:8080, then
   `python3 tools/check-redirects.py http://localhost:8080`. The image build
   runs Stencil and every check; it fails if any page or known URL breaks.
-  Without Docker: `cd stencil && npm ci`, then `python3 tools/build-site.py`.
+  Without Docker: `cd site/stencil && npm ci`, then `python3 tools/build-site.py`.
 - Pushing to `main` builds `ghcr.io/tmuls/akimbocomics.com:latest`
   (arm64 + amd64); the Pi picks it up with
   `kubectl -n akimbocomics rollout restart deploy/akimbocomics`.

@@ -43,14 +43,11 @@ search engines off), which the k3s cluster runs from
 
 | Path | What |
 |---|---|
-| `content/` | Every post, page and listing as JSON; the pages are generated from it. |
-| `stencil/` | Stencil app that prerenders every page from `content/` as plain HTML (no JavaScript) at its current URL. See `stencil/README.md`. |
-| `dist/` | What's served (gitignored): built by `python3 tools/build-site.py`, i.e. the generated pages plus `site/`'s static files plus the redirect files. |
-| `site/` | Static files served as they are (comic images, `wp-content/`, ...). The original exported pages are at the git tag `exported-pages`. |
-| `site/<series>/` | One folder per comic series (the category links in the sidebar), e.g. `eatshitanddie/`, `washday/`, `curiousurgency/`, plus `news/`, `fan-art/`, and `comics/` for strips that were only in the generic Comics category. Its listing pages are generated from `content/listings/`. |
-| `site/<series>/<post-slug>/` | One folder per post with its comic image; the page itself is generated there from `content/<series>/<post-slug>.json`. |
-| `site/emulsifier-online/` | The pre-akimbo Emulsifier Online comics (was `/eo/`). |
-| `site/unpublished/` | Comic images no post ever showed (re-uploads, misnamed files). |
+| `site/` | Everything the site is made of: |
+| `site/content/` | The content: one folder per page, mirroring its URL. `site/content/<series>/<post-slug>/` has `post.json` (title, date, text, comments...) and the post's comic image(s); `about/page.json`; `emulsifier-online/` (the pre-akimbo Emulsifier Online comics, was `/eo/`); `site.json` (categories, tags, authors). Schema in `site/content/README.md`. |
+| `site/stencil/` | Stencil app that prerenders every page from `site/content/` as plain HTML (no JavaScript) at its current URL. See `site/stencil/README.md`. |
+| `site/static/` | Files served as they are: `wp-content/` (old theme CSS/JS, uploads), `wp-includes/`, `unpublished/` (comic images no post ever showed). |
+| `dist/` | What's served (gitignored): built by `python3 tools/build-site.py`, i.e. the generated pages and content images plus `site/static/` plus the redirect files. The original exported WordPress pages are at the git tag `exported-pages`. |
 | `url-map.csv` | **Every URL the old WordPress site answered to, mapped to its page here.** See below. |
 | `known-urls.txt` | Every URL the site has ever served; each must keep working. Only grows. |
 | `tools/` | `build-site.py` (build and check `dist/`), `build-redirects.py` (redirects from `url-map.csv`), `move-url.py` (record a move), `check-known-urls.py` / `check-redirects.py` (verify nothing broke). |
@@ -83,8 +80,9 @@ It covers the original site's links (`/?p=123`, `/?page_id=2`, `/?cat=6`,
 
 ## Making changes
 
-Edit post/page content in `content/` (pages are generated from it; the
-conversion isn't re-run), and images and other static files in `site/`.
+Edit posts and pages in `site/content/` (each post's folder has its
+`post.json` and images; pages are generated from them, and the conversion
+isn't re-run), and other static files in `site/static/`.
 `python3 tools/build-site.py` (or `docker compose up -d --build`) rebuilds
 and checks everything. If a page or image moves:
 

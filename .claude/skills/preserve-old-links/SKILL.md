@@ -22,7 +22,7 @@ path that is itself redirected.
 | `url-map.csv` | `old_url,new_url,kind,wp_id,title`. Source of truth for redirects. Never delete rows; only repoint `new_url`. |
 | `known-urls.txt` | Every URL ever served. Only grows. Never delete lines. |
 | `tools/move-url.py` | Records a move in url-map.csv (repoints rows, adds old → new). |
-| `tools/build-site.py` | Builds `dist/` (what's served: pages generated from `content/` + `site/`'s static files), then runs the two below on it. Needs `npm ci` in `stencil/` once. |
+| `tools/build-site.py` | Builds `dist/` (what's served: pages and images from `site/content/` via `site/stencil/`, plus `site/static/`), then runs the two below on it. Needs `npm ci` in `site/stencil/` once. |
 | `tools/build-redirects.py` | Regenerates `nginx/redirects.conf` (committed), `dist/redirects.js`, `dist/404.html` from url-map.csv. Fails if a `new_url` doesn't exist in `dist/`. |
 | `tools/check-known-urls.py` | Fails if any known URL is neither served from `dist/` nor redirected. `--update` adds new URLs to the baseline. `--site DIR` checks another folder. |
 | `tools/check-redirects.py` | Requests every old URL against a running server; expects 301 → `new_url` → 200. |
@@ -84,20 +84,23 @@ the real Pi setup before it reaches `main` (production).
    `http://192.168.20.2:8084` from the LAN instead).
 
 The stage build writes a `robots.txt` that blocks all crawlers. It exists
-only in the stage image: never commit it to `site/`, and it isn't a known
+only in the stage image: never commit it to `site/static/`, and it isn't a known
 URL. Stage passing is not a substitute for CI; `check-links.yml` still has
 to be green on the branch that goes to `main`.
 
 ## The generated build (Stencil)
 
-Pages (every `index.html`) are generated from `content/` by `stencil/`; what's served is
-`dist/`, built by `python3 tools/build-site.py`: the generated pages, every
-non-page file from `site/`, then `build-redirects.py --site dist` and
+Pages (every `index.html`) are generated from `site/content/` by
+`site/stencil/`, which also copies each post's images (kept beside its
+`post.json`) to the same URL; what's served is `dist/`, built by
+`python3 tools/build-site.py`: the generated output, every file from
+`site/static/`, then `build-redirects.py --site dist` and
 `check-known-urls.py --site dist`. The Dockerfile runs it, so the image
 (and CI's redirect test) can't be built with a broken known URL. Generate
 pages at their exact current paths so no new rows are needed; any path
-that changes goes through step 3. `site/` holds only static files (no
-pages); the exported WordPress pages are at the git tag `exported-pages`.
+that changes goes through step 3. Moving a post means moving its folder
+in `site/content/` (JSON and images together) plus step 3. The exported
+WordPress pages are at the git tag `exported-pages`.
 
 ## Notes
 

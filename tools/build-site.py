@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """Build the site that gets served: dist/. Run from the repo root:
 
-    python3 tools/build-site.py              # needs node (npm ci in stencil/ first)
-    python3 tools/build-site.py --skip-stencil   # reuse stencil/www from a previous build
+    python3 tools/build-site.py              # needs node (npm ci in site/stencil/ first)
+    python3 tools/build-site.py --skip-stencil   # reuse site/stencil/www from a previous build
 
-1. Stencil prerenders every page from content/ into stencil/www/, and its
-   checks run (`npm run verify`).
-2. dist/ = every file in site/ (the static files: comic images beside each
-   post, wp-content/, wp-includes/, unpublished/, the old theme CSS/JS, all
-   at their current URLs), then the generated pages and files from
-   stencil/www/ on top.
+1. Stencil (site/stencil/) prerenders every page from site/content/ into
+   site/stencil/www/, with the images beside each post, and its checks run
+   (`npm run verify`).
+2. dist/ = every file in site/static/ (wp-content/, wp-includes/,
+   unpublished/, the old theme CSS/JS, at their current URLs), then the
+   generated pages and files from site/stencil/www/ on top.
    Stencil's unused leftovers (build/ JS, robots.txt, sitemap.xml,
    host.config.json) are left out.
 3. tools/build-redirects.py writes redirects.js, 404.html and the home
@@ -25,8 +25,9 @@ import subprocess
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = os.path.join(ROOT, 'site')
-WWW = os.path.join(ROOT, 'stencil', 'www')
+STATIC = os.path.join(ROOT, 'site', 'static')
+STENCIL = os.path.join(ROOT, 'site', 'stencil')
+WWW = os.path.join(STENCIL, 'www')
 DIST = os.path.join(ROOT, 'dist')
 
 # Written by build-redirects.py into the output; not copied from site/.
@@ -62,18 +63,17 @@ def main():
     args = ap.parse_args()
 
     if not args.skip_stencil:
-        stencil = os.path.join(ROOT, 'stencil')
-        run('npm', 'run', 'build', '--', '--ci', cwd=stencil)  # --ci: no progress spinner
-        run('npm', 'run', 'verify', cwd=stencil)
+        run('npm', 'run', 'build', '--', '--ci', cwd=STENCIL)  # --ci: no progress spinner
+        run('npm', 'run', 'verify', cwd=STENCIL)
 
     shutil.rmtree(DIST, ignore_errors=True)
     os.makedirs(DIST)
-    # Pages (index.html) all come from Stencil, never from site/; anything it
-    # didn't generate shows up as broken in the known-URL check below.
-    static = copy_tree(SITE, DIST, lambda rel, is_dir: not is_dir and (
+    # Pages (index.html) all come from Stencil; anything it didn't generate
+    # shows up as broken in the known-URL check below.
+    static = copy_tree(STATIC, DIST, lambda rel, is_dir: not is_dir and (
         os.path.basename(rel) == 'index.html' or rel in GENERATED))
     generated = copy_tree(WWW, DIST, lambda rel, is_dir: rel in STENCIL_LEFTOVERS)
-    print(f'dist/: {static} static files from site/, {generated} files from stencil/www/')
+    print(f'dist/: {static} files from site/static/, {generated} from site/stencil/www/')
 
     run(sys.executable, 'tools/build-redirects.py', '--site', DIST)
     run(sys.executable, 'tools/check-known-urls.py', '--site', DIST)

@@ -23,14 +23,14 @@ jobs:
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: stencil/package-lock.json
+          cache-dependency-path: site/stencil/package-lock.json
 
-      # Builds dist/ (Stencil prerenders every page from content/, plus
-      # site/'s static files and the redirect files) and fails if a page is
+      # Builds dist/ (Stencil prerenders every page from site/content/,
+      # plus site/static/ and the redirect files) and fails if a page is
       # missing or broken or any known URL is neither served nor redirected.
       - name: Build the site; every known URL is still served or redirected
         run: |
-          (cd stencil && npm ci --no-audit --no-fund)
+          (cd site/stencil && npm ci --no-audit --no-fund)
           python3 tools/build-site.py
 
       # nginx/redirects.conf must be regenerated and committed whenever
