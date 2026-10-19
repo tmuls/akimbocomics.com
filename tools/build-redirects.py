@@ -12,7 +12,13 @@ Writes:
 - site/404.html         "not found" page that tries redirects.js first
 
 Checks that every new_url exists under site/ and fails if not.
+
+    python3 tools/build-redirects.py --site dist
+
+writes redirects.js, 404.html and the index.html loader into another build
+output (tools/build-site.py uses this) and checks targets exist there.
 """
+import argparse
 import csv
 import json
 import os
@@ -37,6 +43,10 @@ def q(s):
 
 
 def main():
+    global SITE
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--site', default=SITE, help='output folder (default: site/)')
+    SITE = os.path.abspath(ap.parse_args().site)
     rows = list(csv.DictReader(open(os.path.join(ROOT, 'url-map.csv'), encoding='utf-8')))
     bad = [r for r in rows if not exists(r['new_url'])]
     for r in bad:

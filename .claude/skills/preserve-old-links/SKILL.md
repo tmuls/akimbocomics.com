@@ -88,14 +88,18 @@ only in the stage image: never commit it to `site/`, and it isn't a known
 URL. Stage passing is not a substitute for CI; `check-links.yml` still has
 to be green on the branch that goes to `main`.
 
-## Switching to a generated build (e.g. Stencil)
+## The generated build (Stencil)
 
-Treat the build output folder as the new `site/`. Before it replaces
-`site/` in the Docker image, `python3 tools/check-known-urls.py --site <output>`
-must pass. Prefer generating pages at the exact current paths so no new rows
-are needed; any path that changes goes through step 3. `build-redirects.py`
-writes into `site/` (redirects.js, 404.html, index.html loader); move that
-into the generator's output step when the output folder changes.
+Pages are generated from `content/` by `stencil/`; what's served is
+`dist/`, built by `python3 tools/build-site.py`: the generated pages, every
+non-page file from `site/`, then `build-redirects.py --site dist` and
+`check-known-urls.py --site dist`. The Dockerfile runs it, so the image
+(and CI's redirect test) can't be built with a broken known URL. Generate
+pages at their exact current paths so no new rows are needed; any path
+that changes goes through step 3. The plain `check-known-urls.py` (on
+`site/`) and the committed `site/redirects.js`/`404.html` still have to
+pass and stay current until `site/` loses its pages (stencil-migration
+milestone 5).
 
 ## Notes
 

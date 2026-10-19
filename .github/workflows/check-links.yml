@@ -29,6 +29,9 @@ jobs:
       - name: Every known URL is still served or redirected
         run: python3 tools/check-known-urls.py
 
+      # Building the image also builds the site (Stencil, from content/)
+      # and fails if any generated page differs from site/ or any known URL
+      # is missing from the output (tools/build-site.py).
       - name: Every old URL redirects in the real nginx image
         run: |
           docker build -t akimbocomics-check .

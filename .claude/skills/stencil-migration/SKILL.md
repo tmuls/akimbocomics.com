@@ -80,7 +80,7 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
    into one stylesheet; keep the old CSS URL working.
 3. **Components + page templates** for each page type above (done
    2026-10-18).
-4. **Build pipeline**: Stencil build → output folder → `build-redirects.py`
+4. **Build pipeline** (done 2026-10-18): Stencil build → output folder → `build-redirects.py`
    → Dockerfile becomes multi-stage (node build, then nginx).
 5. **Verify** with the hard-constraint checks, compare rendered pages with
    the current ones (screenshots / text diff), then swap `site/` for the
@@ -156,6 +156,20 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
   anchor didn't exist). Element positions, sizes, fonts and colours were
   compared in a browser on 11 page types: identical except the footer
   (32px shorter) and post entries (18px shorter), as in the spike.
+- 2026-10-18 (milestone 4): The served folder is `dist/` (gitignored),
+  built by `tools/build-site.py`: Stencil build + `npm run verify`, then
+  every non-`index.html` file of `site/` (except its generated
+  `redirects.js`/`404.html`), then `stencil/www/` on top minus Stencil's
+  unused `build/`, `robots.txt`, `sitemap.xml`, `host.config.json`, then
+  `build-redirects.py --site dist` (redirects.js, 404.html, the home page's
+  `?query` loader script; nginx/redirects.conf is unchanged) and
+  `check-known-urls.py --site dist`. The Dockerfile's Node stage
+  (`--platform=$BUILDPLATFORM`, so arm64 images don't build under QEMU)
+  runs it; nginx serves `dist/`. Only the home page carries a script (the
+  redirect loader for static hosts), as before.
+- 2026-10-18 (milestone 4): `/css/akimbo.css` is served but not yet in
+  `known-urls.txt`: adding it now would fail the plain `site/` check.
+  Run `check-known-urls.py --site dist --update` in milestone 5.
 - 2026-10-18: Changes are previewed on stage.akimbocomics.com (the `stage`
   branch, built by hand with the "Build stage image" workflow) before
   merging to `main`.
@@ -164,6 +178,21 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
+
+- 2026-10-18: **Milestone 4 (build pipeline) done.** `docker build` now
+  builds the site from `content/` in ~30 s (npm ci, Stencil, verify,
+  compare with `site/`, assemble `dist/`, known-URL check) and nginx serves
+  it. Against the built image `check-redirects.py` passes (3947 old URLs),
+  pages and `/css/akimbo.css` are 200, the old theme CSS still 200, unknown
+  paths 404 with the redirect-trying 404 page. CI's redirect test builds
+  the same image, so it now covers the whole pipeline. CLAUDE.md, README
+  and preserve-old-links now say pages come from `content/`. Pushed to
+  `stage` for a preview.
+  - Next: milestone 5: look at stage, then remove the old exported
+    `index.html` pages from `site/` (keeping its static files), drop
+    `compare-pages.py` from the build (or keep it against a frozen copy),
+    move the `site/` known-URL check and committed redirect files to
+    `dist/`, add `/css/akimbo.css` to known-urls, merge to main.
 
 - 2026-10-18: **Milestones 2 (shared CSS) and 3 (every page) done.** The
   build renders all 846 pages of `site/` from `content/` (7 home pages,
