@@ -38,8 +38,10 @@ never weaken these checks to make them pass.
     it**: edit content here. Schema: `site/content/README.md`.
   - `site/stencil/`: the Stencil app that prerenders every page as plain
     HTML at its current URL (`site/stencil/www/`).
-  - `site/static/`: files served as they are at their current URLs
-    (`wp-content/`, `wp-includes/`).
+  - `site/static/`: files served as they are: `images/header.jpg` (the
+    header the CSS uses) and `legacy/` (dead WordPress/ComicPress scripts
+    and theme icons nothing uses, kept only because their old
+    `/wp-content/...` and `/wp-includes/...` URLs redirect there).
   The original exported pages are in git at the tag `exported-pages`.
 - `dist/` (gitignored): what's served. `python3 tools/build-site.py` builds
   it: generated pages and content images + `site/static/` + redirect files,

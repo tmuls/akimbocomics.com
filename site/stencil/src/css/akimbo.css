@@ -3,8 +3,9 @@
  * Made from the ComicPress 2.9.4 theme's style.css, its default nav style
  * (navstyle.css) and the #header rules every page repeated inline, with
  * image URLs made root-relative. Rules matching nothing on any generated
- * page were dropped (scripts/css-usage.mjs). The old stylesheet URLs stay
- * served unchanged for anything still linking them. */
+ * page were dropped (scripts/css-usage.mjs). The old stylesheet URLs
+ * (/wp-content/themes/comicpress-master/style.css, navstyle.css) redirect
+ * here. */
 
 /*
 Theme Name: ComicPress
@@ -649,7 +650,7 @@ li.storyline-root {
 
 #header {
 	width: 980px;
-	background: url(/wp-content/uploads/2013/05/header1.jpg) top center no-repeat;
+	background: url(/images/header.jpg) top center no-repeat;
 	overflow: hidden;
 }
 

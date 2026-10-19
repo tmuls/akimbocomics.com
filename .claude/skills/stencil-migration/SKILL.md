@@ -214,6 +214,16 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
 
+- 2026-10-18: **Retired `wp-content/` and `wp-includes/` (branch
+  `retire-wp-content`).** About comic (`about2.gif` + srcset thumbnail) →
+  `site/content/about/` (`/about/about2.gif`); header →
+  `site/static/images/header.jpg` (`/images/header.jpg`, akimbo.css
+  updated); old `style.css` and `navstyle.css@ver=4.7.29.css` redirect to
+  `/css/akimbo.css` (kind `merged`); unused theme icons and dead JS →
+  `site/static/legacy/comicpress/` and `legacy/wordpress/` (version
+  suffixes dropped). All via `move-url.py` (16 rows added, 7 repointed);
+  the 14 new paths added to known-urls.txt. Docker redirect test 3977/0.
+
 - 2026-10-18: **Folded `/unpublished/` into published copies (branch
   `fold-unpublished`).** All 14 files duplicated published comics: 9
   byte-identical, ESD 275 x2 the same pixels re-encoded, About_1.jpg the

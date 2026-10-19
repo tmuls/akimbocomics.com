@@ -5,7 +5,7 @@ import { join, relative } from 'path';
 // Every file in ../content that isn't data (comic images and images in post
 // bodies beside each post.json, the emulsifier-online gallery) is copied to
 // the same place in the output, so it keeps its URL: content/x/y/a.jpg is
-// served at /x/y/a.jpg. ../static (wp-content/, ...) is added to the served
+// served at /x/y/a.jpg. ../static (images/, legacy/) is added to the served
 // site by tools/build-site.py.
 const CONTENT = '../content';
 const files = (dir: string): string[] =>

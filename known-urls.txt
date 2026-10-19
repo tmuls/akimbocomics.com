@@ -1438,6 +1438,8 @@
 /?tag=withdrawal
 /?tag=zeno
 /about/
+/about/about2-133x300.gif
+/about/about2.gif
 /about/index.html
 /agoodstory/
 /agoodstory/a-good-story-1/
@@ -5767,6 +5769,7 @@
 /fan-art/fan-art/index.html
 /fan-art/index.html
 /feed/
+/images/header.jpg
 /imsureidontknow/
 /imsureidontknow/im-sure-i-dont-know-1/
 /imsureidontknow/im-sure-i-dont-know-1/2008-10-25-Im_Sure_I_Dont_Know_1.jpg
@@ -5808,6 +5811,17 @@
 /imsureidontknow/page/2/
 /imsureidontknow/page/2/index.html
 /index.html
+/legacy/comicpress/bubble.png
+/legacy/comicpress/buythis.png
+/legacy/comicpress/calendar.png
+/legacy/comicpress/comicpress-rascal.png
+/legacy/comicpress/ddsmoothmenu.js
+/legacy/comicpress/menubar.js
+/legacy/comicpress/scroll.js
+/legacy/comicpress/sharebox.png
+/legacy/wordpress/jquery-migrate.min.js
+/legacy/wordpress/jquery.js
+/legacy/wordpress/wp-embed.min.js
 /linetool/
 /linetool/index.html
 /linetool/line-tool-1/
