@@ -41,7 +41,10 @@ in the `homelab` repo.
 | `site/emulsifier-online/` | The pre-akimbo Emulsifier Online comics (was `/eo/`). |
 | `site/unpublished/` | Comic images no post ever showed (re-uploads, misnamed files). |
 | `url-map.csv` | **Every URL the old WordPress site answered to, mapped to its page here.** See below. |
-| `tools/build-redirects.py` | Generates the redirects from `url-map.csv`. |
+| `known-urls.txt` | Every URL the site has ever served; each must keep working. Only grows. |
+| `tools/` | `build-redirects.py` (redirects from `url-map.csv`), `move-url.py` (record a move), `check-known-urls.py` / `check-redirects.py` (verify nothing broke). |
+| `CLAUDE.md`, `.claude/skills/` | Rules and procedures for Claude Code sessions: `preserve-old-links`, `stencil-migration` (plan + progress log). |
+| `.github/workflows/check-links.yml` | CI: fails if any old link breaks. |
 | `nginx/default.conf` | nginx config: listens on 8080, `/healthz` for Kubernetes, caching, gzip, redirects, 404 page. |
 | `nginx/redirects.conf` | 301 redirects for nginx. Generated; don't edit by hand. |
 | `conversion/` | How `site/` was made from the WordPress backup; see `conversion/README.md`. |
@@ -70,7 +73,9 @@ It covers the original site's links (`/?p=123`, `/?page_id=2`, `/?cat=6`,
 
 Edit `site/` directly; the conversion isn't re-run. If a page or image moves:
 
-1. In `url-map.csv`, point every row whose `new_url` was the old path at the
-   new one, and add a row `old path → new path`.
+1. `python3 tools/move-url.py OLD NEW` (or `--prefix /old/ /new/` for a
+   folder): repoints existing rows and adds `OLD → NEW` in `url-map.csv`.
 2. `python3 tools/build-redirects.py` (fails if any `new_url` is missing from `site/`).
-3. Commit; the workflow builds a new image.
+3. `python3 tools/check-known-urls.py` (fails if any URL ever served would break);
+   then `--update` to protect new pages too.
+4. Commit everything together; CI re-checks it, and `main` builds a new image.

@@ -5,3 +5,6 @@ tools
 url-map.csv
 README.md
 docker-compose.yml
+CLAUDE.md
+.claude
+known-urls.txt
