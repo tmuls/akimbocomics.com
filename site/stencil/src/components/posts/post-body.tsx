@@ -88,9 +88,9 @@ export const ComicImage = ({ post }: { post: Post }) => (
   </div>
 );
 
-/** First/previous/next/last comic links. */
+/** First/previous/next/last comic links; none when the comic is alone in its series. */
 export const ComicNav = ({ nav }: { nav: Nav }) => [
-  <div class="nav">
+  (nav.previous || nav.next) && <div class="nav">
     {nav.first && <div class="nav-first"><a href={nav.first}>&lsaquo;&lsaquo; First</a></div>}
     <div class="nav-previous">{nav.previous && <a href={nav.previous} rel="prev">&lsaquo; Previous</a>}</div>
     <div class="nav-next">{nav.next && <a href={nav.next} rel="next">Next &rsaquo;</a>}</div>

@@ -32,7 +32,7 @@ footer) around its unique content. Replace that with:
 
 1. **Never break an old link.** Follow the `preserve-old-links` skill for
    every change. Generate pages at the **current paths**
-   (`/<series>/<slug>/index.html`, `/<series>/`, `/<series>/page/N/`,
+   (`/<series>/<slug>/index.html`, `/<series>/`,
    `/page/N/`, `/about/`, `/tag/<t>/`, `/author/<a>/`, `/emulsifier-online/`,
    `/unpublished/`) so no redirects change. Anything that must move goes
    through `tools/move-url.py`.
@@ -43,8 +43,8 @@ footer) around its unique content. Replace that with:
    `/wp-includes/js/...`, theme images) are known URLs: keep serving them,
    or redirect each to its replacement via url-map.csv.
 4. Keep the visible design (it should look like the old site), the header
-   image, prev/next/first/last comic navigation, series listings with
-   paging, and existing comments (read-only; no comment form).
+   image, prev/next/first/last comic navigation (within the comic's
+   series), one unpaginated listing per series, and existing comments (read-only; no comment form).
 5. No secrets or commenter emails in the repo (it's public).
 6. Do it on a branch; merge to `main` only with CI (`check-links.yml`) green.
    Preview it first on stage.akimbocomics.com (see `preserve-old-links`,
@@ -62,10 +62,10 @@ Main column varies by page type:
 
 | Page type | Paths | Main column |
 |---|---|---|
-| Comic post | `/<series>/<slug>/` | `comic` (image in `comicpane`), `nav` first/previous/next/last, post (title, `storyline-cats`, entry, tags), `commentlist` |
+| Comic post | `/<series>/<slug>/` | `comic` (image in `comicpane`), `nav` first/previous/next/last within the series, post (title, `storyline-cats`, entry, tags), `commentlist` |
 | News post | `/news/<slug>/` | `blognav`, post (title, category, entry, tags), comments |
 | Home | `/`, `/page/N/` | latest comic as above + `blogindex` of recent news posts |
-| Series listing | `/<series>/`, `/<series>/page/N/` | `page-title`, `archiveresults` (one entry per post), `wp-paginav` |
+| Series listing | `/<series>/` | `page-title`, `archiveresults`, one `archive-table` row per post (all of them, no paging) |
 | Tag / author listing | `/tag/<t>/`, `/author/<a>/` | same as series listing |
 | About | `/about/` | single page |
 | Emulsifier Online | `/emulsifier-online/` | list of 34 images |
@@ -142,8 +142,9 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
   body, comments (id, author, ISO date, url, gravatar hash, text) and
   pingbacks. No URLs (the file path is the URL), no theme classes, no
   formatted dates, no nav, no listings, no home pages: `bundle-content.mjs`
-  derives those (comic nav = neighbouring comics by date, First/Last = the
-  newest comic; blog nav = neighbours in the same blog category; listings
+  derives those (comic nav = neighbouring comics by date in the same series,
+  First/Last = the series' oldest/newest, only where there is a
+  previous/next; superseded the original "First/Last = newest comic"; blog nav = neighbours in the same blog category; listings
   newest first, a category also listing its `parent`-children; home = the
   newest comic + blog index 5 per page; 50 comments+pingbacks per comment
   page), and the components format dates and add the theme markup.
@@ -213,6 +214,18 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
+
+- 2026-10-18: **Series-only comic nav, unpaginated series listings (user's
+  request, branch `series-nav`).** `bundle-content.mjs`: comic
+  previous/next stay inside the comic's series (folder); First/Last are
+  that series' oldest/newest and appear only with a previous/next; a
+  one-comic series gets no nav at all (`ComicNav` renders nothing, the
+  menubar arrows are already hidden). The home page's comic follows. Every
+  category listing (`/<series>/`, incl. `/comics/` and `/news/`) renders
+  all its posts on one page; tag and author listings stay paged. The 107
+  `/<series>/page/N/` pages (214 URLs with the `index.html` forms) 301 to
+  `/<series>/` (`move-url.py --kind merged`). 739 pages rendered (was 846);
+  known-URL check 6321 OK; Docker redirect test 4191/0.
 
 - 2026-10-18: Footer changed (user's request): "© 2000–<build year> Akimbo
   Comics | Back to Top ↑"; the "Powered by WordPress with ComicPress"
