@@ -6015,6 +6015,8 @@
 /news/site-update/index.html
 /news/some-maintenance/
 /news/some-maintenance/index.html
+/news/still-here/
+/news/still-here/index.html
 /news/still-not-dead/
 /news/still-not-dead/index.html
 /news/summer-of-comics-flashback/
