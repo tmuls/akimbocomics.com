@@ -89,6 +89,32 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 - 2026-10-18: Stencil chosen by the user. Output must be prerendered static
   HTML at the current paths.
+- 2026-10-18 (spike): The Stencil app lives in `stencil/` (branch `stencil`),
+  `@stencil/core` pinned to an exact version (4.45.1). Its output is
+  `stencil/www/` (gitignored) until it replaces `site/` in milestone 4.
+- 2026-10-18 (spike): Prerendering = `www` output target +
+  `prerender.config.ts` with `staticSite: true` (no JS shipped),
+  `crawlUrls: false` and an explicit `entryUrls` list built from the content
+  data, `trailingSlash: true`. One router component (`akimbo-app`) picks the
+  page from `location.pathname`.
+- 2026-10-18 (spike): Components use `shadow: false`, and `afterHydrate`
+  unwraps their host elements, so every page is the old ComicPress markup
+  (same ids/classes, no custom elements). The old CSS applies unchanged.
+  One component per file (Stencil requires it); markup shared inside a page
+  (`PostBody`, `ComicImage`, `ComicNav`) is functional components.
+- 2026-10-18 (spike): Generated pages use root-relative folder links
+  (`/eatshitanddie/eat-shit-die-309/`) instead of the export's relative
+  `../../x/index.html`. Both forms stay served; only in-page hrefs change.
+- 2026-10-18 (spike): One stylesheet at `/css/akimbo.css`, copied as a plain
+  file (not Stencil's `globalStyle`) and linked, not inlined
+  (`inlineExternalStyleSheets: false`, `hashAssets: null`). Images and theme
+  images keep their current URLs (www `copy` tasks).
+- 2026-10-18 (spike): Generated pages ship no JavaScript at all. The dead
+  third-party scripts (jQuery, Facebook like box, Project Wonderful, old
+  Google Analytics, ComicPress menu/scroll JS) and non-content text (plain
+  "RSS"/"Subscribe: RSS" with no feed behind it, WordPress "N queries" debug
+  line, hidden "Cancel reply") are dropped. The old JS/CSS files stay served
+  for their known URLs. Ask the user before adding any script back.
 - 2026-10-18: Changes are previewed on stage.akimbocomics.com (the `stage`
   branch, built by hand with the "Build stage image" workflow) before
   merging to `main`.
@@ -97,6 +123,46 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
+
+- 2026-10-18: **Milestone 0 (spike) done: Stencil works for this.** On
+  branch `stencil`, `stencil/` prerenders 41 pages: `/`, three posts
+  (`eat-shit-die-309` newest/no next, `-308`, `eat-shit-and-die-101` with 5
+  comments and full first/prev/next/last), `/eatshitanddie/` plus all 31
+  `page/N/`, and the 5 news posts on the home page. Output is
+  `www/<path>/index.html` with each comic image beside it, no `<script>`,
+  no custom elements. `npm run verify` checks every page is at a path in
+  `known-urls.txt`, has no scripts, and every local href/src resolves (in
+  www/ or ../site/). Compared with the current pages in a browser: element
+  positions match to the pixel except the footer (32px shorter, debug line
+  gone) and post entries (18px shorter, empty Facebook like box gone); a
+  word diff shows only the dropped non-content text listed under Decisions.
+  Prerendering takes ~15 ms/page, so the full ~850 pages is ~15 s.
+  - Worked: `staticSite`, explicit `entryUrls`, `afterHydrate` DOM edits,
+    www `copy` tasks for images at arbitrary nested paths, JSON import of
+    content data into components.
+  - Gotchas: Stencil rejects more than one `@Component` per module; mock-doc
+    (prerender DOM) has no `replaceWith` (use insertBefore/removeChild);
+    `hashAssets` defaults on and appends `?v=hash` to img/CSS URLs; after
+    adding a `@Prop` the first build can fail on a stale
+    `src/components.d.ts` (rebuild); `www/build/*.js`, `host.config.json`,
+    `robots.txt` and `sitemap.xml` are still emitted though no page uses
+    the JS (strip or keep deliberately in milestone 4).
+  - Old-site quirks to keep in mind: the home page's `<title>` ends in a
+    dangling " - " (the spike drops it); others are
+    `<site title> - <post/series title>`, which the spike reproduces.
+    Comic nav "First" points at the newest comic (ComicPress quirk),
+    preserved as data. Home shows 6 posts: the latest comic + 5 news.
+    Posts with comments switched off show "Comments are closed." with no
+    comment box and no home "Comment" link (`commentsOpen` in the data).
+  - Not done yet: og:/canonical meta parity (canonical is now the absolute
+    URL), body classes beyond `layout-2cvr`, home `/page/N/`, tag/author/
+    about/emulsifier-online pages, the old theme CSS URL (milestone 2).
+    `scripts/spike-extract.py` is a throwaway regex prototype covering only
+    these pages.
+  - Next: milestone 1, a real extractor for all 618 posts + page into
+    committed `content/` data (comments, image names, tags, nav,
+    commentsOpen), with round-trip count checks; then build every page
+    from it and run `check-known-urls.py --site stencil/www`.
 
 - 2026-10-18: Skill created. Link-preservation tooling and CI in place
   (`check-known-urls.py`, `move-url.py`, `check-links.yml`). No Stencil work

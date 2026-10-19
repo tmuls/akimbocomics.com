@@ -1,0 +1,76 @@
+import { Component, Prop, h } from '@stencil/core';
+import { SITE_TITLE } from '../../data/content';
+
+/**
+ * The ComicPress page frame every page shares: header image, menu bar,
+ * sidebar and footer. The page's own content goes in the slot. Markup and
+ * ids/classes match the old theme so akimbo.css applies unchanged.
+ */
+@Component({ tag: 'site-shell', shadow: false })
+export class SiteShell {
+  /** Menu bar arrows (previous/next comic), when the page has them. */
+  @Prop() prev?: string;
+  @Prop() next?: string;
+
+  render() {
+    return [
+      <div id="page-head"></div>,
+      <div id="page-wrap">
+        <div id="page">
+          <div id="header">
+            <h1><a href="/">{SITE_TITLE}</a></h1>
+            <div class="description"></div>
+            <div class="clear"></div>
+          </div>
+          <div id="menubar-wrapper">
+            <div class="menunav">
+              {(this.prev || this.next) && [
+                <div class="menunav-prev">{this.prev && <a href={this.prev} rel="prev">&lsaquo;</a>}</div>,
+                <div class="menunav-next">{this.next && <a href={this.next} rel="next">&rsaquo;</a>}</div>,
+              ]}
+            </div>
+            <div class="menu">
+              <ul>
+                <li class="page_item"><a href="/about/">About</a></li>
+              </ul>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div id="content-wrapper-head"></div>
+          <div id="content-wrapper">
+            <div id="subcontent-wrapper-head"></div>
+            <div id="subcontent-wrapper">
+              <div id="section-wrap">
+                <slot />
+                <div class="clear"></div>
+              </div>
+              <div id="sidebar-right">
+                <div class="sidebar-head"></div>
+                <div class="sidebar">
+                  <latest-comics />
+                  <category-list />
+                </div>
+                <div class="sidebar-foot"></div>
+              </div>
+              <div id="subcontent-wrapper-foot"></div>
+              <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div id="content-wrapper-foot"></div>
+          <div id="footer">
+            <p class="footer-text">
+              &copy;2000-2021 <a href="/">Akimbo Comics - Comics Everyone Can Hate</a>{' '}
+              <span class="footer-pipe">|</span> Powered by <a href="http://wordpress.org/">WordPress</a> with{' '}
+              <a href="http://comicpress.net/">ComicPress</a>
+              <span class="footer-uptotop">
+                {' '}<span class="footer-pipe">|</span> <a href="#page-head">Back to Top &uarr;</a>
+              </span>
+            </p>
+          </div>
+        </div>
+      </div>,
+      <div id="page-foot"></div>,
+    ];
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/
+www/
+.stencil/
+src/components.d.ts
+src/data/content.json
+dist/
