@@ -6,6 +6,7 @@ import { PostBody } from './post-body';
 @Component({ tag: 'news-post', shadow: false })
 export class NewsPost {
   @Prop() post!: Post;
+  @Prop() commentPage?: number;
 
   render() {
     const { previous, next } = this.post.nav;
@@ -16,8 +17,8 @@ export class NewsPost {
           {next && <span class="blognav-next"><a href={next} rel="next">Next &rsaquo; </a></span>}
         </div>
         <div class="clear"></div>
-        <PostBody post={this.post} />
-        <comment-list comments={this.post.comments} open={this.post.commentsOpen} />
+        <PostBody post={this.post} blog />
+        <comment-list post={this.post} page={this.commentPage} />
       </div>
     );
   }

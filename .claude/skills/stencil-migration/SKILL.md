@@ -76,9 +76,10 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
    (e.g. `content/<series>/<slug>.json`), including comments and image
    names. Commit the data; verify round-trip counts (618 posts, 1 page,
    all comments, all images).
-2. **Shared CSS**: consolidate `comicpress-master/style.css` + inline styles
+2. **Shared CSS** (done 2026-10-18): consolidate `comicpress-master/style.css` + inline styles
    into one stylesheet; keep the old CSS URL working.
-3. **Components + page templates** for each page type above.
+3. **Components + page templates** for each page type above (done
+   2026-10-18).
 4. **Build pipeline**: Stencil build → output folder → `build-redirects.py`
    → Dockerfile becomes multi-stage (node build, then nginx).
 5. **Verify** with the hard-constraint checks, compare rendered pages with
@@ -136,6 +137,25 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
   "Discussion (N)" number (null when there was no heading). Each page's
   `<title>`, body class, og: meta and post class are kept in `head` /
   `postClass` for parity work. Commenters' microid hashes are not kept.
+- 2026-10-18 (milestone 2): `/css/akimbo.css` is the theme's style.css +
+  navstyle.css + the inline `#header` rules, minus every rule that matches
+  nothing on any generated page (`scripts/css-usage.mjs --write`, 308 → 112
+  rules, 27 KB → 8.5 KB); the ComicPress GPL header stays. The old
+  stylesheet URLs (`style.css`, `navstyle.css@ver=4.7.29.css`) keep being
+  served unchanged as plain files (not redirected): old copies of pages
+  and scrapers may still load them. Only `layout-2cvr` among body classes
+  is styled, so generated pages don't reproduce WordPress's per-page body
+  classes.
+- 2026-10-18 (milestone 3): Done = `npm run verify` green: every page in
+  the data is generated at a known URL, and `scripts/compare-pages.py`
+  finds the same visible text and the same link/image URLs (old relative
+  links resolved) as the `site/` page, allowing only the dropped
+  non-content text (menu-bar "RSS", "| Subscribe: RSS", "[ Comments RSS ]",
+  the "N queries" footer line, hidden "Cancel reply", the Facebook like
+  box) and "Back to Top" pointing at `#page-head` (the old `#outside`
+  anchor didn't exist). Element positions, sizes, fonts and colours were
+  compared in a browser on 11 page types: identical except the footer
+  (32px shorter) and post entries (18px shorter), as in the spike.
 - 2026-10-18: Changes are previewed on stage.akimbocomics.com (the `stage`
   branch, built by hand with the "Build stage image" workflow) before
   merging to `main`.
@@ -144,6 +164,38 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
+
+- 2026-10-18: **Milestones 2 (shared CSS) and 3 (every page) done.** The
+  build renders all 846 pages of `site/` from `content/` (7 home pages,
+  618 posts + 4 comment pages, About, 23 series listings with their pages,
+  21 tags, 2 authors, emulsifier-online) in ~7 s, copies every file beside
+  each post, and `npm run verify` passes: structural checks plus
+  `compare-pages.py` (0 of 846 pages differ in text or links). CSS trimmed
+  to the rules the pages use (see Decisions). Did M3 rendering before the
+  CSS trim so the trim could be checked against real pages.
+  - New components: `wp-page` (About), `author-list` (profile + "Posts by
+    X (N)" table), `emulsifier-gallery` (bare page; `afterHydrate` strips
+    the stylesheet and body class when the body has `data-bare`).
+    `comment-list` handles pingbacks ("Pings & Trackbacks"), paged
+    comments and the two closed-comments variants; `PostBody` takes
+    `blog` (the home blog index lays every post out blog-style, even
+    comics) and the home "Comment"/"N Comments" link text.
+  - Found while comparing: pingbacks are paged with the comments (now
+    each has `page`); posts in two categories show "Comics » Eat Shit and
+    Die" (root li + plain li); "1 result." is singular; the About menu
+    item has `current_page_item`; home's comic also has a comment link.
+    `extract-content.py` was updated and `content/` re-extracted for these.
+  - `check-known-urls.py --site stencil/www` still fails only on site-wide
+    static files `www/` doesn't contain yet (`wp-content/`, `wp-includes/`,
+    `unpublished/`, `404.html`, `redirects.js` and redirects pointing at
+    them): milestone 4 copies every non-page file from `site/` (or its
+    successor folder) into the output.
+  - Not done: og:/canonical parity (canonical is absolute; no og: tags),
+    `www/build/*.js` (1.9 MB, all the data) is still emitted though pages
+    load none of it.
+  - Next: milestone 4: Dockerfile multi-stage (node build → nginx), output
+    = `www/` + `site/`'s static files + `build-redirects.py` output, then
+    preview on stage.
 
 - 2026-10-18: **Milestone 1 (extract content) done.** `content/` (668 JSON
   files, 3.5 MB) holds every page of `site/`; `extract-content.py` replaced

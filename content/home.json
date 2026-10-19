@@ -5,7 +5,8 @@
    "items": [
     {
      "path": "/eatshitanddie/eat-shit-die-309/",
-     "role": "comic"
+     "role": "comic",
+     "commentLink": "Comment"
     },
     {
      "path": "/news/you-should-totally-write-me/",

@@ -1,24 +1,34 @@
-import { Component, h } from '@stencil/core';
-import { home, posts } from '../../data/content';
+import { Component, Prop, h } from '@stencil/core';
+import { homePages, posts } from '../../data/content';
 import { ComicImage, ComicNav, PostBody } from './post-body';
 
-/** Home: the newest comic, then the newest news posts. */
+/** Home and /page/N/: the newest comic (page 1 only), then the blog index. */
 @Component({ tag: 'home-page', shadow: false })
 export class HomePage {
+  @Prop() page = 1;
+
   render() {
-    const comic = posts[home.comic];
+    const hp = homePages[this.page - 1];
+    const comic = hp.items.find(i => i.role === 'comic');
+    const blog = hp.items.filter(i => i.role === 'blog');
     return [
-      <ComicImage post={comic} />,
+      comic && <ComicImage post={posts[comic.path]} />,
       <div id="content" class="narrowcolumn">
-        <ComicNav nav={comic.nav} />
-        <PostBody post={comic} link commentLink />
+        {comic && [
+          <ComicNav nav={hp.nav} />,
+          <PostBody post={posts[comic.path]} link commentLink={comic.commentLink} />,
+        ]}
         <div id="blogheader"></div>
         <div class="blogindex-head"></div>
         <div class="blogindex">
-          {home.news.map(p => <PostBody post={posts[p]} link commentLink />)}
+          {blog.map(i => {
+            const post = posts[i.path];
+            return <PostBody post={i.excerpt ? { ...post, html: i.excerpt } : post} link blog commentLink={i.commentLink} />;
+          })}
         </div>
         <div class="blogindex-foot"></div>
-        <page-nav base="/" page={1} pages={home.pages} />
+        <page-nav base="/" page={this.page} pages={homePages.length} />
+        <div id="sidebar-underblog" class="customsidebar"></div>
       </div>,
     ];
   }

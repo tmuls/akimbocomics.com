@@ -9,7 +9,7 @@ export const widget = (id: string, cls: string, title: string, links: Link[]) =>
       <h2 class="widgettitle">{title}</h2>
       <ul>
         {links.map(l => (
-          <li class={cls === 'widget_categories' ? 'cat-item' : undefined}>
+          <li class={l.id ? `cat-item cat-item-${l.id}` : undefined}>
             <a href={l.href} title={l.description || undefined}>{l.title}</a>
           </li>
         ))}

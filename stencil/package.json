@@ -7,7 +7,7 @@
     "extract": "python3 scripts/extract-content.py",
     "content": "node scripts/bundle-content.mjs",
     "build": "npm run content && stencil build --prerender",
-    "verify": "node scripts/verify-spike.mjs"
+    "verify": "node scripts/verify.mjs && python3 scripts/compare-pages.py"
   },
   "devDependencies": {
     "@stencil/core": "4.45.1"

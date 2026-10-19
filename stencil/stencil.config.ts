@@ -1,25 +1,23 @@
 import { Config } from '@stencil/core';
-import { readFileSync } from 'fs';
+import { readdirSync, readFileSync } from 'fs';
 
 // Content data from ../content, bundled by scripts/bundle-content.mjs.
 const content = JSON.parse(readFileSync('src/data/content.json', 'utf-8'));
 
-// Images keep their current URLs: each comic sits beside its post's
-// index.html, and the theme images stay where WordPress put them.
+// Images keep their current URLs: every file beside a post's index.html
+// (its comic, images in its body; extract-content.py checks the data names
+// each one).
 const siteFile = (path: string) => ({ src: `../../site${path}`, dest: path.slice(1), warn: true });
-const images = content.render
-  .filter((url: string) => content.posts[url])
-  .flatMap((url: string) =>
-    content.posts[url].images.map((img: any) => siteFile(img.src.startsWith('/') ? img.src : url + img.src)),
-  );
-const themeImages = [
-  '/wp-content/uploads/2013/05/header1.jpg',
-  '/wp-content/themes/comicpress-master/images/bubble.png',
-  '/wp-content/themes/comicpress-master/images/buythis.png',
-  '/wp-content/themes/comicpress-master/images/calendar.png',
-  '/wp-content/themes/comicpress-master/images/comicpress-rascal.png',
-  '/wp-content/themes/comicpress-master/images/nav/default/sharebox.png',
-].map(siteFile);
+const images = Object.keys(content.posts).flatMap(path =>
+  readdirSync(`../site${path}`)
+    .filter(f => f !== 'index.html')
+    .map(f => siteFile(path + f)),
+);
+const gallery = content.emulsifierOnline;
+const galleryImages = gallery.images.map((i: any) => siteFile(gallery.path + i.file));
+// The only image akimbo.css uses; the old theme's other files stay served
+// as they are.
+const themeImages = ['/wp-content/uploads/2013/05/header1.jpg'].map(siteFile);
 
 export const config: Config = {
   namespace: 'akimbo',
@@ -32,7 +30,7 @@ export const config: Config = {
       prerenderConfig: './prerender.config.ts',
       serviceWorker: null,
       empty: true,
-      copy: [{ src: 'css/akimbo.css', dest: 'css/akimbo.css' }, ...images, ...themeImages],
+      copy: [{ src: 'css/akimbo.css', dest: 'css/akimbo.css' }, ...images, ...galleryImages, ...themeImages],
     },
   ],
 };

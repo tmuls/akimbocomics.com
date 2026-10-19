@@ -3,7 +3,7 @@
 // configs import: src/data/content.json (gitignored, rebuilt every build).
 //
 //   { site, home, posts: {path: post}, pages: {path: page},
-//     listings: {path: listing}, render: [urls to prerender] }
+//     listings: {path: listing}, emulsifierOnline, render: [every URL to prerender] }
 import { mkdirSync, readFileSync, readdirSync, statSync, writeFileSync } from 'fs';
 import { join, relative } from 'path';
 
@@ -17,7 +17,14 @@ const walk = dir =>
     return statSync(p).isDirectory() ? walk(p) : p.endsWith('.json') ? [relative(CONTENT, p)] : [];
   });
 
-const data = { site: read('site.json'), home: read('home.json'), posts: {}, pages: {}, listings: {} };
+const data = {
+  site: read('site.json'),
+  home: read('home.json'),
+  emulsifierOnline: read('emulsifier-online.json'),
+  posts: {},
+  pages: {},
+  listings: {},
+};
 for (const file of walk(CONTENT)) {
   if (!file.includes('/')) continue; // site.json, home.json, emulsifier-online.json
   const rec = read(file);
@@ -25,21 +32,17 @@ for (const file of walk(CONTENT)) {
   data[group][rec.path] = rec;
 }
 
-// What the build prerenders. Still milestone 0's pages: the home page, its
-// posts, three Eat Shit and Die posts and that series' listing. Milestone 3
-// renders every post, page and listing from the same data.
-const SERIES = '/eatshitanddie/';
-const home = data.home.pages[0];
-const listingPages = n => Array.from({ length: n }, (_, i) => (i === 0 ? SERIES : `${SERIES}page/${i + 1}/`));
+// Every page the site serves, at its current URL.
+const paged = (base, n) => Array.from({ length: n }, (_, i) => (i === 0 ? base : `${base}page/${i + 1}/`));
 data.render = [
-  '/',
-  ...new Set([
-    '/eatshitanddie/eat-shit-die-309/', // newest comic: no next/last
-    '/eatshitanddie/eat-shit-die-308/',
-    '/eatshitanddie/eat-shit-and-die-101/', // has comments, full nav
-    ...home.items.map(i => i.path),
+  ...paged('/', data.home.pages.length),
+  ...Object.values(data.posts).flatMap(p => [
+    p.path,
+    ...(p.commentPages > 1 ? Array.from({ length: p.commentPages }, (_, i) => `${p.path}comment-page-${i + 1}/`) : []),
   ]),
-  ...listingPages(Math.ceil(data.listings[SERIES].entries.length / data.site.listingPerPage)),
+  ...Object.keys(data.pages),
+  ...Object.values(data.listings).flatMap(l => paged(l.path, l.pages)),
+  data.emulsifierOnline.path,
 ];
 
 mkdirSync(new URL('.', `file://${OUT}`).pathname, { recursive: true });

@@ -6,6 +6,8 @@ import { ComicImage, ComicNav, PostBody } from './post-body';
 @Component({ tag: 'comic-post', shadow: false })
 export class ComicPost {
   @Prop() post!: Post;
+  /** Comment page to show, for /comment-page-N/ URLs. */
+  @Prop() commentPage?: number;
 
   render() {
     return [
@@ -13,7 +15,7 @@ export class ComicPost {
       <div id="content" class="narrowcolumn">
         <ComicNav nav={this.post.nav} />
         <PostBody post={this.post} link />
-        <comment-list comments={this.post.comments} open={this.post.commentsOpen} />
+        <comment-list post={this.post} page={this.commentPage} />
       </div>,
     ];
   }

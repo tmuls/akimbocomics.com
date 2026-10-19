@@ -85,6 +85,22 @@ export interface Listing {
   profile?: { avatar: string; html: string };
 }
 
+export interface Page {
+  path: string;
+  slug: string;
+  id: number;
+  title: string;
+  author: string;
+  html: string;
+  postClass: string;
+  menuNav: Nav;
+  commentCount: number | null;
+  commentsOpen: boolean;
+  comments: Comment[];
+  pingbacks: Comment[];
+  head: Head;
+}
+
 export interface HomePage {
   path: string;
   items: { path: string; role: 'comic' | 'blog'; commentLink?: string; excerpt?: string }[];
@@ -102,7 +118,7 @@ interface Widget {
 
 const site: { title: string; menu: Link[]; sidebar: Widget[]; listingPerPage: number } = content.site as any;
 const widget = (id: string) => site.sidebar.find(w => w.id === id).items;
-const homePages: HomePage[] = content.home.pages as any;
+export const homePages: HomePage[] = content.home.pages as any;
 
 export const SITE_TITLE = site.title;
 export const PER_PAGE = site.listingPerPage;
@@ -113,11 +129,9 @@ export const sidebar: { latestComics: Link[]; categories: Link[] } = {
 };
 export const posts: Record<string, Post> = content.posts as any;
 export const listings: Record<string, Listing> = content.listings as any;
-export const home: { comic: string; news: string[]; pages: number } = {
-  comic: homePages[0].items.find(i => i.role === 'comic').path,
-  news: homePages[0].items.filter(i => i.role === 'blog').map(i => i.path),
-  pages: homePages.length,
-};
-
+export const pages: Record<string, Page> = content.pages as any;
+export const menu: Link[] = site.menu;
+export const emulsifierOnline: { path: string; title: string; intro: string; images: { file: string; caption: string }[] } =
+  content.emulsifierOnline;
 /** URL of a post's comic image. */
 export const imageUrl = (post: Post, img: ComicImage) => (img.src.startsWith('/') ? img.src : post.path + img.src);

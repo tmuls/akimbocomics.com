@@ -1,5 +1,5 @@
 import { Component, Prop, h } from '@stencil/core';
-import { home, listings, posts, PER_PAGE, SITE_TITLE } from '../../data/content';
+import { emulsifierOnline, homePages, listings, Nav, pages, posts, SITE_TITLE } from '../../data/content';
 
 /**
  * Picks the page for the current path. The prerenderer loads every URL into
@@ -11,37 +11,50 @@ export class AkimboApp {
   /** Path to render; defaults to the page's own location. */
   @Prop() path: string = typeof location !== 'undefined' ? location.pathname : '/';
 
-  private page() {
-    const path = this.path.endsWith('/') ? this.path : this.path + '/';
-    const post = posts[path];
-    if (path === '/') {
-      return { title: SITE_TITLE, menu: posts[home.comic].nav, body: <home-page /> };
+  private page(path: string): { title: string; menu?: Nav; body: any } {
+    let m = path.match(/^\/(?:page\/(\d+)\/)?$/);
+    if (m) {
+      const n = Number(m[1] || 1);
+      if (n <= homePages.length) return { title: SITE_TITLE, menu: homePages[n - 1].menuNav, body: <home-page page={n} /> };
     }
-    if (post) {
+    m = path.match(/^(\/[^/]+\/[^/]+\/)(?:comment-page-(\d+)\/)?$/);
+    const post = m && posts[m[1]];
+    if (post && (!m[2] || Number(m[2]) <= post.commentPages)) {
+      const commentPage = m[2] ? Number(m[2]) : undefined;
       return {
         title: `${SITE_TITLE} - ${post.title}`,
-        menu: post.type === 'comic' ? post.nav : {},
-        body: post.type === 'comic' ? <comic-post post={post} /> : <news-post post={post} />,
+        menu: post.menuNav,
+        body: post.type === 'comic' ? <comic-post post={post} commentPage={commentPage} /> : <news-post post={post} commentPage={commentPage} />,
       };
     }
-    const m = path.match(/^(\/[^/]+\/)(?:page\/(\d+)\/)?$/);
+    if (pages[path]) {
+      return { title: `${SITE_TITLE} - ${pages[path].title}`, menu: pages[path].menuNav, body: <wp-page page={pages[path]} /> };
+    }
+    m = path.match(/^(\/(?:[^/]+\/)?[^/]+\/)(?:page\/(\d+)\/)?$/);
     const listing = m && listings[m[1]];
     const n = m && m[2] ? Number(m[2]) : 1;
-    if (listing && n <= Math.ceil(listing.entries.length / PER_PAGE)) {
+    if (listing && n <= listing.pages) {
       return {
         title: `${SITE_TITLE} - ${listing.title}`,
-        menu: {},
-        body: <post-list heading={`Archive for ‘${listing.title}’`} entries={listing.entries} base={m[1]} page={n} />,
+        body: listing.kind === 'author' ? <author-list listing={listing} page={n} /> : <post-list listing={listing} page={n} />,
       };
     }
-    return { title: `${SITE_TITLE} - Page not found`, menu: {}, body: <h2 class="page-title">Page not found</h2> };
+    return { title: `${SITE_TITLE} - Page not found`, body: <h2 class="page-title">Page not found</h2> };
   }
 
   render() {
-    const { title, menu, body } = this.page();
+    const path = this.path.endsWith('/') ? this.path : this.path + '/';
+    if (path === emulsifierOnline.path) {
+      // A hand-made page outside the theme; prerender.config.ts strips the
+      // stylesheet and body class for it.
+      document.title = emulsifierOnline.title;
+      document.body.setAttribute('data-bare', '');
+      return <emulsifier-gallery />;
+    }
+    const { title, menu, body } = this.page(path);
     document.title = title;
     return (
-      <site-shell prev={menu.previous} next={menu.next}>
+      <site-shell prev={menu?.previous} next={menu?.next} path={path}>
         {body}
       </site-shell>
     );

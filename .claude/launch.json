@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "site (current)", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "8090", "-d", "site"], "port": 8090 },
+    { "name": "stencil www", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "8091", "-d", "stencil/www"], "port": 8091 }
+  ]
+}

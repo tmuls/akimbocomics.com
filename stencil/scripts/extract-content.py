@@ -392,7 +392,9 @@ def extract_home_page(doc, url):
     if comic:
         first = content.find("div", cls="post")
         a = first.find("h2", cls="post-title").find("a")
-        items.append({"path": to_root(a.get("href"), url), "role": "comic"})
+        cl = first.find("div", cls="comment-link")
+        items.append({"path": to_root(a.get("href"), url), "role": "comic",
+                      "commentLink": cl.find("a").text() if cl else None})
     index = content.find("div", cls="blogindex")
     for div in (index.find_all("div", cls="post") if index else []):
         a = div.find("h2", cls="post-title").find("a")
@@ -500,13 +502,14 @@ def extract():
         need(sorted(cps) == list(range(1, post["commentPages"] + 1)), post_url, "missing comment pages")
         last = cps[post["commentPages"]]
         need(post["_shownCommentPage"] == post["commentPages"], post_url, "post doesn't show its last comment page")
-        need([x["id"] for x in last["comments"]] == [x["id"] for x in post["comments"]], post_url,
+        need([x["id"] for x in last["comments"] + last["pingbacks"]]
+             == [x["id"] for x in post["comments"] + post["pingbacks"]], post_url,
              "post page differs from its last comment page")
+        # WordPress paged comments and pingbacks together, 50 per page.
         comments, pingbacks = [], []
         for n in sorted(cps):
-            for x in cps[n]["comments"]:
-                comments.append({**x, "page": n})
-            pingbacks += [p for p in cps[n]["pingbacks"] if p["id"] not in {q["id"] for q in pingbacks}]
+            comments += [{**x, "page": n} for x in cps[n]["comments"]]
+            pingbacks += [{**x, "page": n} for x in cps[n]["pingbacks"]]
         post["comments"], post["pingbacks"] = comments, pingbacks
     for post in posts.values():
         need(post["commentPages"] == 1 or post["path"] in by_post, post["path"], "comment pages not exported")

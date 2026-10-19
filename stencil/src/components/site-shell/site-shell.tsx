@@ -1,5 +1,5 @@
 import { Component, Prop, h } from '@stencil/core';
-import { SITE_TITLE } from '../../data/content';
+import { menu, pages, SITE_TITLE } from '../../data/content';
 
 /**
  * The ComicPress page frame every page shares: header image, menu bar,
@@ -11,6 +11,8 @@ export class SiteShell {
   /** Menu bar arrows (previous/next comic), when the page has them. */
   @Prop() prev?: string;
   @Prop() next?: string;
+  /** The page's own path, to mark its menu item current. */
+  @Prop() path?: string;
 
   render() {
     return [
@@ -31,7 +33,11 @@ export class SiteShell {
             </div>
             <div class="menu">
               <ul>
-                <li class="page_item"><a href="/about/">About</a></li>
+                {menu.map(l => (
+                  <li class={`page_item page-item-${pages[l.href]?.id}${l.href === this.path ? ' current_page_item' : ''}`}>
+                    <a href={l.href}>{l.title}</a>
+                  </li>
+                ))}
               </ul>
             </div>
             <div class="clear"></div>
