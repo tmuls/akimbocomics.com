@@ -1,6 +1,9 @@
 import { Component, Prop, h } from '@stencil/core';
 import { menu, SITE_TITLE } from '../../data/content';
 
+/** The year the site was built: the copyright runs to the present. */
+const COPYRIGHT_YEAR = new Date().getFullYear();
+
 /**
  * The ComicPress page frame every page shares: header image, menu bar,
  * sidebar and footer. The page's own content goes in the slot. Markup and
@@ -66,12 +69,8 @@ export class SiteShell {
           <div id="content-wrapper-foot"></div>
           <div id="footer">
             <p class="footer-text">
-              &copy;2000-2021 <a href="/">Akimbo Comics - Comics Everyone Can Hate</a>{' '}
-              <span class="footer-pipe">|</span> Powered by <a href="http://wordpress.org/">WordPress</a> with{' '}
-              <a href="http://comicpress.net/">ComicPress</a>
-              <span class="footer-uptotop">
-                {' '}<span class="footer-pipe">|</span> <a href="#page-head">Back to Top &uarr;</a>
-              </span>
+              &copy; 2000&ndash;{COPYRIGHT_YEAR} <a href="/">Akimbo Comics</a>{' '}
+              <span class="footer-pipe">|</span> <a href="#page-head">Back to Top &uarr;</a>
             </p>
           </div>
         </div>

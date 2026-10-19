@@ -214,6 +214,10 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
 
+- 2026-10-18: Footer changed (user's request): "© 2000–<build year> Akimbo
+  Comics | Back to Top ↑"; the "Powered by WordPress with ComicPress"
+  credit is gone (the site no longer runs on them).
+
 - 2026-10-18: **Retired `wp-content/` and `wp-includes/` (branch
   `retire-wp-content`).** About comic (`about2.gif` + srcset thumbnail) →
   `site/content/about/` (`/about/about2.gif`); header →
