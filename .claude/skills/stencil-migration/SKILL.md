@@ -215,6 +215,13 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
 
+- 2026-10-18: **Removed `/comics/xxxxafadionv90239u/` (user's request).**
+  Its image was byte-identical to Curious Urgency 74's (a 2020 repost of
+  the 2016 comic); the page, its `index.html` form and the image 301 to
+  `/curiousurgency/curious-urgency-74/` (kind `duplicate`; `?p=1386`, the
+  export path and `?m=202009` repointed). The post's short 2020 note went
+  with it. Home and "Latest Comics" now start at eat, shit & die 309.
+
 - 2026-10-18: **Series-only comic nav, unpaginated series listings (user's
   request, branch `series-nav`).** `bundle-content.mjs`: comic
   previous/next stay inside the comic's series (folder); First/Last are

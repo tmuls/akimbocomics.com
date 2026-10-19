@@ -1231,8 +1231,8 @@ old_url,new_url,kind,wp_id,title
 /2020/03/03/eat-shit-and-die-307/,/eatshitanddie/eat-shit-and-die-307/,export-post,1379,"eat, shit and die 307"
 /?p=1381,/eatshitanddie/eat-shit-die-308/,post,1381,"eat, shit & die 308"
 /2020/03/09/eat-shit-die-308/,/eatshitanddie/eat-shit-die-308/,export-post,1381,"eat, shit & die 308"
-/?p=1386,/comics/xxxxafadionv90239u/,post,1386,xxXXafadionv90239u
-/2020/09/03/xxxxafadionv90239u/,/comics/xxxxafadionv90239u/,export-post,1386,xxXXafadionv90239u
+/?p=1386,/curiousurgency/curious-urgency-74/,post,1386,xxXXafadionv90239u
+/2020/09/03/xxxxafadionv90239u/,/curiousurgency/curious-urgency-74/,export-post,1386,xxXXafadionv90239u
 /?p=1390,/eatshitanddie/eat-shit-die-309/,post,1390,"eat, shit & die 309"
 /2021/08/01/eat-shit-die-309/,/eatshitanddie/eat-shit-die-309/,export-post,1390,"eat, shit & die 309"
 /?page_id=2,/about/,page,2,About
@@ -1456,7 +1456,7 @@ old_url,new_url,kind,wp_id,title
 /?m=201910,/eatshitanddie/eat-shit-die-297/,month,,first post of 2019-10
 /?m=201911,/eatshitanddie/eat-shit-die-301/,month,,first post of 2019-11
 /?m=202003,/eatshitanddie/eat-shit-and-die-307/,month,,first post of 2020-03
-/?m=202009,/comics/xxxxafadionv90239u/,month,,first post of 2020-09
+/?m=202009,/curiousurgency/curious-urgency-74/,month,,first post of 2020-09
 /?m=202108,/eatshitanddie/eat-shit-die-309/,month,,first post of 2021-08
 /?paged=2,/page/2/,home-page,,
 /?paged=3,/page/3/,home-page,,
@@ -3890,10 +3890,10 @@ old_url,new_url,kind,wp_id,title
 /comics-rss/2020-03-09-Eat_Shit_And_Die_308.jpg,/eatshitanddie/eat-shit-die-308/2020-03-09-Eat_Shit_And_Die_308.jpg,thumbnail,,
 /comics-archive/2020-03-09-Eat_Shit_And_Die_308.jpg,/eatshitanddie/eat-shit-die-308/2020-03-09-Eat_Shit_And_Die_308.jpg,thumbnail,,
 /comics-mini/2020-03-09-Eat_Shit_And_Die_308.jpg,/eatshitanddie/eat-shit-die-308/2020-03-09-Eat_Shit_And_Die_308.jpg,thumbnail,,
-/comic/2020-09-03-Curious_Urgency_74.jpg,/comics/xxxxafadionv90239u/2020-09-03-Curious_Urgency_74.jpg,file,,
-/comics-rss/2020-09-03-Curious_Urgency_74.jpg,/comics/xxxxafadionv90239u/2020-09-03-Curious_Urgency_74.jpg,thumbnail,,
-/comics-archive/2020-09-03-Curious_Urgency_74.jpg,/comics/xxxxafadionv90239u/2020-09-03-Curious_Urgency_74.jpg,thumbnail,,
-/comics-mini/2020-09-03-Curious_Urgency_74.jpg,/comics/xxxxafadionv90239u/2020-09-03-Curious_Urgency_74.jpg,thumbnail,,
+/comic/2020-09-03-Curious_Urgency_74.jpg,/curiousurgency/curious-urgency-74/2016-02-02-Curious_Urgency_74.jpg,file,,
+/comics-rss/2020-09-03-Curious_Urgency_74.jpg,/curiousurgency/curious-urgency-74/2016-02-02-Curious_Urgency_74.jpg,thumbnail,,
+/comics-archive/2020-09-03-Curious_Urgency_74.jpg,/curiousurgency/curious-urgency-74/2016-02-02-Curious_Urgency_74.jpg,thumbnail,,
+/comics-mini/2020-09-03-Curious_Urgency_74.jpg,/curiousurgency/curious-urgency-74/2016-02-02-Curious_Urgency_74.jpg,thumbnail,,
 /comic/2021-08-01-Eat_Shit_And_Die_309.jpg,/eatshitanddie/eat-shit-die-309/2021-08-01-Eat_Shit_And_Die_309.jpg,file,,
 /comics-rss/2021-08-01-Eat_Shit_And_Die_309.jpg,/eatshitanddie/eat-shit-die-309/2021-08-01-Eat_Shit_And_Die_309.jpg,thumbnail,,
 /comics-archive/2021-08-01-Eat_Shit_And_Die_309.jpg,/eatshitanddie/eat-shit-die-309/2021-08-01-Eat_Shit_And_Die_309.jpg,thumbnail,,
@@ -4190,3 +4190,6 @@ old_url,new_url,kind,wp_id,title
 /vivianblank/page/3/index.html,/vivianblank/,merged,,
 /washday/page/2/,/washday/,merged,,
 /washday/page/2/index.html,/washday/,merged,,
+/comics/xxxxafadionv90239u/,/curiousurgency/curious-urgency-74/,duplicate,,
+/comics/xxxxafadionv90239u/index.html,/curiousurgency/curious-urgency-74/,duplicate,,
+/comics/xxxxafadionv90239u/2020-09-03-Curious_Urgency_74.jpg,/curiousurgency/curious-urgency-74/2016-02-02-Curious_Urgency_74.jpg,duplicate,,
