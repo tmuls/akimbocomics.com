@@ -25,8 +25,9 @@ must parse completely) and the totals are checked against the site at the
 end: 618 posts, 1 page, every comment and pingback, every image file in a
 post folder. Standard library only.
 
-This runs once, before generated pages replace site/; after that the data in
-content/ is the source of truth and is edited directly.
+This ran once (milestone 1). Since milestone 5 the exported pages are gone
+from site/ and content/ is the source of truth, edited directly; to re-run
+it, point --site at a checkout of the tag `exported-pages`.
 """
 import argparse
 import html
@@ -649,7 +650,11 @@ def serialise(data):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("--check", action="store_true", help="don't write; fail if content/ differs")
+    ap.add_argument("--site", type=Path, help="exported site to read (default: ../site)")
     args = ap.parse_args()
+    global SITE
+    if args.site:
+        SITE = args.site.resolve()
     try:
         out, posts, pages = extract()
     except ExtractError as e:

@@ -4,10 +4,9 @@
   "version": "0.0.0",
   "description": "Stencil app that prerenders akimbocomics.com as static HTML (milestone 0 spike).",
   "scripts": {
-    "extract": "python3 scripts/extract-content.py",
     "content": "node scripts/bundle-content.mjs",
     "build": "npm run content && stencil build --prerender",
-    "verify": "node scripts/verify.mjs && python3 scripts/compare-pages.py"
+    "verify": "node scripts/verify.mjs"
   },
   "devDependencies": {
     "@stencil/core": "4.45.1"

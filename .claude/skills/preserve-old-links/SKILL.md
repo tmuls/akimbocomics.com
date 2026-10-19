@@ -22,14 +22,15 @@ path that is itself redirected.
 | `url-map.csv` | `old_url,new_url,kind,wp_id,title`. Source of truth for redirects. Never delete rows; only repoint `new_url`. |
 | `known-urls.txt` | Every URL ever served. Only grows. Never delete lines. |
 | `tools/move-url.py` | Records a move in url-map.csv (repoints rows, adds old → new). |
-| `tools/build-redirects.py` | Regenerates `nginx/redirects.conf`, `site/redirects.js`, `site/404.html` from url-map.csv. Fails if a `new_url` doesn't exist. |
-| `tools/check-known-urls.py` | Fails if any known URL is neither served nor redirected. `--update` adds new URLs to the baseline. `--site DIR` checks another output folder. |
+| `tools/build-site.py` | Builds `dist/` (what's served: pages generated from `content/` + `site/`'s static files), then runs the two below on it. Needs `npm ci` in `stencil/` once. |
+| `tools/build-redirects.py` | Regenerates `nginx/redirects.conf` (committed), `dist/redirects.js`, `dist/404.html` from url-map.csv. Fails if a `new_url` doesn't exist in `dist/`. |
+| `tools/check-known-urls.py` | Fails if any known URL is neither served from `dist/` nor redirected. `--update` adds new URLs to the baseline. `--site DIR` checks another folder. |
 | `tools/check-redirects.py` | Requests every old URL against a running server; expects 301 → `new_url` → 200. |
 
 ## Procedure for any change
 
 1. **Before changing anything**, confirm the baseline passes:
-   `python3 tools/check-known-urls.py`
+   `python3 tools/build-site.py`
 2. Make the change (move/rename files, regenerate output, ...).
 3. Record every move in `url-map.csv`:
    - one page or file: `python3 tools/move-url.py OLD NEW`
@@ -41,8 +42,7 @@ path that is itself redirected.
      a row (to their replacement) or must stay.
 4. Regenerate and check:
    ```
-   python3 tools/build-redirects.py
-   python3 tools/check-known-urls.py          # must pass
+   python3 tools/build-site.py                # must pass; commit nginx/redirects.conf if it changed
    ```
 5. If anything is BROKEN, fix `url-map.csv` (or restore the file); never edit
    the checkers, `known-urls.txt` or CI to make it pass.
@@ -90,21 +90,19 @@ to be green on the branch that goes to `main`.
 
 ## The generated build (Stencil)
 
-Pages are generated from `content/` by `stencil/`; what's served is
+Pages (every `index.html`) are generated from `content/` by `stencil/`; what's served is
 `dist/`, built by `python3 tools/build-site.py`: the generated pages, every
 non-page file from `site/`, then `build-redirects.py --site dist` and
 `check-known-urls.py --site dist`. The Dockerfile runs it, so the image
 (and CI's redirect test) can't be built with a broken known URL. Generate
 pages at their exact current paths so no new rows are needed; any path
-that changes goes through step 3. The plain `check-known-urls.py` (on
-`site/`) and the committed `site/redirects.js`/`404.html` still have to
-pass and stay current until `site/` loses its pages (stencil-migration
-milestone 5).
+that changes goes through step 3. `site/` holds only static files (no
+pages); the exported WordPress pages are at the git tag `exported-pages`.
 
 ## Notes
 
 - nginx also answers the no-slash and `index.html` forms of every old folder
   path, and ignores extra query params (`/?p=992&cpage=2`).
-- The JS fallback (`site/redirects.js`) only covers page URLs on hosts
+- The JS fallback (`dist/redirects.js`) only covers page URLs on hosts
   without nginx; images can't be redirected client-side.
 - Don't map to external sites, and keep `new_url` root-relative (`/x/y/`).

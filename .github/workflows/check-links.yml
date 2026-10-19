@@ -18,20 +18,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # The redirect files must be regenerated and committed whenever
-      # url-map.csv or site/ changes.
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: stencil/package-lock.json
+
+      # Builds dist/ (Stencil prerenders every page from content/, plus
+      # site/'s static files and the redirect files) and fails if a page is
+      # missing or broken or any known URL is neither served nor redirected.
+      - name: Build the site; every known URL is still served or redirected
+        run: |
+          (cd stencil && npm ci --no-audit --no-fund)
+          python3 tools/build-site.py
+
+      # nginx/redirects.conf must be regenerated and committed whenever
+      # url-map.csv changes.
       - name: Redirects are up to date with url-map.csv
         run: |
-          python3 tools/build-redirects.py
-          git diff --exit-code -- nginx/redirects.conf site/redirects.js site/404.html site/index.html \
-            || { echo "::error::Run python3 tools/build-redirects.py and commit the result"; exit 1; }
+          git diff --exit-code -- nginx/redirects.conf \
+            || { echo "::error::Run python3 tools/build-site.py (or tools/build-redirects.py) and commit nginx/redirects.conf"; exit 1; }
 
-      - name: Every known URL is still served or redirected
-        run: python3 tools/check-known-urls.py
-
-      # Building the image also builds the site (Stencil, from content/)
-      # and fails if any generated page differs from site/ or any known URL
-      # is missing from the output (tools/build-site.py).
+      # The image builds the site again the same way and serves it.
       - name: Every old URL redirects in the real nginx image
         run: |
           docker build -t akimbocomics-check .

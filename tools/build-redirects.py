@@ -1,22 +1,18 @@
 #!/usr/bin/env python3
-"""Generate redirects from url-map.csv. Run from the repo root after editing
-url-map.csv or moving pages:
+"""Generate redirects from url-map.csv. tools/build-site.py runs this; run it
+yourself from the repo root after editing url-map.csv (needs a built dist/):
 
-    python3 tools/build-redirects.py
+    python3 tools/build-redirects.py [--site dist]
 
 Writes:
 - nginx/redirects.conf  301s for nginx (the Docker image): one map per old
-                        query parameter (?p=, ?cat=, ...) plus a map of old paths
-- site/redirects.js     the same for static hosts without nginx (GitHub Pages);
-                        loaded by site/404.html and, for ?query URLs, site/index.html
-- site/404.html         "not found" page that tries redirects.js first
+                        query parameter (?p=, ?cat=, ...) plus a map of old
+                        paths. Committed; CI checks it's up to date.
+- dist/redirects.js     the same for static hosts without nginx (GitHub Pages);
+                        loaded by dist/404.html and, for ?query URLs, dist/index.html
+- dist/404.html         "not found" page that tries redirects.js first
 
-Checks that every new_url exists under site/ and fails if not.
-
-    python3 tools/build-redirects.py --site dist
-
-writes redirects.js, 404.html and the index.html loader into another build
-output (tools/build-site.py uses this) and checks targets exist there.
+Checks that every new_url exists in the built site and fails if not.
 """
 import argparse
 import csv
@@ -26,7 +22,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = os.path.join(ROOT, 'site')
+SITE = os.path.join(ROOT, 'dist')
 PARAMS = ['p', 'page_id', 'attachment_id', 'cat', 'category_name', 'tag', 'author', 'm', 'paged', 'feed']
 QUERY = re.compile(r'^/(?:index\.php)?\?(%s)=([^&]+)$' % '|'.join(PARAMS))
 LOADER = ('<script>if(location.search){var s=document.createElement("script");'
@@ -45,8 +41,10 @@ def q(s):
 def main():
     global SITE
     ap = argparse.ArgumentParser()
-    ap.add_argument('--site', default=SITE, help='output folder (default: site/)')
+    ap.add_argument('--site', default=SITE, help='built site (default: dist/)')
     SITE = os.path.abspath(ap.parse_args().site)
+    if not os.path.isfile(os.path.join(SITE, 'index.html')):
+        sys.exit('%s has no built site: run python3 tools/build-site.py' % SITE)
     rows = list(csv.DictReader(open(os.path.join(ROOT, 'url-map.csv'), encoding='utf-8')))
     bad = [r for r in rows if not exists(r['new_url'])]
     for r in bad:

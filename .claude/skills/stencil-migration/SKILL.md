@@ -5,9 +5,14 @@ description: Plan, decisions and progress log for turning akimbocomics.com's ~85
 
 # Stencil migration
 
+**Status (2026-10-18): all five milestones done on branch `stencil`.**
+Pages are generated from `content/` by `stencil/`; `tools/build-site.py`
+builds the served `dist/`; `site/` holds only static files. What's left is
+merging to `main` (and any later cleanups listed in the log).
+
 ## Goal
 
-`site/` is ~850 static pages crawled from WordPress (ComicPress theme). Every
+`site/` was ~850 static pages crawled from WordPress (ComicPress theme). Every
 page repeats the same ~10KB of theme markup (header, menu bar, sidebar,
 footer) around its unique content. Replace that with:
 
@@ -82,7 +87,7 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
    2026-10-18).
 4. **Build pipeline** (done 2026-10-18): Stencil build → output folder → `build-redirects.py`
    → Dockerfile becomes multi-stage (node build, then nginx).
-5. **Verify** with the hard-constraint checks, compare rendered pages with
+5. **Verify** (done 2026-10-18) with the hard-constraint checks, compare rendered pages with
    the current ones (screenshots / text diff), then swap `site/` for the
    generated output.
 
@@ -178,6 +183,27 @@ Candidate components: `site-shell` (header, menu bar, sidebar, footer),
 
 Newest first. Each session: add a dated entry (what was done, what's next,
 anything surprising), and update Decisions when something is settled.
+
+- 2026-10-18: **Milestone 5 (swap) done.** Removed the 846 exported
+  `index.html` pages and the committed `redirects.js`/`404.html` from
+  `site/` (now 665 static files); tagged the last commit that had them
+  `exported-pages`. `dist/` rebuilt afterwards is byte-identical to the
+  one built before the removal (1514 files). `build-redirects.py` and
+  `check-known-urls.py` now default to `dist/` (and say to run
+  `build-site.py` if it's missing); CI sets up Node, runs `build-site.py`,
+  checks `nginx/redirects.conf` is committed, then the Docker redirect
+  test. `/css/akimbo.css` added to `known-urls.txt`. `compare-pages.py`
+  now needs `--site` (e.g. a worktree of `exported-pages`: still 0 of 846
+  differ) and is no longer part of `npm run verify`; `extract-content.py`
+  takes `--site` too. Docs (CLAUDE.md, README, both skills,
+  stencil/README) say content lives in `content/`.
+  - Stage already showed this output (M4 build; M5 changes nothing
+    served): all 3947 old URLs passed `check-redirects.py` against
+    https://stage.akimbocomics.com.
+  - Next: merge `stencil` into `main` once CI is green (the user decides),
+    then `kubectl -n akimbocomics rollout restart deploy/akimbocomics`.
+    Later, optional: og:/canonical meta parity, stop Stencil emitting the
+    unused `www/build/*.js`.
 
 - 2026-10-18: **Milestone 4 (build pipeline) done.** `docker build` now
   builds the site from `content/` in ~30 s (npm ci, Stencil, verify,

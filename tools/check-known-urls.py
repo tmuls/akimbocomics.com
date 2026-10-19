@@ -6,12 +6,12 @@
 
 known-urls.txt lists every URL path the site has ever served (pages, images,
 CSS...) plus every old_url in url-map.csv. Each one must still work: either
-the file is served from SITE_DIR, or url-map.csv redirects it to a new_url
-that is served. Fails (exit 1) listing every URL that would break.
+the file is served from the built site (dist/, made by tools/build-site.py),
+or url-map.csv redirects it to a new_url that is served. Fails (exit 1) listing every URL that would break.
 
 --update only ever ADDS lines (new pages/files/map rows); it never removes
-any, so a URL that once worked can't silently drop out. Use --site to point
-at another build output (e.g. a generator's output folder) instead of site/.
+any, so a URL that once worked can't silently drop out. Use --site to check
+another folder instead of dist/.
 """
 import argparse
 import csv
@@ -21,7 +21,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASELINE = os.path.join(ROOT, 'known-urls.txt')
 HEADER = ('# Every URL path akimbocomics.com has served. Each must keep working:\n'
-          '# served from site/, or redirected by url-map.csv. Only ever add lines;\n'
+          '# served (dist/), or redirected by url-map.csv. Only ever add lines;\n'
           '# maintained by tools/check-known-urls.py --update.\n')
 
 
@@ -43,8 +43,10 @@ def served(site):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--update', action='store_true')
-    ap.add_argument('--site', default=os.path.join(ROOT, 'site'))
+    ap.add_argument('--site', default=os.path.join(ROOT, 'dist'))
     args = ap.parse_args()
+    if not os.path.isfile(os.path.join(args.site, 'index.html')):
+        sys.exit('%s has no built site: run python3 tools/build-site.py' % args.site)
 
     now = served(args.site)
     rows = list(csv.DictReader(open(os.path.join(ROOT, 'url-map.csv'), encoding='utf-8')))

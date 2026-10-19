@@ -8,8 +8,7 @@
 //   frame and the post's title, images and comments present (so they render
 //   fully with JavaScript disabled);
 // - every local link/image resolves: in www/, in ../site/ (static files
-//   the build doesn't copy yet), or as a url-map.csv redirect.
-// scripts/compare-pages.py then checks text and links against ../site/.
+//   tools/build-site.py adds), or as a url-map.csv redirect.
 import { existsSync, readFileSync, readdirSync, statSync } from 'fs';
 import { join } from 'path';
 

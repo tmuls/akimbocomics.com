@@ -5,11 +5,11 @@
     python3 tools/build-site.py --skip-stencil   # reuse stencil/www from a previous build
 
 1. Stencil prerenders every page from content/ into stencil/www/, and its
-   checks run (`npm run verify`: structure, plus the same text and links as
-   the site/ page each one replaces).
-2. dist/ = every file in site/ that isn't a page (images, wp-content/,
-   wp-includes/, unpublished/, the old theme CSS/JS: all at their current
-   URLs), then the generated pages and files from stencil/www/ on top.
+   checks run (`npm run verify`).
+2. dist/ = every file in site/ (the static files: comic images beside each
+   post, wp-content/, wp-includes/, unpublished/, the old theme CSS/JS, all
+   at their current URLs), then the generated pages and files from
+   stencil/www/ on top.
    Stencil's unused leftovers (build/ JS, robots.txt, sitemap.xml,
    host.config.json) are left out.
 3. tools/build-redirects.py writes redirects.js, 404.html and the home
@@ -68,8 +68,8 @@ def main():
 
     shutil.rmtree(DIST, ignore_errors=True)
     os.makedirs(DIST)
-    # Pages (index.html) all come from Stencil; anything it didn't generate
-    # shows up as broken in the known-URL check below.
+    # Pages (index.html) all come from Stencil, never from site/; anything it
+    # didn't generate shows up as broken in the known-URL check below.
     static = copy_tree(SITE, DIST, lambda rel, is_dir: not is_dir and (
         os.path.basename(rel) == 'index.html' or rel in GENERATED))
     generated = copy_tree(WWW, DIST, lambda rel, is_dir: rel in STENCIL_LEFTOVERS)

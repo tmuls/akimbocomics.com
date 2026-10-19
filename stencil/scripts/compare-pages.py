@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
-"""Compare generated pages (www/) with the pages they replace (../site/).
+"""Compare generated pages (www/) with another copy of the site's pages.
 
-    python3 scripts/compare-pages.py            # every page in www/
-    python3 scripts/compare-pages.py /about/ -v # one page, show the diff
+    git worktree add /tmp/exported exported-pages   # the WordPress export
+    python3 scripts/compare-pages.py --site /tmp/exported/site
+    python3 scripts/compare-pages.py --site /tmp/exported/site /about/ -v
+
+Milestone 3 used this to show the generated pages match the exported
+WordPress pages (tag `exported-pages`, the last commit with them in
+site/). Point --site at any other build (e.g. an older dist/) to check that
+a refactor of the components changes nothing a reader sees.
 
 For each page, compares what a reader gets: the visible text of <body>
 (scripts, styles, comments and display:none elements removed, whitespace
@@ -28,7 +34,7 @@ extract = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(extract)
 
 WWW = HERE.parent / "www"
-SITE = HERE.parents[1] / "site"
+SITE = None  # --site
 
 # Non-content text the old pages had and the generated ones drop on purpose.
 DROPPED_TEXT = [
@@ -102,9 +108,12 @@ def all_pages(root):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--site", required=True, type=Path, help="folder with the pages to compare against")
     ap.add_argument("pages", nargs="*")
     ap.add_argument("-v", "--verbose", action="store_true")
     args = ap.parse_args()
+    global SITE
+    SITE = args.site
     pages = args.pages or all_pages(WWW)
     bad = 0
     if not args.pages:

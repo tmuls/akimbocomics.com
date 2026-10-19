@@ -15,14 +15,15 @@ served today. People, search engines and other sites link to all of them.
 Any change that moves, renames, merges or removes a page or file **must**
 update `url-map.csv` in the same commit. Use the `preserve-old-links` skill
 (`.claude/skills/preserve-old-links/SKILL.md`) for the exact steps. Before
-committing, always run:
+committing, always run (once: `cd stencil && npm ci`):
 
 ```
-python3 tools/build-redirects.py      # regenerate redirects from url-map.csv
-python3 tools/check-known-urls.py     # every known URL still served or redirected
+python3 tools/build-site.py   # build dist/, regenerate redirects, check every known URL
 ```
 
-CI (`.github/workflows/check-links.yml`) runs these plus a full redirect test
+It builds every page, regenerates `nginx/redirects.conf` (commit it if it
+changed) and fails if any URL ever served is neither served nor redirected.
+CI (`.github/workflows/check-links.yml`) runs it plus a full redirect test
 against the real nginx image on every push; a red check means a link broke.
 Never delete rows from `url-map.csv` or lines from `known-urls.txt`, and
 never weaken these checks to make them pass.
@@ -31,13 +32,13 @@ never weaken these checks to make them pass.
 
 - `content/`: every post, page and listing as JSON
   (`content/<series>/<slug>.json`, ...). **Pages are generated from it**:
-  edit content here, not the `index.html` files in `site/`.
+  edit content here (`site/` has no pages).
 - `stencil/`: the Stencil app that prerenders every page from `content/`
   as plain HTML at its current URL (`stencil/www/`).
-- `site/`: the static files served as they are (comic images beside each
-  post at `site/<series>/<post-slug>/`, `wp-content/`, `unpublished/`, ...)
-  plus, until milestone 5 of the stencil migration, the old exported pages,
-  which the build compares the generated pages against.
+- `site/`: the static files served as they are: comic images beside each
+  post at `site/<series>/<post-slug>/`, `wp-content/`, `wp-includes/`,
+  `unpublished/`, emulsifier-online images. The original exported pages are
+  in git at the tag `exported-pages`.
 - `dist/` (gitignored): what's served. `python3 tools/build-site.py` builds
   it: generated pages + `site/`'s non-page files + redirect files, then checks
   every known URL against it. The Dockerfile runs this.
@@ -46,7 +47,7 @@ never weaken these checks to make them pass.
 - `known-urls.txt`: every URL ever served; only grows.
 - `tools/`: `build-site.py` (builds `dist/`), `build-redirects.py`
   (url-map → `nginx/redirects.conf`, `redirects.js`, `404.html`),
-  `check-known-urls.py` (static check; `--site dist` for the built site),
+  `check-known-urls.py` (every known URL works in `dist/`),
   `check-redirects.py` (requests every old URL against a server).
 - `nginx/`: server config; `redirects.conf` is generated, don't hand-edit.
 - `conversion/`: the one-time WordPress → static pipeline. **Don't re-run

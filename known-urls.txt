@@ -1,5 +1,5 @@
 # Every URL path akimbocomics.com has served. Each must keep working:
-# served from site/, or redirected by url-map.csv. Only ever add lines;
+# served (dist/), or redirected by url-map.csv. Only ever add lines;
 # maintained by tools/check-known-urls.py --update.
 /
 /2000/01/01/bonus-1/
@@ -4439,6 +4439,7 @@
 /covergallery/index.html
 /covergallery/page/2/
 /covergallery/page/2/index.html
+/css/akimbo.css
 /curiousurgency/
 /curiousurgency/curious-urgency-1/
 /curiousurgency/curious-urgency-1/2008-05-25-Curious_Urgency_1.jpg
